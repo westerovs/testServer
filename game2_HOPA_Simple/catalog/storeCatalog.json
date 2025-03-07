@@ -1,0 +1,27 @@
+{
+  "smallPack": {
+    "hints": 5,
+    "price": 39,
+    "photo_url": "https://dravk.ru/poisk_ok/catalog/shop-icons/x3.png"
+  },
+  "mediumPack": {
+    "hints": 15,
+    "price": 99,
+    "photo_url": "https://dravk.ru/poisk_ok/catalog/shop-icons/x5.png"
+  },
+  "largePack": {
+    "hints": 50,
+    "price": 239,
+    "photo_url": "https://dravk.ru/poisk_ok/catalog/shop-icons/x50.png"
+  },
+  "extraLargePack": {
+    "hints": 100,
+    "price": 399,
+    "photo_url": "https://dravk.ru/poisk_ok/catalog/shop-icons/x100.png"
+  },
+  "noAdPack": {
+    "hints": 0,
+    "price": 99,
+    "photo_url": "https://dravk.ru/poisk_ok/catalog/shop-icons/noAds.png"
+  }
+}
