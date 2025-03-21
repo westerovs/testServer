@@ -839,6 +839,78 @@
         "x": 0.5,
         "y": 0.5
       }
+    },
+    "hud-icon-lvl_18_object_22_0": {
+      "frame": {
+        "x": 1,
+        "y": 1,
+        "w": 120,
+        "h": 107
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 12,
+        "w": 120,
+        "h": 107
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 120
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "hud-icon-lvl_18_object_31_0": {
+      "frame": {
+        "x": 523,
+        "y": 118,
+        "w": 97,
+        "h": 114
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 6,
+        "w": 97,
+        "h": 114
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 120
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "hud-icon-lvl_18_object_5_0": {
+      "frame": {
+        "x": 123,
+        "y": 367,
+        "w": 119,
+        "h": 80
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 29,
+        "w": 119,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 120
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
     }
   },
   "meta": {

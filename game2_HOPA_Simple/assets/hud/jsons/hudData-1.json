@@ -1031,6 +1031,54 @@
         "x": 0.5,
         "y": 0.5
       }
+    },
+    "hud-icon-lvl_1_object_25_0": {
+      "frame": {
+        "x": 122,
+        "y": 500,
+        "w": 76,
+        "h": 115
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 22,
+        "y": 2,
+        "w": 76,
+        "h": 115
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 120
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "hud-icon-lvl_1_object_40_0": {
+      "frame": {
+        "x": 1,
+        "y": 341,
+        "w": 120,
+        "h": 117
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 117
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 120
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
     }
   },
   "meta": {

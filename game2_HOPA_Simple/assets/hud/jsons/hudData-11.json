@@ -935,6 +935,30 @@
         "x": 0.5,
         "y": 0.5
       }
+    },
+    "hud-icon-lvl_11_object_25_0": {
+      "frame": {
+        "x": 1,
+        "y": 454,
+        "w": 120,
+        "h": 120
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 120
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 120
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
     }
   },
   "meta": {

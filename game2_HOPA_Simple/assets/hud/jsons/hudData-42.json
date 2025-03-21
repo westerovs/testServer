@@ -1031,6 +1031,54 @@
         "x": 0.5,
         "y": 0.5
       }
+    },
+    "hud-icon-lvl_42_object_38_0": {
+      "frame": {
+        "x": 458,
+        "y": 637,
+        "w": 94,
+        "h": 118
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 1,
+        "w": 94,
+        "h": 118
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 120
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "hud-icon-lvl_42_object_38_1": {
+      "frame": {
+        "x": 458,
+        "y": 637,
+        "w": 94,
+        "h": 118
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 1,
+        "w": 94,
+        "h": 118
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 120
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
     }
   },
   "meta": {
