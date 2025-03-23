@@ -1,6 +1,6 @@
 {
   "frames": {
-    "hud-icon-lvl_words_0_matches": {
+    "hud-icon-lvl_85_matches": {
       "frame": {
         "x": 1,
         "y": 1,
@@ -24,7 +24,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_0_airplane": {
+    "hud-icon-lvl_85_airplane": {
       "frame": {
         "x": 1,
         "y": 73,
@@ -48,7 +48,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_0_prayingmantis": {
+    "hud-icon-lvl_85_prayingmantis": {
       "frame": {
         "x": 123,
         "y": 1,
@@ -72,7 +72,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_0_bird": {
+    "hud-icon-lvl_85_bird": {
       "frame": {
         "x": 123,
         "y": 123,
@@ -96,7 +96,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_0_pillow": {
+    "hud-icon-lvl_85_pillow": {
       "frame": {
         "x": 1,
         "y": 125,
@@ -120,7 +120,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_0_pencil": {
+    "hud-icon-lvl_85_pencil": {
       "frame": {
         "x": 123,
         "y": 213,
@@ -144,7 +144,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_0_paperclip": {
+    "hud-icon-lvl_85_paperclip": {
       "frame": {
         "x": 1,
         "y": 235,
@@ -168,7 +168,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_0_catinabox": {
+    "hud-icon-lvl_85_catinabox": {
       "frame": {
         "x": 245,
         "y": 1,
@@ -192,7 +192,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_0_nailpolish": {
+    "hud-icon-lvl_85_nailpolish": {
       "frame": {
         "x": 123,
         "y": 266,
@@ -216,7 +216,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_0_dumbbells": {
+    "hud-icon-lvl_85_dumbbells": {
       "frame": {
         "x": 245,
         "y": 123,
@@ -240,7 +240,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_0_matryoshkadoll": {
+    "hud-icon-lvl_85_matryoshkadoll": {
       "frame": {
         "x": 1,
         "y": 301,
@@ -264,7 +264,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_0_baseball": {
+    "hud-icon-lvl_85_baseball": {
       "frame": {
         "x": 123,
         "y": 312,
@@ -288,7 +288,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_0_glasses": {
+    "hud-icon-lvl_85_glasses": {
       "frame": {
         "x": 245,
         "y": 245,
@@ -312,7 +312,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_0_hangers": {
+    "hud-icon-lvl_85_hangers": {
       "frame": {
         "x": 355,
         "y": 1,
@@ -336,7 +336,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_0_helmet": {
+    "hud-icon-lvl_85_helmet": {
       "frame": {
         "x": 308,
         "y": 245,
@@ -360,7 +360,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_0_vacuumcleaner": {
+    "hud-icon-lvl_85_vacuumcleaner": {
       "frame": {
         "x": 334,
         "y": 123,
@@ -384,7 +384,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_0_suitcase": {
+    "hud-icon-lvl_85_suitcase": {
       "frame": {
         "x": 1,
         "y": 392,
@@ -408,7 +408,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_0_racket": {
+    "hud-icon-lvl_85_racket": {
       "frame": {
         "x": 308,
         "y": 318,
@@ -432,7 +432,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_0_book": {
+    "hud-icon-lvl_85_book": {
       "frame": {
         "x": 122,
         "y": 392,
@@ -456,7 +456,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_0_stapler": {
+    "hud-icon-lvl_85_stapler": {
       "frame": {
         "x": 442,
         "y": 1,
@@ -480,7 +480,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_0_mirror": {
+    "hud-icon-lvl_85_mirror": {
       "frame": {
         "x": 391,
         "y": 123,
@@ -504,7 +504,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_0_snail": {
+    "hud-icon-lvl_85_snail": {
       "frame": {
         "x": 430,
         "y": 243,
@@ -528,7 +528,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_0_turtle": {
+    "hud-icon-lvl_85_turtle": {
       "frame": {
         "x": 1,
         "y": 471,
@@ -552,7 +552,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_0_belt": {
+    "hud-icon-lvl_85_belt": {
       "frame": {
         "x": 122,
         "y": 448,
@@ -576,7 +576,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_0_laces": {
+    "hud-icon-lvl_85_laces": {
       "frame": {
         "x": 529,
         "y": 1,
@@ -600,7 +600,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_0_boxingglove": {
+    "hud-icon-lvl_85_boxingglove": {
       "frame": {
         "x": 242,
         "y": 448,
@@ -624,7 +624,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_0_lightbulb": {
+    "hud-icon-lvl_85_lightbulb": {
       "frame": {
         "x": 476,
         "y": 121,
@@ -648,7 +648,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_0_hat": {
+    "hud-icon-lvl_85_hat": {
       "frame": {
         "x": 513,
         "y": 235,
@@ -672,7 +672,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_0_shuttlecock": {
+    "hud-icon-lvl_85_shuttlecock": {
       "frame": {
         "x": 538,
         "y": 118,
@@ -696,7 +696,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_0_bracelet": {
+    "hud-icon-lvl_85_bracelet": {
       "frame": {
         "x": 513,
         "y": 311,
@@ -720,7 +720,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_0_flyingsaucer": {
+    "hud-icon-lvl_85_flyingsaucer": {
       "frame": {
         "x": 429,
         "y": 389,
@@ -744,7 +744,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_0_sneaker": {
+    "hud-icon-lvl_85_sneaker": {
       "frame": {
         "x": 470,
         "y": 389,
@@ -768,7 +768,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_0_earrings": {
+    "hud-icon-lvl_85_earrings": {
       "frame": {
         "x": 545,
         "y": 389,
@@ -792,7 +792,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_0_tapemeasure": {
+    "hud-icon-lvl_85_tapemeasure": {
       "frame": {
         "x": 357,
         "y": 426,
@@ -816,7 +816,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_0_dog": {
+    "hud-icon-lvl_85_dog": {
       "frame": {
         "x": 545,
         "y": 490,
@@ -840,7 +840,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_0_soap": {
+    "hud-icon-lvl_85_soap": {
       "frame": {
         "x": 1,
         "y": 530,

@@ -1,6 +1,6 @@
 {
   "frames": {
-    "hud-icon-lvl_words_3_lightbulbcandle": {
+    "hud-icon-lvl_88_lightbulbcandle": {
       "frame": {
         "x": 1,
         "y": 1,
@@ -24,7 +24,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_3_airplane": {
+    "hud-icon-lvl_88_airplane": {
       "frame": {
         "x": 81,
         "y": 1,
@@ -48,7 +48,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_3_castanets": {
+    "hud-icon-lvl_88_castanets": {
       "frame": {
         "x": 1,
         "y": 123,
@@ -72,7 +72,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_3_tuner": {
+    "hud-icon-lvl_88_tuner": {
       "frame": {
         "x": 168,
         "y": 1,
@@ -96,7 +96,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_3_triangle": {
+    "hud-icon-lvl_88_triangle": {
       "frame": {
         "x": 123,
         "y": 123,
@@ -120,7 +120,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_3_cup": {
+    "hud-icon-lvl_88_cup": {
       "frame": {
         "x": 1,
         "y": 244,
@@ -144,7 +144,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_3_drums": {
+    "hud-icon-lvl_88_drums": {
       "frame": {
         "x": 123,
         "y": 237,
@@ -168,7 +168,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_3_fan": {
+    "hud-icon-lvl_88_fan": {
       "frame": {
         "x": 276,
         "y": 1,
@@ -192,7 +192,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_3_flute": {
+    "hud-icon-lvl_88_flute": {
       "frame": {
         "x": 245,
         "y": 123,
@@ -216,7 +216,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_3_glucophone": {
+    "hud-icon-lvl_88_glucophone": {
       "frame": {
         "x": 1,
         "y": 361,
@@ -240,7 +240,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_3_guitar": {
+    "hud-icon-lvl_88_guitar": {
       "frame": {
         "x": 207,
         "y": 245,
@@ -264,7 +264,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_3_harmonica": {
+    "hud-icon-lvl_88_harmonica": {
       "frame": {
         "x": 123,
         "y": 359,
@@ -288,7 +288,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_3_hat": {
+    "hud-icon-lvl_88_hat": {
       "frame": {
         "x": 245,
         "y": 301,
@@ -312,7 +312,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_3_headphones": {
+    "hud-icon-lvl_88_headphones": {
       "frame": {
         "x": 245,
         "y": 377,
@@ -336,7 +336,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_3_kazoo": {
+    "hud-icon-lvl_88_kazoo": {
       "frame": {
         "x": 369,
         "y": 1,
@@ -360,7 +360,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_3_trebleclef": {
+    "hud-icon-lvl_88_trebleclef": {
       "frame": {
         "x": 367,
         "y": 123,
@@ -384,7 +384,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_3_lightbulb": {
+    "hud-icon-lvl_88_lightbulb": {
       "frame": {
         "x": 443,
         "y": 1,
@@ -408,7 +408,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_3_boat": {
+    "hud-icon-lvl_88_boat": {
       "frame": {
         "x": 367,
         "y": 245,
@@ -432,7 +432,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_3_mannequin": {
+    "hud-icon-lvl_88_mannequin": {
       "frame": {
         "x": 433,
         "y": 123,
@@ -456,7 +456,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_3_maracas": {
+    "hud-icon-lvl_88_maracas": {
       "frame": {
         "x": 367,
         "y": 367,
@@ -480,7 +480,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_3_marimba": {
+    "hud-icon-lvl_88_marimba": {
       "frame": {
         "x": 123,
         "y": 442,
@@ -504,7 +504,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_3_tambourine": {
+    "hud-icon-lvl_88_tambourine": {
       "frame": {
         "x": 367,
         "y": 454,
@@ -528,7 +528,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_3_speaker": {
+    "hud-icon-lvl_88_speaker": {
       "frame": {
         "x": 534,
         "y": 1,
@@ -552,7 +552,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_3_napkins": {
+    "hud-icon-lvl_88_napkins": {
       "frame": {
         "x": 500,
         "y": 123,
@@ -576,7 +576,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_3_notes": {
+    "hud-icon-lvl_88_notes": {
       "frame": {
         "x": 500,
         "y": 238,
@@ -600,7 +600,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_3_ocarina": {
+    "hud-icon-lvl_88_ocarina": {
       "frame": {
         "x": 489,
         "y": 352,
@@ -624,7 +624,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_3_saxophone": {
+    "hud-icon-lvl_88_saxophone": {
       "frame": {
         "x": 489,
         "y": 450,
@@ -648,7 +648,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_3_microphone": {
+    "hud-icon-lvl_88_microphone": {
       "frame": {
         "x": 1,
         "y": 480,
@@ -672,7 +672,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_3_microphones": {
+    "hud-icon-lvl_88_microphones": {
       "frame": {
         "x": 245,
         "y": 468,
@@ -696,7 +696,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_3_keys": {
+    "hud-icon-lvl_88_keys": {
       "frame": {
         "x": 117,
         "y": 519,
@@ -720,7 +720,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_3_clock": {
+    "hud-icon-lvl_88_clock": {
       "frame": {
         "x": 1,
         "y": 533,
@@ -744,7 +744,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_3_wire": {
+    "hud-icon-lvl_88_wire": {
       "frame": {
         "x": 115,
         "y": 634,
@@ -768,7 +768,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_3_clarinet": {
+    "hud-icon-lvl_88_clarinet": {
       "frame": {
         "x": 1,
         "y": 647,
@@ -792,7 +792,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_3_remotecontrol": {
+    "hud-icon-lvl_88_remotecontrol": {
       "frame": {
         "x": 199,
         "y": 550,

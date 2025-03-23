@@ -1,6 +1,6 @@
 {
   "frames": {
-    "hud-icon-lvl_words_1_saltshaker": {
+    "hud-icon-lvl_86_saltshaker": {
       "frame": {
         "x": 1,
         "y": 1,
@@ -24,7 +24,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_1_globe": {
+    "hud-icon-lvl_86_globe": {
       "frame": {
         "x": 72,
         "y": 1,
@@ -48,7 +48,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_1_basket": {
+    "hud-icon-lvl_86_basket": {
       "frame": {
         "x": 1,
         "y": 123,
@@ -72,7 +72,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_1_books": {
+    "hud-icon-lvl_86_books": {
       "frame": {
         "x": 155,
         "y": 1,
@@ -96,7 +96,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_1_skulls": {
+    "hud-icon-lvl_86_skulls": {
       "frame": {
         "x": 1,
         "y": 223,
@@ -120,7 +120,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_1_camera": {
+    "hud-icon-lvl_86_camera": {
       "frame": {
         "x": 242,
         "y": 1,
@@ -144,7 +144,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_1_cat": {
+    "hud-icon-lvl_86_cat": {
       "frame": {
         "x": 123,
         "y": 123,
@@ -168,7 +168,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_1_clock": {
+    "hud-icon-lvl_86_clock": {
       "frame": {
         "x": 1,
         "y": 343,
@@ -192,7 +192,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_1_bag": {
+    "hud-icon-lvl_86_bag": {
       "frame": {
         "x": 245,
         "y": 123,
@@ -216,7 +216,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_1_diary": {
+    "hud-icon-lvl_86_diary": {
       "frame": {
         "x": 123,
         "y": 245,
@@ -240,7 +240,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_1_plant": {
+    "hud-icon-lvl_86_plant": {
       "frame": {
         "x": 123,
         "y": 367,
@@ -264,7 +264,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_1_fire": {
+    "hud-icon-lvl_86_fire": {
       "frame": {
         "x": 199,
         "y": 245,
@@ -288,7 +288,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_1_hat": {
+    "hud-icon-lvl_86_hat": {
       "frame": {
         "x": 364,
         "y": 1,
@@ -312,7 +312,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_1_hanger": {
+    "hud-icon-lvl_86_hanger": {
       "frame": {
         "x": 325,
         "y": 123,
@@ -336,7 +336,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_1_flower": {
+    "hud-icon-lvl_86_flower": {
       "frame": {
         "x": 325,
         "y": 175,
@@ -360,7 +360,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_1_hairdryer": {
+    "hud-icon-lvl_86_hairdryer": {
       "frame": {
         "x": 325,
         "y": 219,
@@ -384,7 +384,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_1_bonsai": {
+    "hud-icon-lvl_86_bonsai": {
       "frame": {
         "x": 321,
         "y": 336,
@@ -408,7 +408,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_1_vacuumcleaner": {
+    "hud-icon-lvl_86_vacuumcleaner": {
       "frame": {
         "x": 463,
         "y": 1,
@@ -432,7 +432,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_1_dice": {
+    "hud-icon-lvl_86_dice": {
       "frame": {
         "x": 463,
         "y": 122,
@@ -456,7 +456,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_1_rope": {
+    "hud-icon-lvl_86_rope": {
       "frame": {
         "x": 424,
         "y": 336,
@@ -480,7 +480,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_1_blackvase": {
+    "hud-icon-lvl_86_blackvase": {
       "frame": {
         "x": 1,
         "y": 465,
@@ -504,7 +504,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_1_backpack": {
+    "hud-icon-lvl_86_backpack": {
       "frame": {
         "x": 123,
         "y": 457,
@@ -528,7 +528,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_1_fireplaceaccessories": {
+    "hud-icon-lvl_86_fireplaceaccessories": {
       "frame": {
         "x": 505,
         "y": 243,
@@ -552,7 +552,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_1_violin": {
+    "hud-icon-lvl_86_violin": {
       "frame": {
         "x": 243,
         "y": 443,
@@ -576,7 +576,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_1_boots": {
+    "hud-icon-lvl_86_boots": {
       "frame": {
         "x": 292,
         "y": 457,
@@ -600,7 +600,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_1_totem": {
+    "hud-icon-lvl_86_totem": {
       "frame": {
         "x": 505,
         "y": 363,
@@ -624,7 +624,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_1_newspaper": {
+    "hud-icon-lvl_86_newspaper": {
       "frame": {
         "x": 412,
         "y": 483,
@@ -648,7 +648,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_1_oldphone": {
+    "hud-icon-lvl_86_oldphone": {
       "frame": {
         "x": 565,
         "y": 1,
@@ -672,7 +672,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_1_shoes": {
+    "hud-icon-lvl_86_shoes": {
       "frame": {
         "x": 530,
         "y": 483,
@@ -696,7 +696,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_1_smartphone": {
+    "hud-icon-lvl_86_smartphone": {
       "frame": {
         "x": 554,
         "y": 363,
@@ -720,7 +720,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_1_fox": {
+    "hud-icon-lvl_86_fox": {
       "frame": {
         "x": 560,
         "y": 122,
@@ -744,7 +744,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_1_dog": {
+    "hud-icon-lvl_86_dog": {
       "frame": {
         "x": 557,
         "y": 243,
@@ -768,7 +768,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_1_toad": {
+    "hud-icon-lvl_86_toad": {
       "frame": {
         "x": 1,
         "y": 573,
@@ -792,7 +792,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_1_flashlight": {
+    "hud-icon-lvl_86_flashlight": {
       "frame": {
         "x": 530,
         "y": 557,
@@ -816,7 +816,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_1_toaster": {
+    "hud-icon-lvl_86_toaster": {
       "frame": {
         "x": 111,
         "y": 573,
@@ -840,7 +840,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_1_suitcase": {
+    "hud-icon-lvl_86_suitcase": {
       "frame": {
         "x": 648,
         "y": 237,
@@ -864,7 +864,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_1_tambourine": {
+    "hud-icon-lvl_86_tambourine": {
       "frame": {
         "x": 220,
         "y": 570,
@@ -888,7 +888,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_1_elephant": {
+    "hud-icon-lvl_86_elephant": {
       "frame": {
         "x": 651,
         "y": 119,
@@ -912,7 +912,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_1_aquarium": {
+    "hud-icon-lvl_86_aquarium": {
       "frame": {
         "x": 648,
         "y": 342,
@@ -936,7 +936,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_1_handbag": {
+    "hud-icon-lvl_86_handbag": {
       "frame": {
         "x": 652,
         "y": 1,
@@ -960,7 +960,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_1_succulent": {
+    "hud-icon-lvl_86_succulent": {
       "frame": {
         "x": 328,
         "y": 570,
@@ -984,7 +984,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_1_clothes": {
+    "hud-icon-lvl_86_clothes": {
       "frame": {
         "x": 428,
         "y": 570,
@@ -1008,7 +1008,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_1_wallet": {
+    "hud-icon-lvl_86_wallet": {
       "frame": {
         "x": 648,
         "y": 438,
@@ -1032,7 +1032,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_1_perfume": {
+    "hud-icon-lvl_86_perfume": {
       "frame": {
         "x": 648,
         "y": 493,
@@ -1056,7 +1056,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_1_abc": {
+    "hud-icon-lvl_86_abc": {
       "frame": {
         "x": 245,
         "y": 367,
@@ -1080,7 +1080,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_1_fire_0": {
+    "hud-icon-lvl_86_fire_0": {
       "frame": {
         "x": 199,
         "y": 245,
@@ -1104,7 +1104,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_1_newspaper_0": {
+    "hud-icon-lvl_86_newspaper_0": {
       "frame": {
         "x": 412,
         "y": 483,
@@ -1128,7 +1128,7 @@
         "y": 0.5
       }
     },
-    "hud-icon-lvl_words_1_plant_0": {
+    "hud-icon-lvl_86_plant_0": {
       "frame": {
         "x": 123,
         "y": 367,
