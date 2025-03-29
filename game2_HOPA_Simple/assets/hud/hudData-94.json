@@ -1,1 +1,903 @@
-{"frames":{"hud-icon-lvl_88_airplane":{"frame":{"x":1,"y":1,"w":120,"h":85},"rotated":false,"trimmed":true,"spriteSourceSize":{"x":0,"y":22,"w":120,"h":85},"sourceSize":{"w":120,"h":120},"pivot":{"x":0.5,"y":0.5}},"hud-icon-lvl_88_boat":{"frame":{"x":1,"y":88,"w":120,"h":120},"rotated":false,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":120,"h":120},"sourceSize":{"w":120,"h":120},"pivot":{"x":0.5,"y":0.5}},"hud-icon-lvl_88_castanets":{"frame":{"x":123,"y":1,"w":120,"h":119},"rotated":true,"trimmed":true,"spriteSourceSize":{"x":0,"y":1,"w":120,"h":119},"sourceSize":{"w":120,"h":120},"pivot":{"x":0.5,"y":0.5}},"hud-icon-lvl_88_cup":{"frame":{"x":1,"y":210,"w":120,"h":115},"rotated":false,"trimmed":true,"spriteSourceSize":{"x":0,"y":5,"w":120,"h":115},"sourceSize":{"w":120,"h":120},"pivot":{"x":0.5,"y":0.5}},"hud-icon-lvl_88_drums":{"frame":{"x":123,"y":123,"w":120,"h":82},"rotated":true,"trimmed":true,"spriteSourceSize":{"x":0,"y":23,"w":120,"h":82},"sourceSize":{"w":120,"h":120},"pivot":{"x":0.5,"y":0.5}},"hud-icon-lvl_88_fan":{"frame":{"x":244,"y":1,"w":120,"h":91},"rotated":true,"trimmed":true,"spriteSourceSize":{"x":0,"y":20,"w":120,"h":91},"sourceSize":{"w":120,"h":120},"pivot":{"x":0.5,"y":0.5}},"hud-icon-lvl_88_flute":{"frame":{"x":207,"y":123,"w":120,"h":120},"rotated":false,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":120,"h":120},"sourceSize":{"w":120,"h":120},"pivot":{"x":0.5,"y":0.5}},"hud-icon-lvl_88_glucophone":{"frame":{"x":1,"y":327,"w":117,"h":120},"rotated":true,"trimmed":true,"spriteSourceSize":{"x":0,"y":0,"w":117,"h":120},"sourceSize":{"w":120,"h":120},"pivot":{"x":0.5,"y":0.5}},"hud-icon-lvl_88_guitar":{"frame":{"x":123,"y":245,"w":54,"h":120},"rotated":false,"trimmed":true,"spriteSourceSize":{"x":31,"y":0,"w":54,"h":120},"sourceSize":{"w":120,"h":120},"pivot":{"x":0.5,"y":0.5}},"hud-icon-lvl_88_harmonica":{"frame":{"x":179,"y":245,"w":120,"h":81},"rotated":false,"trimmed":true,"spriteSourceSize":{"x":0,"y":26,"w":120,"h":81},"sourceSize":{"w":120,"h":120},"pivot":{"x":0.5,"y":0.5}},"hud-icon-lvl_88_hat":{"frame":{"x":123,"y":367,"w":120,"h":74},"rotated":false,"trimmed":true,"spriteSourceSize":{"x":0,"y":26,"w":120,"h":74},"sourceSize":{"w":120,"h":120},"pivot":{"x":0.5,"y":0.5}},"hud-icon-lvl_88_headphones":{"frame":{"x":337,"y":1,"w":89,"h":120},"rotated":false,"trimmed":true,"spriteSourceSize":{"x":11,"y":0,"w":89,"h":120},"sourceSize":{"w":120,"h":120},"pivot":{"x":0.5,"y":0.5}},"hud-icon-lvl_88_kazoo":{"frame":{"x":301,"y":245,"w":120,"h":72},"rotated":false,"trimmed":true,"spriteSourceSize":{"x":0,"y":27,"w":120,"h":72},"sourceSize":{"w":120,"h":120},"pivot":{"x":0.5,"y":0.5}},"hud-icon-lvl_88_lightbulb":{"frame":{"x":329,"y":123,"w":89,"h":120},"rotated":false,"trimmed":true,"spriteSourceSize":{"x":9,"y":0,"w":89,"h":120},"sourceSize":{"w":120,"h":120},"pivot":{"x":0.5,"y":0.5}},"hud-icon-lvl_88_lightbulbcandle":{"frame":{"x":301,"y":319,"w":78,"h":120},"rotated":false,"trimmed":true,"spriteSourceSize":{"x":15,"y":0,"w":78,"h":120},"sourceSize":{"w":120,"h":120},"pivot":{"x":0.5,"y":0.5}},"hud-icon-lvl_88_mannequin":{"frame":{"x":420,"y":123,"w":65,"h":120},"rotated":false,"trimmed":true,"spriteSourceSize":{"x":23,"y":0,"w":65,"h":120},"sourceSize":{"w":120,"h":120},"pivot":{"x":0.5,"y":0.5}},"hud-icon-lvl_88_maracas":{"frame":{"x":381,"y":319,"w":85,"h":120},"rotated":false,"trimmed":true,"spriteSourceSize":{"x":13,"y":0,"w":85,"h":120},"sourceSize":{"w":120,"h":120},"pivot":{"x":0.5,"y":0.5}},"hud-icon-lvl_88_marimba":{"frame":{"x":1,"y":446,"w":120,"h":75},"rotated":false,"trimmed":true,"spriteSourceSize":{"x":0,"y":27,"w":120,"h":75},"sourceSize":{"w":120,"h":120},"pivot":{"x":0.5,"y":0.5}},"hud-icon-lvl_88_napkins":{"frame":{"x":428,"y":1,"w":120,"h":113},"rotated":true,"trimmed":true,"spriteSourceSize":{"x":0,"y":7,"w":120,"h":113},"sourceSize":{"w":120,"h":120},"pivot":{"x":0.5,"y":0.5}},"hud-icon-lvl_88_notes":{"frame":{"x":487,"y":123,"w":112,"h":120},"rotated":true,"trimmed":true,"spriteSourceSize":{"x":0,"y":0,"w":112,"h":120},"sourceSize":{"w":120,"h":120},"pivot":{"x":0.5,"y":0.5}},"hud-icon-lvl_88_ocarina":{"frame":{"x":487,"y":237,"w":120,"h":96},"rotated":false,"trimmed":true,"spriteSourceSize":{"x":0,"y":16,"w":120,"h":96},"sourceSize":{"w":120,"h":120},"pivot":{"x":0.5,"y":0.5}},"hud-icon-lvl_88_speaker":{"frame":{"x":468,"y":335,"w":120,"h":120},"rotated":false,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":120,"h":120},"sourceSize":{"w":120,"h":120},"pivot":{"x":0.5,"y":0.5}},"hud-icon-lvl_88_tambourine":{"frame":{"x":1,"y":523,"w":120,"h":94},"rotated":false,"trimmed":true,"spriteSourceSize":{"x":0,"y":14,"w":120,"h":94},"sourceSize":{"w":120,"h":120},"pivot":{"x":0.5,"y":0.5}},"hud-icon-lvl_88_trebleclef":{"frame":{"x":543,"y":1,"w":64,"h":120},"rotated":false,"trimmed":true,"spriteSourceSize":{"x":25,"y":0,"w":64,"h":120},"sourceSize":{"w":120,"h":120},"pivot":{"x":0.5,"y":0.5}},"hud-icon-lvl_88_triangle":{"frame":{"x":123,"y":457,"w":120,"h":112},"rotated":true,"trimmed":true,"spriteSourceSize":{"x":0,"y":8,"w":120,"h":112},"sourceSize":{"w":120,"h":120},"pivot":{"x":0.5,"y":0.5}},"hud-icon-lvl_88_tuner":{"frame":{"x":237,"y":457,"w":120,"h":106},"rotated":true,"trimmed":true,"spriteSourceSize":{"x":0,"y":7,"w":120,"h":106},"sourceSize":{"w":120,"h":120},"pivot":{"x":0.5,"y":0.5}},"hud-icon-lvl_88_saxophone":{"frame":{"x":345,"y":441,"w":95,"h":119},"rotated":true,"trimmed":true,"spriteSourceSize":{"x":9,"y":0,"w":95,"h":119},"sourceSize":{"w":120,"h":119},"pivot":{"x":0.5,"y":0.5}},"hud-icon-lvl_88_microphone":{"frame":{"x":245,"y":328,"w":114,"h":51},"rotated":true,"trimmed":true,"spriteSourceSize":{"x":0,"y":38,"w":114,"h":51},"sourceSize":{"w":120,"h":120},"pivot":{"x":0.5,"y":0.5}},"hud-icon-lvl_88_keys":{"frame":{"x":466,"y":457,"w":113,"h":80},"rotated":false,"trimmed":true,"spriteSourceSize":{"x":0,"y":24,"w":113,"h":80},"sourceSize":{"w":120,"h":120},"pivot":{"x":0.5,"y":0.5}},"hud-icon-lvl_88_microphones":{"frame":{"x":345,"y":539,"w":113,"h":72},"rotated":false,"trimmed":true,"spriteSourceSize":{"x":0,"y":31,"w":113,"h":72},"sourceSize":{"w":120,"h":120},"pivot":{"x":0.5,"y":0.5}},"hud-icon-lvl_88_clock":{"frame":{"x":609,"y":1,"w":112,"h":112},"rotated":false,"trimmed":true,"spriteSourceSize":{"x":0,"y":8,"w":112,"h":112},"sourceSize":{"w":120,"h":120},"pivot":{"x":0.5,"y":0.5}},"hud-icon-lvl_88_wire":{"frame":{"x":609,"y":115,"w":112,"h":96},"rotated":false,"trimmed":true,"spriteSourceSize":{"x":0,"y":16,"w":112,"h":96},"sourceSize":{"w":120,"h":120},"pivot":{"x":0.5,"y":0.5}},"hud-icon-lvl_88_clarinet":{"frame":{"x":609,"y":213,"w":109,"h":91},"rotated":false,"trimmed":true,"spriteSourceSize":{"x":0,"y":20,"w":109,"h":91},"sourceSize":{"w":120,"h":120},"pivot":{"x":0.5,"y":0.5}},"hud-icon-lvl_88_remotecontrol":{"frame":{"x":460,"y":539,"w":106,"h":78},"rotated":false,"trimmed":true,"spriteSourceSize":{"x":7,"y":26,"w":106,"h":78},"sourceSize":{"w":120,"h":120},"pivot":{"x":0.5,"y":0.5}}},"meta":{"app":"http://github.com/odrick/free-tex-packer-core","version":"0.3.4","image":"hudData-94.png","format":"RGBA8888","size":{"w":722,"h":618},"scale":1}}
+{
+  "frames": {
+    "hud-icon-lvl_94_airplane": {
+      "frame": {
+        "x": 1,
+        "y": 1,
+        "w": 120,
+        "h": 51
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 32,
+        "w": 120,
+        "h": 51
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 120
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "hud-icon-lvl_94_alarmclock": {
+      "frame": {
+        "x": 1,
+        "y": 54,
+        "w": 100,
+        "h": 120
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 0,
+        "w": 100,
+        "h": 120
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 120
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "hud-icon-lvl_94_apple": {
+      "frame": {
+        "x": 123,
+        "y": 1,
+        "w": 118,
+        "h": 120
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 0,
+        "w": 118,
+        "h": 120
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 120
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "hud-icon-lvl_94_ball": {
+      "frame": {
+        "x": 1,
+        "y": 156,
+        "w": 120,
+        "h": 119
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1,
+        "w": 120,
+        "h": 119
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 120
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "hud-icon-lvl_94_banana": {
+      "frame": {
+        "x": 123,
+        "y": 123,
+        "w": 120,
+        "h": 89
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 15,
+        "w": 120,
+        "h": 89
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 120
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "hud-icon-lvl_94_blackgrapes": {
+      "frame": {
+        "x": 243,
+        "y": 1,
+        "w": 120,
+        "h": 120
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 120
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 120
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "hud-icon-lvl_94_blender": {
+      "frame": {
+        "x": 214,
+        "y": 123,
+        "w": 107,
+        "h": 120
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 0,
+        "w": 107,
+        "h": 120
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 120
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "hud-icon-lvl_94_butterdish": {
+      "frame": {
+        "x": 1,
+        "y": 277,
+        "w": 120,
+        "h": 73
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 23,
+        "w": 120,
+        "h": 73
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 120
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "hud-icon-lvl_94_camera": {
+      "frame": {
+        "x": 123,
+        "y": 245,
+        "w": 120,
+        "h": 98
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 11,
+        "w": 120,
+        "h": 98
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 120
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "hud-icon-lvl_94_candles": {
+      "frame": {
+        "x": 1,
+        "y": 352,
+        "w": 83,
+        "h": 120
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 0,
+        "w": 83,
+        "h": 120
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 120
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "hud-icon-lvl_94_candlestick": {
+      "frame": {
+        "x": 123,
+        "y": 345,
+        "w": 78,
+        "h": 120
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 0,
+        "w": 78,
+        "h": 120
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 120
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "hud-icon-lvl_94_greengrapes": {
+      "frame": {
+        "x": 245,
+        "y": 232,
+        "w": 120,
+        "h": 100
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 120,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 120
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "hud-icon-lvl_94_hairdryer": {
+      "frame": {
+        "x": 365,
+        "y": 1,
+        "w": 120,
+        "h": 120
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 120
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 120
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "hud-icon-lvl_94_horse": {
+      "frame": {
+        "x": 347,
+        "y": 123,
+        "w": 120,
+        "h": 118
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1,
+        "w": 120,
+        "h": 118
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 120
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "hud-icon-lvl_94_iron": {
+      "frame": {
+        "x": 245,
+        "y": 354,
+        "w": 120,
+        "h": 78
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 21,
+        "w": 120,
+        "h": 78
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 120
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "hud-icon-lvl_94_lightbulb": {
+      "frame": {
+        "x": 347,
+        "y": 243,
+        "w": 73,
+        "h": 120
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 0,
+        "w": 73,
+        "h": 120
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 120
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "hud-icon-lvl_94_lion": {
+      "frame": {
+        "x": 123,
+        "y": 425,
+        "w": 120,
+        "h": 120
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 120
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 120
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "hud-icon-lvl_94_liquidsoap": {
+      "frame": {
+        "x": 1,
+        "y": 437,
+        "w": 65,
+        "h": 120
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 0,
+        "w": 65,
+        "h": 120
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 120
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "hud-icon-lvl_94_papercups": {
+      "frame": {
+        "x": 245,
+        "y": 434,
+        "w": 94,
+        "h": 120
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 0,
+        "w": 94,
+        "h": 120
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 120
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "hud-icon-lvl_94_plate": {
+      "frame": {
+        "x": 341,
+        "y": 434,
+        "w": 120,
+        "h": 120
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 120
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 120
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "hud-icon-lvl_94_robot": {
+      "frame": {
+        "x": 487,
+        "y": 1,
+        "w": 91,
+        "h": 120
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 0,
+        "w": 91,
+        "h": 120
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 120
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "hud-icon-lvl_94_tablelamp": {
+      "frame": {
+        "x": 469,
+        "y": 123,
+        "w": 72,
+        "h": 120
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 24,
+        "y": 0,
+        "w": 72,
+        "h": 120
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 120
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "hud-icon-lvl_94_teapot": {
+      "frame": {
+        "x": 469,
+        "y": 245,
+        "w": 120,
+        "h": 104
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 8,
+        "w": 120,
+        "h": 104
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 120
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "hud-icon-lvl_94_toaster": {
+      "frame": {
+        "x": 1,
+        "y": 559,
+        "w": 120,
+        "h": 120
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 120
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 120
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "hud-icon-lvl_94_top": {
+      "frame": {
+        "x": 123,
+        "y": 547,
+        "w": 120,
+        "h": 120
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 120
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 120
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "hud-icon-lvl_94_towels": {
+      "frame": {
+        "x": 245,
+        "y": 556,
+        "w": 120,
+        "h": 120
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 120
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 120
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "hud-icon-lvl_94_train": {
+      "frame": {
+        "x": 367,
+        "y": 556,
+        "w": 120,
+        "h": 120
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 120
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 120
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "hud-icon-lvl_94_windowbrush": {
+      "frame": {
+        "x": 543,
+        "y": 123,
+        "w": 120,
+        "h": 120
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 120
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 120
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "hud-icon-lvl_94_woodenspatula": {
+      "frame": {
+        "x": 68,
+        "y": 437,
+        "w": 46,
+        "h": 120
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 37,
+        "y": 0,
+        "w": 46,
+        "h": 120
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 120
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "hud-icon-lvl_94_broom": {
+      "frame": {
+        "x": 580,
+        "y": 1,
+        "w": 56,
+        "h": 119
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 32,
+        "y": 0,
+        "w": 56,
+        "h": 119
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 120
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "hud-icon-lvl_94_coathanger": {
+      "frame": {
+        "x": 575,
+        "y": 245,
+        "w": 119,
+        "h": 69
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 25,
+        "w": 119,
+        "h": 69
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 120
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "hud-icon-lvl_94_orange": {
+      "frame": {
+        "x": 575,
+        "y": 316,
+        "w": 119,
+        "h": 102
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 119,
+        "h": 102
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 120
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "hud-icon-lvl_94_scoop": {
+      "frame": {
+        "x": 489,
+        "y": 367,
+        "w": 119,
+        "h": 73
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 24,
+        "w": 119,
+        "h": 73
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 120
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "hud-icon-lvl_94_holepunch": {
+      "frame": {
+        "x": 367,
+        "y": 318,
+        "w": 113,
+        "h": 93
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 17,
+        "w": 113,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 120
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "hud-icon-lvl_94_mouse": {
+      "frame": {
+        "x": 564,
+        "y": 420,
+        "w": 112,
+        "h": 95
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 13,
+        "w": 112,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 120
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "hud-icon-lvl_94_webcamera": {
+      "frame": {
+        "x": 489,
+        "y": 517,
+        "w": 102,
+        "h": 109
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 11,
+        "w": 102,
+        "h": 109
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 120
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "hud-icon-lvl_94_computermouse": {
+      "frame": {
+        "x": 593,
+        "y": 517,
+        "w": 101,
+        "h": 85
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 16,
+        "w": 101,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 119
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "hudData-94.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 695,
+      "h": 680
+    },
+    "scale": 1
+  }
+}
