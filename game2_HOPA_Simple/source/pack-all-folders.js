@@ -4,37 +4,50 @@ const path = require('path')
 const fs = require('fs')
 const packer = require('free-tex-packer-core')
 
-/*** изменения ***/
 const inputRoot = path.join(__dirname, 'SpriteSheets')
 const outputRoot = path.join(__dirname, 'build')
-/*** конец изменений ***/
 
 const tinify = require('tinify')
 tinify.key = 'PdWgKfFJrnqwLGtzMxqBhZy1YdwFB2jb'
 
 fs.mkdirSync(outputRoot, { recursive: true })
 
-/*** изменения ***/
-const folders = fs.readdirSync(inputRoot).filter(name => {
+/*** рекурсивно собирает все png-файлы в папке ***/
+function collectPngFilesRecursively(dir) {
+  let result = []
+  const entries = fs.readdirSync(dir)
+
+  for (const entry of entries) {
+    const fullPath = path.join(dir, entry)
+    const stat = fs.statSync(fullPath)
+
+    if (stat.isDirectory()) {
+      result = result.concat(collectPngFilesRecursively(fullPath))
+    } else if (entry.endsWith('.png')) {
+      result.push({
+        path: path.relative(dir, fullPath).replace(/\\/g, '/'),
+        contents: fs.readFileSync(fullPath)
+      })
+    }
+  }
+
+  return result
+}
+
+/*** только верхнеуровневые подпапки ***/
+const topFolders = fs.readdirSync(inputRoot).filter(name => {
   const fullPath = path.join(inputRoot, name)
   return fs.statSync(fullPath).isDirectory()
 })
-/*** конец изменений ***/
 
-folders.forEach(folder => {
-  const folderPath = path.join(inputRoot, folder)
-  const files = fs.readdirSync(folderPath).filter(f => f.endsWith('.png'))
+topFolders.forEach(folderName => {
+  const folderPath = path.join(inputRoot, folderName)
 
-  const images = files.map(file => ({
-    path: file,
-    contents: fs.readFileSync(path.join(folderPath, file))
-  }))
+  const images = collectPngFilesRecursively(folderPath)
 
   if (!images.length) return
 
-  /*** изменения ***/
-  const textureName = folder
-  /*** конец изменений ***/
+  const textureName = folderName
 
   packer(images, {
     textureName,
