@@ -1,0 +1,354 @@
+{
+  "ball_4": {
+    "en": "ball",
+    "ru": "мяч"
+  },
+  "bird_13": {
+    "en": "bird",
+    "ru": "птица"
+  },
+  "bird_14": {
+    "en": "bird",
+    "ru": "птица"
+  },
+  "bird_15": {
+    "en": "bird",
+    "ru": "птица"
+  },
+  "bird_19": {
+    "en": "bird",
+    "ru": "птица"
+  },
+  "bird_32": {
+    "en": "bird",
+    "ru": "птица"
+  },
+  "bird_48": {
+    "en": "bird",
+    "ru": "птица"
+  },
+  "bird_59": {
+    "en": "bird",
+    "ru": "птица"
+  },
+  "book_4": {
+    "en": "book",
+    "ru": "книга"
+  },
+  "book_5": {
+    "en": "book",
+    "ru": "книга"
+  },
+  "books_5": {
+    "en": "books",
+    "ru": "книги"
+  },
+  "bottle_4": {
+    "en": "bottle",
+    "ru": "бутылка"
+  },
+  "bow_1": {
+    "en": "bow tie",
+    "ru": "галстук бабочка"
+  },
+  "bowl_1": {
+    "en": "bowl",
+    "ru": "миска"
+  },
+  "box_3": {
+    "en": "box",
+    "ru": "коробка"
+  },
+  "box_4": {
+    "en": "box",
+    "ru": "коробка"
+  },
+  "box_8": {
+    "en": "box",
+    "ru": "коробка"
+  },
+  "box_9": {
+    "en": "box",
+    "ru": "коробка"
+  },
+  "boxingglove_1": {
+    "en": "boxing glove",
+    "ru": "боксерская перчатка"
+  },
+  "branches_2": {
+    "en": "branches",
+    "ru": "ветки"
+  },
+  "call_2": {
+    "en": "call",
+    "ru": "звонок"
+  },
+  "camera_1": {
+    "en": "camera",
+    "ru": "фотоаппарат"
+  },
+  "candle_6": {
+    "en": "candle",
+    "ru": "свеча"
+  },
+  "cane_1": {
+    "en": "cane",
+    "ru": "трость"
+  },
+  "cat_26": {
+    "en": "cat",
+    "ru": "кот"
+  },
+  "cat_33": {
+    "en": "cat",
+    "ru": "кот"
+  },
+  "cat_36": {
+    "en": "cat",
+    "ru": "кот"
+  },
+  "cat_4": {
+    "en": "cat",
+    "ru": "кот"
+  },
+  "cat_6": {
+    "en": "cat",
+    "ru": "кот"
+  },
+  "chalice_1": {
+    "en": "chalice",
+    "ru": "кубок"
+  },
+  "cup_1": {
+    "en": "cup",
+    "ru": "чашка"
+  },
+  "cup_2": {
+    "en": "cup",
+    "ru": "чашка"
+  },
+  "dreamcatcher": {
+    "en": "dreamcatcher",
+    "ru": "ловец снов"
+  },
+  "dumbbell_1": {
+    "en": "dumbbell",
+    "ru": "гантель"
+  },
+  "feathers_1": {
+    "en": "feather",
+    "ru": "перо"
+  },
+  "feathers_73": {
+    "en": "feather",
+    "ru": "перо"
+  },
+  "feathers_79": {
+    "en": "feather",
+    "ru": "перо"
+  },
+  "feathers_8": {
+    "en": "feather",
+    "ru": "перо"
+  },
+  "fire_1": {
+    "en": "fire",
+    "ru": "огонь"
+  },
+  "fish_7": {
+    "en": "fish",
+    "ru": "рыба"
+  },
+  "flask_1": {
+    "en": "flask",
+    "ru": "фляжка"
+  },
+  "frame_17": {
+    "en": "frame",
+    "ru": "рамка"
+  },
+  "glasses_1": {
+    "en": "glasses",
+    "ru": "очки"
+  },
+  "gloves_1": {
+    "en": "gloves",
+    "ru": "перчатки"
+  },
+  "handbag_2": {
+    "en": "handbag",
+    "ru": "сумка"
+  },
+  "handbag_4": {
+    "en": "handbag",
+    "ru": "сумка"
+  },
+  "handbag_5": {
+    "en": "handbag",
+    "ru": "сумка"
+  },
+  "handbag_6": {
+    "en": "handbag",
+    "ru": "сумка"
+  },
+  "hat_4": {
+    "en": "hat",
+    "ru": "шляпа"
+  },
+  "hat_5": {
+    "en": "hat",
+    "ru": "шляпа"
+  },
+  "helmet_2": {
+    "en": "helmet",
+    "ru": "шлем"
+  },
+  "hockeystick_1": {
+    "en": "hockeystick",
+    "ru": "хоккейная клюшка"
+  },
+  "hook_3": {
+    "en": "hook",
+    "ru": "крючок"
+  },
+  "horseshoe_1": {
+    "en": "horseshoe",
+    "ru": "подкова"
+  },
+  "lock_1": {
+    "en": "lock",
+    "ru": "замок"
+  },
+  "medal_1": {
+    "en": "medal",
+    "ru": "медаль"
+  },
+  "papyrus_18": {
+    "en": "papyrus",
+    "ru": "папирус"
+  },
+  "papyrus_2": {
+    "en": "papyrus",
+    "ru": "папирус"
+  },
+  "papyrus_29": {
+    "en": "papyrus",
+    "ru": "папирус"
+  },
+  "pillow_1": {
+    "en": "pillow",
+    "ru": "подушка"
+  },
+  "racket_2": {
+    "en": "racket",
+    "ru": "ракетка"
+  },
+  "radio_1": {
+    "en": "radio",
+    "ru": "радио"
+  },
+  "reception_2": {
+    "en": "reception",
+    "ru": "регистрация"
+  },
+  "rollerskate_2": {
+    "en": "roller skate",
+    "ru": "ролики"
+  },
+  "rope_1": {
+    "en": "rope",
+    "ru": "веревка"
+  },
+  "shoes_2": {
+    "en": "shoes",
+    "ru": "обувь"
+  },
+  "shoes_3": {
+    "en": "shoes",
+    "ru": "обувь"
+  },
+  "shoes_4": {
+    "en": "shoes",
+    "ru": "обувь"
+  },
+  "shoes_5": {
+    "en": "shoes",
+    "ru": "обувь"
+  },
+  "shuttlecock_1": {
+    "en": "shuttlecock",
+    "ru": "воланчик"
+  },
+  "skate_1": {
+    "en": "skate",
+    "ru": "коньки"
+  },
+  "skateboard _1": {
+    "en": "skateboard ",
+    "ru": "скейт"
+  },
+  "snag_1": {
+    "en": "snag",
+    "ru": "коряга"
+  },
+  "sneakers_1": {
+    "en": "sneakers",
+    "ru": "кроссовки"
+  },
+  "socket_1": {
+    "en": "socket",
+    "ru": "розетка"
+  },
+  "sportcup_1": {
+    "en": "sport cup",
+    "ru": "кубок"
+  },
+  "stopwatch_1": {
+    "en": "stopwatch",
+    "ru": "секундомер"
+  },
+  "suitcase_2": {
+    "en": "suitcase",
+    "ru": "чемодан"
+  },
+  "telephone_1": {
+    "en": "telephone",
+    "ru": "телефон"
+  },
+  "towel_18": {
+    "en": "towel",
+    "ru": "полотенце"
+  },
+  "towel_5": {
+    "en": "towel",
+    "ru": "полотенце"
+  },
+  "towel_7": {
+    "en": "towel",
+    "ru": "полотенце"
+  },
+  "watch_3": {
+    "en": "watch",
+    "ru": "часы"
+  },
+  "watch_6": {
+    "en": "watch",
+    "ru": "часы"
+  },
+  "water_4": {
+    "en": "watch",
+    "ru": "часы"
+  },
+  "water_6": {
+    "en": "watch",
+    "ru": "часы"
+  },
+  "weight_1": {
+    "en": "weight",
+    "ru": "гиря"
+  },
+  "whistle_1": {
+    "en": "whistle",
+    "ru": "свисток"
+  }
+}
