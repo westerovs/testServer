@@ -35,7 +35,10 @@
 
     "learning.shadows": "В этом режиме предметы отображаются в виде силуэтов.",
     "learning.words": "В этом режиме предметы указаны словами, без изображений. Ищите их на уровне, опираясь только на названия.",
-    "learning.generator": "Добро пожаловать в бонусный уровень! Здесь вам предстоит найти нужные предметы среди множества похожих."
+    "learning.generator": "Добро пожаловать в бонусный уровень! Здесь вам предстоит найти нужные предметы среди множества похожих.",
+
+    "scoreBoard.networkError":  "ошибка сети\n попробуйте позже.",
+    "scoreBoard.noPlayers": "Ещё никто не играл."
   },
   "en": {
     "langName": "English",
@@ -73,6 +76,9 @@
 
     "learning.shadows": "In this mode, objects are displayed as silhouettes.",
     "learning.words": "In this mode, objects are listed with words only, without images. Find them based solely on their names.",
-    "learning.generator": "Welcome to the bonus level! Here you need to find the required objects among many similar ones."
+    "learning.generator": "Welcome to the bonus level! Here you need to find the required objects among many similar ones.",
+
+    "scoreBoard.networkError": "Network error\nPlease try again later.",
+    "scoreBoard.noPlayers": "No one has played yet."
   }
 }
