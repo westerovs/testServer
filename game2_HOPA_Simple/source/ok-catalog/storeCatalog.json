@@ -27,17 +27,17 @@
 
   "promoStartedPack": {
     "id": "promoStartedPack",
-    "price": 249,
+    "price": 199,
     "photo_url": "https://dravk.ru/poisk_ok/catalog/shop-icons/promoStartedPack.png"
   },
   "promoRemoveAdPack": {
     "id": "promoRemoveAdPack",
-    "price": 99,
+    "price": 79,
     "photo_url": "https://dravk.ru/poisk_ok/catalog/shop-icons/promoRemoveAdPack.png"
   },
   "promoMegaHintsPack": {
     "id": "promoMegaHintsPack",
-    "price": 249,
+    "price": 199,
     "photo_url": "https://dravk.ru/poisk_ok/catalog/shop-icons/promoMegaHintsPack.png"
   }
 }
