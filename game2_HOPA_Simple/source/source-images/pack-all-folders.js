@@ -4,7 +4,7 @@ const path = require('path')
 const fs = require('fs')
 const packer = require('free-tex-packer-core')
 
-const inputRoot = path.join(__dirname, 'SpriteSheets')
+const inputRoot = path.join(__dirname, 'images')
 const outputRoot = path.join(__dirname, 'build')
 
 const tinify = require('tinify')
