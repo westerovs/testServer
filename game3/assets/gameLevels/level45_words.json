@@ -1,1 +1,2191 @@
-{"skeleton":{"hash":"zTs257f/xzk","spine":"4.1.24","y":-1080,"width":2560,"height":1080},"bones":[{"name":"root"},{"name":"backgrounds","parent":"root"},{"name":"decorItems","parent":"root"},{"name":"hogItems","parent":"root"}],"slots":[{"name":"background_lv45","bone":"backgrounds"},{"name":"hogItem1","bone":"hogItems","attachment":"hogItem_ps"},{"name":"hogItem2","bone":"hogItems","attachment":"hogItem_ps"},{"name":"decorItem1","bone":"decorItems","attachment":"additional_item_ps"},{"name":"decorItem2","bone":"decorItems","attachment":"additional_item_ps"},{"name":"hogItem3","bone":"hogItems","attachment":"hogItem_ps"},{"name":"hogItem4","bone":"hogItems","attachment":"hogItem_ps"},{"name":"decorItem3","bone":"decorItems","attachment":"additional_item_ps"},{"name":"decorItem4","bone":"decorItems","attachment":"additional_item_ps"},{"name":"decorItem5","bone":"decorItems","attachment":"additional_item_ps"},{"name":"decorItem6","bone":"decorItems","attachment":"additional_item_ps"},{"name":"hogItem5","bone":"hogItems","attachment":"hogItem_ps"},{"name":"hogItem6","bone":"hogItems","attachment":"hogItem_ps"},{"name":"hogItem7","bone":"hogItems","attachment":"hogItem_ps"},{"name":"hogItem8","bone":"hogItems","attachment":"hogItem_ps"},{"name":"hogItem9","bone":"hogItems","attachment":"hogItem_ps"},{"name":"hogItem10","bone":"hogItems","attachment":"hogItem_ps"},{"name":"hogItem11","bone":"hogItems","attachment":"hogItem_ps"},{"name":"hogItem12","bone":"hogItems","attachment":"hogItem_ps"}],"skins":[{"name":"skin_mode1_v1","attachments":{"decorItem1":{"additional_item_ps":{"name":"object/boxes/object_box_3","x":1301.48,"y":-590.4,"scaleX":0.5905,"scaleY":0.5905,"width":100,"height":53}},"decorItem2":{"additional_item_ps":{"name":"object/sport/object_dumbbell_1","x":595.07,"y":-396.19,"scaleX":0.2232,"scaleY":0.2579,"width":347,"height":134}},"decorItem3":{"additional_item_ps":{"name":"object/sport/object_helmet_2","x":193.49,"y":-350.33,"rotation":-124.83,"width":74,"height":86}},"decorItem4":{"additional_item_ps":{"name":"object/birds/object_bird_48","color":"ffffffac","x":1471.54,"y":-150.83,"scaleX":0.488,"scaleY":0.488,"width":80,"height":69}},"decorItem5":{"additional_item_ps":{"name":"object/sport/object_boxingglove_1","x":299.62,"y":-605.18,"scaleX":0.5613,"scaleY":0.5613,"rotation":-91.29,"width":112,"height":190}},"decorItem6":{"additional_item_ps":{"name":"object/sport/object_skippingrope_1","x":625.52,"y":-814.65,"scaleX":0.1525,"scaleY":0.0814,"width":554,"height":584}},"hogItem1":{"hogItem_ps":{"name":"object/sport/object_whistle_1","x":853.33,"y":-402.92,"scaleX":0.213,"scaleY":0.213,"rotation":-22.73,"width":148,"height":128}},"hogItem2":{"hogItem_ps":{"name":"object/sport/object_weight_1","x":915.58,"y":-724.04,"scaleX":0.2773,"scaleY":0.2773,"width":271,"height":349}},"hogItem3":{"hogItem_ps":{"name":"object/sport/object_stopwatch_1","color":"ffffffb1","x":522.69,"y":-224.57,"scaleX":0.3203,"scaleY":0.3203,"width":137,"height":171}},"hogItem4":{"hogItem_ps":{"name":"object/sport/object_sportcup_1","x":315.01,"y":-138.22,"scaleX":0.3888,"scaleY":0.3888,"rotation":-4.41,"width":215,"height":228}},"hogItem5":{"hogItem_ps":{"name":"object/sport/object_sneakers_1","x":418.77,"y":-692.38,"scaleX":0.3928,"scaleY":0.3928,"rotation":11.29,"width":243,"height":166}},"hogItem6":{"hogItem_ps":{"name":"object/sport/object_hockeystick_1","x":1198.2,"y":-565.41,"scaleX":0.8281,"scaleY":0.6027,"rotation":-145.2,"width":292,"height":325}},"hogItem7":{"hogItem_ps":{"name":"object/sport/object_skate_1","x":1012.71,"y":-644.27,"scaleX":0.403,"scaleY":0.403,"width":198,"height":185}},"hogItem8":{"hogItem_ps":{"name":"object/sport/object_skateboard _1","x":2319.52,"y":-221.99,"scaleX":0.8348,"scaleY":0.8348,"rotation":34.56,"width":172,"height":132}},"hogItem9":{"hogItem_ps":{"name":"object/sport/object_shuttlecock_1","x":2234,"y":-406.56,"scaleX":0.3997,"scaleY":0.3997,"rotation":-31.97,"width":128,"height":137}},"hogItem10":{"hogItem_ps":{"name":"object/sport/object_rollerskate_2","x":1779,"y":-640.49,"scaleX":-0.6801,"scaleY":0.655,"width":87,"height":79}},"hogItem11":{"hogItem_ps":{"name":"object/sport/object_racket_2","x":1973.45,"y":-802.83,"scaleX":0.4657,"scaleY":0.4657,"width":356,"height":79}},"hogItem12":{"hogItem_ps":{"name":"object/sport/object_medal_1","x":1155.29,"y":-804.43,"scaleX":0.3886,"scaleY":0.2031,"width":129,"height":207}}}},{"name":"skin_mode1_v2","attachments":{"decorItem1":{"additional_item_ps":{"name":"object/sport/object_whistle_1","x":853.33,"y":-402.92,"scaleX":0.213,"scaleY":0.213,"rotation":-22.73,"width":148,"height":128}},"decorItem2":{"additional_item_ps":{"name":"object/sport/object_weight_1","x":915.58,"y":-724.04,"scaleX":0.2773,"scaleY":0.2773,"width":271,"height":349}},"decorItem3":{"additional_item_ps":{"name":"object/sport/object_stopwatch_1","color":"ffffffb1","x":522.69,"y":-224.57,"scaleX":0.3203,"scaleY":0.3203,"width":137,"height":171}},"decorItem4":{"additional_item_ps":{"name":"object/sport/object_sportcup_1","x":315.01,"y":-138.22,"scaleX":0.3888,"scaleY":0.3888,"rotation":-4.41,"width":215,"height":228}},"decorItem5":{"additional_item_ps":{"name":"object/sport/object_sneakers_1","x":418.77,"y":-692.38,"scaleX":0.3928,"scaleY":0.3928,"rotation":11.29,"width":243,"height":166}},"decorItem6":{"additional_item_ps":{"name":"object/sport/object_skippingrope_1","x":625.52,"y":-814.65,"scaleX":0.1525,"scaleY":0.0814,"width":554,"height":584}},"hogItem1":{"hogItem_ps":{"name":"object/boxes/object_box_3","x":1301.48,"y":-588.9,"scaleX":0.5905,"scaleY":0.5905,"width":100,"height":53}},"hogItem2":{"hogItem_ps":{"name":"object/sport/object_dumbbell_1","x":595.07,"y":-396.19,"scaleX":0.2232,"scaleY":0.2579,"width":347,"height":134}},"hogItem3":{"hogItem_ps":{"name":"object/sport/object_helmet_2","x":193.49,"y":-350.33,"rotation":-124.83,"width":74,"height":86}},"hogItem4":{"hogItem_ps":{"name":"object/birds/object_bird_48","color":"ffffffac","x":1471.54,"y":-150.83,"scaleX":0.488,"scaleY":0.488,"width":80,"height":69}},"hogItem5":{"hogItem_ps":{"name":"object/sport/object_boxingglove_1","x":299.62,"y":-605.18,"scaleX":0.5613,"scaleY":0.5613,"rotation":-91.29,"width":112,"height":190}},"hogItem6":{"hogItem_ps":{"name":"object/sport/object_hockeystick_1","type":"mesh","uvs":[1,1,0,1,0,0,0.99164,0.15971],"triangles":[1,2,3,1,3,0],"vertices":[1339.47,-416.57,1519.25,-331.54,1613.89,-531.64,1420.5,-584],"hull":4}},"hogItem7":{"hogItem_ps":{"name":"object/sport/object_skate_1","x":1012.71,"y":-644.27,"scaleX":0.403,"scaleY":0.403,"width":198,"height":185}},"hogItem8":{"hogItem_ps":{"name":"object/sport/object_skateboard _1","x":2319.52,"y":-221.99,"scaleX":0.8348,"scaleY":0.8348,"rotation":34.56,"width":172,"height":132}},"hogItem9":{"hogItem_ps":{"name":"object/sport/object_shuttlecock_1","x":2234,"y":-406.56,"scaleX":0.3997,"scaleY":0.3997,"rotation":-31.97,"width":128,"height":137}},"hogItem10":{"hogItem_ps":{"name":"object/sport/object_rollerskate_2","x":1779,"y":-640.49,"scaleX":-0.6801,"scaleY":0.655,"width":87,"height":79}},"hogItem11":{"hogItem_ps":{"name":"object/sport/object_racket_2","x":1973.45,"y":-802.83,"scaleX":0.4657,"scaleY":0.4657,"width":356,"height":79}},"hogItem12":{"hogItem_ps":{"name":"object/sport/object_medal_1","x":1155.29,"y":-804.43,"scaleX":0.3886,"scaleY":0.2031,"width":129,"height":207}}}},{"name":"skin_mode1_v3","attachments":{"decorItem1":{"additional_item_ps":{"name":"object/boxes/object_box_3","x":415.39,"y":-693.53,"scaleX":0.8739,"scaleY":0.8739,"width":100,"height":53}},"decorItem2":{"additional_item_ps":{"name":"object/sport/object_dumbbell_1","x":2423.89,"y":-104.42,"scaleX":0.1841,"scaleY":0.2128,"width":347,"height":134}},"decorItem3":{"additional_item_ps":{"name":"object/sport/object_helmet_2","x":1514.66,"y":-565.36,"rotation":-124.83,"width":74,"height":86}},"decorItem4":{"additional_item_ps":{"name":"object/birds/object_bird_48","color":"fffffffd","x":1650.76,"y":-465.96,"scaleX":0.488,"scaleY":0.488,"width":80,"height":69}},"decorItem5":{"additional_item_ps":{"name":"object/sport/object_boxingglove_1","x":1907.49,"y":-566.01,"scaleX":0.3968,"scaleY":-0.4246,"rotation":-91.29,"width":112,"height":190}},"decorItem6":{"additional_item_ps":{"name":"object/sport/object_skippingrope_1","x":1070.23,"y":-814.65,"scaleX":0.1525,"scaleY":0.0814,"width":554,"height":584}},"hogItem1":{"hogItem_ps":{"name":"object/sport/object_whistle_1","x":1772.84,"y":-657.62,"scaleX":0.213,"scaleY":0.213,"rotation":-22.73,"width":148,"height":128}},"hogItem2":{"hogItem_ps":{"name":"object/sport/object_weight_1","x":215.41,"y":-352.45,"scaleX":0.2137,"scaleY":0.2137,"width":271,"height":349}},"hogItem3":{"hogItem_ps":{"name":"object/sport/object_stopwatch_1","x":2274.96,"y":-587.11,"scaleX":0.3203,"scaleY":0.3203,"width":137,"height":171}},"hogItem4":{"hogItem_ps":{"name":"object/sport/object_sportcup_1","x":734.71,"y":-389.86,"scaleX":0.2013,"scaleY":0.207,"rotation":-4.41,"width":215,"height":228}},"hogItem5":{"hogItem_ps":{"name":"object/sport/object_sneakers_1","x":1456.36,"y":-789.25,"scaleX":0.3928,"scaleY":0.3928,"rotation":5.71,"width":243,"height":166}},"hogItem6":{"hogItem_ps":{"name":"object/sport/object_hockeystick_1","x":1198.2,"y":-565.41,"scaleX":0.8281,"scaleY":0.6027,"rotation":-145.2,"width":292,"height":325}},"hogItem7":{"hogItem_ps":{"name":"object/sport/object_skate_1","x":690.14,"y":-168.09,"scaleX":0.3421,"scaleY":0.3421,"width":198,"height":185}},"hogItem8":{"hogItem_ps":{"name":"object/sport/object_skateboard _1","x":591.31,"y":-767.25,"scaleX":0.5098,"scaleY":0.5098,"rotation":34.56,"width":172,"height":132}},"hogItem9":{"hogItem_ps":{"name":"object/sport/object_shuttlecock_1","x":1333.47,"y":-149.26,"scaleX":0.3997,"scaleY":0.3997,"rotation":-31.97,"width":128,"height":137}},"hogItem10":{"hogItem_ps":{"name":"object/sport/object_rollerskate_2","x":976.91,"y":-746.98,"scaleX":-0.6801,"scaleY":0.655,"rotation":17.43,"width":87,"height":79}},"hogItem11":{"hogItem_ps":{"name":"object/sport/object_racket_2","x":557.79,"y":-843.46,"scaleX":0.4657,"scaleY":0.4657,"width":356,"height":79}},"hogItem12":{"hogItem_ps":{"name":"object/sport/object_medal_1","x":1759.75,"y":-809.85,"scaleX":0.3886,"scaleY":0.2031,"width":129,"height":207}}}},{"name":"skin_mode1_v4","attachments":{"decorItem1":{"additional_item_ps":{"name":"object/sport/object_whistle_1","x":504.81,"y":-617.74,"scaleX":0.213,"scaleY":0.213,"rotation":-22.73,"width":148,"height":128}},"decorItem2":{"additional_item_ps":{"name":"object/sport/object_weight_1","x":915.58,"y":-724.04,"scaleX":0.2773,"scaleY":0.2773,"width":271,"height":349}},"decorItem3":{"additional_item_ps":{"name":"object/sport/object_stopwatch_1","color":"ffffffb1","x":522.69,"y":-224.57,"scaleX":0.3203,"scaleY":0.3203,"width":137,"height":171}},"decorItem4":{"additional_item_ps":{"name":"object/sport/object_sportcup_1","x":315.01,"y":-138.22,"scaleX":0.3888,"scaleY":0.3888,"rotation":-4.41,"width":215,"height":228}},"decorItem5":{"additional_item_ps":{"name":"object/sport/object_sneakers_1","x":418.77,"y":-692.38,"scaleX":0.3928,"scaleY":0.3928,"rotation":11.29,"width":243,"height":166}},"decorItem6":{"additional_item_ps":{"name":"object/sport/object_skippingrope_1","x":1280.49,"y":-821.78,"scaleX":0.1525,"scaleY":0.0814,"width":554,"height":584}},"hogItem1":{"hogItem_ps":{"name":"object/boxes/object_box_3","x":703.62,"y":-397.88,"scaleX":0.5905,"scaleY":0.5905,"width":100,"height":53}},"hogItem2":{"hogItem_ps":{"name":"object/sport/object_dumbbell_1","x":124.51,"y":-695.1,"scaleX":0.2232,"scaleY":0.2579,"width":347,"height":134}},"hogItem3":{"hogItem_ps":{"name":"object/sport/object_helmet_2","x":2420.16,"y":-75.15,"rotation":-124.83,"width":74,"height":86}},"hogItem4":{"hogItem_ps":{"name":"object/birds/object_bird_48","color":"ffffffac","x":1197.16,"y":-140.02,"scaleX":0.488,"scaleY":0.488,"width":80,"height":69}},"hogItem5":{"hogItem_ps":{"name":"object/sport/object_boxingglove_1","x":1046.23,"y":-754.51,"scaleX":0.5613,"scaleY":0.5613,"rotation":-91.29,"width":112,"height":190}},"hogItem6":{"hogItem_ps":{"name":"object/sport/object_hockeystick_1","type":"linkedmesh","skin":"skin_mode1_v2","parent":"hogItem_ps"}},"hogItem7":{"hogItem_ps":{"name":"object/sport/object_skate_1","x":2188.3,"y":-383.28,"scaleX":0.403,"scaleY":0.403,"width":198,"height":185}},"hogItem8":{"hogItem_ps":{"name":"object/sport/object_skateboard _1","x":2131.4,"y":-760.69,"scaleX":0.8348,"scaleY":0.8348,"rotation":34.56,"width":172,"height":132}},"hogItem9":{"hogItem_ps":{"name":"object/sport/object_shuttlecock_1","x":2392.86,"y":-600.92,"scaleX":0.3997,"scaleY":0.3997,"rotation":-31.97,"width":128,"height":137}},"hogItem10":{"hogItem_ps":{"name":"object/sport/object_rollerskate_2","x":221.95,"y":-361.86,"scaleX":-0.8499,"scaleY":0.8186,"rotation":14.65,"width":87,"height":79}},"hogItem11":{"hogItem_ps":{"name":"object/sport/object_racket_2","x":628.86,"y":-790.34,"scaleX":0.4657,"scaleY":0.4657,"width":356,"height":79}},"hogItem12":{"hogItem_ps":{"name":"object/sport/object_medal_1","x":1749.17,"y":-798.41,"scaleX":0.3886,"scaleY":0.2031,"width":129,"height":207}}}},{"name":"skin_mode1_v5","attachments":{"decorItem1":{"additional_item_ps":{"name":"object/sport/object_whistle_1","x":853.33,"y":-402.92,"scaleX":0.213,"scaleY":0.213,"rotation":-22.73,"width":148,"height":128}},"decorItem2":{"additional_item_ps":{"name":"object/sport/object_weight_1","x":915.58,"y":-724.04,"scaleX":0.2773,"scaleY":0.2773,"width":271,"height":349}},"decorItem3":{"additional_item_ps":{"name":"object/sport/object_stopwatch_1","color":"ffffffb1","x":522.69,"y":-224.57,"scaleX":0.3203,"scaleY":0.3203,"width":137,"height":171}},"decorItem4":{"additional_item_ps":{"name":"object/sport/object_sportcup_1","x":315.01,"y":-138.22,"scaleX":0.3888,"scaleY":0.3888,"rotation":-4.41,"width":215,"height":228}},"decorItem5":{"additional_item_ps":{"name":"object/sport/object_sneakers_1","x":418.77,"y":-692.38,"scaleX":0.3928,"scaleY":0.3928,"rotation":11.29,"width":243,"height":166}},"decorItem6":{"additional_item_ps":{"name":"object/sport/object_skippingrope_1","x":625.52,"y":-814.65,"scaleX":0.1525,"scaleY":0.0814,"width":554,"height":584}},"hogItem1":{"hogItem_ps":{"name":"object/boxes/object_box_3","x":1301.48,"y":-586.55,"scaleX":0.5905,"scaleY":0.5905,"width":100,"height":53}},"hogItem2":{"hogItem_ps":{"name":"object/sport/object_dumbbell_1","x":595.07,"y":-396.19,"scaleX":0.2232,"scaleY":0.2579,"width":347,"height":134}},"hogItem3":{"hogItem_ps":{"name":"object/sport/object_helmet_2","x":193.49,"y":-350.33,"rotation":-124.83,"width":74,"height":86}},"hogItem4":{"hogItem_ps":{"name":"object/birds/object_bird_48","color":"ffffffac","x":1471.54,"y":-150.83,"scaleX":0.488,"scaleY":0.488,"width":80,"height":69}},"hogItem5":{"hogItem_ps":{"name":"object/sport/object_boxingglove_1","x":299.62,"y":-605.18,"scaleX":0.5613,"scaleY":0.5613,"rotation":-91.29,"width":112,"height":190}},"hogItem6":{"hogItem_ps":{"name":"object/sport/object_hockeystick_1","type":"linkedmesh","skin":"skin_mode1_v2","parent":"hogItem_ps"}},"hogItem7":{"hogItem_ps":{"name":"object/sport/object_skate_1","x":1012.71,"y":-644.27,"scaleX":0.403,"scaleY":0.403,"width":198,"height":185}},"hogItem8":{"hogItem_ps":{"name":"object/sport/object_skateboard _1","x":2319.52,"y":-221.99,"scaleX":0.8348,"scaleY":0.8348,"rotation":34.56,"width":172,"height":132}},"hogItem9":{"hogItem_ps":{"name":"object/sport/object_shuttlecock_1","x":2234,"y":-406.56,"scaleX":0.3997,"scaleY":0.3997,"rotation":-31.97,"width":128,"height":137}},"hogItem10":{"hogItem_ps":{"name":"object/sport/object_rollerskate_2","x":1779,"y":-640.49,"scaleX":-0.6801,"scaleY":0.655,"width":87,"height":79}},"hogItem11":{"hogItem_ps":{"name":"object/sport/object_racket_2","x":1973.45,"y":-802.83,"scaleX":0.4657,"scaleY":0.4657,"width":356,"height":79}},"hogItem12":{"hogItem_ps":{"name":"object/sport/object_medal_1","x":1155.29,"y":-804.43,"scaleX":0.3886,"scaleY":0.2031,"width":129,"height":207}}}}],"animations":{"idle":{}}}
+{
+  "skeleton": {
+    "hash": "bFnbFh5xBlg",
+    "spine": "4.1.24",
+    "y": -1080,
+    "width": 2560,
+    "height": 1080
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "backgrounds",
+      "parent": "root"
+    },
+    {
+      "name": "decorItems",
+      "parent": "root"
+    },
+    {
+      "name": "hogItems",
+      "parent": "root"
+    },
+    {
+      "name": "idle",
+      "parent": "root"
+    },
+    {
+      "name": "idle2",
+      "parent": "idle",
+      "length": 24.05,
+      "rotation": 110.73,
+      "x": 717.57,
+      "y": -643.03
+    },
+    {
+      "name": "idle3",
+      "parent": "idle",
+      "length": 18.29,
+      "rotation": 105.42,
+      "x": 752.83,
+      "y": -601.08
+    },
+    {
+      "name": "idle4",
+      "parent": "idle",
+      "length": 85.19,
+      "rotation": 2.45,
+      "x": 706.62,
+      "y": -723.89
+    },
+    {
+      "name": "idle5",
+      "parent": "idle4",
+      "length": 30.79,
+      "rotation": 78.46,
+      "x": 9.58,
+      "y": 10.54
+    },
+    {
+      "name": "idle6",
+      "parent": "idle5",
+      "length": 17.07,
+      "rotation": 13.18,
+      "x": 38.85,
+      "y": -4.25
+    },
+    {
+      "name": "idle7",
+      "parent": "idle4",
+      "length": 19.49,
+      "rotation": 91.12,
+      "x": 55.59,
+      "y": 4.92
+    },
+    {
+      "name": "idle8",
+      "parent": "idle7",
+      "length": 22.35,
+      "rotation": 18.8,
+      "x": 26.4,
+      "y": 3.22
+    },
+    {
+      "name": "idle9",
+      "parent": "idle8",
+      "length": 28.16,
+      "rotation": -55.04,
+      "x": 34.82,
+      "y": -6.45
+    },
+    {
+      "name": "idle10",
+      "parent": "idle9",
+      "length": 17.73,
+      "rotation": 26.75,
+      "x": 34.41,
+      "y": 0.39
+    },
+    {
+      "name": "idle11",
+      "parent": "idle4",
+      "length": 25.79,
+      "rotation": 79.42,
+      "x": 73.38,
+      "y": 8.42
+    },
+    {
+      "name": "idle12",
+      "parent": "idle11",
+      "length": 29.79,
+      "rotation": 8.13,
+      "x": 36.37,
+      "y": -0.95
+    }
+  ],
+  "slots": [
+    {
+      "name": "background_lv45",
+      "bone": "backgrounds"
+    },
+    {
+      "name": "hogItem1",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem2",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "decorItem1",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem2",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "hogItem3",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem4",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "decorItem3",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem4",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem5",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem6",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "hogItem5",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem6",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem7",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem8",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem9",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem10",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem11",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem12",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "env/shadows/fire2_elements_1",
+      "bone": "idle3",
+      "attachment": "env/shadows/fire2_elements_1",
+      "blend": "screen"
+    },
+    {
+      "name": "env/shadows/fire2_elements_2",
+      "bone": "idle2",
+      "attachment": "env/shadows/fire2_elements_2",
+      "blend": "screen"
+    },
+    {
+      "name": "env/shadows/fire2_elements_3",
+      "bone": "idle4",
+      "attachment": "env/shadows/fire2_elements_3",
+      "blend": "screen"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "env/shadows/fire2_elements_1": {
+          "env/shadows/fire2_elements_1": {
+            "x": 7.12,
+            "y": -0.69,
+            "rotation": -105.42,
+            "width": 13,
+            "height": 35
+          }
+        },
+        "env/shadows/fire2_elements_2": {
+          "env/shadows/fire2_elements_2": {
+            "x": 9.53,
+            "y": -1.58,
+            "rotation": -110.73,
+            "width": 16,
+            "height": 31
+          }
+        },
+        "env/shadows/fire2_elements_3": {
+          "env/shadows/fire2_elements_3": {
+            "type": "mesh",
+            "uvs": [
+              0.68391,
+              0.03748,
+              0.70563,
+              0,
+              0.7167,
+              0.13346,
+              0.68739,
+              0.24957,
+              0.66391,
+              0.27779,
+              0.64108,
+              0.3506,
+              0.60049,
+              0.45197,
+              0.60719,
+              0.54374,
+              0.63844,
+              0.60585,
+              0.69275,
+              0.63531,
+              0.75294,
+              0.57201,
+              0.80131,
+              0.45768,
+              0.82281,
+              0.34781,
+              0.83357,
+              0.25827,
+              0.89122,
+              0.37898,
+              0.91864,
+              0.48713,
+              0.91593,
+              0.76592,
+              0.94349,
+              0.90249,
+              1,
+              0.96193,
+              1,
+              0.983,
+              0.92501,
+              1,
+              0.03093,
+              1,
+              0,
+              0.98305,
+              0,
+              0.97304,
+              0.01544,
+              0.95798,
+              0.04185,
+              0.86833,
+              0.14099,
+              0.87861,
+              0.08707,
+              0.69903,
+              0.12689,
+              0.64299,
+              0.26958,
+              0.57279,
+              0.31133,
+              0.49281,
+              0.3181,
+              0.40898,
+              0.37548,
+              0.47972,
+              0.38182,
+              0.59288,
+              0.36226,
+              0.69825,
+              0.46258,
+              0.73775,
+              0.50311,
+              0.71514,
+              0.43749,
+              0.55237,
+              0.44054,
+              0.4547,
+              0.44204,
+              0.33788,
+              0.50508,
+              0.22121,
+              0.65189,
+              0.09517
+            ],
+            "triangles": [
+              12,
+              13,
+              14,
+              11,
+              12,
+              14,
+              11,
+              14,
+              15,
+              15,
+              10,
+              11,
+              16,
+              10,
+              15,
+              9,
+              10,
+              16,
+              17,
+              9,
+              16,
+              0,
+              1,
+              2,
+              41,
+              0,
+              2,
+              3,
+              41,
+              2,
+              40,
+              41,
+              3,
+              4,
+              40,
+              3,
+              5,
+              40,
+              4,
+              39,
+              40,
+              5,
+              6,
+              39,
+              5,
+              38,
+              39,
+              6,
+              38,
+              7,
+              37,
+              7,
+              38,
+              6,
+              36,
+              7,
+              8,
+              36,
+              37,
+              7,
+              36,
+              8,
+              9,
+              30,
+              31,
+              32,
+              30,
+              32,
+              33,
+              29,
+              30,
+              33,
+              34,
+              29,
+              33,
+              34,
+              26,
+              28,
+              34,
+              28,
+              29,
+              27,
+              28,
+              26,
+              26,
+              34,
+              35,
+              20,
+              17,
+              18,
+              22,
+              23,
+              24,
+              26,
+              21,
+              24,
+              26,
+              24,
+              25,
+              22,
+              24,
+              21,
+              19,
+              20,
+              18,
+              20,
+              9,
+              17,
+              20,
+              36,
+              9,
+              35,
+              36,
+              20,
+              20,
+              26,
+              35,
+              21,
+              26,
+              20
+            ],
+            "vertices": [
+              1,
+              13,
+              10.98,
+              1.79,
+              1,
+              2,
+              12,
+              48.53,
+              7.08,
+              0,
+              13,
+              15.61,
+              -0.39,
+              1,
+              1,
+              13,
+              0.22,
+              -3.34,
+              1,
+              1,
+              12,
+              22.75,
+              -6.81,
+              1,
+              1,
+              12,
+              18.42,
+              -6.18,
+              1,
+              2,
+              11,
+              33.5,
+              -19.27,
+              0.00986,
+              12,
+              9.75,
+              -8.43,
+              0.99014,
+              2,
+              11,
+              24.41,
+              -10.17,
+              0.50497,
+              12,
+              -2.91,
+              -10.66,
+              0.49503,
+              3,
+              11,
+              14.17,
+              -6.84,
+              0.98325,
+              12,
+              -11.51,
+              -17.15,
+              0.0152,
+              14,
+              34.17,
+              26.67,
+              0.00155,
+              4,
+              10,
+              34.53,
+              -2.03,
+              0.03032,
+              11,
+              6,
+              -7.6,
+              0.90202,
+              14,
+              27.52,
+              21.87,
+              0.06721,
+              15,
+              -5.54,
+              23.83,
+              0.00045,
+              4,
+              10,
+              30.68,
+              -8.43,
+              0.19677,
+              11,
+              0.29,
+              -12.41,
+              0.35779,
+              14,
+              25.04,
+              14.82,
+              0.41867,
+              15,
+              -8.98,
+              17.21,
+              0.02677,
+              4,
+              10,
+              37.61,
+              -16.22,
+              0.02941,
+              11,
+              4.35,
+              -22.02,
+              0.03849,
+              14,
+              33.41,
+              8.6,
+              0.42599,
+              15,
+              -1.58,
+              9.86,
+              0.50611,
+              1,
+              15,
+              11.8,
+              3.96,
+              1,
+              1,
+              15,
+              24.65,
+              1.34,
+              1,
+              1,
+              15,
+              35.13,
+              0.03,
+              1,
+              1,
+              15,
+              21.01,
+              -7,
+              1,
+              1,
+              15,
+              8.35,
+              -10.35,
+              1,
+              3,
+              7,
+              89.97,
+              19.32,
+              0.12875,
+              14,
+              13.76,
+              -14.3,
+              0.86866,
+              15,
+              -24.27,
+              -10.02,
+              0.00259,
+              2,
+              7,
+              92.64,
+              3.21,
+              0.88725,
+              14,
+              -1.58,
+              -19.89,
+              0.11275,
+              2,
+              7,
+              99.23,
+              -4.03,
+              0.99999,
+              14,
+              -7.49,
+              -27.69,
+              1e-05,
+              1,
+              7,
+              99.13,
+              -6.49,
+              1,
+              1,
+              7,
+              89.9,
+              -8.09,
+              1,
+              1,
+              7,
+              -19.08,
+              -3.42,
+              1,
+              1,
+              7,
+              -22.76,
+              -1.28,
+              1,
+              1,
+              7,
+              -22.71,
+              -0.11,
+              1,
+              2,
+              7,
+              -20.76,
+              1.57,
+              0.99731,
+              8,
+              -14.86,
+              27.93,
+              0.00269,
+              2,
+              7,
+              -17.09,
+              11.92,
+              0.95316,
+              8,
+              -3.99,
+              26.4,
+              0.04684,
+              2,
+              7,
+              -5.05,
+              10.2,
+              0.57721,
+              8,
+              -3.27,
+              14.27,
+              0.42279,
+              1,
+              8,
+              16.44,
+              24.08,
+              1,
+              1,
+              8,
+              23.68,
+              20.32,
+              1,
+              2,
+              8,
+              34.54,
+              4.43,
+              0.82335,
+              9,
+              -2.22,
+              9.44,
+              0.17665,
+              2,
+              8,
+              44.59,
+              0.88,
+              0.00747,
+              9,
+              6.75,
+              3.69,
+              0.99253,
+              1,
+              9,
+              16.82,
+              1.33,
+              1,
+              1,
+              9,
+              7.72,
+              -4.23,
+              1,
+              4,
+              8,
+              34.38,
+              -9.46,
+              0.37807,
+              9,
+              -5.54,
+              -4.06,
+              0.62164,
+              10,
+              37.99,
+              29.12,
+              0.00011,
+              11,
+              19.33,
+              20.77,
+              0.00018,
+              5,
+              7,
+              22.82,
+              30.12,
+              0.04946,
+              8,
+              21.83,
+              -9.05,
+              0.8805,
+              9,
+              -17.67,
+              -0.8,
+              0.01639,
+              10,
+              25.84,
+              32.27,
+              0.02746,
+              11,
+              8.84,
+              27.67,
+              0.02619,
+              4,
+              7,
+              34.85,
+              24.98,
+              0.21437,
+              8,
+              19.2,
+              -21.87,
+              0.31313,
+              10,
+              20.47,
+              20.34,
+              0.22271,
+              11,
+              -0.1,
+              18.12,
+              0.24979,
+              4,
+              7,
+              39.9,
+              27.41,
+              0.09681,
+              8,
+              22.6,
+              -26.33,
+              0.09877,
+              10,
+              22.8,
+              15.24,
+              0.22642,
+              11,
+              0.47,
+              12.54,
+              0.578,
+              3,
+              8,
+              40.14,
+              -15.42,
+              3e-05,
+              11,
+              21.12,
+              12.69,
+              0.99231,
+              12,
+              -23.53,
+              -0.26,
+              0.00766,
+              2,
+              11,
+              31.55,
+              7.99,
+              0.62101,
+              12,
+              -13.71,
+              5.59,
+              0.37899,
+              2,
+              11,
+              44.12,
+              2.62,
+              0.03677,
+              12,
+              -2.11,
+              12.81,
+              0.96323,
+              1,
+              12,
+              13.54,
+              13.71,
+              1,
+              2,
+              12,
+              35.62,
+              6.59,
+              0.12723,
+              13,
+              3.86,
+              4.99,
+              0.87277
+            ],
+            "hull": 42
+          }
+        }
+      }
+    },
+    {
+      "name": "skin_mode1_v1",
+      "attachments": {
+        "decorItem1": {
+          "additional_item_ps": {
+            "name": "object/boxes/lvl_45_box3",
+            "x": 1301.48,
+            "y": -590.4,
+            "scaleX": 0.5905,
+            "scaleY": 0.5905,
+            "width": 100,
+            "height": 53
+          }
+        },
+        "decorItem2": {
+          "additional_item_ps": {
+            "name": "object/sport/lvl_45_dumbbell1",
+            "x": 595.07,
+            "y": -396.19,
+            "scaleX": 0.2232,
+            "scaleY": 0.2579,
+            "width": 347,
+            "height": 134
+          }
+        },
+        "decorItem3": {
+          "additional_item_ps": {
+            "name": "object/sport/lvl_45_helmet2",
+            "x": 193.49,
+            "y": -350.33,
+            "rotation": -124.83,
+            "width": 74,
+            "height": 86
+          }
+        },
+        "decorItem4": {
+          "additional_item_ps": {
+            "name": "object/birds/lvl_45_bird48",
+            "color": "ffffffac",
+            "x": 1471.54,
+            "y": -150.83,
+            "scaleX": 0.488,
+            "scaleY": 0.488,
+            "width": 80,
+            "height": 69
+          }
+        },
+        "decorItem5": {
+          "additional_item_ps": {
+            "name": "object/sport/lvl_45_boxingglove1",
+            "x": 299.62,
+            "y": -605.18,
+            "scaleX": 0.5613,
+            "scaleY": 0.5613,
+            "rotation": -91.29,
+            "width": 112,
+            "height": 190
+          }
+        },
+        "decorItem6": {
+          "additional_item_ps": {
+            "name": "object/sport/lvl_45_skippingrope1",
+            "x": 625.52,
+            "y": -814.65,
+            "scaleX": 0.1525,
+            "scaleY": 0.0814,
+            "width": 554,
+            "height": 584
+          }
+        },
+        "hogItem1": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_whistle1",
+            "x": 853.33,
+            "y": -402.92,
+            "scaleX": 0.213,
+            "scaleY": 0.213,
+            "rotation": -22.73,
+            "width": 148,
+            "height": 128
+          }
+        },
+        "hogItem2": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_weight1",
+            "x": 915.58,
+            "y": -724.04,
+            "scaleX": 0.2773,
+            "scaleY": 0.2773,
+            "width": 271,
+            "height": 349
+          }
+        },
+        "hogItem3": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_stopwatch1",
+            "color": "ffffffb1",
+            "x": 522.69,
+            "y": -224.57,
+            "scaleX": 0.3203,
+            "scaleY": 0.3203,
+            "width": 137,
+            "height": 171
+          }
+        },
+        "hogItem4": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_sportcup1",
+            "x": 315.01,
+            "y": -138.22,
+            "scaleX": 0.3888,
+            "scaleY": 0.3888,
+            "rotation": -4.41,
+            "width": 215,
+            "height": 228
+          }
+        },
+        "hogItem5": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_sneakers1",
+            "x": 418.77,
+            "y": -692.38,
+            "scaleX": 0.3928,
+            "scaleY": 0.3928,
+            "rotation": 11.29,
+            "width": 243,
+            "height": 166
+          }
+        },
+        "hogItem6": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_hockeystick1",
+            "x": 1198.2,
+            "y": -565.41,
+            "scaleX": 0.8281,
+            "scaleY": 0.6027,
+            "rotation": -145.2,
+            "width": 292,
+            "height": 325
+          }
+        },
+        "hogItem7": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_skate1",
+            "x": 1012.71,
+            "y": -644.27,
+            "scaleX": 0.403,
+            "scaleY": 0.403,
+            "width": 198,
+            "height": 185
+          }
+        },
+        "hogItem8": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_skateboard1",
+            "color": "cfcbcbff",
+            "x": 2319.52,
+            "y": -221.99,
+            "scaleX": 0.6724,
+            "scaleY": 0.6724,
+            "rotation": 34.56,
+            "width": 172,
+            "height": 132
+          }
+        },
+        "hogItem9": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_shuttlecock1",
+            "x": 2234,
+            "y": -406.56,
+            "scaleX": 0.3997,
+            "scaleY": 0.3997,
+            "rotation": -31.97,
+            "width": 128,
+            "height": 137
+          }
+        },
+        "hogItem10": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_rollerskate2",
+            "x": 1772.14,
+            "y": -633.01,
+            "scaleX": -0.8914,
+            "scaleY": 0.8586,
+            "width": 87,
+            "height": 79
+          }
+        },
+        "hogItem11": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_racket2",
+            "x": 1973.45,
+            "y": -802.83,
+            "scaleX": 0.4657,
+            "scaleY": 0.4657,
+            "width": 356,
+            "height": 79
+          }
+        },
+        "hogItem12": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_medal1",
+            "x": 1155.29,
+            "y": -804.43,
+            "scaleX": 0.4499,
+            "scaleY": 0.2352,
+            "width": 129,
+            "height": 207
+          }
+        }
+      }
+    },
+    {
+      "name": "skin_mode1_v2",
+      "attachments": {
+        "decorItem1": {
+          "additional_item_ps": {
+            "name": "object/sport/lvl_45_whistle1",
+            "x": 853.33,
+            "y": -402.92,
+            "scaleX": 0.213,
+            "scaleY": 0.213,
+            "rotation": -22.73,
+            "width": 148,
+            "height": 128
+          }
+        },
+        "decorItem2": {
+          "additional_item_ps": {
+            "name": "object/sport/lvl_45_weight1",
+            "x": 915.58,
+            "y": -724.04,
+            "scaleX": 0.2773,
+            "scaleY": 0.2773,
+            "width": 271,
+            "height": 349
+          }
+        },
+        "decorItem3": {
+          "additional_item_ps": {
+            "name": "object/sport/lvl_45_stopwatch1",
+            "color": "ffffffb1",
+            "x": 522.69,
+            "y": -224.57,
+            "scaleX": 0.3203,
+            "scaleY": 0.3203,
+            "width": 137,
+            "height": 171
+          }
+        },
+        "decorItem4": {
+          "additional_item_ps": {
+            "name": "object/sport/lvl_45_sportcup1",
+            "x": 315.01,
+            "y": -138.22,
+            "scaleX": 0.3888,
+            "scaleY": 0.3888,
+            "rotation": -4.41,
+            "width": 215,
+            "height": 228
+          }
+        },
+        "decorItem5": {
+          "additional_item_ps": {
+            "name": "object/sport/lvl_45_sneakers1",
+            "x": 418.77,
+            "y": -692.38,
+            "scaleX": 0.3928,
+            "scaleY": 0.3928,
+            "rotation": 11.29,
+            "width": 243,
+            "height": 166
+          }
+        },
+        "decorItem6": {
+          "additional_item_ps": {
+            "name": "object/sport/lvl_45_skippingrope1",
+            "x": 625.52,
+            "y": -814.65,
+            "scaleX": 0.1525,
+            "scaleY": 0.0814,
+            "width": 554,
+            "height": 584
+          }
+        },
+        "hogItem1": {
+          "hogItem_ps": {
+            "name": "object/boxes/lvl_45_box3",
+            "x": 1301.48,
+            "y": -588.9,
+            "scaleX": 0.5905,
+            "scaleY": 0.5905,
+            "width": 100,
+            "height": 53
+          }
+        },
+        "hogItem2": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_dumbbell1",
+            "x": 595.07,
+            "y": -396.19,
+            "scaleX": 0.2232,
+            "scaleY": 0.2579,
+            "width": 347,
+            "height": 134
+          }
+        },
+        "hogItem3": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_helmet2",
+            "x": 193.49,
+            "y": -350.33,
+            "rotation": -124.83,
+            "width": 74,
+            "height": 86
+          }
+        },
+        "hogItem4": {
+          "hogItem_ps": {
+            "name": "object/birds/lvl_45_bird48",
+            "color": "ffffffac",
+            "x": 1471.54,
+            "y": -150.83,
+            "scaleX": 0.488,
+            "scaleY": 0.488,
+            "width": 80,
+            "height": 69
+          }
+        },
+        "hogItem5": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_boxingglove1",
+            "x": 299.62,
+            "y": -605.18,
+            "scaleX": 0.5613,
+            "scaleY": 0.5613,
+            "rotation": -91.29,
+            "width": 112,
+            "height": 190
+          }
+        },
+        "hogItem6": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_hockeystick1",
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0,
+              0.99164,
+              0.15971
+            ],
+            "triangles": [
+              1,
+              2,
+              3,
+              1,
+              3,
+              0
+            ],
+            "vertices": [
+              1339.47,
+              -416.57,
+              1519.25,
+              -331.54,
+              1613.89,
+              -531.64,
+              1420.5,
+              -584
+            ],
+            "hull": 4
+          }
+        },
+        "hogItem7": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_skate1",
+            "x": 1012.71,
+            "y": -644.27,
+            "scaleX": 0.403,
+            "scaleY": 0.403,
+            "width": 198,
+            "height": 185
+          }
+        },
+        "hogItem8": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_skateboard1",
+            "x": 2319.52,
+            "y": -221.99,
+            "scaleX": 0.8348,
+            "scaleY": 0.8348,
+            "rotation": 34.56,
+            "width": 172,
+            "height": 132
+          }
+        },
+        "hogItem9": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_shuttlecock1",
+            "x": 2234,
+            "y": -406.56,
+            "scaleX": 0.3997,
+            "scaleY": 0.3997,
+            "rotation": -31.97,
+            "width": 128,
+            "height": 137
+          }
+        },
+        "hogItem10": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_rollerskate2",
+            "x": 1779,
+            "y": -640.49,
+            "scaleX": -0.6801,
+            "scaleY": 0.655,
+            "width": 87,
+            "height": 79
+          }
+        },
+        "hogItem11": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_racket2",
+            "x": 1973.45,
+            "y": -802.83,
+            "scaleX": 0.4657,
+            "scaleY": 0.4657,
+            "width": 356,
+            "height": 79
+          }
+        },
+        "hogItem12": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_medal1",
+            "x": 1155.29,
+            "y": -804.43,
+            "scaleX": 0.3886,
+            "scaleY": 0.2031,
+            "width": 129,
+            "height": 207
+          }
+        }
+      }
+    },
+    {
+      "name": "skin_mode1_v3",
+      "attachments": {
+        "decorItem1": {
+          "additional_item_ps": {
+            "name": "object/boxes/lvl_45_box3",
+            "x": 415.39,
+            "y": -693.53,
+            "scaleX": 0.8739,
+            "scaleY": 0.8739,
+            "width": 100,
+            "height": 53
+          }
+        },
+        "decorItem2": {
+          "additional_item_ps": {
+            "name": "object/sport/lvl_45_dumbbell1",
+            "x": 2423.89,
+            "y": -104.42,
+            "scaleX": 0.1841,
+            "scaleY": 0.2128,
+            "width": 347,
+            "height": 134
+          }
+        },
+        "decorItem3": {
+          "additional_item_ps": {
+            "name": "object/sport/lvl_45_helmet2",
+            "x": 1514.66,
+            "y": -565.36,
+            "rotation": -124.83,
+            "width": 74,
+            "height": 86
+          }
+        },
+        "decorItem4": {
+          "additional_item_ps": {
+            "name": "object/birds/lvl_45_bird48",
+            "color": "fffffffd",
+            "x": 1650.76,
+            "y": -465.96,
+            "scaleX": 0.488,
+            "scaleY": 0.488,
+            "width": 80,
+            "height": 69
+          }
+        },
+        "decorItem5": {
+          "additional_item_ps": {
+            "name": "object/sport/lvl_45_boxingglove1",
+            "x": 1907.49,
+            "y": -566.01,
+            "scaleX": 0.3968,
+            "scaleY": -0.4246,
+            "rotation": -91.29,
+            "width": 112,
+            "height": 190
+          }
+        },
+        "decorItem6": {
+          "additional_item_ps": {
+            "name": "object/sport/lvl_45_skippingrope1",
+            "x": 1070.23,
+            "y": -814.65,
+            "scaleX": 0.1525,
+            "scaleY": 0.0814,
+            "width": 554,
+            "height": 584
+          }
+        },
+        "hogItem1": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_whistle1",
+            "x": 1772.84,
+            "y": -657.62,
+            "scaleX": 0.213,
+            "scaleY": 0.213,
+            "rotation": -22.73,
+            "width": 148,
+            "height": 128
+          }
+        },
+        "hogItem2": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_weight1",
+            "x": 215.41,
+            "y": -352.45,
+            "scaleX": 0.2137,
+            "scaleY": 0.2137,
+            "width": 271,
+            "height": 349
+          }
+        },
+        "hogItem3": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_stopwatch1",
+            "x": 2274.96,
+            "y": -587.11,
+            "scaleX": 0.3203,
+            "scaleY": 0.3203,
+            "width": 137,
+            "height": 171
+          }
+        },
+        "hogItem4": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_sportcup1",
+            "x": 734.71,
+            "y": -389.86,
+            "scaleX": 0.2013,
+            "scaleY": 0.207,
+            "rotation": -4.41,
+            "width": 215,
+            "height": 228
+          }
+        },
+        "hogItem5": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_sneakers1",
+            "x": 1456.36,
+            "y": -789.25,
+            "scaleX": 0.3928,
+            "scaleY": 0.3928,
+            "rotation": 5.71,
+            "width": 243,
+            "height": 166
+          }
+        },
+        "hogItem6": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_hockeystick1",
+            "x": 1198.2,
+            "y": -565.41,
+            "scaleX": 0.8281,
+            "scaleY": 0.6027,
+            "rotation": -145.2,
+            "width": 292,
+            "height": 325
+          }
+        },
+        "hogItem7": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_skate1",
+            "x": 690.14,
+            "y": -168.09,
+            "scaleX": 0.3421,
+            "scaleY": 0.3421,
+            "width": 198,
+            "height": 185
+          }
+        },
+        "hogItem8": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_skateboard1",
+            "x": 591.31,
+            "y": -767.25,
+            "scaleX": 0.5098,
+            "scaleY": 0.5098,
+            "rotation": 34.56,
+            "width": 172,
+            "height": 132
+          }
+        },
+        "hogItem9": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_shuttlecock1",
+            "x": 1333.47,
+            "y": -149.26,
+            "scaleX": 0.3997,
+            "scaleY": 0.3997,
+            "rotation": -31.97,
+            "width": 128,
+            "height": 137
+          }
+        },
+        "hogItem10": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_rollerskate2",
+            "x": 976.91,
+            "y": -746.98,
+            "scaleX": -0.6801,
+            "scaleY": 0.655,
+            "rotation": 17.43,
+            "width": 87,
+            "height": 79
+          }
+        },
+        "hogItem11": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_racket2",
+            "x": 557.79,
+            "y": -843.46,
+            "scaleX": 0.4657,
+            "scaleY": 0.4657,
+            "width": 356,
+            "height": 79
+          }
+        },
+        "hogItem12": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_medal1",
+            "x": 1759.75,
+            "y": -809.85,
+            "scaleX": 0.3886,
+            "scaleY": 0.2031,
+            "width": 129,
+            "height": 207
+          }
+        }
+      }
+    },
+    {
+      "name": "skin_mode1_v4",
+      "attachments": {
+        "decorItem1": {
+          "additional_item_ps": {
+            "name": "object/sport/lvl_45_whistle1",
+            "x": 504.81,
+            "y": -617.74,
+            "scaleX": 0.213,
+            "scaleY": 0.213,
+            "rotation": -22.73,
+            "width": 148,
+            "height": 128
+          }
+        },
+        "decorItem2": {
+          "additional_item_ps": {
+            "name": "object/sport/lvl_45_weight1",
+            "x": 915.58,
+            "y": -724.04,
+            "scaleX": 0.2773,
+            "scaleY": 0.2773,
+            "width": 271,
+            "height": 349
+          }
+        },
+        "decorItem3": {
+          "additional_item_ps": {
+            "name": "object/sport/lvl_45_stopwatch1",
+            "color": "ffffffb1",
+            "x": 522.69,
+            "y": -224.57,
+            "scaleX": 0.3203,
+            "scaleY": 0.3203,
+            "width": 137,
+            "height": 171
+          }
+        },
+        "decorItem4": {
+          "additional_item_ps": {
+            "name": "object/sport/lvl_45_sportcup1",
+            "x": 315.01,
+            "y": -138.22,
+            "scaleX": 0.3888,
+            "scaleY": 0.3888,
+            "rotation": -4.41,
+            "width": 215,
+            "height": 228
+          }
+        },
+        "decorItem5": {
+          "additional_item_ps": {
+            "name": "object/sport/lvl_45_sneakers1",
+            "x": 418.77,
+            "y": -692.38,
+            "scaleX": 0.3928,
+            "scaleY": 0.3928,
+            "rotation": 11.29,
+            "width": 243,
+            "height": 166
+          }
+        },
+        "decorItem6": {
+          "additional_item_ps": {
+            "name": "object/sport/lvl_45_skippingrope1",
+            "x": 1280.49,
+            "y": -821.78,
+            "scaleX": 0.1525,
+            "scaleY": 0.0814,
+            "width": 554,
+            "height": 584
+          }
+        },
+        "hogItem1": {
+          "hogItem_ps": {
+            "name": "object/boxes/lvl_45_box3",
+            "x": 703.62,
+            "y": -397.88,
+            "scaleX": 0.5905,
+            "scaleY": 0.5905,
+            "width": 100,
+            "height": 53
+          }
+        },
+        "hogItem2": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_dumbbell1",
+            "x": 124.51,
+            "y": -695.1,
+            "scaleX": 0.2232,
+            "scaleY": 0.2579,
+            "width": 347,
+            "height": 134
+          }
+        },
+        "hogItem3": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_helmet2",
+            "x": 2420.16,
+            "y": -75.15,
+            "rotation": -124.83,
+            "width": 74,
+            "height": 86
+          }
+        },
+        "hogItem4": {
+          "hogItem_ps": {
+            "name": "object/birds/lvl_45_bird48",
+            "color": "ffffffac",
+            "x": 1197.16,
+            "y": -140.02,
+            "scaleX": 0.488,
+            "scaleY": 0.488,
+            "width": 80,
+            "height": 69
+          }
+        },
+        "hogItem5": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_boxingglove1",
+            "x": 1046.23,
+            "y": -754.51,
+            "scaleX": 0.5613,
+            "scaleY": 0.5613,
+            "rotation": -91.29,
+            "width": 112,
+            "height": 190
+          }
+        },
+        "hogItem6": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_hockeystick1",
+            "type": "linkedmesh",
+            "skin": "skin_mode1_v2",
+            "parent": "hogItem_ps"
+          }
+        },
+        "hogItem7": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_skate1",
+            "x": 2188.3,
+            "y": -383.28,
+            "scaleX": 0.403,
+            "scaleY": 0.403,
+            "width": 198,
+            "height": 185
+          }
+        },
+        "hogItem8": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_skateboard1",
+            "x": 2131.4,
+            "y": -760.69,
+            "scaleX": 0.8348,
+            "scaleY": 0.8348,
+            "rotation": 34.56,
+            "width": 172,
+            "height": 132
+          }
+        },
+        "hogItem9": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_shuttlecock1",
+            "x": 2392.86,
+            "y": -600.92,
+            "scaleX": 0.3997,
+            "scaleY": 0.3997,
+            "rotation": -31.97,
+            "width": 128,
+            "height": 137
+          }
+        },
+        "hogItem10": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_rollerskate2",
+            "x": 221.95,
+            "y": -361.86,
+            "scaleX": -0.8499,
+            "scaleY": 0.8186,
+            "rotation": 14.65,
+            "width": 87,
+            "height": 79
+          }
+        },
+        "hogItem11": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_racket2",
+            "x": 628.86,
+            "y": -790.34,
+            "scaleX": 0.4657,
+            "scaleY": 0.4657,
+            "width": 356,
+            "height": 79
+          }
+        },
+        "hogItem12": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_medal1",
+            "x": 1749.17,
+            "y": -798.41,
+            "scaleX": 0.3886,
+            "scaleY": 0.2031,
+            "width": 129,
+            "height": 207
+          }
+        }
+      }
+    },
+    {
+      "name": "skin_mode1_v5",
+      "attachments": {
+        "decorItem1": {
+          "additional_item_ps": {
+            "name": "object/sport/lvl_45_whistle1",
+            "x": 853.33,
+            "y": -402.92,
+            "scaleX": 0.213,
+            "scaleY": 0.213,
+            "rotation": -22.73,
+            "width": 148,
+            "height": 128
+          }
+        },
+        "decorItem2": {
+          "additional_item_ps": {
+            "name": "object/sport/lvl_45_weight1",
+            "x": 915.58,
+            "y": -724.04,
+            "scaleX": 0.2773,
+            "scaleY": 0.2773,
+            "width": 271,
+            "height": 349
+          }
+        },
+        "decorItem3": {
+          "additional_item_ps": {
+            "name": "object/sport/lvl_45_stopwatch1",
+            "color": "ffffffb1",
+            "x": 522.69,
+            "y": -224.57,
+            "scaleX": 0.3203,
+            "scaleY": 0.3203,
+            "width": 137,
+            "height": 171
+          }
+        },
+        "decorItem4": {
+          "additional_item_ps": {
+            "name": "object/sport/lvl_45_sportcup1",
+            "x": 315.01,
+            "y": -138.22,
+            "scaleX": 0.3888,
+            "scaleY": 0.3888,
+            "rotation": -4.41,
+            "width": 215,
+            "height": 228
+          }
+        },
+        "decorItem5": {
+          "additional_item_ps": {
+            "name": "object/sport/lvl_45_sneakers1",
+            "x": 418.77,
+            "y": -692.38,
+            "scaleX": 0.3928,
+            "scaleY": 0.3928,
+            "rotation": 11.29,
+            "width": 243,
+            "height": 166
+          }
+        },
+        "decorItem6": {
+          "additional_item_ps": {
+            "name": "object/sport/lvl_45_skippingrope1",
+            "x": 625.52,
+            "y": -814.65,
+            "scaleX": 0.1525,
+            "scaleY": 0.0814,
+            "width": 554,
+            "height": 584
+          }
+        },
+        "hogItem1": {
+          "hogItem_ps": {
+            "name": "object/boxes/lvl_45_box3",
+            "x": 1301.48,
+            "y": -586.55,
+            "scaleX": 0.5905,
+            "scaleY": 0.5905,
+            "width": 100,
+            "height": 53
+          }
+        },
+        "hogItem2": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_dumbbell1",
+            "x": 595.07,
+            "y": -396.19,
+            "scaleX": 0.2232,
+            "scaleY": 0.2579,
+            "width": 347,
+            "height": 134
+          }
+        },
+        "hogItem3": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_helmet2",
+            "x": 193.49,
+            "y": -350.33,
+            "rotation": -124.83,
+            "width": 74,
+            "height": 86
+          }
+        },
+        "hogItem4": {
+          "hogItem_ps": {
+            "name": "object/birds/lvl_45_bird48",
+            "color": "ffffffac",
+            "x": 1471.54,
+            "y": -150.83,
+            "scaleX": 0.6125,
+            "scaleY": 0.6125,
+            "width": 80,
+            "height": 69
+          }
+        },
+        "hogItem5": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_boxingglove1",
+            "x": 299.62,
+            "y": -605.18,
+            "scaleX": 0.5613,
+            "scaleY": 0.5613,
+            "rotation": -91.29,
+            "width": 112,
+            "height": 190
+          }
+        },
+        "hogItem6": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_hockeystick1",
+            "type": "linkedmesh",
+            "skin": "skin_mode1_v2",
+            "parent": "hogItem_ps"
+          }
+        },
+        "hogItem7": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_skate1",
+            "x": 1012.71,
+            "y": -644.27,
+            "scaleX": 0.403,
+            "scaleY": 0.403,
+            "width": 198,
+            "height": 185
+          }
+        },
+        "hogItem8": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_skateboard1",
+            "color": "cac3c3ff",
+            "x": 2319.52,
+            "y": -221.99,
+            "scaleX": 0.6578,
+            "scaleY": 0.6578,
+            "rotation": 34.56,
+            "width": 172,
+            "height": 132
+          }
+        },
+        "hogItem9": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_shuttlecock1",
+            "x": 2234,
+            "y": -406.56,
+            "scaleX": 0.3997,
+            "scaleY": 0.3997,
+            "rotation": -31.97,
+            "width": 128,
+            "height": 137
+          }
+        },
+        "hogItem10": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_rollerskate2",
+            "x": 1773.95,
+            "y": -634.18,
+            "scaleX": -0.8948,
+            "scaleY": 0.8619,
+            "width": 87,
+            "height": 79
+          }
+        },
+        "hogItem11": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_racket2",
+            "x": 1973.45,
+            "y": -802.83,
+            "scaleX": 0.4657,
+            "scaleY": 0.4657,
+            "width": 356,
+            "height": 79
+          }
+        },
+        "hogItem12": {
+          "hogItem_ps": {
+            "name": "object/sport/lvl_45_medal1",
+            "x": 1155.29,
+            "y": -804.43,
+            "scaleX": 0.4879,
+            "scaleY": 0.2551,
+            "width": 129,
+            "height": 207
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "idle": {
+      "slots": {
+        "env/shadows/fire2_elements_1": {
+          "rgba": [
+            {
+              "color": "ffffff09",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "color": "ffffff09"
+            },
+            {
+              "time": 1.6,
+              "color": "ffffffce"
+            },
+            {
+              "time": 1.7667,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "env/shadows/fire2_elements_2": {
+          "rgba": [
+            {
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.3,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.9,
+              "color": "ffffffff"
+            },
+            {
+              "time": 1.3333,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "env/shadows/fire2_elements_3": {
+          "rgba": [
+            {
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.5667,
+              "color": "ffffffb9"
+            },
+            {
+              "time": 0.8,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.9333,
+              "color": "ffffffad"
+            },
+            {
+              "time": 1.7333,
+              "color": "fffffffe"
+            },
+            {
+              "time": 1.9,
+              "color": "ffffffa8"
+            },
+            {
+              "time": 1.9667,
+              "color": "ffffffff"
+            },
+            {
+              "time": 2.6333,
+              "color": "ffffffa0"
+            },
+            {
+              "time": 3.3333,
+              "color": "ffffffff"
+            }
+          ]
+        }
+      },
+      "bones": {
+        "idle5": {
+          "rotate": [
+            {},
+            {
+              "time": 0.7333,
+              "value": -7.76
+            },
+            {
+              "time": 2.3333,
+              "value": 11.3
+            },
+            {
+              "time": 3.3333
+            }
+          ]
+        },
+        "idle6": {
+          "rotate": [
+            {},
+            {
+              "time": 0.7333,
+              "value": 32.98
+            },
+            {
+              "time": 2.3333,
+              "value": -27.58
+            },
+            {
+              "time": 3.3333
+            }
+          ]
+        },
+        "idle8": {
+          "rotate": [
+            {},
+            {
+              "time": 1.0333,
+              "value": 6.78
+            },
+            {
+              "time": 2.7667,
+              "value": 2.61
+            },
+            {
+              "time": 3.3333
+            }
+          ]
+        },
+        "idle9": {
+          "rotate": [
+            {},
+            {
+              "time": 1.0333,
+              "value": -16.89
+            },
+            {
+              "time": 2.7667,
+              "value": 9.64
+            },
+            {
+              "time": 3.3333
+            }
+          ]
+        },
+        "idle10": {
+          "rotate": [
+            {},
+            {
+              "time": 1.0333,
+              "value": 31.79
+            },
+            {
+              "time": 2.7667,
+              "value": -14.19
+            },
+            {
+              "time": 3.3333
+            }
+          ],
+          "translate": [
+            {},
+            {
+              "time": 2.7667,
+              "x": -3.1,
+              "y": 4.44
+            },
+            {
+              "time": 3.3333
+            }
+          ]
+        },
+        "idle11": {
+          "rotate": [
+            {},
+            {
+              "time": 0.7333,
+              "value": -10.32
+            },
+            {
+              "time": 2.0667,
+              "value": 2.23
+            },
+            {
+              "time": 3.3333
+            }
+          ]
+        },
+        "idle12": {
+          "rotate": [
+            {},
+            {
+              "time": 0.7333,
+              "value": 27.21
+            },
+            {
+              "time": 2.0667,
+              "value": -26.6
+            },
+            {
+              "time": 3.3333
+            }
+          ]
+        },
+        "idle2": {
+          "translate": [
+            {
+              "x": 9.75,
+              "y": -36.95
+            },
+            {
+              "time": 1.3333,
+              "x": -31.31,
+              "y": 30.79
+            }
+          ],
+          "scale": [
+            {},
+            {
+              "time": 1.3333,
+              "x": 0.45,
+              "y": 0.45
+            }
+          ]
+        },
+        "idle3": {
+          "rotate": [
+            {
+              "value": -41.15
+            }
+          ],
+          "translate": [
+            {
+              "x": 11.8,
+              "y": -58
+            },
+            {
+              "time": 0.6667,
+              "x": -3.08,
+              "y": -90.84
+            },
+            {
+              "time": 1.7667,
+              "x": 28.23,
+              "y": 11.8
+            }
+          ],
+          "scale": [
+            {
+              "x": 1.029,
+              "y": 1.029,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "x": 1.029,
+              "y": 1.029
+            },
+            {
+              "time": 1.7667,
+              "x": 0.433,
+              "y": 0.433
+            }
+          ]
+        }
+      }
+    }
+  }
+}

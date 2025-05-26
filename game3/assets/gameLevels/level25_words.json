@@ -1,1 +1,850 @@
-{"skeleton":{"hash":"/42jSgVOnbs","spine":"4.1.24","y":-1080,"width":2560,"height":1080},"bones":[{"name":"root"},{"name":"backgrounds","parent":"root"},{"name":"decorItems","parent":"root"},{"name":"hogItems","parent":"root"}],"slots":[{"name":"background_lv25","bone":"backgrounds"},{"name":"hogItem1","bone":"hogItems","attachment":"hogItem_ps"},{"name":"hogItem2","bone":"hogItems","attachment":"hogItem_ps"},{"name":"decorItem1","bone":"decorItems","attachment":"additional_item_ps"},{"name":"decorItem2","bone":"decorItems","attachment":"additional_item_ps"},{"name":"hogItem3","bone":"hogItems","attachment":"hogItem_ps"},{"name":"hogItem4","bone":"hogItems","attachment":"hogItem_ps"},{"name":"decorItem3","bone":"decorItems","attachment":"additional_item_ps"},{"name":"decorItem4","bone":"decorItems","attachment":"additional_item_ps"},{"name":"decorItem5","bone":"decorItems","attachment":"additional_item_ps"},{"name":"decorItem6","bone":"decorItems","attachment":"additional_item_ps"},{"name":"decorItem7","bone":"decorItems","attachment":"additional_item_ps"},{"name":"decorItem8","bone":"decorItems","attachment":"additional_item_ps"},{"name":"hogItem5","bone":"hogItems","attachment":"hogItem_ps"},{"name":"hogItem6","bone":"hogItems","attachment":"hogItem_ps"},{"name":"hogItem7","bone":"hogItems","attachment":"hogItem_ps"},{"name":"hogItem8","bone":"hogItems","attachment":"hogItem_ps"},{"name":"hogItem9","bone":"hogItems","attachment":"hogItem_ps"},{"name":"hogItem10","bone":"hogItems","attachment":"hogItem_ps"},{"name":"hogItem11","bone":"hogItems","attachment":"hogItem_ps"},{"name":"hogItem12","bone":"hogItems","attachment":"hogItem_ps"}],"skins":[{"name":"skin_mode1_v1","attachments":{"hogItem1":{"hogItem_ps":{"name":"object/water/object_water_4","color":"ffffff90","x":1952.88,"y":-971.65,"scaleX":0.3361,"scaleY":0.1902,"width":200,"height":91}},"hogItem2":{"hogItem_ps":{"name":"object/watch/object_watch_6","x":2250.38,"y":-556.65,"scaleX":0.5921,"scaleY":0.7077,"width":175,"height":251}},"hogItem3":{"hogItem_ps":{"name":"object/towels/object_towel_7","x":1344.45,"y":-919.58,"scaleX":0.5013,"scaleY":0.5013,"width":200,"height":250}},"hogItem4":{"hogItem_ps":{"name":"object/technique/object_telephone_1","x":2046.02,"y":-946.68,"scaleX":0.7792,"scaleY":0.7792,"width":100,"height":85}},"hogItem5":{"hogItem_ps":{"name":"object/technique/object_socket_1","x":410.99,"y":-854.19,"scaleX":0.5452,"scaleY":0.5452,"width":100,"height":59}},"hogItem6":{"hogItem_ps":{"name":"object/technique/object_radio_1","x":1651.82,"y":-991.32,"scaleX":0.5924,"scaleY":0.5924,"width":100,"height":59}},"hogItem7":{"hogItem_ps":{"name":"object/suitcases/object_suitcase_2","x":565.33,"y":-921.43,"scaleX":1.0998,"scaleY":1.0998,"width":120,"height":113}},"hogItem8":{"hogItem_ps":{"name":"object/pillows/object_pillow_1","x":1808.38,"y":-841.52,"scaleX":0.5611,"scaleY":0.5516,"rotation":-4.52,"width":146,"height":99}},"hogItem9":{"hogItem_ps":{"name":"object/papyrus/object_papyrus_2","x":214.62,"y":-800.28,"scaleX":0.2687,"scaleY":0.2687,"rotation":45.45,"width":100,"height":93}},"hogItem10":{"hogItem_ps":{"name":"object/object_snag_1","x":799.68,"y":-855.58,"scaleX":0.6219,"scaleY":0.6219,"width":150,"height":50}},"hogItem11":{"hogItem_ps":{"name":"object/object_reception_2","x":2258.11,"y":-839.82,"scaleX":0.5482,"scaleY":0.5482,"width":150,"height":45}},"hogItem12":{"hogItem_ps":{"name":"object/object_lock_1","x":1346.78,"y":-742.34,"scaleX":0.3251,"scaleY":0.3251,"rotation":-48.28,"width":135,"height":158}}}},{"name":"skin_mode1_v2","attachments":{"hogItem1":{"hogItem_ps":{"name":"object/object_chalice_1","x":1162.02,"y":-723.57,"scaleX":0.4208,"scaleY":0.4208,"width":159,"height":215}},"hogItem2":{"hogItem_ps":{"name":"object/object_call_2","x":2244.13,"y":-779.62,"scaleX":0.6384,"scaleY":0.6384,"width":61,"height":57}},"hogItem3":{"hogItem_ps":{"name":"object/fish/object_fish_7","x":1798.17,"y":-498.84,"scaleX":0.1964,"scaleY":0.1964,"rotation":19.98,"width":200,"height":95}},"hogItem4":{"hogItem_ps":{"name":"object/feathers/object_feathers_79","x":1247.91,"y":-566.21,"scaleX":0.2905,"scaleY":0.2905,"rotation":74.06,"width":60,"height":103}},"hogItem5":{"hogItem_ps":{"name":"object/cats/object_cat_36","x":1981.65,"y":-942.54,"scaleX":1.0647,"scaleY":1.0647,"width":150,"height":57}},"hogItem6":{"hogItem_ps":{"name":"object/branches/object_branches_2","color":"ffffffab","x":233.14,"y":-436.55,"scaleX":0.8157,"scaleY":0.9668,"width":120,"height":134}},"hogItem7":{"hogItem_ps":{"name":"object/boxes/object_box_8","x":1554.18,"y":-755.56,"scaleX":0.5817,"scaleY":0.5817,"width":80,"height":43}},"hogItem8":{"hogItem_ps":{"name":"object/birds/object_bird_59","color":"ffffff88","x":1160.09,"y":-572.14,"scaleX":0.3351,"scaleY":0.3351,"width":100,"height":80}},"hogItem9":{"hogItem_ps":{"name":"object/papyrus/object_papyrus_2","x":256.96,"y":-798.91,"scaleX":0.6948,"scaleY":0.6721,"rotation":39.62,"width":100,"height":93}},"hogItem10":{"hogItem_ps":{"name":"object/object_snag_1","x":799.68,"y":-855.58,"scaleX":0.6219,"scaleY":0.6219,"width":150,"height":50}},"hogItem11":{"hogItem_ps":{"name":"object/object_reception_2","x":2258.11,"y":-839.82,"scaleX":0.5482,"scaleY":0.5482,"width":150,"height":45}},"hogItem12":{"hogItem_ps":{"name":"object/object_lock_1","x":1346.78,"y":-742.34,"scaleX":0.3251,"scaleY":0.3251,"rotation":-48.28,"width":135,"height":158}}}},{"name":"skin_mode1_v3","attachments":{"hogItem1":{"hogItem_ps":{"name":"object/water/object_water_4","color":"ffffff90","x":889.49,"y":-979.04,"scaleX":0.3361,"scaleY":0.1902,"width":200,"height":91}},"hogItem2":{"hogItem_ps":{"name":"object/watch/object_watch_6","x":890.12,"y":-486.75,"scaleX":0.4848,"scaleY":0.44,"width":175,"height":251}},"hogItem3":{"hogItem_ps":{"name":"object/towels/object_towel_7","x":1767.43,"y":-913.71,"scaleX":0.3929,"scaleY":0.3929,"width":200,"height":250}},"hogItem4":{"hogItem_ps":{"name":"object/technique/object_telephone_1","x":264.47,"y":-781.16,"scaleX":0.701,"scaleY":0.701,"width":100,"height":85}},"hogItem5":{"hogItem_ps":{"name":"object/technique/object_socket_1","x":2039.37,"y":-809.07,"scaleX":-0.3764,"scaleY":0.3477,"width":100,"height":59}},"hogItem6":{"hogItem_ps":{"name":"object/technique/object_radio_1","x":1651.82,"y":-991.32,"scaleX":0.6708,"scaleY":0.6708,"width":100,"height":59}},"hogItem7":{"hogItem_ps":{"name":"object/suitcases/object_suitcase_2","x":565.33,"y":-921.43,"scaleX":1.1182,"scaleY":1.1182,"width":120,"height":113}},"hogItem8":{"hogItem_ps":{"name":"object/pillows/object_pillow_1","x":2244.56,"y":-776.49,"scaleX":0.4222,"scaleY":0.415,"rotation":-1.6,"width":146,"height":99}},"hogItem9":{"hogItem_ps":{"name":"object/papyrus/object_papyrus_2","x":1204.37,"y":-758.41,"scaleX":0.7234,"scaleY":0.7234,"rotation":38.99,"width":100,"height":93}},"hogItem10":{"hogItem_ps":{"name":"object/object_snag_1","x":1020.66,"y":-750.25,"scaleX":0.6219,"scaleY":0.6219,"width":150,"height":50}},"hogItem11":{"hogItem_ps":{"name":"object/object_reception_2","x":2250.62,"y":-839.82,"scaleX":0.3676,"scaleY":0.5482,"width":150,"height":45}},"hogItem12":{"hogItem_ps":{"name":"object/object_lock_1","x":1572.16,"y":-742.54,"scaleX":0.3251,"scaleY":0.3251,"rotation":-48.28,"width":135,"height":158}}}},{"name":"skin_mode1_v4","attachments":{"hogItem1":{"hogItem_ps":{"name":"object/object_chalice_1","x":2159.26,"y":-751.74,"scaleX":0.4208,"scaleY":0.4208,"width":159,"height":215}},"hogItem2":{"hogItem_ps":{"name":"object/object_call_2","x":1592.06,"y":-749.83,"scaleX":0.6384,"scaleY":0.6384,"width":61,"height":57}},"hogItem3":{"hogItem_ps":{"name":"object/fish/object_fish_7","x":749.29,"y":-474.05,"scaleX":0.1964,"scaleY":0.1964,"rotation":19.98,"width":200,"height":95}},"hogItem4":{"hogItem_ps":{"name":"object/feathers/object_feathers_79","x":983.78,"y":-515.32,"scaleX":0.2905,"scaleY":0.2905,"rotation":74.06,"width":60,"height":103}},"hogItem5":{"hogItem_ps":{"name":"object/cats/object_cat_36","x":1300.74,"y":-739.8,"scaleX":0.9752,"scaleY":0.9752,"rotation":0.22,"width":150,"height":57}},"hogItem6":{"hogItem_ps":{"name":"object/branches/object_branches_2","x":1976.76,"y":-958.42,"scaleX":0.6003,"scaleY":0.7115,"rotation":-130.21,"width":120,"height":134}},"hogItem7":{"hogItem_ps":{"name":"object/boxes/object_box_8","x":944.4,"y":-994.78,"scaleX":0.8455,"scaleY":0.8455,"width":80,"height":43}},"hogItem8":{"hogItem_ps":{"name":"object/birds/object_bird_59","color":"ffffff88","x":1415.33,"y":-501.06,"scaleX":0.2163,"scaleY":0.2163,"width":100,"height":80}},"hogItem9":{"hogItem_ps":{"name":"object/papyrus/object_papyrus_2","x":802.82,"y":-854.13,"scaleX":0.6681,"scaleY":0.6464,"rotation":39.62,"width":100,"height":93}},"hogItem10":{"hogItem_ps":{"name":"object/object_snag_1","x":989,"y":-306.56,"scaleX":0.6219,"scaleY":0.6219,"width":150,"height":50}},"hogItem11":{"hogItem_ps":{"name":"object/object_reception_2","x":1817.58,"y":-547.63,"scaleX":0.3068,"scaleY":0.3068,"width":150,"height":45}},"hogItem12":{"hogItem_ps":{"name":"object/object_lock_1","color":"fbd7cdff","x":2253.77,"y":-899.92,"scaleX":0.2304,"scaleY":0.2304,"rotation":-1.87,"width":135,"height":158}}}},{"name":"skin_mode1_v5","attachments":{"hogItem1":{"hogItem_ps":{"name":"object/object_chalice_1","x":1162.02,"y":-723.57,"scaleX":0.4208,"scaleY":0.4208,"width":159,"height":215}},"hogItem2":{"hogItem_ps":{"name":"object/object_call_2","x":2244.13,"y":-779.62,"scaleX":0.6384,"scaleY":0.6384,"width":61,"height":57}},"hogItem3":{"hogItem_ps":{"name":"object/fish/object_fish_7","x":1798.17,"y":-498.84,"scaleX":0.1964,"scaleY":0.1964,"rotation":19.98,"width":200,"height":95}},"hogItem4":{"hogItem_ps":{"name":"object/feathers/object_feathers_79","x":1247.91,"y":-566.21,"scaleX":0.2905,"scaleY":0.2905,"rotation":74.06,"width":60,"height":103}},"hogItem5":{"hogItem_ps":{"name":"object/cats/object_cat_36","x":1981.65,"y":-942.54,"scaleX":0.7722,"scaleY":0.7722,"width":150,"height":57}},"hogItem6":{"hogItem_ps":{"name":"object/branches/object_branches_2","color":"ffffffab","x":233.14,"y":-436.55,"scaleX":0.8112,"scaleY":0.9615,"width":120,"height":134}},"hogItem7":{"hogItem_ps":{"name":"object/boxes/object_box_8","x":1554.18,"y":-755.56,"scaleX":0.6864,"scaleY":0.6864,"width":80,"height":43}},"hogItem8":{"hogItem_ps":{"name":"object/birds/object_bird_59","color":"ffffff88","x":1160.09,"y":-572.14,"scaleX":0.3351,"scaleY":0.3351,"width":100,"height":80}},"hogItem9":{"hogItem_ps":{"name":"object/papyrus/object_papyrus_2","x":256.96,"y":-798.91,"scaleX":0.6326,"scaleY":0.612,"rotation":39.62,"width":100,"height":93}},"hogItem10":{"hogItem_ps":{"name":"object/object_snag_1","x":799.68,"y":-855.58,"scaleX":0.6219,"scaleY":0.6219,"width":150,"height":50}},"hogItem11":{"hogItem_ps":{"name":"object/object_reception_2","x":2258.11,"y":-839.82,"scaleX":0.4044,"scaleY":0.5482,"width":150,"height":45}},"hogItem12":{"hogItem_ps":{"name":"object/object_lock_1","x":1346.78,"y":-742.34,"scaleX":0.3251,"scaleY":0.3251,"rotation":-48.28,"width":135,"height":158}}}}],"animations":{"idle":{}}}
+{
+  "skeleton": {
+    "hash": "wEZFvgh2BB8",
+    "spine": "4.1.24",
+    "y": -1080,
+    "width": 2560,
+    "height": 1080
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "backgrounds",
+      "parent": "root"
+    },
+    {
+      "name": "decorItems",
+      "parent": "root"
+    },
+    {
+      "name": "hogItems",
+      "parent": "root"
+    }
+  ],
+  "slots": [
+    {
+      "name": "background_lv25",
+      "bone": "backgrounds"
+    },
+    {
+      "name": "hogItem1",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem2",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "decorItem1",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem2",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "hogItem3",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem4",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "decorItem3",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem4",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem5",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem6",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem7",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem8",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "hogItem5",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem6",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem7",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem8",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem9",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem10",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem11",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem12",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    }
+  ],
+  "skins": [
+    {
+      "name": "skin_mode1_v1",
+      "attachments": {
+        "hogItem1": {
+          "hogItem_ps": {
+            "name": "object/water/lvl_25_water4",
+            "color": "ffffff90",
+            "x": 1952.88,
+            "y": -971.65,
+            "scaleX": 0.3361,
+            "scaleY": 0.1902,
+            "width": 200,
+            "height": 91
+          }
+        },
+        "hogItem2": {
+          "hogItem_ps": {
+            "name": "object/watch/lvl_25_watch6",
+            "x": 2250.38,
+            "y": -556.65,
+            "scaleX": 0.5921,
+            "scaleY": 0.7077,
+            "width": 175,
+            "height": 251
+          }
+        },
+        "hogItem3": {
+          "hogItem_ps": {
+            "name": "object/towels/lvl_25_towel7",
+            "x": 1344.45,
+            "y": -919.58,
+            "scaleX": 0.5013,
+            "scaleY": 0.5013,
+            "width": 200,
+            "height": 250
+          }
+        },
+        "hogItem4": {
+          "hogItem_ps": {
+            "name": "object/technique/lvl_25_telephone1",
+            "x": 2046.02,
+            "y": -946.68,
+            "scaleX": 0.7792,
+            "scaleY": 0.7792,
+            "width": 100,
+            "height": 85
+          }
+        },
+        "hogItem5": {
+          "hogItem_ps": {
+            "name": "object/technique/lvl_25_socket1",
+            "x": 410.99,
+            "y": -854.19,
+            "scaleX": 0.5452,
+            "scaleY": 0.5452,
+            "width": 100,
+            "height": 59
+          }
+        },
+        "hogItem6": {
+          "hogItem_ps": {
+            "name": "object/technique/lvl_25_radio1",
+            "x": 1651.82,
+            "y": -991.32,
+            "scaleX": 0.5924,
+            "scaleY": 0.5924,
+            "width": 100,
+            "height": 59
+          }
+        },
+        "hogItem7": {
+          "hogItem_ps": {
+            "name": "object/suitcases/lvl_25_suitcase2",
+            "x": 565.33,
+            "y": -921.43,
+            "scaleX": 1.0998,
+            "scaleY": 1.0998,
+            "width": 120,
+            "height": 113
+          }
+        },
+        "hogItem8": {
+          "hogItem_ps": {
+            "name": "object/pillows/lvl_25_pillow1",
+            "x": 1808.38,
+            "y": -841.52,
+            "scaleX": 0.5611,
+            "scaleY": 0.5516,
+            "rotation": -4.52,
+            "width": 146,
+            "height": 99
+          }
+        },
+        "hogItem9": {
+          "hogItem_ps": {
+            "name": "object/papyrus/lvl_25_papyrus2",
+            "x": 214.62,
+            "y": -800.28,
+            "scaleX": 0.519,
+            "scaleY": 0.519,
+            "rotation": 45.45,
+            "width": 100,
+            "height": 93
+          }
+        },
+        "hogItem10": {
+          "hogItem_ps": {
+            "name": "object/lvl_25_snag1",
+            "x": 799.68,
+            "y": -855.58,
+            "scaleX": 0.6219,
+            "scaleY": 0.6219,
+            "width": 150,
+            "height": 50
+          }
+        },
+        "hogItem11": {
+          "hogItem_ps": {
+            "name": "object/lvl_25_reception2",
+            "x": 2258.11,
+            "y": -839.82,
+            "scaleX": 0.5482,
+            "scaleY": 0.5482,
+            "width": 150,
+            "height": 45
+          }
+        },
+        "hogItem12": {
+          "hogItem_ps": {
+            "name": "object/lvl_25_lock1",
+            "x": 1346.78,
+            "y": -742.34,
+            "scaleX": 0.3251,
+            "scaleY": 0.3251,
+            "rotation": -48.28,
+            "width": 135,
+            "height": 158
+          }
+        }
+      }
+    },
+    {
+      "name": "skin_mode1_v2",
+      "attachments": {
+        "hogItem1": {
+          "hogItem_ps": {
+            "name": "object/lvl_25_chalice1",
+            "x": 1162.02,
+            "y": -723.57,
+            "scaleX": 0.4208,
+            "scaleY": 0.4208,
+            "width": 159,
+            "height": 215
+          }
+        },
+        "hogItem2": {
+          "hogItem_ps": {
+            "name": "object/lvl_25_call2",
+            "x": 2244.13,
+            "y": -779.62,
+            "scaleX": 0.6384,
+            "scaleY": 0.6384,
+            "width": 61,
+            "height": 57
+          }
+        },
+        "hogItem3": {
+          "hogItem_ps": {
+            "name": "object/fish/lvl_25_fish7",
+            "x": 1798.17,
+            "y": -498.84,
+            "scaleX": 0.1964,
+            "scaleY": 0.1964,
+            "rotation": 19.98,
+            "width": 200,
+            "height": 95
+          }
+        },
+        "hogItem4": {
+          "hogItem_ps": {
+            "name": "object/feathers/lvl_25_feathers79",
+            "x": 1247.91,
+            "y": -566.21,
+            "scaleX": 0.2905,
+            "scaleY": 0.2905,
+            "rotation": 74.06,
+            "width": 60,
+            "height": 103
+          }
+        },
+        "hogItem5": {
+          "hogItem_ps": {
+            "name": "object/cats/lvl_25_cat36",
+            "x": 1981.65,
+            "y": -942.54,
+            "scaleX": 1.0647,
+            "scaleY": 1.0647,
+            "width": 150,
+            "height": 57
+          }
+        },
+        "hogItem6": {
+          "hogItem_ps": {
+            "name": "object/branches/lvl_25_branches2",
+            "color": "ffffffab",
+            "x": 233.14,
+            "y": -436.55,
+            "scaleX": 0.8157,
+            "scaleY": 0.9668,
+            "width": 120,
+            "height": 134
+          }
+        },
+        "hogItem7": {
+          "hogItem_ps": {
+            "name": "object/boxes/lvl_25_box8",
+            "x": 1554.18,
+            "y": -755.56,
+            "scaleX": 0.5817,
+            "scaleY": 0.5817,
+            "width": 80,
+            "height": 43
+          }
+        },
+        "hogItem8": {
+          "hogItem_ps": {
+            "name": "object/birds/lvl_25_bird59",
+            "color": "ffffff88",
+            "x": 1160.09,
+            "y": -572.14,
+            "scaleX": 0.6577,
+            "scaleY": 0.6577,
+            "width": 100,
+            "height": 80
+          }
+        },
+        "hogItem9": {
+          "hogItem_ps": {
+            "name": "object/papyrus/lvl_25_papyrus2",
+            "x": 256.96,
+            "y": -798.91,
+            "scaleX": 0.6948,
+            "scaleY": 0.6721,
+            "rotation": 39.62,
+            "width": 100,
+            "height": 93
+          }
+        },
+        "hogItem10": {
+          "hogItem_ps": {
+            "name": "object/lvl_25_snag1",
+            "x": 799.68,
+            "y": -855.58,
+            "scaleX": 0.6219,
+            "scaleY": 0.6219,
+            "width": 150,
+            "height": 50
+          }
+        },
+        "hogItem11": {
+          "hogItem_ps": {
+            "name": "object/lvl_25_reception2",
+            "x": 2258.11,
+            "y": -839.82,
+            "scaleX": 0.5482,
+            "scaleY": 0.5482,
+            "width": 150,
+            "height": 45
+          }
+        },
+        "hogItem12": {
+          "hogItem_ps": {
+            "name": "object/lvl_25_lock1",
+            "x": 1346.78,
+            "y": -742.34,
+            "scaleX": 0.3251,
+            "scaleY": 0.3251,
+            "rotation": -48.28,
+            "width": 135,
+            "height": 158
+          }
+        }
+      }
+    },
+    {
+      "name": "skin_mode1_v3",
+      "attachments": {
+        "hogItem1": {
+          "hogItem_ps": {
+            "name": "object/water/lvl_25_water4",
+            "color": "ffffff90",
+            "x": 889.49,
+            "y": -979.04,
+            "scaleX": 0.3361,
+            "scaleY": 0.1902,
+            "width": 200,
+            "height": 91
+          }
+        },
+        "hogItem2": {
+          "hogItem_ps": {
+            "name": "object/watch/lvl_25_watch6",
+            "x": 890.12,
+            "y": -486.75,
+            "scaleX": 0.4848,
+            "scaleY": 0.44,
+            "width": 175,
+            "height": 251
+          }
+        },
+        "hogItem3": {
+          "hogItem_ps": {
+            "name": "object/towels/lvl_25_towel7",
+            "x": 1767.43,
+            "y": -913.71,
+            "scaleX": 0.3929,
+            "scaleY": 0.3929,
+            "width": 200,
+            "height": 250
+          }
+        },
+        "hogItem4": {
+          "hogItem_ps": {
+            "name": "object/technique/lvl_25_telephone1",
+            "x": 264.47,
+            "y": -781.16,
+            "scaleX": 0.701,
+            "scaleY": 0.701,
+            "width": 100,
+            "height": 85
+          }
+        },
+        "hogItem5": {
+          "hogItem_ps": {
+            "name": "object/technique/lvl_25_socket1",
+            "x": 2039.37,
+            "y": -809.07,
+            "scaleX": -0.3764,
+            "scaleY": 0.3477,
+            "width": 100,
+            "height": 59
+          }
+        },
+        "hogItem6": {
+          "hogItem_ps": {
+            "name": "object/technique/lvl_25_radio1",
+            "x": 1651.82,
+            "y": -991.32,
+            "scaleX": 0.6708,
+            "scaleY": 0.6708,
+            "width": 100,
+            "height": 59
+          }
+        },
+        "hogItem7": {
+          "hogItem_ps": {
+            "name": "object/suitcases/lvl_25_suitcase2",
+            "x": 565.33,
+            "y": -921.43,
+            "scaleX": 1.1182,
+            "scaleY": 1.1182,
+            "width": 120,
+            "height": 113
+          }
+        },
+        "hogItem8": {
+          "hogItem_ps": {
+            "name": "object/pillows/lvl_25_pillow1",
+            "x": 2244.56,
+            "y": -776.49,
+            "scaleX": 0.4222,
+            "scaleY": 0.415,
+            "rotation": -1.6,
+            "width": 146,
+            "height": 99
+          }
+        },
+        "hogItem9": {
+          "hogItem_ps": {
+            "name": "object/papyrus/lvl_25_papyrus2",
+            "x": 1204.37,
+            "y": -758.41,
+            "scaleX": 0.7234,
+            "scaleY": 0.7234,
+            "rotation": 38.99,
+            "width": 100,
+            "height": 93
+          }
+        },
+        "hogItem10": {
+          "hogItem_ps": {
+            "name": "object/lvl_25_snag1",
+            "x": 1020.66,
+            "y": -750.25,
+            "scaleX": 0.6219,
+            "scaleY": 0.6219,
+            "width": 150,
+            "height": 50
+          }
+        },
+        "hogItem11": {
+          "hogItem_ps": {
+            "name": "object/lvl_25_reception2",
+            "x": 2250.62,
+            "y": -839.82,
+            "scaleX": 0.3676,
+            "scaleY": 0.5482,
+            "width": 150,
+            "height": 45
+          }
+        },
+        "hogItem12": {
+          "hogItem_ps": {
+            "name": "object/lvl_25_lock1",
+            "x": 1572.16,
+            "y": -742.54,
+            "scaleX": 0.3251,
+            "scaleY": 0.3251,
+            "rotation": -48.28,
+            "width": 135,
+            "height": 158
+          }
+        }
+      }
+    },
+    {
+      "name": "skin_mode1_v4",
+      "attachments": {
+        "hogItem1": {
+          "hogItem_ps": {
+            "name": "object/lvl_25_chalice1",
+            "x": 2159.26,
+            "y": -751.74,
+            "scaleX": 0.4208,
+            "scaleY": 0.4208,
+            "width": 159,
+            "height": 215
+          }
+        },
+        "hogItem2": {
+          "hogItem_ps": {
+            "name": "object/lvl_25_call2",
+            "x": 1592.06,
+            "y": -749.83,
+            "scaleX": 0.6384,
+            "scaleY": 0.6384,
+            "width": 61,
+            "height": 57
+          }
+        },
+        "hogItem3": {
+          "hogItem_ps": {
+            "name": "object/fish/lvl_25_fish7",
+            "x": 749.29,
+            "y": -474.05,
+            "scaleX": 0.1964,
+            "scaleY": 0.1964,
+            "rotation": 19.98,
+            "width": 200,
+            "height": 95
+          }
+        },
+        "hogItem4": {
+          "hogItem_ps": {
+            "name": "object/feathers/lvl_25_feathers79",
+            "x": 983.78,
+            "y": -515.32,
+            "scaleX": 0.2905,
+            "scaleY": 0.2905,
+            "rotation": 74.06,
+            "width": 60,
+            "height": 103
+          }
+        },
+        "hogItem5": {
+          "hogItem_ps": {
+            "name": "object/cats/lvl_25_cat36",
+            "x": 1300.74,
+            "y": -739.8,
+            "scaleX": 0.9752,
+            "scaleY": 0.9752,
+            "rotation": 0.22,
+            "width": 150,
+            "height": 57
+          }
+        },
+        "hogItem6": {
+          "hogItem_ps": {
+            "name": "object/branches/lvl_25_branches2",
+            "x": 1976.76,
+            "y": -958.42,
+            "scaleX": 0.6003,
+            "scaleY": 0.7115,
+            "rotation": -130.21,
+            "width": 120,
+            "height": 134
+          }
+        },
+        "hogItem7": {
+          "hogItem_ps": {
+            "name": "object/boxes/lvl_25_box8",
+            "x": 944.4,
+            "y": -994.78,
+            "scaleX": 0.8455,
+            "scaleY": 0.8455,
+            "width": 80,
+            "height": 43
+          }
+        },
+        "hogItem8": {
+          "hogItem_ps": {
+            "name": "object/birds/lvl_25_bird59",
+            "color": "ffffff88",
+            "x": 1415.33,
+            "y": -501.06,
+            "scaleX": 0.3871,
+            "scaleY": 0.3871,
+            "width": 100,
+            "height": 80
+          }
+        },
+        "hogItem9": {
+          "hogItem_ps": {
+            "name": "object/papyrus/lvl_25_papyrus2",
+            "x": 802.82,
+            "y": -854.13,
+            "scaleX": 0.6681,
+            "scaleY": 0.6464,
+            "rotation": 39.62,
+            "width": 100,
+            "height": 93
+          }
+        },
+        "hogItem10": {
+          "hogItem_ps": {
+            "name": "object/lvl_25_snag1",
+            "x": 989,
+            "y": -306.56,
+            "scaleX": 0.6219,
+            "scaleY": 0.6219,
+            "width": 150,
+            "height": 50
+          }
+        },
+        "hogItem11": {
+          "hogItem_ps": {
+            "name": "object/lvl_25_reception2",
+            "x": 1817.58,
+            "y": -547.63,
+            "scaleX": 0.3068,
+            "scaleY": 0.3068,
+            "width": 150,
+            "height": 45
+          }
+        },
+        "hogItem12": {
+          "hogItem_ps": {
+            "name": "object/lvl_25_lock1",
+            "color": "fbd7cdff",
+            "x": 2253.77,
+            "y": -899.92,
+            "scaleX": 0.2304,
+            "scaleY": 0.2304,
+            "rotation": -1.87,
+            "width": 135,
+            "height": 158
+          }
+        }
+      }
+    },
+    {
+      "name": "skin_mode1_v5",
+      "attachments": {
+        "hogItem1": {
+          "hogItem_ps": {
+            "name": "object/lvl_25_chalice1",
+            "x": 1162.02,
+            "y": -723.57,
+            "scaleX": 0.4208,
+            "scaleY": 0.4208,
+            "width": 159,
+            "height": 215
+          }
+        },
+        "hogItem2": {
+          "hogItem_ps": {
+            "name": "object/lvl_25_call2",
+            "x": 2244.13,
+            "y": -779.62,
+            "scaleX": 0.6384,
+            "scaleY": 0.6384,
+            "width": 61,
+            "height": 57
+          }
+        },
+        "hogItem3": {
+          "hogItem_ps": {
+            "name": "object/fish/lvl_25_fish7",
+            "x": 1798.17,
+            "y": -498.84,
+            "scaleX": 0.1964,
+            "scaleY": 0.1964,
+            "rotation": 19.98,
+            "width": 200,
+            "height": 95
+          }
+        },
+        "hogItem4": {
+          "hogItem_ps": {
+            "name": "object/feathers/lvl_25_feathers79",
+            "x": 1247.91,
+            "y": -566.21,
+            "scaleX": 0.2905,
+            "scaleY": 0.2905,
+            "rotation": 74.06,
+            "width": 60,
+            "height": 103
+          }
+        },
+        "hogItem5": {
+          "hogItem_ps": {
+            "name": "object/cats/lvl_25_cat36",
+            "x": 1981.65,
+            "y": -942.54,
+            "scaleX": 0.7722,
+            "scaleY": 0.7722,
+            "width": 150,
+            "height": 57
+          }
+        },
+        "hogItem6": {
+          "hogItem_ps": {
+            "name": "object/branches/lvl_25_branches2",
+            "color": "ffffffab",
+            "x": 233.14,
+            "y": -436.55,
+            "scaleX": 0.8112,
+            "scaleY": 0.9615,
+            "width": 120,
+            "height": 134
+          }
+        },
+        "hogItem7": {
+          "hogItem_ps": {
+            "name": "object/boxes/lvl_25_box8",
+            "x": 1554.18,
+            "y": -755.56,
+            "scaleX": 0.6864,
+            "scaleY": 0.6864,
+            "width": 80,
+            "height": 43
+          }
+        },
+        "hogItem8": {
+          "hogItem_ps": {
+            "name": "object/birds/lvl_25_bird59",
+            "color": "ffffff88",
+            "x": 1160.09,
+            "y": -572.14,
+            "scaleX": 0.5973,
+            "scaleY": 0.5973,
+            "width": 100,
+            "height": 80
+          }
+        },
+        "hogItem9": {
+          "hogItem_ps": {
+            "name": "object/papyrus/lvl_25_papyrus2",
+            "x": 256.96,
+            "y": -798.91,
+            "scaleX": 0.6326,
+            "scaleY": 0.612,
+            "rotation": 39.62,
+            "width": 100,
+            "height": 93
+          }
+        },
+        "hogItem10": {
+          "hogItem_ps": {
+            "name": "object/lvl_25_snag1",
+            "x": 799.68,
+            "y": -855.58,
+            "scaleX": 0.6219,
+            "scaleY": 0.6219,
+            "width": 150,
+            "height": 50
+          }
+        },
+        "hogItem11": {
+          "hogItem_ps": {
+            "name": "object/lvl_25_reception2",
+            "x": 2258.11,
+            "y": -839.82,
+            "scaleX": 0.4044,
+            "scaleY": 0.5482,
+            "width": 150,
+            "height": 45
+          }
+        },
+        "hogItem12": {
+          "hogItem_ps": {
+            "name": "object/lvl_25_lock1",
+            "x": 1346.78,
+            "y": -742.34,
+            "scaleX": 0.3251,
+            "scaleY": 0.3251,
+            "rotation": -48.28,
+            "width": 135,
+            "height": 158
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "idle": {}
+  }
+}
