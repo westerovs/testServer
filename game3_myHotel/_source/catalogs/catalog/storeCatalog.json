@@ -1,0 +1,51 @@
+{
+  "smallPack": {
+    "id": "smallPack",
+    "title": "Добавляет 5 подсказок",
+    "price": 39,
+    "photo_url": "https://dravk.ru/poisk_ok/catalog/shop-icons/x3.png"
+  },
+  "mediumPack": {
+    "id": "mediumPack",
+    "title": "Добавляет 15 подсказок",
+    "price": 99,
+    "photo_url": "https://dravk.ru/poisk_ok/catalog/shop-icons/x5.png"
+  },
+  "largePack": {
+    "id": "largePack",
+    "title": "Добавляет 50 подсказок",
+    "price": 239,
+    "photo_url": "https://dravk.ru/poisk_ok/catalog/shop-icons/x50.png"
+  },
+  "extraLargePack": {
+    "id": "extraLargePack",
+    "title": "Добавляет 100 подсказок",
+    "price": 399,
+    "photo_url": "https://dravk.ru/poisk_ok/catalog/shop-icons/x100.png"
+  },
+  "noAdPack": {
+    "id": "noAdPack",
+    "title": "Убирает внутриигровую рекламу. Возможность получить вознаграждение за просмотр рекламы сохраняется.",
+    "price": 99,
+    "photo_url": "https://dravk.ru/poisk_ok/catalog/shop-icons/noAds.png"
+  },
+
+  "promoStartedPack": {
+    "id": "promoStartedPack",
+    "title": "Отключите внутриигровую рекламу и получите 30 подсказок! Возможность получить вознаграждение за просмотр рекламы сохраняется.",
+    "price": 199,
+    "photo_url": "https://dravk.ru/poisk_ok/catalog/shop-icons/promoStartedPack.png"
+  },
+  "promoRemoveAdPack": {
+    "id": "promoRemoveAdPack",
+    "title": "Отключение внутриигровой рекламы со скидкой! Возможность получить вознаграждение за просмотр рекламы сохраняется.",
+    "price": 79,
+    "photo_url": "https://dravk.ru/poisk_ok/catalog/shop-icons/promoRemoveAdPack.png"
+  },
+  "promoMegaHintsPack": {
+    "id": "promoMegaHintsPack",
+    "title": "50 подсказок со скидкой!",
+    "price": 199,
+    "photo_url": "https://dravk.ru/poisk_ok/catalog/shop-icons/promoMegaHintsPack.png"
+  }
+}

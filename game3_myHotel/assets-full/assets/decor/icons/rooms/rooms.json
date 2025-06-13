@@ -1,0 +1,255 @@
+{
+  "frames": {
+    "icon-room1": {
+      "frame": {
+        "x": 1,
+        "y": 1,
+        "w": 118,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 118,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 86
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon-room10": {
+      "frame": {
+        "x": 1,
+        "y": 89,
+        "w": 118,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 118,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 86
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon-room2": {
+      "frame": {
+        "x": 121,
+        "y": 1,
+        "w": 118,
+        "h": 86
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 118,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 86
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon-room3": {
+      "frame": {
+        "x": 121,
+        "y": 121,
+        "w": 118,
+        "h": 86
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 118,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 86
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon-room4": {
+      "frame": {
+        "x": 1,
+        "y": 177,
+        "w": 118,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 118,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 86
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon-room5": {
+      "frame": {
+        "x": 209,
+        "y": 1,
+        "w": 118,
+        "h": 86
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 118,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 86
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon-room6": {
+      "frame": {
+        "x": 209,
+        "y": 121,
+        "w": 118,
+        "h": 86
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 118,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 86
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon-room7": {
+      "frame": {
+        "x": 1,
+        "y": 265,
+        "w": 118,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 118,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 86
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon-room8": {
+      "frame": {
+        "x": 121,
+        "y": 241,
+        "w": 118,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 118,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 86
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon-room9": {
+      "frame": {
+        "x": 297,
+        "y": 1,
+        "w": 118,
+        "h": 86
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 118,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 86
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "rooms.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 512,
+      "h": 512
+    },
+    "scale": 1
+  }
+}
