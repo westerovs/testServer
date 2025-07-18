@@ -1,0 +1,6 @@
+foam.png
+size:256,256
+filter:Linear,Linear
+pma:true
+bubble
+bounds:2,6,200,196

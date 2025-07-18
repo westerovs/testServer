@@ -1,0 +1,88 @@
+{
+  "ru": {
+    "langName": "Русский",
+    "textLoading": "Загрузка",
+    "textLoading.init": "Подготовка уровня",
+    "textLoadingSkinPart": "этап",
+    "btnStart": "ИГРАТЬ",
+    "Leaders": "Лидеры",
+    "store": "Магазин",
+    "free": "БЕСПЛАТНО",
+    "purchased": "КУПЛЕНО",
+    "purchaseError": "К сожалению,\nпокупка не удалась. Попробуйте позже!",
+    "noInternet": "Нет интернета",
+
+    "level": "Уровень",
+    "notEnoughHints": "Недостаточно подсказок",
+    "loadErr": "Что-то пошло не так.\nПовторная попытка",
+
+    "rateUs": "Поставьте игре 5 звезд\nи получите 5 подсказок!",
+    "rateUsBtnLater": "ПОЗЖЕ",
+    "rateUsBtnGive": "ПОСТАВИТЬ",
+
+    "authorizationHeader": "АВТОРИЗАЦИЯ",
+    "authorizationText1": "• надежное сохранение прогресса",
+    "authorizationText2": "• доступ к таблице лидеров",
+    "authorizationBtn": "ВОЙТИ",
+    "difficultyLevels.hard": "сложный",
+    "difficultyLevels.veryHard": "очень сложный",
+    "difficultyLevels.extreme": "экстремальный",
+
+    "promoStartedPack.header":  "Набор новичка",
+    "promoStartedPack.description": "Отключите рекламу\nи получите 30 подсказок!",
+    "promoRemoveAdPack.header":  "Разовое предложение",
+    "promoRemoveAdPack.description": "Отключение рекламы\nсо скидкой!",
+    "promoMegaHintsPack.header":  "Разовое предложение",
+    "promoMegaHintsPack.description": "50 подсказок со скидкой!",
+
+    "learning.shadows": "В этом режиме предметы отображаются в виде силуэтов.",
+    "learning.words": "В этом режиме предметы указаны словами, без изображений. Ищите их на уровне, опираясь только на названия.",
+    "learning.generator": "Добро пожаловать в бонусный уровень! Здесь вам предстоит найти нужные предметы среди множества похожих.",
+
+    "scoreBoard.networkError":  "Ошибка сети\n попробуйте позже",
+    "scoreBoard.noPlayers": "Ещё никто не играл"
+  },
+  "en": {
+    "langName": "English",
+    "textLoading": "Loading",
+    "textLoading.init": "Level preparation",
+    "textLoadingSkinPart": "Stage",
+    "btnStart": "PLAY",
+    "Leaders": "Leaders",
+    "store": "Shop",
+    "free": "FREE",
+    "purchased": "PURCHASED",
+    "purchaseError": "Sorry, your purchase\nwas unsuccessful.\nPlease try again\nlater!",
+    "noInternet": "no internet",
+
+    "level": "Level",
+    "notEnoughHints": "Not enough hints",
+    "loadErr": "Something went wrong.\nRepeat attempt",
+
+    "rateUs": "Give the game 5 stars\nand get 5 hints!",
+    "rateUsBtnLater": "LATER",
+    "rateUsBtnGive": "RATE",
+
+    "authorizationHeader": "AUTHORIZATION",
+    "authorizationText1": "• secure progress saving",
+    "authorizationText2": "• access to the leaderboard",
+    "authorizationBtn": "LOGIN",
+    "difficultyLevels.hard": "hard",
+    "difficultyLevels.veryHard": "very hard",
+    "difficultyLevels.extreme": "extreme",
+
+    "promoStartedPack.header":  "Starter Kit",
+    "promoStartedPack.description": "Turn off ads and get\n30 hints!",
+    "promoRemoveAdPack.header":  "One-Time Offer",
+    "promoRemoveAdPack.description": "Ad Removal – Discounted!",
+    "promoMegaHintsPack.header":  "One-Time Offer",
+    "promoMegaHintsPack.description": "50 Hints Pack – Discounted!",
+
+    "learning.shadows": "In this mode, objects are displayed as silhouettes.",
+    "learning.words": "In this mode, objects are listed with words only, without images. Find them based solely on their names.",
+    "learning.generator": "Welcome to the bonus level! Here you need to find the required objects among many similar ones.",
+
+    "scoreBoard.networkError": "Network error\nPlease try again later",
+    "scoreBoard.noPlayers": "No one has played yet"
+  }
+}
