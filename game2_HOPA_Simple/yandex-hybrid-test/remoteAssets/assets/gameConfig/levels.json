@@ -1,27 +1,27 @@
 {
     "level0": {
         "spineName": "level0",
-        "isRemote": false,
+        "isRemote": true,
         "amb": "amb_miniShop"
     },
     "level1": {
         "spineName": "level1",
-        "isRemote": false,
+        "isRemote": true,
         "amb": "amb_city"
     },
     "level2": {
         "spineName": "level2_shadows",
-        "isRemote": false,
+        "isRemote": true,
         "amb": null
     },
     "level3": {
         "spineName": "level3",
-        "isRemote": false,
+        "isRemote": true,
         "amb": "amb_street"
     },
     "level4": {
         "spineName": "level4",
-        "isRemote": false,
+        "isRemote": true,
         "amb": "amb_stepsShop"
     },
 
