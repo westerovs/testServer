@@ -2,6 +2,7 @@
   "ru": {
     "langName": "Русский",
     "textLoading": "Загрузка",
+    "textLoading.init": "Подготовка уровня",
     "textLoadingSkinPart": "этап",
     "btnStart": "ИГРАТЬ",
     "Leaders": "Лидеры",
@@ -9,6 +10,8 @@
     "free": "БЕСПЛАТНО",
     "purchased": "КУПЛЕНО",
     "purchaseError": "К сожалению,\nпокупка не удалась. Попробуйте позже!",
+    "noInternet": "Нет интернета",
+    "saveError": "Сохранение не удалось.\nПроверьте ваше интернет-соединение.",
 
     "level": "Уровень",
     "notEnoughHints": "Недостаточно подсказок",
@@ -43,6 +46,7 @@
   "en": {
     "langName": "English",
     "textLoading": "Loading",
+    "textLoading.init": "Level preparation",
     "textLoadingSkinPart": "Stage",
     "btnStart": "PLAY",
     "Leaders": "Leaders",
@@ -50,6 +54,8 @@
     "free": "FREE",
     "purchased": "PURCHASED",
     "purchaseError": "Sorry, your purchase\nwas unsuccessful.\nPlease try again\nlater!",
+    "noInternet": "no internet",
+    "saveError": "Could not save.\nPlease check your internet connection.",
 
     "level": "Level",
     "notEnoughHints": "Not enough hints",
