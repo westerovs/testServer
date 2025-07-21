@@ -1,0 +1,2312 @@
+{
+  "lv0": {
+    "intro": {
+      "text": [
+        "\"At first glance, just a regular shop. But behind the counters, something more might be hidden.\"",
+        "\"At first glance, just a regular shop. But behind the counters, something more might be hidden.\""
+      ],
+      "speech": [
+        "speech_en_lv0_intro0",
+        "speech_en_lv0_intro0"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"This shop sold not only items but also its secrets.\"",
+        "\"This shop sold not only items but also its secrets.\""
+      ],
+      "speech": [
+        "speech_en_lv0_outro0",
+        "speech_en_lv0_outro0"
+      ]
+    }
+  },
+  "lv1": {
+    "intro": {
+      "text": [
+        "\"It looks like an ordinary café. But behind every cup of coffee might lie a whole story.\"",
+        "\"It looks like an ordinary café. But behind every cup of coffee might lie a whole story.\""
+      ],
+      "speech": [
+        "speech_en_lv1_intro0",
+        "speech_en_lv1_intro0"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"A cup of coffee can hide many secrets. We found exactly what we needed.\"",
+        "\"A cup of coffee can hide many secrets. We found exactly what we needed.\""
+      ],
+      "speech": [
+        "speech_en_lv1_outro0",
+        "speech_en_lv1_outro0"
+      ]
+    }
+  },
+  "lv2": {
+    "intro": {
+      "text": [
+        "\"Through the cozy atmosphere of this room, a mystery seeps through. It’s time to uncover what it hides.\"",
+        "\"Through the cozy atmosphere of this room, a mystery seeps through. It’s time to uncover what it hides.\""
+      ],
+      "speech": [
+        "speech_en_lv2_intro0",
+        "speech_en_lv2_intro0"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"Sometimes the answer hides where you least expect it.\"",
+        "\"Sometimes the answer hides where you least expect it.\""
+      ],
+      "speech": [
+        "speech_en_lv2_outro1",
+        "speech_en_lv2_outro1"
+      ]
+    }
+  },
+  "lv3": {
+    "intro": {
+      "text": [
+        "\"An office is a place for reason. But is there something here that betrays emotion?\"",
+        "\"An office is a place for reason. But is there something here that betrays emotion?\""
+      ],
+      "speech": [
+        "speech_en_lv3_intro0",
+        "speech_en_lv3_intro0"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"Secrets love to hide among papers. Now they are ours.\"",
+        "\"Secrets love to hide among papers. Now they are ours.\""
+      ],
+      "speech": [
+        "speech_en_lv3_outro0",
+        "speech_en_lv3_outro0"
+      ]
+    }
+  },
+  "lv4": {
+    "intro": {
+      "text": [
+        "\"Music fills the air, but I sense something is amiss behind this melodic façade.\"",
+        "\"Music fills the air, but I sense something is amiss behind this melodic façade.\""
+      ],
+      "speech": [
+        "speech_en_lv4_intro0",
+        "speech_en_lv4_intro0"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"Every melody tells a story. Here, there were more stories than one might think.\"",
+        "\"Every melody tells a story. Here, there were more stories than one might think.\""
+      ],
+      "speech": [
+        "speech_en_lv4_outro0",
+        "speech_en_lv4_outro0"
+      ]
+    }
+  },
+  "lv5": {
+    "intro": {
+      "text": [
+        "\"A sweet aroma. But behind the display cases lies something more.\"",
+        "\"A sweet aroma. But behind the display cases lies something more.\""
+      ],
+      "speech": [
+        "speech_en_lv5_intro0",
+        "speech_en_lv5_intro0"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"Sweets weren’t the only thing hidden here.\"",
+        "\"Sweets weren’t the only thing hidden here.\""
+      ],
+      "speech": [
+        "speech_en_lv5_outro0",
+        "speech_en_lv5_outro0"
+      ]
+    }
+  },
+  "lv6": {
+    "intro": {
+      "text": [
+        "\"A café is a place of meetings and conversations. Perhaps someone left us a clue.\"",
+        "\"A café is a place of meetings and conversations. Perhaps someone left us a clue.\""
+      ],
+      "speech": [
+        "speech_en_lv6_intro0",
+        "speech_en_lv6_intro0"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"It seems a cup of coffee revealed more than its creators intended.\"",
+        "\"It seems a cup of coffee revealed more than its creators intended.\""
+      ],
+      "speech": [
+        "speech_en_lv6_outro0",
+        "speech_en_lv6_outro0"
+      ]
+    }
+  },
+  "lv7": {
+    "intro": {
+      "text": [
+        "\"These instruments hold not only sounds but also untold secrets. Let’s take a closer look.\"",
+        "\"These instruments hold not only sounds but also untold secrets. Let’s take a closer look.\""
+      ],
+      "speech": [
+        "speech_en_lv7_intro0",
+        "speech_en_lv7_intro0"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"It seems every string held a story waiting to be told.\"",
+        "\"It seems every string held a story waiting to be told.\""
+      ],
+      "speech": [
+        "speech_en_lv7_outro0",
+        "speech_en_lv7_outro0"
+      ]
+    }
+  },
+  "lv8": {
+    "intro": {
+      "text": [
+        "\"A kitchen is always alive with activity. But something here feels out of place.\"",
+        "\"A kitchen is always alive with activity. But something here feels out of place.\""
+      ],
+      "speech": [
+        "speech_en_lv8_intro0",
+        "speech_en_lv8_intro0"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"Behind these simple scents and cozy atmosphere lay a whole story.\"",
+        "\"Behind these simple scents and cozy atmosphere lay a whole story.\""
+      ],
+      "speech": [
+        "speech_en_lv8_outro0",
+        "speech_en_lv8_outro0"
+      ]
+    }
+  },
+  "lv9": {
+    "intro": {
+      "text": [
+        "\"This living room looks too perfect. Let’s inspect everything that stands out.\"",
+        "\"This living room looks too perfect. Let’s inspect everything that stands out.\""
+      ],
+      "speech": [
+        "speech_en_lv9_intro0",
+        "speech_en_lv9_intro0"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"The silence of the room was deceiving. We found what we needed.\"",
+        "\"The silence of the room was deceiving. We found what we needed.\""
+      ],
+      "speech": [
+        "speech_en_lv9_outro0",
+        "speech_en_lv9_outro0"
+      ]
+    }
+  },
+  "lv10": {
+    "intro": {
+      "text": [
+        "\"People come and go, but traces remain. Let’s find them.\"",
+        "\"People come and go, but traces remain. Let’s find them.\""
+      ],
+      "speech": [
+        "speech_en_lv10_intro0",
+        "speech_en_lv10_intro0"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"Now everything makes sense. The traces by the entrance told us more than anyone could have imagined.\"",
+        "\"Now everything makes sense. The traces by the entrance told us more than anyone could have imagined.\""
+      ],
+      "speech": [
+        "speech_en_lv10_outro0",
+        "speech_en_lv10_outro0"
+      ]
+    }
+  },
+  "lv11": {
+    "intro": {
+      "text": [
+        "\"A pantry hides more than just items. Sometimes, secrets are left there too.\"",
+        "\"A pantry hides more than just items. Sometimes, secrets are left there too.\""
+      ],
+      "speech": [
+        "speech_en_lv11_intro0",
+        "speech_en_lv11_intro0"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"A storage room always feels chaotic. But even in chaos, there’s order.\"",
+        "\"A storage room always feels chaotic. But even in chaos, there’s order.\""
+      ],
+      "speech": [
+        "speech_en_lv11_outro0",
+        "speech_en_lv11_outro0"
+      ]
+    }
+  },
+  "lv12": {
+    "intro": {
+      "text": [
+        "\"Everything here seems ordinary, but secrets are rarely left in obvious places.\"",
+        "\"Everything here seems ordinary, but secrets are rarely left in obvious places.\""
+      ],
+      "speech": [
+        "speech_en_lv12_intro0",
+        "speech_en_lv12_intro0"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"Now it’s clear that this is where it all began. Time to move forward.\"",
+        "\"Now it’s clear that this is where it all began. Time to move forward.\""
+      ],
+      "speech": [
+        "speech_en_lv12_outro0",
+        "speech_en_lv12_outro0"
+      ]
+    }
+  },
+  "lv13": {
+    "intro": {
+      "text": [
+        "\"Among the papers and books might be the key to the mystery. Let’s begin our search.\"",
+        "\"Among the papers and books might be the key to the mystery. Let’s begin our search.\""
+      ],
+      "speech": [
+        "speech_en_lv13_intro0",
+        "speech_en_lv13_intro0"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"Among the papers, there’s always something someone tried to hide.\"",
+        "\"Among the papers, there’s always something someone tried to hide.\""
+      ],
+      "speech": [
+        "speech_en_lv13_outro0",
+        "speech_en_lv13_outro0"
+      ]
+    }
+  },
+  "lv14": {
+    "intro": {
+      "text": [
+        "\"It seems the canvases hold more than just paint. Let’s see what the artist wanted to conceal.\"",
+        "\"It seems the canvases hold more than just paint. Let’s see what the artist wanted to conceal.\""
+      ],
+      "speech": [
+        "speech_en_lv14_intro0",
+        "speech_en_lv14_intro0"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"The paintings here revealed more than their creator.\"",
+        "\"The paintings here revealed more than their creator.\""
+      ],
+      "speech": [
+        "speech_en_lv14_outro0",
+        "speech_en_lv14_outro0"
+      ]
+    }
+  },
+  "lv15": {
+    "intro": {
+      "text": [
+        "\"This kitchen breathes stories. Let’s find the one we need.\"",
+        "\"This kitchen breathes stories. Let’s find the one we need.\""
+      ],
+      "speech": [
+        "speech_en_lv15_intro0",
+        "speech_en_lv15_intro0"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"Every ingredient here plays its role. And now, so do we.\"",
+        "\"Every ingredient here plays its role. And now, so do we.\""
+      ],
+      "speech": [
+        "speech_en_lv15_outro0",
+        "speech_en_lv15_outro0"
+      ]
+    }
+  },
+  "lv16": {
+    "intro": {
+      "text": [
+        "\"The silence of the greenhouse is deceptive. Secrets might be hiding behind any leaf.\"",
+        "\"The silence of the greenhouse is deceptive. Secrets might be hiding behind any leaf.\""
+      ],
+      "speech": [
+        "speech_en_lv16_intro0",
+        "speech_en_lv16_intro0"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"Hidden among the greenery were not only flowers but answers.\"",
+        "\"Hidden among the greenery were not only flowers but answers.\""
+      ],
+      "speech": [
+        "speech_en_lv16_outro0",
+        "speech_en_lv16_outro0"
+      ]
+    }
+  },
+  "lv17": {
+    "intro": {
+      "text": [
+        "\"In this chaos of objects, something important is concealed. The key is not to miss it.\"",
+        "\"In this chaos of objects, something important is concealed. The key is not to miss it.\""
+      ],
+      "speech": [
+        "speech_en_lv17_intro0",
+        "speech_en_lv17_intro0"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"They sell style here, but the secrets remain behind the counter.\"",
+        "\"They sell style here, but the secrets remain behind the counter.\""
+      ],
+      "speech": [
+        "speech_en_lv17_outro0",
+        "speech_en_lv17_outro0"
+      ]
+    }
+  },
+  "lv18": {
+    "intro": {
+      "text": [
+        "\"It seems someone left here in a hurry. Let’s check what remains.\"",
+        "\"It seems someone left here in a hurry. Let’s check what remains.\""
+      ],
+      "speech": [
+        "speech_en_lv18_intro0",
+        "speech_en_lv18_intro0"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"Behind closed doors, there’s always something unexpected.\"",
+        "\"Behind closed doors, there’s always something unexpected.\""
+      ],
+      "speech": [
+        "speech_en_lv18_outro0",
+        "speech_en_lv18_outro0"
+      ]
+    }
+  },
+  "lv19": {
+    "intro": {
+      "text": [
+        "\"Every little thing in this apartment could be significant. Let’s take a look.\"",
+        "\"Every little thing in this apartment could be significant. Let’s take a look.\""
+      ],
+      "speech": [
+        "speech_en_lv19_intro0",
+        "speech_en_lv19_intro0"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"A simple setting, but we found what we were searching for.\"",
+        "\"A simple setting, but we found what we were searching for.\""
+      ],
+      "speech": [
+        "speech_en_lv19_outro0",
+        "speech_en_lv19_outro0"
+      ]
+    }
+  },
+  "lv20": {
+    "intro": {
+      "text": [
+        "\"A workshop is a place of labor and mysteries. It’s time to find the missing piece.\"",
+        "\"A workshop is a place of labor and mysteries. It’s time to find the missing piece.\""
+      ],
+      "speech": [
+        "speech_en_lv20_intro0",
+        "speech_en_lv20_intro0"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"A working mess often hides far too much.\"",
+        "\"A working mess often hides far too much.\""
+      ],
+      "speech": [
+        "speech_en_lv20_outro0",
+        "speech_en_lv20_outro0"
+      ]
+    }
+  },
+  "lv21": {
+    "intro": {
+      "text": [
+        "\"This living room looks impeccable, but secrets are rarely obvious.\"",
+        "\"This living room looks impeccable, but secrets are rarely obvious.\""
+      ],
+      "speech": [
+        "speech_en_lv21_intro0",
+        "speech_en_lv21_intro0"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"What looked familiar turned out to be part of a bigger plan.\"",
+        "\"What looked familiar turned out to be part of a bigger plan.\""
+      ],
+      "speech": [
+        "speech_en_lv21_outro0",
+        "speech_en_lv21_outro0"
+      ]
+    }
+  },
+  "lv22": {
+    "intro": {
+      "text": [
+        "\"Every drawer here could be a hiding spot. Let’s check down to the last spoon.\"",
+        "\"Every drawer here could be a hiding spot. Let’s check down to the last spoon.\""
+      ],
+      "speech": [
+        "speech_en_lv22_intro0",
+        "speech_en_lv22_intro0"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"Every crumb here spoke of what we had previously missed.\"",
+        "\"Every crumb here spoke of what we had previously missed.\""
+      ],
+      "speech": [
+        "speech_en_lv22_outro0",
+        "speech_en_lv22_outro0"
+      ]
+    }
+  },
+  "lv23": {
+    "intro": {
+      "text": [
+        "\"Every living room holds its own stories. Let’s find the one we need.\"",
+        "\"Every living room holds its own stories. Let’s find the one we need.\""
+      ],
+      "speech": [
+        "speech_en_lv23_intro0",
+        "speech_en_lv23_intro0"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"The silence of this room was louder than many words.\"",
+        "\"The silence of this room was louder than many words.\""
+      ],
+      "speech": [
+        "speech_en_lv23_outro0",
+        "speech_en_lv23_outro0"
+      ]
+    }
+  },
+  "lv24": {
+    "intro": {
+      "text": [
+        "\"Whose room is this? It feels like it’s calling us to uncover its secrets.\"",
+        "\"Whose room is this? It feels like it’s calling us to uncover its secrets.\""
+      ],
+      "speech": [
+        "speech_en_lv24_intro0",
+        "speech_en_lv24_intro0"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"The room looked familiar, but in its quiet, we found the answer.\"",
+        "\"The room looked familiar, but in its quiet, we found the answer.\""
+      ],
+      "speech": [
+        "speech_en_lv24_outro0",
+        "speech_en_lv24_outro0"
+      ]
+    }
+  },
+  "lv25": {
+    "intro": {
+      "text": [
+        "\"This room looks empty, but I sense it holds answers.\"",
+        "\"This room looks empty, but I sense it holds answers.\""
+      ],
+      "speech": [
+        "speech_en_lv25_intro0",
+        "speech_en_lv25_intro0"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"For now, it’s enough, but one day this room will reveal even more.\"",
+        "\"For now, it’s enough, but one day this room will reveal even more.\""
+      ],
+      "speech": [
+        "speech_en_lv25_outro0",
+        "speech_en_lv25_outro0"
+      ]
+    }
+  },
+  "lv26": {
+    "intro": {
+      "text": [
+        "\"A summer kitchen is always full of life. But something here feels out of place.\"",
+        "\"A summer kitchen is always full of life. But something here feels out of place.\""
+      ],
+      "speech": [
+        "speech_en_lv26_intro0",
+        "speech_en_lv26_intro0"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"A simple place, but the answers here were far more complex.\"",
+        "\"A simple place, but the answers here were far more complex.\""
+      ],
+      "speech": [
+        "speech_en_lv26_outro0",
+        "speech_en_lv26_outro0"
+      ]
+    }
+  },
+  "lv27": {
+    "intro": {
+      "text": [
+        "\"Every little thing in the room could reveal something about its owner. Let’s investigate.\"",
+        "\"Every little thing in the room could reveal something about its owner. Let’s investigate.\""
+      ],
+      "speech": [
+        "speech_en_lv27_intro0",
+        "speech_en_lv27_intro0"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"This space housed not only guests but traces of the truth.\"",
+        "\"This space housed not only guests but traces of the truth.\""
+      ],
+      "speech": [
+        "speech_en_lv27_outro0",
+        "speech_en_lv27_outro0"
+      ]
+    }
+  },
+  "lv28": {
+    "intro": {
+      "text": [
+        "\"How many stories have passed through this room? Perhaps one of them is ours.\"",
+        "\"How many stories have passed through this room? Perhaps one of them is ours.\""
+      ],
+      "speech": [
+        "speech_en_lv28_intro0",
+        "speech_en_lv28_intro0"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"Too many details for a room that claims to hide nothing.\"",
+        "\"Too many details for a room that claims to hide nothing.\""
+      ],
+      "speech": [
+        "speech_en_lv28_outro0",
+        "speech_en_lv28_outro0"
+      ]
+    }
+  },
+  "lv29": {
+    "intro": {
+      "text": [
+        "\"A hallway might seem like just a passage, but traces always remain. Let’s examine it carefully.\"",
+        "\"A hallway might seem like just a passage, but traces always remain. Let’s examine it carefully.\""
+      ],
+      "speech": [
+        "speech_en_lv29_intro0",
+        "speech_en_lv29_intro0"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"A hallway always feels transient. But this one held something important.\"",
+        "\"A hallway always feels transient. But this one held something important.\""
+      ],
+      "speech": [
+        "speech_en_lv29_outro0",
+        "speech_en_lv29_outro0"
+      ]
+    }
+  },
+  "lv30": {
+    "intro": {
+      "text": [
+        "\"There’s a feeling something important happened here. Let’s find out what.\"",
+        "\"There’s a feeling something important happened here. Let’s find out what.\""
+      ],
+      "speech": [
+        "speech_en_lv30_intro0",
+        "speech_en_lv30_intro0"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"The answers are gathered, but the spirit of the living room leaves a strange feeling of incompleteness.\"",
+        "\"The answers are gathered, but the spirit of the living room leaves a strange feeling of incompleteness.\""
+      ],
+      "speech": [
+        "speech_en_lv30_outro0",
+        "speech_en_lv30_outro0"
+      ]
+    }
+  },
+  "lv31": {
+    "intro": {
+      "text": [
+        "\"This dining room seems frozen in time. But the details give away its secrets.\"",
+        "\"This dining room seems frozen in time. But the details give away its secrets.\""
+      ],
+      "speech": [
+        "speech_en_lv31_intro0",
+        "speech_en_lv31_intro0"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"The dining room reminded us that the truth is often sought in the wrong places.\"",
+        "\"The dining room reminded us that the truth is often sought in the wrong places.\""
+      ],
+      "speech": [
+        "speech_en_lv31_outro0",
+        "speech_en_lv31_outro0"
+      ]
+    }
+  },
+  "lv32": {
+    "intro": {
+      "text": [
+        "\"The setup is too perfect for a meal. Let’s look closer.\"",
+        "\"The setup is too perfect for a meal. Let’s look closer.\""
+      ],
+      "speech": [
+        "speech_en_lv32_intro0",
+        "speech_en_lv32_intro0"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"The dining room concealed its secret not in the food but in the words left unsaid.\"",
+        "\"The dining room concealed its secret not in the food but in the words left unsaid.\""
+      ],
+      "speech": [
+        "speech_en_lv32_outro0",
+        "speech_en_lv32_outro0"
+      ]
+    }
+  },
+  "lv33": {
+    "intro": {
+      "text": [
+        "\"Everything seems in place, but first impressions are often deceptive.\"",
+        "\"Everything seems in place, but first impressions are often deceptive.\""
+      ],
+      "speech": [
+        "speech_en_lv33_intro0",
+        "speech_en_lv33_intro0"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"The coziness of this room was deceptive. Not everything was as simple as it seemed.\"",
+        "\"The coziness of this room was deceptive. Not everything was as simple as it seemed.\""
+      ],
+      "speech": [
+        "speech_en_lv33_outro0",
+        "speech_en_lv33_outro0"
+      ]
+    }
+  },
+  "lv34": {
+    "intro": {
+      "text": [
+        "\"You can sense a lot has happened here. Let’s delve into it.\"",
+        "\"You can sense a lot has happened here. Let’s delve into it.\""
+      ],
+      "speech": [
+        "speech_en_lv34_intro0",
+        "speech_en_lv34_intro0"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"Here, silence spoke louder than any words.\"",
+        "\"Here, silence spoke louder than any words.\""
+      ],
+      "speech": [
+        "speech_en_lv34_outro0",
+        "speech_en_lv34_outro0"
+      ]
+    }
+  },
+  "lv35": {
+    "intro": {
+      "text": [
+        "\"This living room seems to be hiding something. Let’s find what we need.\"",
+        "\"This living room seems to be hiding something. Let’s find what we need.\""
+      ],
+      "speech": [
+        "speech_en_lv35_intro0",
+        "speech_en_lv35_intro0"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"Its walls hid too much to remain silent forever.\"",
+        "\"Its walls hid too much to remain silent forever.\""
+      ],
+      "speech": [
+        "speech_en_lv35_outro0",
+        "speech_en_lv35_outro0"
+      ]
+    }
+  },
+  "lv36": {
+    "intro": {
+      "text": [
+        "\"The kitchen holds more than just aromas. Let’s inspect everything around.\"",
+        "\"The kitchen holds more than just aromas. Let’s inspect everything around.\""
+      ],
+      "speech": [
+        "speech_en_lv36_intro0",
+        "speech_en_lv36_intro0"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"Kitchen conversations are the most honest. Here, it proved true.\"",
+        "\"Kitchen conversations are the most honest. Here, it proved true.\""
+      ],
+      "speech": [
+        "speech_en_lv36_outro0",
+        "speech_en_lv36_outro0"
+      ]
+    }
+  },
+  "lv37": {
+    "intro": {
+      "text": [
+        "\"This living room looks cozy, but coziness can often be deceptive.\"",
+        "\"This living room looks cozy, but coziness can often be deceptive.\""
+      ],
+      "speech": [
+        "speech_en_lv37_intro0",
+        "speech_en_lv37_intro0"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"The living room felt like a time capsule full of hints.\"",
+        "\"The living room felt like a time capsule full of hints.\""
+      ],
+      "speech": [
+        "speech_en_lv37_outro0",
+        "speech_en_lv37_outro0"
+      ]
+    }
+  },
+  "lv38": {
+    "intro": {
+      "text": [
+        "\"Plates, utensils, candles... Which of these will give us the clues we need?\"",
+        "\"Plates, utensils, candles... Which of these will give us the clues we need?\""
+      ],
+      "speech": [
+        "speech_en_lv38_intro0",
+        "speech_en_lv38_intro0"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"We’re done here, but the atmosphere suggests I might return one day.\"",
+        "\"We’re done here, but the atmosphere suggests I might return one day.\""
+      ],
+      "speech": [
+        "speech_en_lv38_outro0",
+        "speech_en_lv38_outro0"
+      ]
+    }
+  },
+  "lv39": {
+    "intro": {
+      "text": [
+        "\"The kitchen and dining room are always full of life. And that means clues too.\"",
+        "\"The kitchen and dining room are always full of life. And that means clues too.\""
+      ],
+      "speech": [
+        "speech_en_lv39_intro0",
+        "speech_en_lv39_intro0"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"The room’s secrets are uncovered, but perhaps behind its cozy facade lies something more.\"",
+        "\"The room’s secrets are uncovered, but perhaps behind its cozy facade lies something more.\""
+      ],
+      "speech": [
+        "speech_en_lv39_outro0",
+        "speech_en_lv39_outro0"
+      ]
+    }
+  },
+  "lv40": {
+    "intro": {
+      "text": [
+        "\"This office has seen many stories. Let’s find the one we need.\"",
+        "\"This office has seen many stories. Let’s find the one we need.\""
+      ],
+      "speech": [
+        "speech_en_lv40_intro0",
+        "speech_en_lv40_intro0"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"Everything’s been found for now, but this office feels like an old teacher holding onto one more lesson.\"",
+        "\"Everything’s been found for now, but this office feels like an old teacher holding onto one more lesson.\""
+      ],
+      "speech": [
+        "speech_en_lv40_outro0",
+        "speech_en_lv40_outro0"
+      ]
+    }
+  },
+  "lv41": {
+    "intro": {
+      "text": [
+        "\"Among fabrics and items, something important might be hidden. Let’s investigate.\"",
+        "\"Among fabrics and items, something important might be hidden. Let’s investigate.\""
+      ],
+      "speech": [
+        "speech_en_lv41_intro0",
+        "speech_en_lv41_intro0"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"The wardrobe hid not just clothes but shadows of the past.\"",
+        "\"The wardrobe hid not just clothes but shadows of the past.\""
+      ],
+      "speech": [
+        "speech_en_lv41_outro0",
+        "speech_en_lv41_outro0"
+      ]
+    }
+  },
+  "lv42": {
+    "intro": {
+      "text": [
+        "\"Every corner here could conceal a clue. Let’s search.\"",
+        "\"Every corner here could conceal a clue. Let’s search.\""
+      ],
+      "speech": [
+        "speech_en_lv42_intro0",
+        "speech_en_lv42_intro0"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"Everything seems clear here, but behind this quiet might lie untold stories.\"",
+        "\"Everything seems clear here, but behind this quiet might lie untold stories.\""
+      ],
+      "speech": [
+        "speech_en_lv42_outro0",
+        "speech_en_lv42_outro0"
+      ]
+    }
+  },
+  "lv43": {
+    "intro": {
+      "text": [
+        "\"The living room is a perfect place to hide small secrets. Let’s take a look.\"",
+        "\"The living room is a perfect place to hide small secrets. Let’s take a look.\""
+      ],
+      "speech": [
+        "speech_en_lv43_intro0",
+        "speech_en_lv43_intro0"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"It felt as if the walls were ready to tell more than the owners.\"",
+        "\"It felt as if the walls were ready to tell more than the owners.\""
+      ],
+      "speech": [
+        "speech_en_lv43_outro0",
+        "speech_en_lv43_outro0"
+      ]
+    }
+  },
+  "lv44": {
+    "intro": {
+      "text": [
+        "\"This café has witnessed too many conversations. Let’s find the one we need.\"",
+        "\"This café has witnessed too many conversations. Let’s find the one we need.\""
+      ],
+      "speech": [
+        "speech_en_lv44_intro0",
+        "speech_en_lv44_intro0"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"They didn’t serve lies here, but the truth was brewed too strong.\"",
+        "\"They didn’t serve lies here, but the truth was brewed too strong.\""
+      ],
+      "speech": [
+        "speech_en_lv44_outro0",
+        "speech_en_lv44_outro0"
+      ]
+    }
+  },
+  "lv45": {
+    "intro": {
+      "text": [
+        "\"This room holds not only objects but also important details. Let’s find them.\"",
+        "\"This room holds not only objects but also important details. Let’s find them.\""
+      ],
+      "speech": [
+        "speech_en_lv45_intro0",
+        "speech_en_lv45_intro0"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"Sometimes objects reveal more than their owners. Here, it was especially true.\"",
+        "\"Sometimes objects reveal more than their owners. Here, it was especially true.\""
+      ],
+      "speech": [
+        "speech_en_lv45_outro0",
+        "speech_en_lv45_outro0"
+      ]
+    }
+  },
+  "lv46": {
+    "intro": {
+      "text": [
+        "\"I’m sure there’s something here that will change the course of events. Let’s search.\"",
+        "\"I’m sure there’s something here that will change the course of events. Let’s search.\""
+      ],
+      "speech": [
+        "speech_en_lv46_intro0",
+        "speech_en_lv46_intro0"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"It seems everything’s been uncovered, but this room might still tell its story.\"",
+        "\"It seems everything’s been uncovered, but this room might still tell its story.\""
+      ],
+      "speech": [
+        "speech_en_lv46_outro0",
+        "speech_en_lv46_outro0"
+      ]
+    }
+  },
+  "lv47": {
+    "intro": {
+      "text": [
+        "\"The silence of the bedroom can be misleading. Let’s check everything down to the smallest detail.\"",
+        "\"The silence of the bedroom can be misleading. Let’s check everything down to the smallest detail.\""
+      ],
+      "speech": [
+        "speech_en_lv47_intro0",
+        "speech_en_lv47_intro0"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"This bedroom hadn’t known peace for a long time, despite its serene appearance.\"",
+        "\"This bedroom hadn’t known peace for a long time, despite its serene appearance.\""
+      ],
+      "speech": [
+        "speech_en_lv47_outro0",
+        "speech_en_lv47_outro0"
+      ]
+    }
+  },
+  "lv48": {
+    "intro": {
+      "text": [
+        "\"I feel this room holds not only objects but also secrets.\"",
+        "\"I feel this room holds not only objects but also secrets.\""
+      ],
+      "speech": [
+        "speech_en_lv48_intro0",
+        "speech_en_lv48_intro0"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"Every corner of this room held its piece of the puzzle.\"",
+        "\"Every corner of this room held its piece of the puzzle.\""
+      ],
+      "speech": [
+        "speech_en_lv48_outro0",
+        "speech_en_lv48_outro0"
+      ]
+    }
+  },
+  "lv49": {
+    "intro": {
+      "text": [
+        "\"It’s so peaceful here that it seems nothing could have happened. But details can tell a different story.\"",
+        "\"It’s so peaceful here that it seems nothing could have happened. But details can tell a different story.\""
+      ],
+      "speech": [
+        "speech_en_lv49_intro0",
+        "speech_en_lv49_intro0"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"In the shadow of familiar comfort lay the answers we sought.\"",
+        "\"In the shadow of familiar comfort lay the answers we sought.\""
+      ],
+      "speech": [
+        "speech_en_lv49_outro0",
+        "speech_en_lv49_outro0"
+      ]
+    }
+  },
+  "lv50": {
+    "intro": {
+      "text": [
+        "\"Every cup of coffee leaves its mark. Let’s see what we can uncover.\"",
+        "\"Every cup of coffee leaves its mark. Let’s see what we can uncover.\""
+      ],
+      "speech": [
+        "speech_en_lv44_intro1",
+        "speech_en_lv44_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"In this café, every glance spoke louder than words.\"",
+        "\"In this café, every glance spoke louder than words.\""
+      ],
+      "speech": [
+        "speech_en_lv44_outro1",
+        "speech_en_lv44_outro1"
+      ]
+    }
+  },
+  "lv51": {
+    "intro": {
+      "text": [
+        "\"Street cafés always carry an air of mystery. Let’s take a closer look.\"",
+        "\"Street cafés always carry an air of mystery. Let’s take a closer look.\""
+      ],
+      "speech": [
+        "speech_en_lv1_intro1",
+        "speech_en_lv1_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"Faces change in the crowd, but traces remain. And we found them.\"",
+        "\"Faces change in the crowd, but traces remain. And we found them.\""
+      ],
+      "speech": [
+        "speech_en_lv1_outro1",
+        "speech_en_lv1_outro1"
+      ]
+    }
+  },
+  "lv52": {
+    "intro": {
+      "text": [
+        "\"Every item here has its place. But what stands out from the overall order?\"",
+        "\"Every item here has its place. But what stands out from the overall order?\""
+      ],
+      "speech": [
+        "speech_en_lv47_intro1",
+        "speech_en_lv47_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"Here, every little thing pointed to a story someone tried to hide.\"",
+        "\"Here, every little thing pointed to a story someone tried to hide.\""
+      ],
+      "speech": [
+        "speech_en_lv47_outro1",
+        "speech_en_lv47_outro1"
+      ]
+    }
+  },
+  "lv53": {
+    "intro": {
+      "text": [
+        "\"If anyone left clues here, they’re surely hidden in the details.\"",
+        "\"If anyone left clues here, they’re surely hidden in the details.\""
+      ],
+      "speech": [
+        "speech_en_lv4_intro1",
+        "speech_en_lv4_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"Sometimes silence speaks louder than music. Especially here.\"",
+        "\"Sometimes silence speaks louder than music. Especially here.\""
+      ],
+      "speech": [
+        "speech_en_lv4_outro1",
+        "speech_en_lv4_outro1"
+      ]
+    }
+  },
+  "lv54": {
+    "intro": {
+      "text": [
+        "\"This room has its own past. Let’s carefully study everything around.\"",
+        "\"This room has its own past. Let’s carefully study everything around.\""
+      ],
+      "speech": [
+        "speech_en_lv23_intro1",
+        "speech_en_lv23_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"The living room gave away its owners—one just had to look closer.\"",
+        "\"The living room gave away its owners—one just had to look closer.\""
+      ],
+      "speech": [
+        "speech_en_lv23_outro1",
+        "speech_en_lv23_outro1"
+      ]
+    }
+  },
+  "lv55": {
+    "intro": {
+      "text": [
+        "\"Every table setting tells a story. Let’s see what’s hidden here.\"",
+        "\"Every table setting tells a story. Let’s see what’s hidden here.\""
+      ],
+      "speech": [
+        "speech_en_lv31_intro1",
+        "speech_en_lv31_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"This place held more than just memories of meals.\"",
+        "\"This place held more than just memories of meals.\""
+      ],
+      "speech": [
+        "speech_en_lv32_outro1",
+        "speech_en_lv32_outro1"
+      ]
+    }
+  },
+  "lv56": {
+    "intro": {
+      "text": [
+        "\"It seems someone has a taste for both sweets and secrets. But even here, there are mysteries to uncover.\"",
+        "\"It seems someone has a taste for both sweets and secrets. But even here, there are mysteries to uncover.\""
+      ],
+      "speech": [
+        "speech_en_lv5_intro1",
+        "speech_en_lv5_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"Behind this display case lay more than just pastries.\"",
+        "\"Behind this display case lay more than just pastries.\""
+      ],
+      "speech": [
+        "speech_en_lv5_outro1",
+        "speech_en_lv5_outro1"
+      ]
+    }
+  },
+  "lv57": {
+    "intro": {
+      "text": [
+        "\"Every knife, every cup could be a piece of the puzzle.\"",
+        "\"Every knife, every cup could be a piece of the puzzle.\""
+      ],
+      "speech": [
+        "speech_en_lv38_intro1",
+        "speech_en_lv38_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"The secrets dissolved like the aromas of dishes. There are no more questions here.\"",
+        "\"The secrets dissolved like the aromas of dishes. There are no more questions here.\""
+      ],
+      "speech": [
+        "speech_en_lv38_outro1",
+        "speech_en_lv38_outro1"
+      ]
+    }
+  },
+  "lv58": {
+    "intro": {
+      "text": [
+        "\"In a room like this, it’s hard to hide anything. But we’ll find it anyway.\"",
+        "\"In a room like this, it’s hard to hide anything. But we’ll find it anyway.\""
+      ],
+      "speech": [
+        "speech_en_lv24_intro1",
+        "speech_en_lv24_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"Here, objects speak louder than people. And we listened.\"",
+        "\"Here, objects speak louder than people. And we listened.\""
+      ],
+      "speech": [
+        "speech_en_lv24_outro1",
+        "speech_en_lv24_outro1"
+      ]
+    }
+  },
+  "lv59": {
+    "intro": {
+      "text": [
+        "\"It seems someone tried to leave something unnoticed. We’ll find it.\"",
+        "\"It seems someone tried to leave something unnoticed. We’ll find it.\""
+      ],
+      "speech": [
+        "speech_en_lv27_intro1",
+        "speech_en_lv27_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"Here, we saw more than we were meant to.\"",
+        "\"Here, we saw more than we were meant to.\""
+      ],
+      "speech": [
+        "speech_en_lv29_outro1",
+        "speech_en_lv29_outro1"
+      ]
+    }
+  },
+  "lv60": {
+    "intro": {
+      "text": [
+        "\"At first glance, nothing unusual. But let’s take a closer look.\"",
+        "\"At first glance, nothing unusual. But let’s take a closer look.\""
+      ],
+      "speech": [
+        "speech_en_lv29_intro1",
+        "speech_en_lv29_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"This time, I’m leaving with the solutions, but there’s something inexplicable lingering in the air.\"",
+        "\"This time, I’m leaving with the solutions, but there’s something inexplicable lingering in the air.\""
+      ],
+      "speech": [
+        "speech_en_lv30_outro1",
+        "speech_en_lv30_outro1"
+      ]
+    }
+  },
+  "lv61": {
+    "intro": {
+      "text": [
+        "\"Something is hidden in plain sight. Let’s search more carefully.\"",
+        "\"Something is hidden in plain sight. Let’s search more carefully.\""
+      ],
+      "speech": [
+        "speech_en_lv11_intro1",
+        "speech_en_lv11_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"Small spaces sometimes hold the biggest secrets.\"",
+        "\"Small spaces sometimes hold the biggest secrets.\""
+      ],
+      "speech": [
+        "speech_en_lv11_outro1",
+        "speech_en_lv11_outro1"
+      ]
+    }
+  },
+  "lv62": {
+    "intro": {
+      "text": [
+        "\"It feels like something unusual is hidden among the usual. Let’s find it.\"",
+        "\"It feels like something unusual is hidden among the usual. Let’s find it.\""
+      ],
+      "speech": [
+        "speech_en_lv12_intro1",
+        "speech_en_lv12_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"I’ve gathered everything, yet the room seems reluctant to let go of its secrets.\"",
+        "\"I’ve gathered everything, yet the room seems reluctant to let go of its secrets.\""
+      ],
+      "speech": [
+        "speech_en_lv12_outro1",
+        "speech_en_lv12_outro1"
+      ]
+    }
+  },
+  "lv63": {
+    "intro": {
+      "text": [
+        "\"An office is a perfect place for secrets. Let’s check every corner.\"",
+        "\"An office is a perfect place for secrets. Let’s check every corner.\""
+      ],
+      "speech": [
+        "speech_en_lv13_intro1",
+        "speech_en_lv13_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"This office told a story that wasn’t its own.\"",
+        "\"This office told a story that wasn’t its own.\""
+      ],
+      "speech": [
+        "speech_en_lv13_outro1",
+        "speech_en_lv13_outro1"
+      ]
+    }
+  },
+  "lv64": {
+    "intro": {
+      "text": [
+        "\"A workshop is a place of creation, but sometimes of puzzles too. Let’s explore it.\"",
+        "\"A workshop is a place of creation, but sometimes of puzzles too. Let’s explore it.\""
+      ],
+      "speech": [
+        "speech_en_lv14_intro1",
+        "speech_en_lv14_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"A workshop holds not only creativity but the secrets of its owner.\"",
+        "\"A workshop holds not only creativity but the secrets of its owner.\""
+      ],
+      "speech": [
+        "speech_en_lv14_outro1",
+        "speech_en_lv14_outro1"
+      ]
+    }
+  },
+  "lv65": {
+    "intro": {
+      "text": [
+        "\"Many people, many stories. We need to sift through and find the key.\"",
+        "\"Many people, many stories. We need to sift through and find the key.\""
+      ],
+      "speech": [
+        "speech_en_lv6_intro1",
+        "speech_en_lv6_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"A café is a place of meetings and stories. We found the one we were looking for.\"",
+        "\"A café is a place of meetings and stories. We found the one we were looking for.\""
+      ],
+      "speech": [
+        "speech_en_lv6_outro1",
+        "speech_en_lv6_outro1"
+      ]
+    }
+  },
+  "lv66": {
+    "intro": {
+      "text": [
+        "\"Plants preserve more than just beauty. Let’s see what they’re hiding.\"",
+        "\"Plants preserve more than just beauty. Let’s see what they’re hiding.\""
+      ],
+      "speech": [
+        "speech_en_lv16_intro1",
+        "speech_en_lv16_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"Secrets grow where they’re least expected.\"",
+        "\"Secrets grow where they’re least expected.\""
+      ],
+      "speech": [
+        "speech_en_lv16_outro1",
+        "speech_en_lv16_outro1"
+      ]
+    }
+  },
+  "lv67": {
+    "intro": {
+      "text": [
+        "\"A store is an unexpected place for secrets. Let’s take a closer look.\"",
+        "\"A store is an unexpected place for secrets. Let’s take a closer look.\""
+      ],
+      "speech": [
+        "speech_en_lv17_intro1",
+        "speech_en_lv17_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"Labels weren’t the only things that could tell the truth.\"",
+        "\"Labels weren’t the only things that could tell the truth.\""
+      ],
+      "speech": [
+        "speech_en_lv17_outro1",
+        "speech_en_lv17_outro1"
+      ]
+    }
+  },
+  "lv68": {
+    "intro": {
+      "text": [
+        "\"An ordinary apartment, but the atmosphere suggests something happened here.\"",
+        "\"An ordinary apartment, but the atmosphere suggests something happened here.\""
+      ],
+      "speech": [
+        "speech_en_lv18_intro1",
+        "speech_en_lv18_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"This apartment no longer looks so ordinary.\"",
+        "\"This apartment no longer looks so ordinary.\""
+      ],
+      "speech": [
+        "speech_en_lv18_outro1",
+        "speech_en_lv18_outro1"
+      ]
+    }
+  },
+  "lv69": {
+    "intro": {
+      "text": [
+        "\"Something about this room tells me we’re on the right track.\"",
+        "\"Something about this room tells me we’re on the right track.\""
+      ],
+      "speech": [
+        "speech_en_lv19_intro1",
+        "speech_en_lv19_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"The apartment came alive to tell us its version of events.\"",
+        "\"The apartment came alive to tell us its version of events.\""
+      ],
+      "speech": [
+        "speech_en_lv19_outro1",
+        "speech_en_lv19_outro1"
+      ]
+    }
+  },
+  "lv70": {
+    "intro": {
+      "text": [
+        "\"It seems someone was in a hurry and left traces behind. Let’s check everything.\"",
+        "\"It seems someone was in a hurry and left traces behind. Let’s check everything.\""
+      ],
+      "speech": [
+        "speech_en_lv32_intro1",
+        "speech_en_lv32_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"It seems everything has been found, but there’s a sense this room has more to tell.\"",
+        "\"It seems everything has been found, but there’s a sense this room has more to tell.\""
+      ],
+      "speech": [
+        "speech_en_lv31_outro1",
+        "speech_en_lv31_outro1"
+      ]
+    }
+  },
+  "lv71": {
+    "intro": {
+      "text": [
+        "\"It’s clear someone didn’t want us to find anything. Let’s examine everything thoroughly.\"",
+        "\"It’s clear someone didn’t want us to find anything. Let’s examine everything thoroughly.\""
+      ],
+      "speech": [
+        "speech_en_lv21_intro1",
+        "speech_en_lv21_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"It seems we’ve come too close to solving the mystery here.\"",
+        "\"It seems we’ve come too close to solving the mystery here.\""
+      ],
+      "speech": [
+        "speech_en_lv21_outro1",
+        "speech_en_lv21_outro1"
+      ]
+    }
+  },
+  "lv72": {
+    "intro": {
+      "text": [
+        "\"The smell of fresh baking, but behind the aroma, other clues are hidden.\"",
+        "\"The smell of fresh baking, but behind the aroma, other clues are hidden.\""
+      ],
+      "speech": [
+        "speech_en_lv22_intro1",
+        "speech_en_lv22_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"Sometimes walls see too much. This room could have told us everything.\"",
+        "\"Sometimes walls see too much. This room could have told us everything.\""
+      ],
+      "speech": [
+        "speech_en_lv48_outro1",
+        "speech_en_lv48_outro1"
+      ]
+    }
+  },
+  "lv73": {
+    "intro": {
+      "text": [
+        "\"Something here clearly doesn’t fit the usual order. Let’s find it.\"",
+        "\"Something here clearly doesn’t fit the usual order. Let’s find it.\""
+      ],
+      "speech": [
+        "speech_en_lv33_intro1",
+        "speech_en_lv33_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"It looked ordinary until we understood what lay behind its facade.\"",
+        "\"It looked ordinary until we understood what lay behind its facade.\""
+      ],
+      "speech": [
+        "speech_en_lv33_outro1",
+        "speech_en_lv33_outro1"
+      ]
+    }
+  },
+  "lv74": {
+    "intro": {
+      "text": [
+        "\"It’s hard to miss—someone left this room in a hurry. What did they leave behind?\"",
+        "\"It’s hard to miss—someone left this room in a hurry. What did they leave behind?\""
+      ],
+      "speech": [
+        "speech_en_lv2_intro1",
+        "speech_en_lv2_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"At first glance, it was just an ordinary room, but its secrets were far more intriguing.\"",
+        "\"At first glance, it was just an ordinary room, but its secrets were far more intriguing.\""
+      ],
+      "speech": [
+        "speech_en_lv2_outro0",
+        "speech_en_lv2_outro0"
+      ]
+    }
+  },
+  "lv75": {
+    "intro": {
+      "text": [
+        "\"Someone was in a rush in this kitchen. Let’s see what went unnoticed.\"",
+        "\"Someone was in a rush in this kitchen. Let’s see what went unnoticed.\""
+      ],
+      "speech": [
+        "speech_en_lv26_intro1",
+        "speech_en_lv26_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"The summer kitchen revealed that even in simplicity, much can be hidden.\"",
+        "\"The summer kitchen revealed that even in simplicity, much can be hidden.\""
+      ],
+      "speech": [
+        "speech_en_lv26_outro1",
+        "speech_en_lv26_outro1"
+      ]
+    }
+  },
+  "lv76": {
+    "intro": {
+      "text": [
+        "\"Among the tools, there’s always something intriguing to discover.\"",
+        "\"Among the tools, there’s always something intriguing to discover.\""
+      ],
+      "speech": [
+        "speech_en_lv20_intro1",
+        "speech_en_lv20_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"These instruments stored not only melodies but echoes of the past.\"",
+        "\"These instruments stored not only melodies but echoes of the past.\""
+      ],
+      "speech": [
+        "speech_en_lv7_outro1",
+        "speech_en_lv7_outro1"
+      ]
+    }
+  },
+  "lv77": {
+    "intro": {
+      "text": [
+        "\"At first glance, just an ordinary kitchen. But the details might reveal its secrets.\"",
+        "\"At first glance, just an ordinary kitchen. But the details might reveal its secrets.\""
+      ],
+      "speech": [
+        "speech_en_lv36_intro1",
+        "speech_en_lv36_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"The smells and details of this kitchen brought us closer to the truth.\"",
+        "\"The smells and details of this kitchen brought us closer to the truth.\""
+      ],
+      "speech": [
+        "speech_en_lv36_outro1",
+        "speech_en_lv36_outro1"
+      ]
+    }
+  },
+  "lv78": {
+    "intro": {
+      "text": [
+        "\"Someone clearly didn’t want us to find this place. Let’s figure it out.\"",
+        "\"Someone clearly didn’t want us to find this place. Let’s figure it out.\""
+      ],
+      "speech": [
+        "speech_en_lv43_intro1",
+        "speech_en_lv43_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"Somewhere here lay the keys to our mystery. And we found them.\"",
+        "\"Somewhere here lay the keys to our mystery. And we found them.\""
+      ],
+      "speech": [
+        "speech_en_lv35_outro1",
+        "speech_en_lv35_outro1"
+      ]
+    }
+  },
+  "lv79": {
+    "intro": {
+      "text": [
+        "\"It seems someone left traces among the shelves and displays. Let’s check everything carefully.\"",
+        "\"It seems someone left traces among the shelves and displays. Let’s check everything carefully.\""
+      ],
+      "speech": [
+        "speech_en_lv0_intro1",
+        "speech_en_lv0_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"No one would have thought such intrigues began here.\"",
+        "\"No one would have thought such intrigues began here.\""
+      ],
+      "speech": [
+        "speech_en_lv43_outro1",
+        "speech_en_lv43_outro1"
+      ]
+    }
+  },
+  "lv80": {
+    "intro": {
+      "text": [
+        "\"At first glance, it’s just a regular kitchen. But the details may reveal its secrets.\"",
+        "\"At first glance, it’s just a regular kitchen. But the details may reveal its secrets.\""
+      ],
+      "speech": [
+        "speech_en_lv15_intro1",
+        "speech_en_lv15_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"On this kitchen counter, more than just a dish was prepared.\"",
+        "\"On this kitchen counter, more than just a dish was prepared.\""
+      ],
+      "speech": [
+        "speech_en_lv15_outro1",
+        "speech_en_lv15_outro1"
+      ]
+    }
+  },
+  "lv81": {
+    "intro": {
+      "text": [
+        "\"It seems the craftsman left more hints than he could have realized.\"",
+        "\"It seems the craftsman left more hints than he could have realized.\""
+      ],
+      "speech": [
+        "speech_en_lv7_intro1",
+        "speech_en_lv7_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"We’ve dealt with this, but there’s something in the air that will bring us back.\"",
+        "\"We’ve dealt with this, but there’s something in the air that will bring us back.\""
+      ],
+      "speech": [
+        "speech_en_lv25_outro1",
+        "speech_en_lv25_outro1"
+      ]
+    }
+  },
+  "lv82": {
+    "intro": {
+      "text": [
+        "\"The place where food is prepared can reveal so much. Let’s check it thoroughly.\"",
+        "\"The place where food is prepared can reveal so much. Let’s check it thoroughly.\""
+      ],
+      "speech": [
+        "speech_en_lv8_intro1",
+        "speech_en_lv8_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"The aroma of spices and food merely masked the true air of mystery.\"",
+        "\"The aroma of spices and food merely masked the true air of mystery.\""
+      ],
+      "speech": [
+        "speech_en_lv8_outro1",
+        "speech_en_lv8_outro1"
+      ]
+    }
+  },
+  "lv83": {
+    "intro": {
+      "text": [
+        "\"At first glance, just an ordinary living room. But I’m sure it has seen more than it appears.\"",
+        "\"At first glance, just an ordinary living room. But I’m sure it has seen more than it appears.\""
+      ],
+      "speech": [
+        "speech_en_lv49_intro1",
+        "speech_en_lv49_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"At first glance—nothing unusual. But now, everything is different.\"",
+        "\"At first glance—nothing unusual. But now, everything is different.\""
+      ],
+      "speech": [
+        "speech_en_lv49_outro1",
+        "speech_en_lv49_outro1"
+      ]
+    }
+  },
+  "lv84": {
+    "intro": {
+      "text": [
+        "\"Someone clearly left in a hurry. Let’s find traces of their presence.\"",
+        "\"Someone clearly left in a hurry. Let’s find traces of their presence.\""
+      ],
+      "speech": [
+        "speech_en_lv37_intro1",
+        "speech_en_lv37_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"It didn’t show us everything but enough to draw conclusions.\"",
+        "\"It didn’t show us everything but enough to draw conclusions.\""
+      ],
+      "speech": [
+        "speech_en_lv37_outro1",
+        "speech_en_lv37_outro1"
+      ]
+    }
+  },
+  "lv85": {
+    "intro": {
+      "text": [
+        "\"Somewhere here is the answer. Let’s search carefully.\"",
+        "\"Somewhere here is the answer. Let’s search carefully.\""
+      ],
+      "speech": [
+        "speech_en_lv39_intro1",
+        "speech_en_lv39_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"We’re leaving, but this room seems to whisper, ‘It’s not time to say goodbye yet.’\"",
+        "\"We’re leaving, but this room seems to whisper, ‘It’s not time to say goodbye yet.’\""
+      ],
+      "speech": [
+        "speech_en_lv39_outro1",
+        "speech_en_lv39_outro1"
+      ]
+    }
+  },
+  "lv86": {
+    "intro": {
+      "text": [
+        "\"The calm of this room is deceptive. Somewhere in here, the key lies hidden.\"",
+        "\"The calm of this room is deceptive. Somewhere in here, the key lies hidden.\""
+      ],
+      "speech": [
+        "speech_en_lv9_intro1",
+        "speech_en_lv9_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"The living room seemed to wait for its secrets to finally be uncovered.\"",
+        "\"The living room seemed to wait for its secrets to finally be uncovered.\""
+      ],
+      "speech": [
+        "speech_en_lv9_outro1",
+        "speech_en_lv9_outro1"
+      ]
+    }
+  },
+  "lv87": {
+    "intro": {
+      "text": [
+        "\"Among notebooks and textbooks are keys to the mystery. Let’s take a look.\"",
+        "\"Among notebooks and textbooks are keys to the mystery. Let’s take a look.\""
+      ],
+      "speech": [
+        "speech_en_lv40_intro1",
+        "speech_en_lv40_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"For now, it’s everything, but I sense this school office might surprise us again.\"",
+        "\"For now, it’s everything, but I sense this school office might surprise us again.\""
+      ],
+      "speech": [
+        "speech_en_lv40_outro1",
+        "speech_en_lv40_outro1"
+      ]
+    }
+  },
+  "lv88": {
+    "intro": {
+      "text": [
+        "\"Somewhere here is what we need. Let’s look carefully.\"",
+        "\"Somewhere here is what we need. Let’s look carefully.\""
+      ],
+      "speech": [
+        "speech_en_lv25_intro1",
+        "speech_en_lv25_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"We heard not just the sound of instruments but the truth.\"",
+        "\"We heard not just the sound of instruments but the truth.\""
+      ],
+      "speech": [
+        "speech_en_lv20_outro1",
+        "speech_en_lv20_outro1"
+      ]
+    }
+  },
+  "lv89": {
+    "intro": {
+      "text": [
+        "\"The living room always reveals more than its owners intend. Let’s check it out.\"",
+        "\"The living room always reveals more than its owners intend. Let’s check it out.\""
+      ],
+      "speech": [
+        "speech_en_lv28_intro1",
+        "speech_en_lv28_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"This living room became yet another clue. \"",
+        "\"This living room became yet another clue. \""
+      ],
+      "speech": [
+        "speech_en_lv28_outro1",
+        "speech_en_lv28_outro1"
+      ]
+    }
+  },
+  "lv90": {
+    "intro": {
+      "text": [
+        "\"The living room feels like a stage where key events unfold. Let’s inspect it.\"",
+        "\"The living room feels like a stage where key events unfold. Let’s inspect it.\""
+      ],
+      "speech": [
+        "speech_en_lv30_intro1",
+        "speech_en_lv30_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"The living room tried to conceal its secrets, but one look was enough.\"",
+        "\"The living room tried to conceal its secrets, but one look was enough.\""
+      ],
+      "speech": [
+        "speech_en_lv27_outro1",
+        "speech_en_lv27_outro1"
+      ]
+    }
+  },
+  "lv91": {
+    "intro": {
+      "text": [
+        "\"The living room can reveal more than it appears. Let’s search for clues.\"",
+        "\"The living room can reveal more than it appears. Let’s search for clues.\""
+      ],
+      "speech": [
+        "speech_en_lv34_intro1",
+        "speech_en_lv34_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"A simple setting hid complex intrigues.\"",
+        "\"A simple setting hid complex intrigues.\""
+      ],
+      "speech": [
+        "speech_en_lv34_outro1",
+        "speech_en_lv34_outro1"
+      ]
+    }
+  },
+  "lv92": {
+    "intro": {
+      "text": [
+        "\"It seems someone tried to hide something here. We’ll find it.\"",
+        "\"It seems someone tried to hide something here. We’ll find it.\""
+      ],
+      "speech": [
+        "speech_en_lv41_intro1",
+        "speech_en_lv41_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"For now, it’s enough, but these walls have seen too much to remain silent forever.\"",
+        "\"For now, it’s enough, but these walls have seen too much to remain silent forever.\""
+      ],
+      "speech": [
+        "speech_en_lv41_outro1",
+        "speech_en_lv41_outro1"
+      ]
+    }
+  },
+  "lv93": {
+    "intro": {
+      "text": [
+        "\"Someone left something important in the midst of familiar coziness. Let’s check everything.\"",
+        "\"Someone left something important in the midst of familiar coziness. Let’s check everything.\""
+      ],
+      "speech": [
+        "speech_en_lv42_intro1",
+        "speech_en_lv42_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"The room is silent now, but I’m sure I’ll return here for more answers.\"",
+        "\"The room is silent now, but I’m sure I’ll return here for more answers.\""
+      ],
+      "speech": [
+        "speech_en_lv42_outro1",
+        "speech_en_lv42_outro1"
+      ]
+    }
+  },
+  "lv94": {
+    "intro": {
+      "text": [
+        "\"The entrance is where the most interesting things happen. Let’s check it out.\"",
+        "\"The entrance is where the most interesting things happen. Let’s check it out.\""
+      ],
+      "speech": [
+        "speech_en_lv10_intro1",
+        "speech_en_lv10_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"The door closed behind me, but the answers remained outside.\"",
+        "\"The door closed behind me, but the answers remained outside.\""
+      ],
+      "speech": [
+        "speech_en_lv10_outro1",
+        "speech_en_lv10_outro1"
+      ]
+    }
+  },
+  "lv95": {
+    "intro": {
+      "text": [
+        "\"It seems someone has a taste for both sweets and secrets. But even here, there are mysteries to uncover.\"",
+        "\"It seems someone has a taste for both sweets and secrets. But even here, there are mysteries to uncover.\""
+      ],
+      "speech": [
+        "speech_en_lv5_intro1",
+        "speech_en_lv5_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"On this kitchen counter, more than just a dish was prepared.\"",
+        "\"On this kitchen counter, more than just a dish was prepared.\""
+      ],
+      "speech": [
+        "speech_en_lv15_outro1",
+        "speech_en_lv15_outro1"
+      ]
+    }
+  },
+  "lv96": {
+    "intro": {
+      "text": [
+        "\"I’m sure there’s something here that will change the course of events. Let’s search.\"",
+        "\"I’m sure there’s something here that will change the course of events. Let’s search.\""
+      ],
+      "speech": [
+        "speech_en_lv46_intro0",
+        "speech_en_lv46_intro0"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"For now, everything’s been found, but who knows what else might appear here?\"",
+        "\"For now, everything’s been found, but who knows what else might appear here?\""
+      ],
+      "speech": [
+        "speech_en_lv45_outro1",
+        "speech_en_lv45_outro1"
+      ]
+    }
+  },
+  "lv97": {
+    "intro": {
+      "text": [
+        "\"Someone clearly tried to cover their tracks. But it’s not that simple.\"",
+        "\"Someone clearly tried to cover their tracks. But it’s not that simple.\""
+      ],
+      "speech": [
+        "speech_en_lv46_intro1",
+        "speech_en_lv46_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"Today, I’ve taken all I could, but this room might become key once again.\"",
+        "\"Today, I’ve taken all I could, but this room might become key once again.\""
+      ],
+      "speech": [
+        "speech_en_lv46_outro1",
+        "speech_en_lv46_outro1"
+      ]
+    }
+  },
+  "lv98": {
+    "intro": {
+      "text": [
+        "\"It seems someone left clues among the books and trinkets. Let’s look around.\"",
+        "\"It seems someone left clues among the books and trinkets. Let’s look around.\""
+      ],
+      "speech": [
+        "speech_en_lv48_intro1",
+        "speech_en_lv48_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"Too clean for a place that has something to hide.\"",
+        "\"Too clean for a place that has something to hide.\""
+      ],
+      "speech": [
+        "speech_en_lv22_outro1",
+        "speech_en_lv22_outro1"
+      ]
+    }
+  },
+  "lv99": {
+    "intro": {
+      "text": [
+        "\"If anyone left clues here, they’re surely hidden in the details.\"",
+        "\"If anyone left clues here, they’re surely hidden in the details.\""
+      ],
+      "speech": [
+        "speech_en_lv4_intro1",
+        "speech_en_lv4_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"This time, I’m leaving with the solutions, but there’s something inexplicable lingering in the air.\"",
+        "\"This time, I’m leaving with the solutions, but there’s something inexplicable lingering in the air.\""
+      ],
+      "speech": [
+        "speech_en_lv30_outro1",
+        "speech_en_lv30_outro1"
+      ]
+    }
+  },
+  "lv100": {
+    "intro": {
+      "text": [
+        "\"In such offices, important secrets are always hidden in the smallest details. Let’s begin the search.\"",
+        "\"In such offices, important secrets are always hidden in the smallest details. Let’s begin the search.\""
+      ],
+      "speech": [
+        "speech_en_lv3_intro1",
+        "speech_en_lv3_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"This office revealed more than its owner could have anticipated.\"",
+        "\"This office revealed more than its owner could have anticipated.\""
+      ],
+      "speech": [
+        "speech_en_lv3_outro1",
+        "speech_en_lv3_outro1"
+      ]
+    }
+  },
+  "lv101": {
+    "intro": {
+      "text": [
+        "\"Every little detail could be crucial. Let’s begin.\"",
+        "\"Every little detail could be crucial. Let’s begin.\""
+      ],
+      "speech": [
+        "speech_en_lv35_intro1",
+        "speech_en_lv35_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"Everyday details turned out to be more important than we had imagined.\"",
+        "\"Everyday details turned out to be more important than we had imagined.\""
+      ],
+      "speech": [
+        "speech_en_lv0_outro1",
+        "speech_en_lv0_outro1"
+      ]
+    }
+  },
+  "lv102": {
+    "intro": {
+      "text": [
+        "\"Someone left clues among the familiar mess. Let’s check it out.\"",
+        "\"Someone left clues among the familiar mess. Let’s check it out.\""
+      ],
+      "speech": [
+        "speech_en_lv45_intro1",
+        "speech_en_lv45_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"Here, objects speak louder than people. And we listened.\"",
+        "\"Here, objects speak louder than people. And we listened.\""
+      ],
+      "speech": [
+        "speech_en_lv24_outro1",
+        "speech_en_lv24_outro1"
+      ]
+    }
+  },
+  "lv103": {
+    "intro": {
+      "text": [
+        "\"It seems someone tried to leave something unnoticed. We’ll find it.\"",
+        "\"It seems someone tried to leave something unnoticed. We’ll find it.\""
+      ],
+      "speech": [
+        "speech_en_lv27_intro1",
+        "speech_en_lv27_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"The smells and details of this kitchen brought us closer to the truth.\"",
+        "\"The smells and details of this kitchen brought us closer to the truth.\""
+      ],
+      "speech": [
+        "speech_en_lv36_outro1",
+        "speech_en_lv36_outro1"
+      ]
+    }
+  },
+  "lv104": {
+    "intro": {
+      "text": [
+        "\"Somewhere here is what we need. Let’s look carefully.\"",
+        "\"Somewhere here is what we need. Let’s look carefully.\""
+      ],
+      "speech": [
+        "speech_en_lv25_intro1",
+        "speech_en_lv25_intro1"
+      ]
+    },
+    "outro": {
+      "text": [
+        "\"Here, every little thing pointed to a story someone tried to hide.\"",
+        "\"Here, every little thing pointed to a story someone tried to hide.\""
+      ],
+      "speech": [
+        "speech_en_lv47_outro1",
+        "speech_en_lv47_outro1"
+      ]
+    }
+  }
+}
