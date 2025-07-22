@@ -2,7 +2,7 @@
     "level0": {
         "spineName": "level0",
         "isRemote": true,
-        "amb": "amb_miniShop"
+        "amb": null
     },
     "level1": {
         "spineName": "level1",
@@ -17,37 +17,32 @@
     "level3": {
         "spineName": "level3",
         "isRemote": true,
-        "amb": "amb_street"
+        "amb": null
     },
     "level4": {
         "spineName": "level4",
         "isRemote": true,
-        "amb": "amb_stepsShop"
+        "amb": "amb_street"
     },
-
-
-
-
-
     "level5": {
         "spineName": "level5_words",
         "isRemote": false,
-        "amb": "amb_cafe"
+        "amb": null
     },
     "level6": {
         "spineName": "level6",
         "isRemote": false,
-        "amb": "amb_miniShop"
+        "amb": "amb_stepsShop"
     },
     "level7": {
         "spineName": "level7",
         "isRemote": false,
-        "amb": "amb_workshop"
+        "amb": "amb_cafe"
     },
     "level8": {
         "spineName": "level8",
         "isRemote": false,
-        "amb": "amb_kitchen"
+        "amb": "amb_miniShop"
     },
     "level9": {
         "spineName": "level9_generator",
@@ -57,17 +52,17 @@
     "level10": {
         "spineName": "level10",
         "isRemote": false,
-        "amb": "amb_street"
+        "amb": "amb_workshop"
     },
     "level11": {
         "spineName": "level11",
         "isRemote": false,
-        "amb": "amb_workshop"
+        "amb": "amb_kitchen"
     },
     "level12": {
         "spineName": "level12_shadows",
         "isRemote": false,
-        "amb": null
+        "amb": "amb_eatery"
     },
     "level13": {
         "spineName": "level13",
@@ -77,22 +72,22 @@
     "level14": {
         "spineName": "level14",
         "isRemote": false,
-        "amb": "amb_workshop"
+        "amb": "amb_street"
     },
     "level15": {
         "spineName": "level15_words",
         "isRemote": false,
-        "amb": "amb_kitchen"
+        "amb": null
     },
     "level16": {
         "spineName": "level16",
         "isRemote": false,
-        "amb": "amb_nature"
+        "amb": "amb_workshop"
     },
     "level17": {
         "spineName": "level17",
         "isRemote": false,
-        "amb": "amb_shop"
+        "amb": null
     },
     "level18": {
         "spineName": "level18",
@@ -102,7 +97,7 @@
     "level19": {
         "spineName": "level19_generator",
         "isRemote": false,
-        "amb": null
+        "amb": "amb_sea"
     },
     "level20": {
         "spineName": "level20",
@@ -112,22 +107,22 @@
     "level21": {
         "spineName": "level21",
         "isRemote": false,
-        "amb": null
+        "amb": "amb_kitchen"
     },
     "level22": {
         "spineName": "level22_shadows",
         "isRemote": false,
-        "amb": "amb_kitchen"
+        "amb": null
     },
     "level23": {
         "spineName": "level23",
         "isRemote": false,
-        "amb": null
+        "amb": "amb_nature"
     },
     "level24": {
         "spineName": "level24",
         "isRemote": false,
-        "amb": "amb_kitchen"
+        "amb": "amb_shop"
     },
     "level25": {
         "spineName": "level25_words",
@@ -147,7 +142,7 @@
     "level28": {
         "spineName": "level28",
         "isRemote": false,
-        "amb": null
+        "amb": "amb_workshop"
     },
     "level29": {
         "spineName": "level29_generator",
@@ -162,12 +157,12 @@
     "level31": {
         "spineName": "level31",
         "isRemote": false,
-        "amb": null
+        "amb": "amb_kitchen"
     },
     "level32": {
         "spineName": "level32_shadows",
         "isRemote": false,
-        "amb": null
+        "amb": "amb_shop"
     },
     "level33": {
         "spineName": "level33",
@@ -177,12 +172,12 @@
     "level34": {
         "spineName": "level34",
         "isRemote": false,
-        "amb": null
+        "amb": "amb_kitchen"
     },
     "level35": {
         "spineName": "level35_words",
         "isRemote": false,
-        "amb": null
+        "amb": "amb_stepsShop"
     },
     "level36": {
         "spineName": "level36",
@@ -257,17 +252,17 @@
     "level50": {
         "spineName": "level50",
         "isRemote": false,
-        "amb": "amb_streetCafe"
+        "amb": null
     },
     "level51": {
         "spineName": "level51",
         "isRemote": false,
-        "amb": "amb_streetCafe"
+        "amb": null
     },
     "level52": {
         "spineName": "level52_shadows",
         "isRemote": false,
-        "amb": null
+        "amb": "amb_street"
     },
     "level53": {
         "spineName": "level53",
@@ -287,12 +282,12 @@
     "level56": {
         "spineName": "level56",
         "isRemote": false,
-        "amb": "amb_cafe"
+        "amb": null
     },
     "level57": {
         "spineName": "level57",
         "isRemote": false,
-        "amb": "amb_eatery"
+        "amb": null
     },
     "level58": {
         "spineName": "level58",
@@ -317,7 +312,7 @@
     "level62": {
         "spineName": "level62_shadows",
         "isRemote": false,
-        "amb": null
+        "amb": "amb_kitchen"
     },
     "level63": {
         "spineName": "level63",
@@ -327,22 +322,22 @@
     "level64": {
         "spineName": "level64",
         "isRemote": false,
-        "amb": "amb_miniShop"
+        "amb": null
     },
     "level65": {
         "spineName": "level65_words",
         "isRemote": false,
-        "amb": "amb_eatery"
+        "amb": null
     },
     "level66": {
         "spineName": "level66",
         "isRemote": false,
-        "amb": "amb_nature"
+        "amb": null
     },
     "level67": {
         "spineName": "level67",
         "isRemote": false,
-        "amb": "amb_city"
+        "amb": null
     },
     "level68": {
         "spineName": "level68",
@@ -362,17 +357,17 @@
     "level71": {
         "spineName": "level71",
         "isRemote": false,
-        "amb": null
+        "amb": "amb_streetCafe"
     },
     "level72": {
         "spineName": "level72_shadows",
         "isRemote": false,
-        "amb": null
+        "amb": "amb_workshop"
     },
     "level73": {
         "spineName": "level73",
         "isRemote": false,
-        "amb": null
+        "amb": "amb_streetCafe"
     },
     "level74": {
         "spineName": "level74",
@@ -382,7 +377,7 @@
     "level75": {
         "spineName": "level75_words",
         "isRemote": false,
-        "amb": "amb_eatery"
+        "amb": null
     },
     "level76": {
         "spineName": "level76",
@@ -392,7 +387,7 @@
     "level77": {
         "spineName": "level77",
         "isRemote": false,
-        "amb": "amb_shop"
+        "amb": null
     },
     "level78": {
         "spineName": "level78",
@@ -402,17 +397,17 @@
     "level79": {
         "spineName": "level79_generator",
         "isRemote": false,
-        "amb": "amb_street"
+        "amb": null
     },
     "level80": {
         "spineName": "level80",
         "isRemote": false,
-        "amb": "amb_kitchen"
+        "amb": "amb_cafe"
     },
     "level81": {
         "spineName": "level81",
         "isRemote": false,
-        "amb": "amb_workshop"
+        "amb": "amb_eatery"
     },
     "level82": {
         "spineName": "level82_shadows",
@@ -447,18 +442,13 @@
     "level88": {
         "spineName": "level88",
         "isRemote": false,
-        "amb": "amb_stepsShop"
+        "amb": null
     },
     "level89": {
         "spineName": "level89_generator",
         "isRemote": false,
         "amb": null
     },
-
-
-
-
-
     "level90": {
         "spineName": "level90",
         "isRemote": false,
@@ -467,7 +457,7 @@
     "level91": {
         "spineName": "level91",
         "isRemote": false,
-        "amb": null
+        "amb": "amb_miniShop"
     },
     "level92": {
         "spineName": "level92_shadows",
@@ -477,22 +467,22 @@
     "level93": {
         "spineName": "level93",
         "isRemote": false,
-        "amb": null
+        "amb": "amb_eatery"
     },
     "level94": {
         "spineName": "level94",
         "isRemote": false,
-        "amb": "amb_stepsShop"
+        "amb": "amb_nature"
     },
     "level95": {
         "spineName": "level95_words",
         "isRemote": false,
-        "amb": null
+        "amb": "amb_stepsShop"
     },
     "level96": {
         "spineName": "level96",
         "isRemote": false,
-        "amb": "amb_sea"
+        "amb": "amb_city"
     },
     "level97": {
         "spineName": "level97",
