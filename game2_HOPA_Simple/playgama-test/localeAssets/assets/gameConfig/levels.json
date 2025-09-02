@@ -451,77 +451,77 @@
     },
     "level90": {
         "spineName": "level90",
-        "isRemote": false,
+        "isRemote": true,
         "amb": null
     },
     "level91": {
         "spineName": "level91",
-        "isRemote": false,
+        "isRemote": true,
         "amb": "amb_miniShop"
     },
     "level92": {
         "spineName": "level92_shadows",
-        "isRemote": false,
+        "isRemote": true,
         "amb": null
     },
     "level93": {
         "spineName": "level93",
-        "isRemote": false,
+        "isRemote": true,
         "amb": "amb_eatery"
     },
     "level94": {
         "spineName": "level94",
-        "isRemote": false,
+        "isRemote": true,
         "amb": "amb_nature"
     },
     "level95": {
         "spineName": "level95_words",
-        "isRemote": false,
+        "isRemote": true,
         "amb": "amb_stepsShop"
     },
     "level96": {
         "spineName": "level96",
-        "isRemote": false,
+        "isRemote": true,
         "amb": "amb_city"
     },
     "level97": {
         "spineName": "level97",
-        "isRemote": false,
+        "isRemote": true,
         "amb": null
     },
     "level98": {
         "spineName": "level98",
-        "isRemote": false,
+        "isRemote": true,
         "amb": null
     },
     "level99": {
         "spineName": "level99_generator",
-        "isRemote": false,
+        "isRemote": true,
         "amb": null
     },
     "level100": {
         "spineName": "level100",
-        "isRemote": false,
+        "isRemote": true,
         "amb": null
     },
     "level101": {
         "spineName": "level101",
-        "isRemote": false,
+        "isRemote": true,
         "amb": null
     },
     "level102": {
         "spineName": "level102_shadows",
-        "isRemote": false,
+        "isRemote": true,
         "amb": null
     },
     "level103": {
         "spineName": "level103",
-        "isRemote": false,
+        "isRemote": true,
         "amb": null
     },
     "level104": {
         "spineName": "level104",
-        "isRemote": false,
+        "isRemote": true,
         "amb": null
     }
 }
