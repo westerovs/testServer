@@ -1,0 +1,2944 @@
+{
+  "skeleton": {
+    "hash": "qdlHu60X1Wc",
+    "spine": "4.1.24",
+    "y": -1080,
+    "width": 2560,
+    "height": 1080,
+    "images": "./images/",
+    "audio": ""
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "backgrounds",
+      "parent": "root"
+    },
+    {
+      "name": "decorItems",
+      "parent": "root"
+    },
+    {
+      "name": "hogItems",
+      "parent": "root"
+    }
+  ],
+  "slots": [
+    {
+      "name": "background_lv46",
+      "bone": "backgrounds"
+    },
+    {
+      "name": "decorItem1",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem2",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem3",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem4",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem5",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem6",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem7",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem8",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem9",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem10",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem11",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem12",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem13",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem14",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem15",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem16",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem17",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "hogItem1",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem2",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem3",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem4",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem5",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem6",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem7",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem8",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem9",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem10",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem11",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem12",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "decorItem18",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem19",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem20",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem21",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem22",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem23",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem24",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem25",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem26",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem27",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem28",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem29",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem30",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem31",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem32",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem33",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem34",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem35",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem36",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    }
+  ],
+  "skins": [
+    {
+      "name": "mode1/skin_mode1_v1",
+      "attachments": {
+        "decorItem1": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_2_animFlash",
+            "x": 733.58,
+            "y": -80.93,
+            "scaleX": 0.8000000000000002,
+            "scaleY": 0.8000000000000002,
+            "width": 170,
+            "height": 149
+          }
+        },
+        "decorItem2": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_2_animFlash",
+            "x": 1274.99,
+            "y": -80.93,
+            "scaleX": 0.8000000000000002,
+            "scaleY": 0.8000000000000002,
+            "width": 170,
+            "height": 149
+          }
+        },
+        "decorItem3": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_2_animFlash",
+            "x": 1834.49,
+            "y": -80.93,
+            "scaleX": 0.8000000000000002,
+            "scaleY": 0.8000000000000002,
+            "width": 170,
+            "height": 149
+          }
+        },
+        "decorItem4": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_3_animFlash",
+            "x": 446.25,
+            "y": -235.95,
+            "width": 113,
+            "height": 182,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem5": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_3_animFlash",
+            "x": 2110.36,
+            "y": -235.95,
+            "scaleX": -0.86192,
+            "width": 113,
+            "height": 182,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem6": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_5_animFlash",
+            "x": 2364.74,
+            "y": -270.3,
+            "width": 278,
+            "height": 290,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem7": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_5_animFlash",
+            "x": 187.76,
+            "y": -270.3,
+            "width": 278,
+            "height": 290,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem8": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_4_animFlash",
+            "x": 2343.93,
+            "y": -621.33,
+            "scaleX": -0.8080693682534065,
+            "scaleY": 0.8,
+            "width": 323,
+            "height": 471
+          }
+        },
+        "decorItem9": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_4_animFlash",
+            "x": 1956.58,
+            "y": -617,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 323,
+            "height": 471
+          }
+        },
+        "decorItem10": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_4_animFlash",
+            "x": 238.22,
+            "y": -677.23,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 323,
+            "height": 471
+          }
+        },
+        "decorItem11": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_4_animFlash",
+            "x": 666.83,
+            "y": -671.72,
+            "scaleX": -0.8080693682534065,
+            "scaleY": 0.8,
+            "width": 323,
+            "height": 471
+          }
+        },
+        "decorItem12": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_4_animFlash",
+            "x": 1116.95,
+            "y": -617,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 323,
+            "height": 471
+          }
+        },
+        "decorItem13": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_4_animFlash",
+            "x": 1474.01,
+            "y": -621.33,
+            "scaleX": -0.8080693682534065,
+            "scaleY": 0.8,
+            "width": 323,
+            "height": 471
+          }
+        },
+        "decorItem14": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_1_animFlash",
+            "x": 2161.19,
+            "y": -734.37,
+            "scaleX": 0.7858010720667064,
+            "scaleY": 0.7858010720667064,
+            "width": 845,
+            "height": 480
+          }
+        },
+        "decorItem15": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_1_animFlash",
+            "x": 432.83,
+            "y": -734.93,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 845,
+            "height": 480
+          }
+        },
+        "decorItem16": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_1_animFlash",
+            "x": 1292.71,
+            "y": -680.66,
+            "scaleX": 0.6967957117331744,
+            "scaleY": 0.6967957117331744,
+            "width": 845,
+            "height": 480
+          }
+        },
+        "decorItem17": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_6_animFlash",
+            "x": 2354.65,
+            "y": -718.87,
+            "scaleX": 0.8000000000000002,
+            "scaleY": 0.8000000000000002,
+            "width": 446,
+            "height": 585
+          }
+        },
+        "decorItem18": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_30_animFlash",
+            "x": 494.36,
+            "y": -529.3,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 81,
+            "height": 101
+          }
+        },
+        "decorItem19": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_91_animFlash",
+            "x": 382.33,
+            "y": -612.05,
+            "width": 116,
+            "height": 73,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem20": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_99_animFlash",
+            "x": 559.87,
+            "y": -579.2,
+            "width": 102,
+            "height": 42,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem21": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_59_animFlash",
+            "x": 537.9,
+            "y": -606.31,
+            "width": 117,
+            "height": 63,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem22": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_82_animFlash",
+            "x": 456.32,
+            "y": -610.86,
+            "width": 56,
+            "height": 35,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem23": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_83_animFlash",
+            "x": 296.62,
+            "y": -581.13,
+            "scaleX": 0.7999999999999999,
+            "scaleY": 0.7999999999999999,
+            "width": 89,
+            "height": 37
+          }
+        },
+        "decorItem24": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_74_animFlash",
+            "x": 255.41,
+            "y": -538.86,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 67,
+            "height": 135
+          }
+        },
+        "decorItem25": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_97_animFlash",
+            "x": 210.47,
+            "y": -594.28,
+            "width": 102,
+            "height": 53,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem26": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_89_animFlash",
+            "x": 1095.3,
+            "y": -524.61,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 46,
+            "height": 94
+          }
+        },
+        "decorItem27": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_19_animFlash",
+            "x": 1142.81,
+            "y": -570.18,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 99,
+            "height": 37
+          }
+        },
+        "decorItem28": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_107_animFlash",
+            "x": 662.46,
+            "y": -554.29,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 52,
+            "height": 93
+          }
+        },
+        "decorItem29": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_56_animFlash",
+            "x": 2297.16,
+            "y": -545.32,
+            "width": 63,
+            "height": 116,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem30": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_103_animFlash",
+            "x": 2258.82,
+            "y": -587.67,
+            "width": 63,
+            "height": 117,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem31": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_38_animFlash",
+            "x": 1970.89,
+            "y": -559.31,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 51,
+            "height": 78
+          }
+        },
+        "decorItem32": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_104_animFlash",
+            "x": 323.68,
+            "y": -610.2,
+            "scaleX": 0.8000000000000002,
+            "scaleY": 0.8000000000000002,
+            "width": 59,
+            "height": 57
+          }
+        },
+        "decorItem33": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_69_animFlash",
+            "x": 1276.96,
+            "y": -548.03,
+            "width": 242,
+            "height": 112,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem34": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_26_animFlash",
+            "x": 1414.37,
+            "y": -517.46,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 53,
+            "height": 109
+          }
+        },
+        "decorItem35": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_34_animFlash",
+            "x": 1460.38,
+            "y": -555.81,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 91,
+            "height": 46
+          }
+        },
+        "decorItem36": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_60_animFlash",
+            "x": 2073.64,
+            "y": -612.86,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 111,
+            "height": 53
+          }
+        },
+        "hogItem1": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_3_animFlash",
+            "x": 1366.47,
+            "y": -526.11,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 71,
+            "height": 57
+          }
+        },
+        "hogItem2": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_85_animFlash",
+            "x": 2323.05,
+            "y": -600.98,
+            "scaleX": 0.7727230840116727,
+            "scaleY": 0.8,
+            "width": 54,
+            "height": 64
+          }
+        },
+        "hogItem3": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_67_animFlash",
+            "x": 1399.58,
+            "y": -579.11,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 60,
+            "height": 36
+          }
+        },
+        "hogItem4": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_11_animFlash",
+            "x": 366.53,
+            "y": -549.48,
+            "width": 83,
+            "height": 78,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem5": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_8_animFlash",
+            "x": 451.6,
+            "y": -584.58,
+            "width": 97,
+            "height": 51,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem6": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_52_animFlash",
+            "x": 288.54,
+            "y": -609.23,
+            "width": 112,
+            "height": 50,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem7": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_84_animFlash",
+            "x": 614.93,
+            "y": -602.61,
+            "width": 92,
+            "height": 52,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem8": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_101_animFlash",
+            "x": 1163.58,
+            "y": -543.25,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 101,
+            "height": 47
+          }
+        },
+        "hogItem9": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_22_animFlash",
+            "x": 2183.3,
+            "y": -591.89,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 122,
+            "height": 48
+          }
+        },
+        "hogItem10": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_25_animFlash",
+            "x": 2115.45,
+            "y": -546.72,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 63,
+            "height": 112
+          }
+        },
+        "hogItem11": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_105_animFlash",
+            "x": 2034.86,
+            "y": -580.23,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 99,
+            "height": 56
+          }
+        },
+        "hogItem12": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_96_animFlash",
+            "x": 1936.37,
+            "y": -609.75,
+            "scaleX": 0.7999999999999999,
+            "scaleY": 0.7999999999999999,
+            "width": 112,
+            "height": 49
+          }
+        }
+      }
+    },
+    {
+      "name": "mode1/skin_mode1_v2",
+      "attachments": {
+        "decorItem1": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_2_animFlash",
+            "x": 733.58,
+            "y": -80.93,
+            "scaleX": 0.8000000000000002,
+            "scaleY": 0.8000000000000002,
+            "width": 170,
+            "height": 149
+          }
+        },
+        "decorItem2": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_2_animFlash",
+            "x": 1274.99,
+            "y": -80.93,
+            "scaleX": 0.8000000000000002,
+            "scaleY": 0.8000000000000002,
+            "width": 170,
+            "height": 149
+          }
+        },
+        "decorItem3": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_2_animFlash",
+            "x": 1834.49,
+            "y": -80.93,
+            "scaleX": 0.8000000000000002,
+            "scaleY": 0.8000000000000002,
+            "width": 170,
+            "height": 149
+          }
+        },
+        "decorItem4": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_3_animFlash",
+            "x": 446.25,
+            "y": -235.95,
+            "width": 113,
+            "height": 182,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem5": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_3_animFlash",
+            "x": 2110.36,
+            "y": -235.95,
+            "scaleX": -0.86192,
+            "width": 113,
+            "height": 182,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem6": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_5_animFlash",
+            "x": 2364.74,
+            "y": -270.3,
+            "width": 278,
+            "height": 290,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem7": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_5_animFlash",
+            "x": 187.76,
+            "y": -270.3,
+            "width": 278,
+            "height": 290,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem8": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_4_animFlash",
+            "x": 2343.93,
+            "y": -621.33,
+            "scaleX": -0.8080693682534065,
+            "scaleY": 0.8,
+            "width": 323,
+            "height": 471
+          }
+        },
+        "decorItem9": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_4_animFlash",
+            "x": 1956.58,
+            "y": -617,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 323,
+            "height": 471
+          }
+        },
+        "decorItem10": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_4_animFlash",
+            "x": 238.22,
+            "y": -677.23,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 323,
+            "height": 471
+          }
+        },
+        "decorItem11": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_4_animFlash",
+            "x": 666.83,
+            "y": -671.72,
+            "scaleX": -0.8080693682534065,
+            "scaleY": 0.8,
+            "width": 323,
+            "height": 471
+          }
+        },
+        "decorItem12": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_4_animFlash",
+            "x": 1116.95,
+            "y": -617,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 323,
+            "height": 471
+          }
+        },
+        "decorItem13": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_4_animFlash",
+            "x": 1474.01,
+            "y": -621.33,
+            "scaleX": -0.8080693682534065,
+            "scaleY": 0.8,
+            "width": 323,
+            "height": 471
+          }
+        },
+        "decorItem14": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_1_animFlash",
+            "x": 2161.19,
+            "y": -734.37,
+            "scaleX": 0.7858010720667064,
+            "scaleY": 0.7858010720667064,
+            "width": 845,
+            "height": 480
+          }
+        },
+        "decorItem15": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_1_animFlash",
+            "x": 432.83,
+            "y": -734.93,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 845,
+            "height": 480
+          }
+        },
+        "decorItem16": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_1_animFlash",
+            "x": 1292.71,
+            "y": -680.66,
+            "scaleX": 0.6967957117331744,
+            "scaleY": 0.6967957117331744,
+            "width": 845,
+            "height": 480
+          }
+        },
+        "decorItem17": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_6_animFlash",
+            "x": 2354.65,
+            "y": -718.87,
+            "scaleX": 0.8000000000000002,
+            "scaleY": 0.8000000000000002,
+            "width": 446,
+            "height": 585
+          }
+        },
+        "decorItem18": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_30_animFlash",
+            "x": 486.38,
+            "y": -548.47,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 81,
+            "height": 101
+          }
+        },
+        "decorItem19": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_91_animFlash",
+            "x": 382.33,
+            "y": -612.05,
+            "width": 116,
+            "height": 73,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem20": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_99_animFlash",
+            "x": 559.87,
+            "y": -579.2,
+            "width": 102,
+            "height": 42,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem21": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_59_animFlash",
+            "x": 537.9,
+            "y": -606.31,
+            "width": 117,
+            "height": 63,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem22": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_82_animFlash",
+            "x": 456.32,
+            "y": -610.86,
+            "width": 56,
+            "height": 35,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem23": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_83_animFlash",
+            "x": 296.62,
+            "y": -581.13,
+            "scaleX": 0.7999999999999999,
+            "scaleY": 0.7999999999999999,
+            "width": 89,
+            "height": 37
+          }
+        },
+        "decorItem24": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_74_animFlash",
+            "x": 255.41,
+            "y": -538.86,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 67,
+            "height": 135
+          }
+        },
+        "decorItem25": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_97_animFlash",
+            "x": 194.5,
+            "y": -594.28,
+            "width": 102,
+            "height": 53,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem26": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_89_animFlash",
+            "x": 1095.3,
+            "y": -524.61,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 46,
+            "height": 94
+          }
+        },
+        "decorItem27": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_19_animFlash",
+            "x": 1142.81,
+            "y": -570.18,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 99,
+            "height": 37
+          }
+        },
+        "decorItem28": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_107_animFlash",
+            "x": 576.7,
+            "y": -564.62,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 52,
+            "height": 93
+          }
+        },
+        "decorItem29": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_56_animFlash",
+            "x": 2309.72,
+            "y": -552.06,
+            "width": 63,
+            "height": 116,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem30": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_103_animFlash",
+            "x": 2258.82,
+            "y": -587.67,
+            "width": 63,
+            "height": 117,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem31": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_38_animFlash",
+            "x": 2044.43,
+            "y": -576.39,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 51,
+            "height": 78
+          }
+        },
+        "decorItem32": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_104_animFlash",
+            "x": 323.68,
+            "y": -610.2,
+            "scaleX": 0.8000000000000002,
+            "scaleY": 0.8000000000000002,
+            "width": 59,
+            "height": 57
+          }
+        },
+        "decorItem33": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_69_animFlash",
+            "x": 1276.96,
+            "y": -548.03,
+            "width": 242,
+            "height": 112,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem34": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_26_animFlash",
+            "x": 1414.37,
+            "y": -517.46,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 53,
+            "height": 109
+          }
+        },
+        "decorItem35": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_34_animFlash",
+            "x": 1403.56,
+            "y": -575.3,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 91,
+            "height": 46
+          }
+        },
+        "decorItem36": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_60_animFlash",
+            "x": 2073.64,
+            "y": -612.86,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 111,
+            "height": 53
+          }
+        },
+        "hogItem1": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_3_animFlash",
+            "x": 453.79,
+            "y": -557.63,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 71,
+            "height": 57
+          }
+        },
+        "hogItem2": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_85_animFlash",
+            "x": 2113.84,
+            "y": -561.29,
+            "scaleX": 0.7727230840116727,
+            "scaleY": 0.8,
+            "width": 54,
+            "height": 64
+          }
+        },
+        "hogItem3": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_67_animFlash",
+            "x": 2158.09,
+            "y": -623.93,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 60,
+            "height": 36
+          }
+        },
+        "hogItem4": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_11_animFlash",
+            "x": 1944.8,
+            "y": -573.8,
+            "width": 83,
+            "height": 78,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem5": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_8_animFlash",
+            "x": 375.41,
+            "y": -567.64,
+            "width": 97,
+            "height": 51,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem6": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_52_animFlash",
+            "x": 2025.48,
+            "y": -577.26,
+            "width": 112,
+            "height": 50,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem7": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_84_animFlash",
+            "x": 1446.08,
+            "y": -535.38,
+            "width": 92,
+            "height": 52,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem8": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_101_animFlash",
+            "x": 627.24,
+            "y": -603.98,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 101,
+            "height": 47
+          }
+        },
+        "hogItem9": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_22_animFlash",
+            "x": 1180.62,
+            "y": -536.19,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 122,
+            "height": 48
+          }
+        },
+        "hogItem10": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_25_animFlash",
+            "x": 2191.34,
+            "y": -560.03,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 63,
+            "height": 112
+          }
+        },
+        "hogItem11": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_105_animFlash",
+            "x": 1366.68,
+            "y": -540.05,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 99,
+            "height": 56
+          }
+        },
+        "hogItem12": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_96_animFlash",
+            "x": 259.01,
+            "y": -607.88,
+            "scaleX": 0.6592741935483871,
+            "scaleY": 0.6592741935483871,
+            "width": 112,
+            "height": 49
+          }
+        }
+      }
+    },
+    {
+      "name": "mode1/skin_mode1_v3",
+      "attachments": {
+        "decorItem1": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_2_animFlash",
+            "x": 733.58,
+            "y": -80.93,
+            "scaleX": 0.8000000000000002,
+            "scaleY": 0.8000000000000002,
+            "width": 170,
+            "height": 149
+          }
+        },
+        "decorItem2": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_2_animFlash",
+            "x": 1274.99,
+            "y": -80.93,
+            "scaleX": 0.8000000000000002,
+            "scaleY": 0.8000000000000002,
+            "width": 170,
+            "height": 149
+          }
+        },
+        "decorItem3": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_2_animFlash",
+            "x": 1834.49,
+            "y": -80.93,
+            "scaleX": 0.8000000000000002,
+            "scaleY": 0.8000000000000002,
+            "width": 170,
+            "height": 149
+          }
+        },
+        "decorItem4": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_3_animFlash",
+            "x": 446.25,
+            "y": -235.95,
+            "width": 113,
+            "height": 182,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem5": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_3_animFlash",
+            "x": 2110.36,
+            "y": -235.95,
+            "scaleX": -0.86192,
+            "width": 113,
+            "height": 182,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem6": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_5_animFlash",
+            "x": 2364.74,
+            "y": -270.3,
+            "width": 278,
+            "height": 290,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem7": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_5_animFlash",
+            "x": 187.76,
+            "y": -270.3,
+            "width": 278,
+            "height": 290,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem8": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_4_animFlash",
+            "x": 2343.93,
+            "y": -621.33,
+            "scaleX": -0.8080693682534065,
+            "scaleY": 0.8,
+            "width": 323,
+            "height": 471
+          }
+        },
+        "decorItem9": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_4_animFlash",
+            "x": 1956.58,
+            "y": -617,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 323,
+            "height": 471
+          }
+        },
+        "decorItem10": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_4_animFlash",
+            "x": 238.22,
+            "y": -677.23,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 323,
+            "height": 471
+          }
+        },
+        "decorItem11": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_4_animFlash",
+            "x": 666.83,
+            "y": -671.72,
+            "scaleX": -0.8080693682534065,
+            "scaleY": 0.8,
+            "width": 323,
+            "height": 471
+          }
+        },
+        "decorItem12": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_4_animFlash",
+            "x": 1116.95,
+            "y": -617,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 323,
+            "height": 471
+          }
+        },
+        "decorItem13": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_4_animFlash",
+            "x": 1474.01,
+            "y": -621.33,
+            "scaleX": -0.8080693682534065,
+            "scaleY": 0.8,
+            "width": 323,
+            "height": 471
+          }
+        },
+        "decorItem14": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_1_animFlash",
+            "x": 2161.19,
+            "y": -734.37,
+            "scaleX": 0.7858010720667064,
+            "scaleY": 0.7858010720667064,
+            "width": 845,
+            "height": 480
+          }
+        },
+        "decorItem15": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_1_animFlash",
+            "x": 432.83,
+            "y": -734.93,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 845,
+            "height": 480
+          }
+        },
+        "decorItem16": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_1_animFlash",
+            "x": 1292.71,
+            "y": -680.66,
+            "scaleX": 0.6967957117331744,
+            "scaleY": 0.6967957117331744,
+            "width": 845,
+            "height": 480
+          }
+        },
+        "decorItem17": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_6_animFlash",
+            "x": 2354.65,
+            "y": -718.87,
+            "scaleX": 0.8000000000000002,
+            "scaleY": 0.8000000000000002,
+            "width": 446,
+            "height": 585
+          }
+        },
+        "decorItem18": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_30_animFlash",
+            "x": 494.36,
+            "y": -529.3,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 81,
+            "height": 101
+          }
+        },
+        "decorItem19": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_91_animFlash",
+            "x": 382.33,
+            "y": -612.05,
+            "width": 116,
+            "height": 73,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem20": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_99_animFlash",
+            "x": 559.87,
+            "y": -579.2,
+            "width": 102,
+            "height": 42,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem21": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_59_animFlash",
+            "x": 537.9,
+            "y": -606.31,
+            "width": 117,
+            "height": 63,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem22": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_82_animFlash",
+            "x": 456.32,
+            "y": -610.86,
+            "width": 56,
+            "height": 35,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem23": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_83_animFlash",
+            "x": 296.62,
+            "y": -581.13,
+            "scaleX": 0.7999999999999999,
+            "scaleY": 0.7999999999999999,
+            "width": 89,
+            "height": 37
+          }
+        },
+        "decorItem24": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_74_animFlash",
+            "x": 255.41,
+            "y": -538.86,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 67,
+            "height": 135
+          }
+        },
+        "decorItem25": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_97_animFlash",
+            "x": 210.47,
+            "y": -594.28,
+            "width": 102,
+            "height": 53,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem26": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_89_animFlash",
+            "x": 1095.3,
+            "y": -524.61,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 46,
+            "height": 94
+          }
+        },
+        "decorItem27": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_19_animFlash",
+            "x": 1142.81,
+            "y": -570.18,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 99,
+            "height": 37
+          }
+        },
+        "decorItem28": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_107_animFlash",
+            "x": 614.73,
+            "y": -541.49,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 52,
+            "height": 93
+          }
+        },
+        "decorItem29": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_56_animFlash",
+            "x": 2297.16,
+            "y": -545.32,
+            "width": 63,
+            "height": 116,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem30": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_103_animFlash",
+            "x": 2258.82,
+            "y": -587.67,
+            "width": 63,
+            "height": 117,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem31": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_38_animFlash",
+            "x": 1985.55,
+            "y": -552.89,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 51,
+            "height": 78
+          }
+        },
+        "decorItem32": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_104_animFlash",
+            "x": 323.68,
+            "y": -610.2,
+            "scaleX": 0.8000000000000002,
+            "scaleY": 0.8000000000000002,
+            "width": 59,
+            "height": 57
+          }
+        },
+        "decorItem33": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_69_animFlash",
+            "x": 1276.96,
+            "y": -548.03,
+            "width": 242,
+            "height": 112,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem34": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_26_animFlash",
+            "x": 1414.37,
+            "y": -517.46,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 53,
+            "height": 109
+          }
+        },
+        "decorItem35": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_34_animFlash",
+            "x": 1155.24,
+            "y": -556.5,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 91,
+            "height": 46
+          }
+        },
+        "decorItem36": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_60_animFlash",
+            "x": 2073.64,
+            "y": -612.86,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 111,
+            "height": 53
+          }
+        },
+        "hogItem1": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_3_animFlash",
+            "x": 2103.33,
+            "y": -563.97,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 71,
+            "height": 57
+          }
+        },
+        "hogItem2": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_85_animFlash",
+            "x": 1934.33,
+            "y": -577.28,
+            "scaleX": 0.7727230840116727,
+            "scaleY": 0.8,
+            "width": 54,
+            "height": 64
+          }
+        },
+        "hogItem3": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_67_animFlash",
+            "x": 1391.95,
+            "y": -579.34,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 60,
+            "height": 36
+          }
+        },
+        "hogItem4": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_11_animFlash",
+            "x": 1388.72,
+            "y": -524.19,
+            "width": 83,
+            "height": 78,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem5": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_8_animFlash",
+            "x": 2198.61,
+            "y": -576.72,
+            "width": 97,
+            "height": 51,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem6": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_52_animFlash",
+            "x": 2014.11,
+            "y": -599.55,
+            "width": 112,
+            "height": 50,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem7": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_84_animFlash",
+            "x": 1464.16,
+            "y": -554.16,
+            "width": 92,
+            "height": 52,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem8": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_101_animFlash",
+            "x": 444.34,
+            "y": -575.01,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 101,
+            "height": 47
+          }
+        },
+        "hogItem9": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_22_animFlash",
+            "x": 618.19,
+            "y": -595.88,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 122,
+            "height": 48
+          }
+        },
+        "hogItem10": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_25_animFlash",
+            "x": 380.63,
+            "y": -539.28,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 63,
+            "height": 112
+          }
+        },
+        "hogItem11": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_105_animFlash",
+            "x": 2155.11,
+            "y": -622.44,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 99,
+            "height": 56
+          }
+        },
+        "hogItem12": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_96_animFlash",
+            "x": 1163.36,
+            "y": -528.35,
+            "scaleX": 0.7999999999999999,
+            "scaleY": 0.7999999999999999,
+            "width": 112,
+            "height": 49
+          }
+        }
+      }
+    },
+    {
+      "name": "mode1/skin_mode1_v4",
+      "attachments": {
+        "decorItem1": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_2_animFlash",
+            "x": 733.58,
+            "y": -80.93,
+            "scaleX": 0.8000000000000002,
+            "scaleY": 0.8000000000000002,
+            "width": 170,
+            "height": 149
+          }
+        },
+        "decorItem2": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_2_animFlash",
+            "x": 1274.99,
+            "y": -80.93,
+            "scaleX": 0.8000000000000002,
+            "scaleY": 0.8000000000000002,
+            "width": 170,
+            "height": 149
+          }
+        },
+        "decorItem3": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_2_animFlash",
+            "x": 1834.49,
+            "y": -80.93,
+            "scaleX": 0.8000000000000002,
+            "scaleY": 0.8000000000000002,
+            "width": 170,
+            "height": 149
+          }
+        },
+        "decorItem4": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_3_animFlash",
+            "x": 446.25,
+            "y": -235.95,
+            "width": 113,
+            "height": 182,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem5": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_3_animFlash",
+            "x": 2110.36,
+            "y": -235.95,
+            "scaleX": -0.86192,
+            "width": 113,
+            "height": 182,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem6": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_5_animFlash",
+            "x": 2364.74,
+            "y": -270.3,
+            "width": 278,
+            "height": 290,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem7": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_5_animFlash",
+            "x": 187.76,
+            "y": -270.3,
+            "width": 278,
+            "height": 290,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem8": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_4_animFlash",
+            "x": 2343.93,
+            "y": -621.33,
+            "scaleX": -0.8080693682534065,
+            "scaleY": 0.8,
+            "width": 323,
+            "height": 471
+          }
+        },
+        "decorItem9": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_4_animFlash",
+            "x": 1956.58,
+            "y": -617,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 323,
+            "height": 471
+          }
+        },
+        "decorItem10": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_4_animFlash",
+            "x": 238.22,
+            "y": -677.23,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 323,
+            "height": 471
+          }
+        },
+        "decorItem11": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_4_animFlash",
+            "x": 666.83,
+            "y": -671.72,
+            "scaleX": -0.8080693682534065,
+            "scaleY": 0.8,
+            "width": 323,
+            "height": 471
+          }
+        },
+        "decorItem12": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_4_animFlash",
+            "x": 1116.95,
+            "y": -617,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 323,
+            "height": 471
+          }
+        },
+        "decorItem13": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_4_animFlash",
+            "x": 1474.01,
+            "y": -621.33,
+            "scaleX": -0.8080693682534065,
+            "scaleY": 0.8,
+            "width": 323,
+            "height": 471
+          }
+        },
+        "decorItem14": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_1_animFlash",
+            "x": 2161.19,
+            "y": -734.37,
+            "scaleX": 0.7858010720667064,
+            "scaleY": 0.7858010720667064,
+            "width": 845,
+            "height": 480
+          }
+        },
+        "decorItem15": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_1_animFlash",
+            "x": 432.83,
+            "y": -734.93,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 845,
+            "height": 480
+          }
+        },
+        "decorItem16": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_1_animFlash",
+            "x": 1292.71,
+            "y": -680.66,
+            "scaleX": 0.6967957117331744,
+            "scaleY": 0.6967957117331744,
+            "width": 845,
+            "height": 480
+          }
+        },
+        "decorItem17": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_6_animFlash",
+            "x": 2354.65,
+            "y": -718.87,
+            "scaleX": 0.8000000000000002,
+            "scaleY": 0.8000000000000002,
+            "width": 446,
+            "height": 585
+          }
+        },
+        "decorItem18": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_30_animFlash",
+            "x": 465.26,
+            "y": -570.46,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 81,
+            "height": 101
+          }
+        },
+        "decorItem19": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_91_animFlash",
+            "x": 377.28,
+            "y": -615.2,
+            "width": 116,
+            "height": 73,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem20": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_99_animFlash",
+            "x": 545.71,
+            "y": -586.17,
+            "width": 102,
+            "height": 42,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem21": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_59_animFlash",
+            "x": 537.9,
+            "y": -606.31,
+            "width": 117,
+            "height": 63,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem22": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_82_animFlash",
+            "x": 441.18,
+            "y": -626.63,
+            "width": 56,
+            "height": 35,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem23": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_83_animFlash",
+            "x": 296.62,
+            "y": -581.13,
+            "scaleX": 0.7999999999999999,
+            "scaleY": 0.7999999999999999,
+            "width": 89,
+            "height": 37
+          }
+        },
+        "decorItem24": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_74_animFlash",
+            "x": 255.41,
+            "y": -538.86,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 67,
+            "height": 135
+          }
+        },
+        "decorItem25": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_97_animFlash",
+            "x": 210.47,
+            "y": -594.28,
+            "width": 102,
+            "height": 53,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem26": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_89_animFlash",
+            "x": 1095.3,
+            "y": -524.61,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 46,
+            "height": 94
+          }
+        },
+        "decorItem27": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_19_animFlash",
+            "x": 1142.81,
+            "y": -570.18,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 99,
+            "height": 37
+          }
+        },
+        "decorItem28": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_107_animFlash",
+            "x": 616.13,
+            "y": -578.87,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 52,
+            "height": 93
+          }
+        },
+        "decorItem29": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_56_animFlash",
+            "x": 2302.97,
+            "y": -537.87,
+            "width": 63,
+            "height": 116,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem30": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_103_animFlash",
+            "x": 2244.04,
+            "y": -588.55,
+            "width": 63,
+            "height": 117,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem31": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_38_animFlash",
+            "x": 2012.43,
+            "y": -571.03,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 51,
+            "height": 78
+          }
+        },
+        "decorItem32": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_104_animFlash",
+            "x": 285.76,
+            "y": -609.88,
+            "scaleX": 0.8000000000000002,
+            "scaleY": 0.8000000000000002,
+            "width": 59,
+            "height": 57
+          }
+        },
+        "decorItem33": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_69_animFlash",
+            "x": 1276.96,
+            "y": -548.03,
+            "width": 242,
+            "height": 112,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem34": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_26_animFlash",
+            "x": 1385.86,
+            "y": -550.57,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 53,
+            "height": 109
+          }
+        },
+        "decorItem35": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_34_animFlash",
+            "x": 1460.38,
+            "y": -555.81,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 91,
+            "height": 46
+          }
+        },
+        "decorItem36": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_60_animFlash",
+            "x": 2073.64,
+            "y": -612.86,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 111,
+            "height": 53
+          }
+        },
+        "hogItem1": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_3_animFlash",
+            "x": 1176.71,
+            "y": -530.1,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 71,
+            "height": 57
+          }
+        },
+        "hogItem2": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_85_animFlash",
+            "x": 1344.5,
+            "y": -522.89,
+            "scaleX": 0.7727230840116727,
+            "scaleY": 0.8,
+            "width": 54,
+            "height": 64
+          }
+        },
+        "hogItem3": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_67_animFlash",
+            "x": 408.6,
+            "y": -564.73,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 60,
+            "height": 36
+          }
+        },
+        "hogItem4": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_11_animFlash",
+            "x": 612.7,
+            "y": -559.89,
+            "width": 83,
+            "height": 78,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem5": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_8_animFlash",
+            "x": 2093.12,
+            "y": -566.93,
+            "width": 97,
+            "height": 51,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem6": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_52_animFlash",
+            "x": 2314.22,
+            "y": -602.8,
+            "width": 112,
+            "height": 50,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem7": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_84_animFlash",
+            "x": 1417.43,
+            "y": -539.63,
+            "width": 92,
+            "height": 52,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem8": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_101_animFlash",
+            "x": 2172.5,
+            "y": -614.54,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 101,
+            "height": 47
+          }
+        },
+        "hogItem9": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_22_animFlash",
+            "x": 331.01,
+            "y": -559.87,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 122,
+            "height": 48
+          }
+        },
+        "hogItem10": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_25_animFlash",
+            "x": 469.53,
+            "y": -535.61,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 63,
+            "height": 112
+          }
+        },
+        "hogItem11": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_105_animFlash",
+            "x": 1952.6,
+            "y": -594.84,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 99,
+            "height": 56
+          }
+        },
+        "hogItem12": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_96_animFlash",
+            "x": 2189.77,
+            "y": -568.81,
+            "scaleX": 0.7999999999999999,
+            "scaleY": 0.7999999999999999,
+            "width": 112,
+            "height": 49
+          }
+        }
+      }
+    },
+    {
+      "name": "mode1/skin_mode1_v5",
+      "attachments": {
+        "decorItem1": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_2_animFlash",
+            "x": 733.58,
+            "y": -71.52,
+            "scaleX": 0.8000000000000002,
+            "scaleY": 0.8000000000000002,
+            "width": 170,
+            "height": 149
+          }
+        },
+        "decorItem2": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_2_animFlash",
+            "x": 1274.99,
+            "y": -71.52,
+            "scaleX": 0.8000000000000002,
+            "scaleY": 0.8000000000000002,
+            "width": 170,
+            "height": 149
+          }
+        },
+        "decorItem3": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_2_animFlash",
+            "x": 1834.49,
+            "y": -71.52,
+            "scaleX": 0.8000000000000002,
+            "scaleY": 0.8000000000000002,
+            "width": 170,
+            "height": 149
+          }
+        },
+        "decorItem4": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_3_animFlash",
+            "x": 446.25,
+            "y": -226.54,
+            "width": 113,
+            "height": 182,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem5": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_3_animFlash",
+            "x": 2110.36,
+            "y": -226.54,
+            "scaleX": -0.86192,
+            "width": 113,
+            "height": 182,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem6": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_5_animFlash",
+            "x": 2364.74,
+            "y": -260.89,
+            "width": 278,
+            "height": 290,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem7": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_5_animFlash",
+            "x": 187.76,
+            "y": -260.89,
+            "width": 278,
+            "height": 290,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem8": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_4_animFlash",
+            "x": 2343.93,
+            "y": -611.92,
+            "scaleX": -0.8080693682534065,
+            "scaleY": 0.8,
+            "width": 323,
+            "height": 471
+          }
+        },
+        "decorItem9": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_4_animFlash",
+            "x": 1956.58,
+            "y": -607.59,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 323,
+            "height": 471
+          }
+        },
+        "decorItem10": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_4_animFlash",
+            "x": 238.22,
+            "y": -667.82,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 323,
+            "height": 471
+          }
+        },
+        "decorItem11": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_4_animFlash",
+            "x": 666.83,
+            "y": -662.31,
+            "scaleX": -0.8080693682534065,
+            "scaleY": 0.8,
+            "width": 323,
+            "height": 471
+          }
+        },
+        "decorItem12": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_4_animFlash",
+            "x": 1116.95,
+            "y": -607.59,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 323,
+            "height": 471
+          }
+        },
+        "decorItem13": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_4_animFlash",
+            "x": 1474.01,
+            "y": -611.92,
+            "scaleX": -0.8080693682534065,
+            "scaleY": 0.8,
+            "width": 323,
+            "height": 471
+          }
+        },
+        "decorItem14": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_1_animFlash",
+            "x": 2161.19,
+            "y": -724.96,
+            "scaleX": 0.7858010720667064,
+            "scaleY": 0.7858010720667064,
+            "width": 845,
+            "height": 480
+          }
+        },
+        "decorItem15": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_1_animFlash",
+            "x": 432.83,
+            "y": -725.52,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 845,
+            "height": 480
+          }
+        },
+        "decorItem16": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_1_animFlash",
+            "x": 1292.71,
+            "y": -671.25,
+            "scaleX": 0.6967957117331744,
+            "scaleY": 0.6967957117331744,
+            "width": 845,
+            "height": 480
+          }
+        },
+        "decorItem17": {
+          "additional_item_ps": {
+            "name": "env/cafe/env_cafe_6_animFlash",
+            "x": 2354.65,
+            "y": -709.46,
+            "scaleX": 0.8000000000000002,
+            "scaleY": 0.8000000000000002,
+            "width": 446,
+            "height": 585
+          }
+        },
+        "decorItem18": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_30_animFlash",
+            "x": 494.36,
+            "y": -519.89,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 81,
+            "height": 101
+          }
+        },
+        "decorItem19": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_91_animFlash",
+            "x": 382.33,
+            "y": -602.64,
+            "width": 116,
+            "height": 73,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem20": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_99_animFlash",
+            "x": 559.87,
+            "y": -569.79,
+            "width": 102,
+            "height": 42,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem21": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_59_animFlash",
+            "x": 537.9,
+            "y": -596.9,
+            "width": 117,
+            "height": 63,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem22": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_82_animFlash",
+            "x": 456.32,
+            "y": -601.45,
+            "width": 56,
+            "height": 35,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem23": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_83_animFlash",
+            "x": 296.62,
+            "y": -571.72,
+            "scaleX": 0.7999999999999999,
+            "scaleY": 0.7999999999999999,
+            "width": 89,
+            "height": 37
+          }
+        },
+        "decorItem24": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_74_animFlash",
+            "x": 255.41,
+            "y": -529.45,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 67,
+            "height": 135
+          }
+        },
+        "decorItem25": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_97_animFlash",
+            "x": 210.47,
+            "y": -584.87,
+            "width": 102,
+            "height": 53,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem26": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_89_animFlash",
+            "x": 1095.3,
+            "y": -515.2,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 46,
+            "height": 94
+          }
+        },
+        "decorItem27": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_19_animFlash",
+            "x": 1142.81,
+            "y": -560.77,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 99,
+            "height": 37
+          }
+        },
+        "decorItem28": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_107_animFlash",
+            "x": 635,
+            "y": -551.22,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 52,
+            "height": 93
+          }
+        },
+        "decorItem29": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_56_animFlash",
+            "x": 2327.28,
+            "y": -570.44,
+            "width": 63,
+            "height": 116,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem30": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_103_animFlash",
+            "x": 2244.09,
+            "y": -581.2,
+            "width": 63,
+            "height": 117,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem31": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_38_animFlash",
+            "x": 1970.89,
+            "y": -549.9,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 51,
+            "height": 78
+          }
+        },
+        "decorItem32": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_104_animFlash",
+            "x": 323.68,
+            "y": -600.79,
+            "scaleX": 0.8000000000000002,
+            "scaleY": 0.8000000000000002,
+            "width": 59,
+            "height": 57
+          }
+        },
+        "decorItem33": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_69_animFlash",
+            "x": 1276.96,
+            "y": -538.62,
+            "width": 242,
+            "height": 112,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem34": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_26_animFlash",
+            "x": 1407,
+            "y": -533.51,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 53,
+            "height": 109
+          }
+        },
+        "decorItem35": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_34_animFlash",
+            "x": 1457.87,
+            "y": -530.8,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 91,
+            "height": 46
+          }
+        },
+        "decorItem36": {
+          "additional_item_ps": {
+            "name": "object/cafe/object_cafe_60_animFlash",
+            "x": 2073.64,
+            "y": -603.45,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 111,
+            "height": 53
+          }
+        },
+        "hogItem1": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_3_animFlash",
+            "x": 365.7,
+            "y": -556.8,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 71,
+            "height": 57
+          }
+        },
+        "hogItem2": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_85_animFlash",
+            "x": 2114.72,
+            "y": -560.15,
+            "scaleX": 0.7727230840116727,
+            "scaleY": 0.8,
+            "width": 54,
+            "height": 64
+          }
+        },
+        "hogItem3": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_67_animFlash",
+            "x": 1448.91,
+            "y": -570.53,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 60,
+            "height": 36
+          }
+        },
+        "hogItem4": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_11_animFlash",
+            "x": 2298.9,
+            "y": -561.14,
+            "width": 83,
+            "height": 78,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem5": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_8_animFlash",
+            "x": 1372.24,
+            "y": -535.14,
+            "width": 97,
+            "height": 51,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem6": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_52_animFlash",
+            "x": 630.91,
+            "y": -614.26,
+            "width": 112,
+            "height": 50,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem7": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_84_animFlash",
+            "x": 2182.8,
+            "y": -569.55,
+            "width": 92,
+            "height": 52,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem8": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_101_animFlash",
+            "x": 1163.58,
+            "y": -544.03,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 101,
+            "height": 47
+          }
+        },
+        "hogItem9": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_22_animFlash",
+            "x": 2177.79,
+            "y": -613.34,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 122,
+            "height": 48
+          }
+        },
+        "hogItem10": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_25_animFlash",
+            "x": 434.89,
+            "y": -548.78,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 63,
+            "height": 112
+          }
+        },
+        "hogItem11": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_105_animFlash",
+            "x": 2036.09,
+            "y": -581.72,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 99,
+            "height": 56
+          }
+        },
+        "hogItem12": {
+          "hogItem_ps": {
+            "name": "object/cafe/object_cafe_96_animFlash",
+            "x": 1961.82,
+            "y": -605.1,
+            "scaleX": 0.7999999999999999,
+            "scaleY": 0.7999999999999999,
+            "width": 112,
+            "height": 49
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "idle": {}
+  }
+}

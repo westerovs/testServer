@@ -1,0 +1,346 @@
+{
+    "bird14": {
+        "en": "bird",
+        "ru": "птица"
+    },
+    "bird32": {
+        "en": "bird",
+        "ru": "птица"
+    },
+    "book4": {
+        "en": "book",
+        "ru": "книга"
+    },
+    "book5": {
+        "en": "book",
+        "ru": "книга"
+    },
+    "bottle4": {
+        "en": "bottle",
+        "ru": "бутылка"
+    },
+    "bow1": {
+        "en": "bow",
+        "ru": "бант"
+    },
+    "bowl1": {
+        "en": "bowl",
+        "ru": "миска"
+    },
+    "cat26": {
+        "en": "cat",
+        "ru": "кот"
+    },
+    "cat4": {
+        "en": "cat",
+        "ru": "кот"
+    },
+    "cup1": {
+        "en": "cup",
+        "ru": "чашка"
+    },
+    "cup2": {
+        "en": "cup",
+        "ru": "чашка"
+    },
+    "feathers1": {
+        "en": "feather",
+        "ru": "перо"
+    },
+    "feathers8": {
+        "en": "feather",
+        "ru": "перо"
+    },
+    "glasses1": {
+        "en": "glasses",
+        "ru": "очки"
+    },
+    "gloves1": {
+        "en": "gloves",
+        "ru": "перчатки"
+    },
+    "handbag2": {
+        "en": "handbag",
+        "ru": "сумка"
+    },
+    "handbag4": {
+        "en": "handbag",
+        "ru": "сумка"
+    },
+    "shoes2": {
+        "en": "shoes",
+        "ru": "обувь"
+    },
+    "shoes3": {
+        "en": "shoes",
+        "ru": "обувь"
+    },
+    "bird20": {
+        "en": "bird",
+        "ru": "птица"
+    },
+    "box8": {
+        "en": "box",
+        "ru": "коробка"
+    },
+    "branches2": {
+        "en": "branches",
+        "ru": "ветви"
+    },
+    "call2": {
+        "en": "call",
+        "ru": "звонок"
+    },
+    "cat36": {
+        "en": "cat",
+        "ru": "кот"
+    },
+    "chalice1": {
+        "en": "chalice",
+        "ru": "кубок"
+    },
+    "feathers79": {
+        "en": "feather",
+        "ru": "перо"
+    },
+    "fish7": {
+        "en": "fish",
+        "ru": "рыба"
+    },
+    "lock1": {
+        "en": "lock",
+        "ru": "замок"
+    },
+    "papyrus2": {
+        "en": "papyrus",
+        "ru": "папирус"
+    },
+    "pillow1": {
+        "en": "pillow",
+        "ru": "подушка"
+    },
+    "radio1": {
+        "en": "radio",
+        "ru": "радио"
+    },
+    "reception2": {
+        "en": "reception",
+        "ru": "Табличка Reception"
+    },
+    "snag1": {
+        "en": "snag",
+        "ru": "коряга"
+    },
+    "socket1": {
+        "en": "socket",
+        "ru": "розетка"
+    },
+    "suitcase2": {
+        "en": "suitcase",
+        "ru": "чемодан"
+    },
+    "telephone1": {
+        "en": "telephone",
+        "ru": "телефон"
+    },
+    "towel7": {
+        "en": "towel",
+        "ru": "полотенце"
+    },
+    "watch6": {
+        "en": "watch",
+        "ru": "часы"
+    },
+    "water4": {
+        "en": "water",
+        "ru": "вода"
+    },
+    "ball4": {
+        "en": "ball",
+        "ru": "мяч"
+    },
+    "bird19": {
+        "en": "bird",
+        "ru": "птица"
+    },
+    "box4": {
+        "en": "box",
+        "ru": "коробка"
+    },
+    "cat33": {
+        "en": "cat",
+        "ru": "кот"
+    },
+    "dreamcatcher": {
+        "en": "dreamcatcher",
+        "ru": "ловец снов"
+    },
+    "feathers73": {
+        "en": "feather",
+        "ru": "перо"
+    },
+    "flask1": {
+        "en": "flask",
+        "ru": "фляга"
+    },
+    "handbag6": {
+        "en": "handbag",
+        "ru": "сумка"
+    },
+    "hook1": {
+        "en": "hook",
+        "ru": "крючок"
+    },
+    "horseshoe1": {
+        "en": "horseshoe",
+        "ru": "подкова"
+    },
+    "papyrus18": {
+        "en": "papyrus",
+        "ru": "папирус"
+    },
+    "rope1": {
+        "en": "rope",
+        "ru": "веревка"
+    },
+    "shoes5": {
+        "en": "shoes",
+        "ru": "обувь"
+    },
+    "water6": {
+        "en": "water",
+        "ru": "вода"
+    },
+    "bird48": {
+        "en": "bird",
+        "ru": "птица"
+    },
+    "box3": {
+        "en": "box",
+        "ru": "коробка"
+    },
+    "boxingglove1": {
+        "en": "boxing glove",
+        "ru": "боксерская перчатка"
+    },
+    "dumbbell1": {
+        "en": "dumbbell",
+        "ru": "гантеля"
+    },
+    "helmet2": {
+        "en": "helmet",
+        "ru": "шлем"
+    },
+    "hockeystick1": {
+        "en": "hockey stick",
+        "ru": "клюшка"
+    },
+    "medal1": {
+        "en": "medal",
+        "ru": "медаль"
+    },
+    "racket2": {
+        "en": "racket",
+        "ru": "ракетка"
+    },
+    "rollerskate2": {
+        "en": "rollerskate",
+        "ru": "роликовый конек"
+    },
+    "shuttlecock1": {
+        "en": "shuttlecock",
+        "ru": "волан"
+    },
+    "skate1": {
+        "en": "skate",
+        "ru": "конек"
+    },
+    "skateboard1": {
+        "en": "skateboard",
+        "ru": "скейтборд"
+    },
+    "sneakers1": {
+        "en": "sneakers",
+        "ru": "кроссовки"
+    },
+    "sportcup1": {
+        "en": "sport cup",
+        "ru": "спортивный кубок"
+    },
+    "stopwatch1": {
+        "en": "stopwatch",
+        "ru": "секундомер"
+    },
+    "weight1": {
+        "en": "weight",
+        "ru": "гиря"
+    },
+    "whistle1": {
+        "en": "whistle",
+        "ru": "свисток"
+    },
+    "bird13": {
+        "en": "bird",
+        "ru": "птица"
+    },
+    "bird15": {
+        "en": "bird",
+        "ru": "птица"
+    },
+    "books5": {
+        "en": "books",
+        "ru": "книги"
+    },
+    "box9": {
+        "en": "box",
+        "ru": "коробка"
+    },
+    "camera1": {
+        "en": "camera",
+        "ru": "камера"
+    },
+    "candle6": {
+        "en": "candle",
+        "ru": "свеча"
+    },
+    "cane1": {
+        "en": "cane",
+        "ru": "трость"
+    },
+    "cat6": {
+        "en": "cat",
+        "ru": "кот"
+    },
+    "frame17": {
+        "en": "frame",
+        "ru": "рамка"
+    },
+    "handbag5": {
+        "en": "handbag",
+        "ru": "сумка"
+    },
+    "hat4": {
+        "en": "hat",
+        "ru": "шляпа"
+    },
+    "hat5": {
+        "en": "hat",
+        "ru": "шляпа"
+    },
+    "shoes4": {
+        "en": "shoes",
+        "ru": "обувь"
+    },
+    "towel18": {
+        "en": "towel",
+        "ru": "полотенце"
+    },
+    "towel5": {
+        "en": "towel",
+        "ru": "полотенце"
+    },
+    "watch3": {
+        "en": "watch",
+        "ru": "часы"
+    }
+}

@@ -1,0 +1,1276 @@
+{
+  "skeleton": {
+    "hash": "XutWTVyRrWM",
+    "spine": "4.1.24",
+    "y": -1080,
+    "width": 2560,
+    "height": 1080,
+    "images": "./images/",
+    "audio": ""
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "backgrounds",
+      "parent": "root"
+    },
+    {
+      "name": "decorItems",
+      "parent": "root"
+    },
+    {
+      "name": "hogItems",
+      "parent": "root"
+    },
+    {
+      "name": "idle",
+      "parent": "root"
+    },
+    {
+      "name": "env/shadows/chel",
+      "parent": "idle",
+      "x": 1373.68,
+      "y": -638.57
+    },
+    {
+      "name": "object/birds/object_bird_50",
+      "parent": "idle",
+      "x": 659.73,
+      "y": -341.09
+    }
+  ],
+  "slots": [
+    {
+      "name": "background_lv42",
+      "bone": "backgrounds"
+    },
+    {
+      "name": "idle",
+      "bone": "idle",
+      "attachment": "idle"
+    },
+    {
+      "name": "env/shadows/chel",
+      "bone": "env/shadows/chel",
+      "attachment": "env/shadows/chel"
+    },
+    {
+      "name": "object/birds/object_bird_50",
+      "bone": "object/birds/object_bird_50",
+      "attachment": "object/birds/object_bird_50"
+    },
+    {
+      "name": "hogItem1",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem2",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "decorItem1",
+      "bone": "decorItems"
+    },
+    {
+      "name": "hogItem3",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem4",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem5",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem6",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem7",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem8",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem9",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem10",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem11",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem12",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "env/shadows/chel": {
+          "env/shadows/chel": {
+            "color": "7d777727",
+            "scaleX": 2.1358,
+            "scaleY": 2.1358,
+            "width": 72,
+            "height": 215
+          }
+        },
+        "idle": {
+          "idle": {
+            "type": "clipping",
+            "end": "env/shadows/chel",
+            "vertexCount": 103,
+            "vertices": [
+              1330.54,
+              -392.35,
+              1308.36,
+              -584.58,
+              1289.88,
+              -598.14,
+              1266.46,
+              -601.83,
+              1266.46,
+              -530.36,
+              1275.09,
+              -476.14,
+              1224.57,
+              -462.59,
+              1188.83,
+              -463.82,
+              1186.37,
+              -497.09,
+              1196.23,
+              -532.83,
+              1208.55,
+              -598.14,
+              1177.74,
+              -596.9,
+              1181.77,
+              -521.64,
+              1146.39,
+              -520.15,
+              1153.37,
+              -451.38,
+              1189.24,
+              -417.5,
+              1216.65,
+              -439.42,
+              1218.64,
+              -424.48,
+              1236.58,
+              -423.48,
+              1237.08,
+              -410.52,
+              1199.71,
+              -407.04,
+              1201.7,
+              -388.6,
+              1186.75,
+              -388.6,
+              1188.74,
+              -405.04,
+              1156.36,
+              -435.94,
+              1155.86,
+              -392.59,
+              1137.92,
+              -387.6,
+              1134.43,
+              -474.8,
+              1110.51,
+              -447.9,
+              1095.56,
+              -446.9,
+              1089.09,
+              -461.35,
+              1073.14,
+              -445.4,
+              1071.15,
+              -415.51,
+              1077.13,
+              -403.05,
+              1077.63,
+              -388.6,
+              1110.01,
+              -389.1,
+              1117.99,
+              -402.05,
+              1101.05,
+              -398.07,
+              1095.56,
+              -420.99,
+              1115.5,
+              -421.98,
+              1125.96,
+              -413.02,
+              1121.48,
+              -387.1,
+              1109.52,
+              -380.13,
+              1069.16,
+              -381.62,
+              1016.34,
+              -388.6,
+              1048.23,
+              -443.91,
+              1075.14,
+              -466.83,
+              1118.98,
+              -490.75,
+              1117.49,
+              -514.67,
+              1082.61,
+              -516.16,
+              1087.59,
+              -596.88,
+              1002.88,
+              -597.38,
+              999.4,
+              -557.52,
+              1027.8,
+              -528.12,
+              1053.21,
+              -499.72,
+              1064.17,
+              -470.82,
+              1036.77,
+              -486.26,
+              1026.3,
+              -474.8,
+              1018.33,
+              -513.17,
+              1011.85,
+              -472.81,
+              991.42,
+              -524.13,
+              975.98,
+              -475.3,
+              973.98,
+              -389.1,
+              956.54,
+              -386.61,
+              955.55,
+              -508.19,
+              954.05,
+              -596.38,
+              758.96,
+              -597.09,
+              761.1,
+              -384.41,
+              737.54,
+              -383.69,
+              741.83,
+              -597.09,
+              684.02,
+              -597.09,
+              670.46,
+              -534.29,
+              621,
+              -512.22,
+              597.78,
+              -494.57,
+              563.41,
+              -496.43,
+              565.26,
+              -382.17,
+              547.61,
+              -383.1,
+              546.68,
+              -495.5,
+              425.92,
+              -494.57,
+              385.98,
+              -494.57,
+              381.33,
+              -380.31,
+              362.75,
+              -384.03,
+              366.47,
+              -493.64,
+              226.95,
+              -504.27,
+              218.93,
+              -382.17,
+              234.98,
+              -382.17,
+              231.54,
+              -413.7,
+              335.29,
+              -414.27,
+              328.41,
+              -381.03,
+              343.89,
+              -365.55,
+              383.44,
+              -370.14,
+              510.12,
+              -370.14,
+              593.23,
+              -369.56,
+              662.44,
+              -370.36,
+              767.53,
+              -372.71,
+              816.94,
+              -376.63,
+              806.75,
+              -418.2,
+              920.86,
+              -417.02,
+              909.49,
+              -386.04,
+              946.78,
+              -388.09,
+              966.61,
+              -371.98,
+              1115.27,
+              -364.9,
+              1283.1,
+              -375.65
+            ],
+            "color": "3a3acdff"
+          }
+        },
+        "object/birds/object_bird_50": {
+          "object/birds/object_bird_50": {
+            "width": 70,
+            "height": 54
+          }
+        }
+      }
+    },
+    {
+      "name": "mode1/skin_mode1_v1",
+      "attachments": {
+        "hogItem1": {
+          "hogItem_ps": {
+            "name": "object/cats/object_cat_78_soundCat",
+            "x": 130.89,
+            "y": -673.3,
+            "scaleX": 0.5730808950086059,
+            "scaleY": 0.5756970740103271,
+            "width": 217,
+            "height": 161
+          }
+        },
+        "hogItem2": {
+          "hogItem_ps": {
+            "name": "object/cats/object_cat_70_soundCat",
+            "x": 875.1,
+            "y": -581.34,
+            "scaleX": 0.7329944323408376,
+            "scaleY": 0.7382231905107721,
+            "width": 154,
+            "height": 73
+          }
+        },
+        "hogItem3": {
+          "hogItem_ps": {
+            "name": "object/cats/object_cat_68_soundCat",
+            "x": 1734.45,
+            "y": -379.87,
+            "scaleX": 0.8,
+            "scaleY": 0.7976128310331966,
+            "width": 100,
+            "height": 114
+          }
+        },
+        "hogItem4": {
+          "hogItem_ps": {
+            "name": "object/cats/object_cat_65_soundCat",
+            "x": 448.94,
+            "y": -419.47,
+            "scaleX": 0.8000000000000002,
+            "scaleY": 0.8000000000000002,
+            "width": 274,
+            "height": 200
+          }
+        },
+        "hogItem5": {
+          "hogItem_ps": {
+            "name": "object/cats/object_cat_46_soundCat",
+            "x": 2175.87,
+            "y": -526.42,
+            "scaleX": 0.797017707362535,
+            "scaleY": 0.8,
+            "width": 160,
+            "height": 149
+          }
+        },
+        "hogItem6": {
+          "hogItem_ps": {
+            "name": "object/cats/object_cat_36_soundCat",
+            "x": 1917.24,
+            "y": -509.69,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 212,
+            "height": 80
+          }
+        },
+        "hogItem7": {
+          "hogItem_ps": {
+            "name": "object/cats/object_cat_28_soundCat",
+            "x": 1970.49,
+            "y": -856.1,
+            "scaleX": 0.6119554204660588,
+            "scaleY": 0.6119554204660588,
+            "width": 185,
+            "height": 118
+          }
+        },
+        "hogItem8": {
+          "hogItem_ps": {
+            "name": "object/cats/object_cat_22_soundCat",
+            "x": 561.51,
+            "y": -870.09,
+            "scaleX": 0.7969226385525005,
+            "scaleY": 0.8,
+            "width": 263,
+            "height": 223
+          }
+        },
+        "hogItem9": {
+          "hogItem_ps": {
+            "name": "object/cats/object_cat_18_soundCat",
+            "x": 2434.06,
+            "y": -259.84,
+            "scaleX": 0.7389858686616791,
+            "scaleY": 0.7389858686616791,
+            "width": 180,
+            "height": 119
+          }
+        },
+        "hogItem10": {
+          "hogItem_ps": {
+            "name": "object/viking/object_viking_4",
+            "x": 1040.29,
+            "y": -578.35,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": 21.82,
+            "width": 106,
+            "height": 88
+          }
+        },
+        "hogItem11": {
+          "hogItem_ps": {
+            "name": "object/viking/object_viking_8",
+            "x": 2191.47,
+            "y": -879.19,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": 64.57,
+            "width": 79,
+            "height": 129
+          }
+        },
+        "hogItem12": {
+          "hogItem_ps": {
+            "name": "object/viking/object_viking_3",
+            "x": 306.23,
+            "y": -889.46,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": -19.2,
+            "width": 120,
+            "height": 122
+          }
+        }
+      }
+    },
+    {
+      "name": "mode1/skin_mode1_v2",
+      "attachments": {
+        "hogItem1": {
+          "hogItem_ps": {
+            "name": "object/cats/object_cat_78_soundCat",
+            "x": 462.65,
+            "y": -683.72,
+            "scaleX": 0.7818244406196214,
+            "scaleY": 0.7854044750430293,
+            "width": 217,
+            "height": 161
+          }
+        },
+        "hogItem2": {
+          "hogItem_ps": {
+            "name": "object/cats/object_cat_70_soundCat",
+            "x": 1056.08,
+            "y": -580.06,
+            "scaleX": 0.7837327523602033,
+            "scaleY": 0.7891551682401355,
+            "width": 154,
+            "height": 73
+          }
+        },
+        "hogItem3": {
+          "hogItem_ps": {
+            "name": "object/cats/object_cat_68_soundCat",
+            "x": 159.65,
+            "y": -683.62,
+            "scaleX": 0.7256993659082432,
+            "scaleY": 0.7236105930622903,
+            "width": 100,
+            "height": 114
+          }
+        },
+        "hogItem4": {
+          "hogItem_ps": {
+            "name": "object/cats/object_cat_65_soundCat",
+            "x": 759.58,
+            "y": -551.87,
+            "scaleX": 0.4847193773043835,
+            "scaleY": 0.4847193773043835,
+            "width": 274,
+            "height": 200
+          }
+        },
+        "hogItem5": {
+          "hogItem_ps": {
+            "name": "object/cats/object_cat_46_soundCat",
+            "x": 2335.88,
+            "y": -503.75,
+            "scaleX": 0.5386766076421249,
+            "scaleY": 0.5405405405405406,
+            "width": 160,
+            "height": 149
+          }
+        },
+        "hogItem6": {
+          "hogItem_ps": {
+            "name": "object/cats/object_cat_36_soundCat",
+            "x": 2170.04,
+            "y": -555.27,
+            "scaleX": 0.6719548739643927,
+            "scaleY": 0.6719548739643927,
+            "width": 212,
+            "height": 80
+          }
+        },
+        "hogItem7": {
+          "hogItem_ps": {
+            "name": "object/cats/object_cat_28_soundCat",
+            "x": 1214.73,
+            "y": -662.25,
+            "scaleX": 0.7880040526849038,
+            "scaleY": 0.7880040526849038,
+            "width": 185,
+            "height": 118
+          }
+        },
+        "hogItem8": {
+          "hogItem_ps": {
+            "name": "object/cats/object_cat_22_soundCat",
+            "x": 566.66,
+            "y": -870.9,
+            "scaleX": 0.6394073229804816,
+            "scaleY": 0.6419148026784444,
+            "width": 263,
+            "height": 223
+          }
+        },
+        "hogItem9": {
+          "hogItem_ps": {
+            "name": "object/cats/object_cat_18_soundCat",
+            "x": 2461.3,
+            "y": -853.96,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 180,
+            "height": 119
+          }
+        },
+        "hogItem10": {
+          "hogItem_ps": {
+            "name": "object/viking/object_viking_4",
+            "x": 1431.1,
+            "y": -685.41,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": 21.82,
+            "width": 106,
+            "height": 88
+          }
+        },
+        "hogItem11": {
+          "hogItem_ps": {
+            "name": "object/viking/object_viking_8",
+            "x": 1746.79,
+            "y": -369.92,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": -8.58,
+            "width": 79,
+            "height": 129
+          }
+        },
+        "hogItem12": {
+          "hogItem_ps": {
+            "name": "object/viking/object_viking_3",
+            "x": 683.87,
+            "y": -687.59,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": -19.2,
+            "width": 120,
+            "height": 122
+          }
+        }
+      }
+    },
+    {
+      "name": "mode1/skin_mode1_v3",
+      "attachments": {
+        "hogItem1": {
+          "hogItem_ps": {
+            "name": "object/garbage/object_metalcan_5_animVacuumCleaner",
+            "x": 2183.67,
+            "y": -858.92,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 64,
+            "height": 52
+          }
+        },
+        "hogItem2": {
+          "hogItem_ps": {
+            "name": "object/garbage/object_garbage_21_animVacuumCleaner",
+            "x": 2491.14,
+            "y": -861.62,
+            "scaleX": 0.8000000000000002,
+            "scaleY": 0.8000000000000002,
+            "width": 117,
+            "height": 48
+          }
+        },
+        "hogItem3": {
+          "hogItem_ps": {
+            "name": "object/garbage/object_garbage_20_animVacuumCleaner",
+            "x": 602.71,
+            "y": -723.52,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 102,
+            "height": 36
+          }
+        },
+        "hogItem4": {
+          "hogItem_ps": {
+            "name": "object/garbage/object_garbage_19_animVacuumCleaner",
+            "x": 1154.36,
+            "y": -912.05,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 149,
+            "height": 31
+          }
+        },
+        "hogItem5": {
+          "hogItem_ps": {
+            "name": "object/garbage/object_garbage_18_animVacuumCleaner",
+            "x": 1585.18,
+            "y": -921.06,
+            "scaleX": 0.7999999999999999,
+            "scaleY": 0.7999999999999999,
+            "width": 108,
+            "height": 28
+          }
+        },
+        "hogItem6": {
+          "hogItem_ps": {
+            "name": "object/garbage/object_garbage_16_animVacuumCleaner",
+            "x": 2012.18,
+            "y": -565.84,
+            "width": 77,
+            "height": 46,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem7": {
+          "hogItem_ps": {
+            "name": "object/garbage/object_garbage_15_soundVshuh",
+            "x": 2326.67,
+            "y": -523.91,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": 10.01,
+            "width": 51,
+            "height": 45
+          }
+        },
+        "hogItem8": {
+          "hogItem_ps": {
+            "name": "object/garbage/object_garbage_14_soundVshuh",
+            "x": 1056.42,
+            "y": -577.15,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 57,
+            "height": 59
+          }
+        },
+        "hogItem9": {
+          "hogItem_ps": {
+            "name": "object/garbage/object_garbage_13_soundVshuh",
+            "x": 202.45,
+            "y": -686.91,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": -28.21,
+            "width": 48,
+            "height": 43
+          }
+        },
+        "hogItem10": {
+          "hogItem_ps": {
+            "name": "object/garbage/object_garbage_12_animVacuumCleaner",
+            "x": 1962,
+            "y": -879.8,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 152,
+            "height": 80
+          }
+        },
+        "hogItem11": {
+          "hogItem_ps": {
+            "name": "object/garbage/object_garbage_5_animVacuumCleaner",
+            "x": 1770.95,
+            "y": -410.58,
+            "scaleX": 0.5566509115462526,
+            "scaleY": 0.5580013504388927,
+            "width": 72,
+            "height": 82
+          }
+        },
+        "hogItem12": {
+          "hogItem_ps": {
+            "name": "object/garbage/object_garbage_2_soundVshuh",
+            "x": 581.19,
+            "y": -899.51,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": 1.21,
+            "width": 80,
+            "height": 82
+          }
+        }
+      }
+    },
+    {
+      "name": "mode1/skin_mode1_v4",
+      "attachments": {
+        "hogItem1": {
+          "hogItem_ps": {
+            "name": "object/garbage/object_metalcan_5_animVacuumCleaner",
+            "x": 1675.79,
+            "y": -630.84,
+            "scaleX": 0.6568165928687952,
+            "scaleY": 0.6568165928687952,
+            "rotation": -16.64,
+            "width": 64,
+            "height": 52
+          }
+        },
+        "hogItem2": {
+          "hogItem_ps": {
+            "name": "object/garbage/object_garbage_21_animVacuumCleaner",
+            "x": 2501.06,
+            "y": -878.31,
+            "scaleX": 0.8000000000000002,
+            "scaleY": 0.8000000000000002,
+            "width": 117,
+            "height": 48
+          }
+        },
+        "hogItem3": {
+          "hogItem_ps": {
+            "name": "object/garbage/object_garbage_20_animVacuumCleaner",
+            "x": 981.05,
+            "y": -700.37,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 102,
+            "height": 36
+          }
+        },
+        "hogItem4": {
+          "hogItem_ps": {
+            "name": "object/garbage/object_garbage_19_animVacuumCleaner",
+            "x": 600.31,
+            "y": -736.45,
+            "scaleX": 0.713187162376867,
+            "scaleY": 0.713187162376867,
+            "width": 149,
+            "height": 31
+          }
+        },
+        "hogItem5": {
+          "hogItem_ps": {
+            "name": "object/garbage/object_garbage_18_animVacuumCleaner",
+            "x": 2208.76,
+            "y": -885.51,
+            "scaleX": 0.7999999999999999,
+            "scaleY": 0.7999999999999999,
+            "width": 108,
+            "height": 28
+          }
+        },
+        "hogItem6": {
+          "hogItem_ps": {
+            "name": "object/garbage/object_garbage_16_animVacuumCleaner",
+            "x": 1287.84,
+            "y": -696.25,
+            "width": 77,
+            "height": 46,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem7": {
+          "hogItem_ps": {
+            "name": "object/garbage/object_garbage_15_soundVshuh",
+            "x": 2336.55,
+            "y": -426.11,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": 10.01,
+            "width": 51,
+            "height": 45
+          }
+        },
+        "hogItem8": {
+          "hogItem_ps": {
+            "name": "object/garbage/object_garbage_14_soundVshuh",
+            "x": 1145.48,
+            "y": -495.22,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 57,
+            "height": 59
+          }
+        },
+        "hogItem9": {
+          "hogItem_ps": {
+            "name": "object/garbage/object_garbage_13_soundVshuh",
+            "x": 170.39,
+            "y": -504.06,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": -28.21,
+            "width": 48,
+            "height": 43
+          }
+        },
+        "hogItem10": {
+          "hogItem_ps": {
+            "name": "object/garbage/object_garbage_12_animVacuumCleaner",
+            "x": 1944.53,
+            "y": -874.12,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 152,
+            "height": 80
+          }
+        },
+        "hogItem11": {
+          "hogItem_ps": {
+            "name": "object/garbage/object_garbage_5_animVacuumCleaner",
+            "x": 2372.12,
+            "y": -805.92,
+            "scaleX": 0.7983794733288319,
+            "scaleY": 0.8,
+            "rotation": -4.99,
+            "width": 72,
+            "height": 82
+          }
+        },
+        "hogItem12": {
+          "hogItem_ps": {
+            "name": "object/garbage/object_garbage_2_soundVshuh",
+            "x": 758.59,
+            "y": -882.39,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": 1.21,
+            "width": 80,
+            "height": 82
+          }
+        }
+      }
+    },
+    {
+      "name": "mode1/skin_mode1_v5",
+      "attachments": {
+        "hogItem1": {
+          "hogItem_ps": {
+            "name": "object/cats/object_cat_78_soundCat",
+            "x": 459.97,
+            "y": -682.39,
+            "scaleX": 0.7964199655765922,
+            "scaleY": 0.8,
+            "width": 217,
+            "height": 161
+          }
+        },
+        "hogItem2": {
+          "hogItem_ps": {
+            "name": "object/cats/object_cat_70_soundCat",
+            "x": 1059.76,
+            "y": -576.99,
+            "scaleX": 0.7943839264100702,
+            "scaleY": 0.8,
+            "width": 154,
+            "height": 73
+          }
+        },
+        "hogItem3": {
+          "hogItem_ps": {
+            "name": "object/cats/object_cat_68_soundCat",
+            "x": 159.42,
+            "y": -676.83,
+            "scaleX": 0.7731443491234614,
+            "scaleY": 0.770757180156658,
+            "width": 100,
+            "height": 114
+          }
+        },
+        "hogItem4": {
+          "hogItem_ps": {
+            "name": "object/cats/object_cat_65_soundCat",
+            "x": 759.58,
+            "y": -551.87,
+            "scaleX": 0.4853748463744368,
+            "scaleY": 0.4853748463744368,
+            "width": 274,
+            "height": 200
+          }
+        },
+        "hogItem5": {
+          "hogItem_ps": {
+            "name": "object/cats/object_cat_46_soundCat",
+            "x": 2335.88,
+            "y": -503.75,
+            "scaleX": 0.5625349487418454,
+            "scaleY": 0.5645852749301026,
+            "width": 160,
+            "height": 149
+          }
+        },
+        "hogItem6": {
+          "hogItem_ps": {
+            "name": "object/cats/object_cat_36_soundCat",
+            "x": 2169.43,
+            "y": -555.82,
+            "scaleX": 0.630636347611493,
+            "scaleY": 0.630636347611493,
+            "width": 212,
+            "height": 80
+          }
+        },
+        "hogItem7": {
+          "hogItem_ps": {
+            "name": "object/cats/object_cat_28_soundCat",
+            "x": 1214.73,
+            "y": -662.25,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 185,
+            "height": 118
+          }
+        },
+        "hogItem8": {
+          "hogItem_ps": {
+            "name": "object/cats/object_cat_22_soundCat",
+            "x": 543.76,
+            "y": -874.15,
+            "scaleX": 0.7144037612195471,
+            "scaleY": 0.7171391936173245,
+            "width": 263,
+            "height": 223
+          }
+        },
+        "hogItem9": {
+          "hogItem_ps": {
+            "name": "object/cats/object_cat_18_soundCat",
+            "x": 2466.61,
+            "y": -850.42,
+            "scaleX": 0.7605985037406484,
+            "scaleY": 0.7605985037406484,
+            "width": 180,
+            "height": 119
+          }
+        },
+        "hogItem10": {
+          "hogItem_ps": {
+            "name": "object/viking/object_viking_4",
+            "x": 1431.1,
+            "y": -685.41,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": 21.82,
+            "width": 106,
+            "height": 88
+          }
+        },
+        "hogItem11": {
+          "hogItem_ps": {
+            "name": "object/viking/object_viking_8",
+            "x": 1746.79,
+            "y": -369.92,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": -8.58,
+            "width": 79,
+            "height": 129
+          }
+        },
+        "hogItem12": {
+          "hogItem_ps": {
+            "name": "object/viking/object_viking_3",
+            "x": 683.87,
+            "y": -687.59,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": -19.2,
+            "width": 120,
+            "height": 122
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "idle": {
+      "bones": {
+        "env/shadows/chel": {
+          "translate": [
+            {
+              "x": -15.02
+            },
+            {
+              "time": 0.1667,
+              "x": -64.16,
+              "y": 12.29
+            },
+            {
+              "time": 0.3333,
+              "x": -95.56,
+              "y": -12.29
+            },
+            {
+              "time": 0.5667,
+              "x": -140.61,
+              "y": 6.83
+            },
+            {
+              "time": 0.8333,
+              "x": -189.75,
+              "y": -28.67
+            },
+            {
+              "time": 1.1,
+              "x": -244.36,
+              "y": 5.46
+            },
+            {
+              "time": 1.3667,
+              "x": -294.87,
+              "y": 4.1
+            },
+            {
+              "time": 1.6,
+              "x": -326.27,
+              "y": 10.92
+            },
+            {
+              "time": 1.9,
+              "x": -372.68,
+              "y": -4.1
+            },
+            {
+              "time": 2.2667,
+              "x": -423.19,
+              "y": 15.02
+            },
+            {
+              "time": 2.5,
+              "x": -451.86,
+              "y": 21.84
+            },
+            {
+              "time": 2.8,
+              "x": -488.72,
+              "y": 6.83
+            },
+            {
+              "time": 3.1333,
+              "x": -541.96,
+              "y": 23.21
+            },
+            {
+              "time": 3.4333,
+              "x": -580.18,
+              "y": 8.19
+            },
+            {
+              "time": 3.7667,
+              "x": -621.13,
+              "y": 27.3
+            },
+            {
+              "time": 4.0333,
+              "x": -648.44,
+              "y": 4.1
+            },
+            {
+              "time": 4.3667,
+              "x": -682.56,
+              "y": 19.11
+            },
+            {
+              "time": 4.6333,
+              "x": -733.07,
+              "y": -1.37
+            },
+            {
+              "time": 4.9,
+              "x": -774.03,
+              "y": 13.65
+            },
+            {
+              "time": 5.1,
+              "x": -834.09,
+              "y": -2.73
+            },
+            {
+              "time": 5.4,
+              "x": -877.78,
+              "y": 10.92
+            },
+            {
+              "time": 5.6333,
+              "x": -929.65,
+              "y": -8.19
+            },
+            {
+              "time": 5.9667,
+              "x": -993.81,
+              "y": 12.29
+            },
+            {
+              "time": 6.2333,
+              "x": -1051.15,
+              "y": -4.1
+            },
+            {
+              "time": 6.5667,
+              "x": -1104.39,
+              "y": 21.84
+            },
+            {
+              "time": 6.9,
+              "x": -1143.98,
+              "y": 6.83
+            },
+            {
+              "time": 7.2,
+              "x": -1220.75,
+              "y": 39.95
+            }
+          ]
+        },
+        "object/birds/object_bird_50": {
+          "translate": [
+            {},
+            {
+              "time": 0.9,
+              "y": -4.19
+            },
+            {
+              "time": 2.0667
+            },
+            {
+              "time": 2.9667,
+              "y": -4.19
+            },
+            {
+              "time": 4.1333
+            },
+            {
+              "time": 5.0333,
+              "y": -4.19
+            },
+            {
+              "time": 6.2
+            },
+            {
+              "time": 7.4,
+              "y": -4.19
+            },
+            {
+              "time": 8.6667
+            }
+          ],
+          "scale": [
+            {},
+            {
+              "time": 0.9,
+              "y": 0.925
+            },
+            {
+              "time": 2.0667
+            },
+            {
+              "time": 2.9667,
+              "y": 0.925
+            },
+            {
+              "time": 4.1333
+            },
+            {
+              "time": 5.0333,
+              "y": 0.925
+            },
+            {
+              "time": 6.2
+            },
+            {
+              "time": 7.4,
+              "y": 0.925
+            },
+            {
+              "time": 8.6667
+            }
+          ]
+        }
+      }
+    }
+  }
+}

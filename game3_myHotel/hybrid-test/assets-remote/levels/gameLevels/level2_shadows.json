@@ -1,0 +1,2272 @@
+{
+  "skeleton": {
+    "hash": "0SpG8seftjk",
+    "spine": "4.1.24",
+    "y": -1080,
+    "width": 2560,
+    "height": 1080,
+    "images": "./images/",
+    "audio": ""
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "backgrounds",
+      "parent": "root"
+    },
+    {
+      "name": "decorItems",
+      "parent": "root"
+    },
+    {
+      "name": "hogItems",
+      "parent": "root"
+    },
+    {
+      "name": "idle",
+      "parent": "root"
+    },
+    {
+      "name": "idle2",
+      "parent": "idle",
+      "length": 23.71,
+      "rotation": 114.77,
+      "x": 1706.2,
+      "y": -520.37
+    },
+    {
+      "name": "idle3",
+      "parent": "idle",
+      "length": 19.87,
+      "rotation": 90,
+      "x": 1760.84,
+      "y": -480.63
+    },
+    {
+      "name": "idle4",
+      "parent": "idle",
+      "length": 23.01,
+      "rotation": 59.74,
+      "x": 1875.1,
+      "y": -512.09
+    },
+    {
+      "name": "idle5",
+      "parent": "idle",
+      "x": 1772.43,
+      "y": -586.61
+    },
+    {
+      "name": "idle6",
+      "parent": "idle",
+      "length": 60.73,
+      "rotation": 25.87,
+      "x": 1768.29,
+      "y": -530.31
+    }
+  ],
+  "slots": [
+    {
+      "name": "background_lv2",
+      "bone": "backgrounds"
+    },
+    {
+      "name": "hogItem1",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem2",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "decorItem1",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem2",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "hogItem3",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem4",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "decorItem3",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem4",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem5",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem6",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem7",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem8",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem9",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem10",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem11",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem12",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem13",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem14",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem15",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem16",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem17",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem18",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem19",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "hogItem5",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem6",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem7",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem8",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem9",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem10",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem11",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem12",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "env/shadows/radioanim_5",
+      "bone": "idle6",
+      "attachment": "env/shadows/radioanim_2"
+    },
+    {
+      "name": "env/shadows/radioanim_4",
+      "bone": "idle",
+      "attachment": "env/shadows/radioanim_1"
+    },
+    {
+      "name": "env/shadows/radioanim_6",
+      "bone": "idle3",
+      "attachment": "env/shadows/radioanim_3"
+    },
+    {
+      "name": "env/shadows/radioanim_9",
+      "bone": "idle2",
+      "attachment": "env/shadows/radioanim_3"
+    },
+    {
+      "name": "env/shadows/radioanim_8",
+      "bone": "idle4",
+      "attachment": "env/shadows/radioanim_3"
+    },
+    {
+      "name": "env/shadows/radioanim_7",
+      "bone": "idle5",
+      "attachment": "env/shadows/radioanim_4"
+    },
+    {
+      "name": "env/shelves/env_shelf_40",
+      "bone": "idle",
+      "attachment": "env/shelves/env_shelf_40"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "env/shadows/radioanim_4": {
+          "env/shadows/radioanim_1": {
+            "x": 1800.22,
+            "y": -572.99,
+            "scaleX": 0.7385,
+            "scaleY": 0.7385,
+            "width": 200,
+            "height": 101
+          }
+        },
+        "env/shadows/radioanim_5": {
+          "env/shadows/radioanim_2": {
+            "x": 34.65,
+            "y": -0.25,
+            "scaleX": 0.4995,
+            "scaleY": 0.7686,
+            "rotation": -25.87,
+            "width": 200,
+            "height": 70
+          }
+        },
+        "env/shadows/radioanim_6": {
+          "env/shadows/radioanim_3": {
+            "x": 13.33,
+            "y": -2.35,
+            "scaleX": 0.1992,
+            "scaleY": 0.1992,
+            "rotation": -88.86,
+            "width": 50,
+            "height": 85
+          }
+        },
+        "env/shadows/radioanim_7": {
+          "env/shadows/radioanim_4": {
+            "x": 2.39,
+            "y": 1.94,
+            "scaleY": 0.7849,
+            "width": 3,
+            "height": 12
+          }
+        },
+        "env/shadows/radioanim_8": {
+          "env/shadows/radioanim_3": {
+            "x": 12.46,
+            "y": -0.79,
+            "scaleX": 0.3341,
+            "scaleY": 0.3341,
+            "rotation": -81.3,
+            "width": 50,
+            "height": 85
+          }
+        },
+        "env/shadows/radioanim_9": {
+          "env/shadows/radioanim_3": {
+            "x": 14.1,
+            "y": -3.16,
+            "scaleX": 0.4124,
+            "scaleY": 0.4124,
+            "rotation": -86.41,
+            "width": 50,
+            "height": 85
+          }
+        },
+        "env/shelves/env_shelf_40": {
+          "env/shelves/env_shelf_40": {
+            "x": 1802.77,
+            "y": -615.97,
+            "scaleX": 1.1256,
+            "scaleY": 0.4619,
+            "width": 200,
+            "height": 27
+          }
+        }
+      }
+    },
+    {
+      "name": "mode1/skin_mode1_v1",
+      "attachments": {
+        "decorItem1": {
+          "additional_item_ps": {
+            "name": "env/chairs/env_chair_38",
+            "x": 2124.47,
+            "y": -791.89,
+            "scaleX": 0.8,
+            "scaleY": 0.7992831541218638,
+            "width": 424,
+            "height": 443
+          }
+        },
+        "decorItem2": {
+          "additional_item_ps": {
+            "name": "env/sofa/env_sofa_9",
+            "x": 1330.23,
+            "y": -796.27,
+            "scaleX": 0.7710144927536232,
+            "scaleY": 0.7729468599033816,
+            "width": 1218,
+            "height": 401
+          }
+        },
+        "decorItem3": {
+          "additional_item_ps": {
+            "name": "env/tables/env_table_22",
+            "x": 577.57,
+            "y": -822.52,
+            "scaleX": 0.7993138936535165,
+            "scaleY": 0.8,
+            "width": 557,
+            "height": 421
+          }
+        },
+        "decorItem4": {
+          "additional_item_ps": {
+            "name": "object/decorations/object_deer_1_animFeatherDuster",
+            "x": 1814.3,
+            "y": -324.33,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 120,
+            "height": 205
+          }
+        },
+        "decorItem5": {
+          "additional_item_ps": {
+            "name": "object/ancientvases/object_ancientvases_28_soundVases",
+            "x": 1557.11,
+            "y": -620.2,
+            "scaleX": 0.793014553014553,
+            "scaleY": 0.8,
+            "width": 105,
+            "height": 68
+          }
+        },
+        "decorItem6": {
+          "additional_item_ps": {
+            "name": "object/ancientvases/object_ancientvases_25_soundVases",
+            "x": 2229.44,
+            "y": -744.68,
+            "scaleX": 0.7971235955056181,
+            "scaleY": 0.8,
+            "rotation": -59.58,
+            "width": 97,
+            "height": 155
+          }
+        },
+        "decorItem7": {
+          "additional_item_ps": {
+            "name": "object/ancientvases/object_ancientvases_24_soundVases",
+            "x": 508.15,
+            "y": -776.48,
+            "scaleX": 0.7983496647756577,
+            "scaleY": 0.8,
+            "width": 84,
+            "height": 154
+          }
+        },
+        "decorItem8": {
+          "additional_item_ps": {
+            "name": "object/ancientvases/object_ancientvases_23_soundVases",
+            "x": 1759.56,
+            "y": -920.77,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": -57.77,
+            "width": 109,
+            "height": 133
+          }
+        },
+        "decorItem9": {
+          "additional_item_ps": {
+            "name": "object/ancientvases/object_ancientvases_22_soundVases",
+            "x": 1904.12,
+            "y": -339.52,
+            "scaleX": 0.7964601769911505,
+            "scaleY": 0.8,
+            "width": 108,
+            "height": 176
+          }
+        },
+        "decorItem10": {
+          "additional_item_ps": {
+            "name": "object/ancientvases/object_ancientvases_21_soundVases",
+            "x": 1274.77,
+            "y": -855.14,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 69,
+            "height": 248
+          }
+        },
+        "decorItem11": {
+          "additional_item_ps": {
+            "name": "object/ancientvases/object_ancientvases_15_soundVases",
+            "x": 2133.45,
+            "y": -918.34,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 77,
+            "height": 87
+          }
+        },
+        "decorItem12": {
+          "additional_item_ps": {
+            "name": "object/ancientvases/object_ancientvases_14_soundVases",
+            "color": "efc5c5ff",
+            "x": 693.33,
+            "y": -317.03,
+            "scaleX": 0.8,
+            "scaleY": 0.7406471981057616,
+            "width": 55,
+            "height": 81
+          }
+        },
+        "decorItem13": {
+          "additional_item_ps": {
+            "name": "object/ancientvases/object_ancientvases_13_soundVases",
+            "x": 1099.9,
+            "y": -644.02,
+            "scaleX": 0.7999999999999999,
+            "scaleY": 0.7999999999999999,
+            "rotation": 92.99,
+            "width": 85,
+            "height": 156
+          }
+        },
+        "decorItem14": {
+          "additional_item_ps": {
+            "name": "object/ancientvases/object_ancientvases_12_soundVases",
+            "x": 928.92,
+            "y": -911.21,
+            "scaleX": 0.7999999999999999,
+            "scaleY": 0.7999999999999999,
+            "rotation": -64.62,
+            "width": 136,
+            "height": 207
+          }
+        },
+        "decorItem15": {
+          "additional_item_ps": {
+            "name": "object/ancientvases/object_ancientvases_11_soundVases",
+            "color": "ffffffab",
+            "x": 2356.72,
+            "y": -333.61,
+            "scaleX": 0.49918509895227015,
+            "scaleY": 0.8000000000000002,
+            "width": 150,
+            "height": 203
+          }
+        },
+        "decorItem16": {
+          "additional_item_ps": {
+            "name": "object/ancientvases/object_ancientvases_6_soundVases",
+            "x": 667.92,
+            "y": -924.43,
+            "scaleX": 0.7975544516622088,
+            "scaleY": 0.8,
+            "width": 114,
+            "height": 163
+          }
+        },
+        "decorItem17": {
+          "additional_item_ps": {
+            "name": "object/ancientvases/object_ancientvases_4_soundVases",
+            "x": 1960.53,
+            "y": -881.63,
+            "scaleX": -0.6675073560319463,
+            "scaleY": 0.7515762925598992,
+            "width": 104,
+            "height": 109
+          }
+        },
+        "decorItem18": {
+          "additional_item_ps": {
+            "name": "object/ancientvases/object_ancientvases_1_soundVases",
+            "x": 299.42,
+            "y": -943.61,
+            "scaleX": 0.7963987138263665,
+            "scaleY": 0.8,
+            "rotation": 92.79,
+            "width": 136,
+            "height": 167
+          }
+        },
+        "decorItem19": {
+          "additional_item_ps": {
+            "name": "object/ancientvases/object_ancientvases_3_soundVases",
+            "x": 1720.63,
+            "y": -358.12,
+            "scaleX": 0.7992623328722914,
+            "scaleY": 0.8,
+            "width": 94,
+            "height": 124
+          }
+        },
+        "hogItem1": {
+          "hogItem_ps": {
+            "name": "object/cats/object_cat_73_soundCat",
+            "x": 660.02,
+            "y": -783.81,
+            "scaleX": 0.8,
+            "scaleY": 0.7977782525101474,
+            "width": 175,
+            "height": 207
+          }
+        },
+        "hogItem2": {
+          "hogItem_ps": {
+            "name": "object/cats/object_cat_70_soundCat",
+            "color": "ffffffa8",
+            "x": 1299.59,
+            "y": -626.52,
+            "scaleX": 0.7538864628820959,
+            "scaleY": 0.7592430858806404,
+            "width": 128,
+            "height": 61
+          }
+        },
+        "hogItem3": {
+          "hogItem_ps": {
+            "name": "object/cats/object_cat_60_soundCat",
+            "x": 881.02,
+            "y": -876.98,
+            "scaleX": 0.7898937697387309,
+            "scaleY": 0.7873672121734138,
+            "width": 130,
+            "height": 137
+          }
+        },
+        "hogItem4": {
+          "hogItem_ps": {
+            "name": "object/cats/object_cat_35_soundCat",
+            "color": "ffffffa3",
+            "x": 277.39,
+            "y": -383.81,
+            "scaleX": 0.6333112143331122,
+            "scaleY": 0.8,
+            "width": 113,
+            "height": 146
+          }
+        },
+        "hogItem5": {
+          "hogItem_ps": {
+            "name": "object/cats/object_cat_30_soundCat",
+            "x": 1357.43,
+            "y": -906.86,
+            "scaleX": 0.7968588957055215,
+            "scaleY": 0.8,
+            "width": 152,
+            "height": 129
+          }
+        },
+        "hogItem6": {
+          "hogItem_ps": {
+            "name": "object/cats/object_cat_19_soundCat",
+            "x": 1877,
+            "y": -560.54,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 73,
+            "height": 123
+          }
+        },
+        "hogItem7": {
+          "hogItem_ps": {
+            "name": "object/cats/object_cat_21_soundCat",
+            "x": 1857.19,
+            "y": -853.75,
+            "scaleX": 0.704923076923077,
+            "scaleY": 0.7036923076923077,
+            "width": 97,
+            "height": 196
+          }
+        },
+        "hogItem8": {
+          "hogItem_ps": {
+            "name": "object/cats/object_cat_45_soundCat",
+            "x": 1508.27,
+            "y": -737.89,
+            "scaleX": 0.7245935377649723,
+            "scaleY": 0.7245935377649723,
+            "width": 182,
+            "height": 116
+          }
+        },
+        "hogItem9": {
+          "hogItem_ps": {
+            "name": "object/cats/object_cat_6_soundCat",
+            "x": 2105.51,
+            "y": -767.64,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 181,
+            "height": 71
+          }
+        },
+        "hogItem10": {
+          "hogItem_ps": {
+            "name": "object/cats/object_cat_5_soundCat",
+            "x": 2322.66,
+            "y": -892.21,
+            "scaleX": 0.7839904893996432,
+            "scaleY": 0.7839904893996432,
+            "width": 189,
+            "height": 141
+          }
+        },
+        "hogItem11": {
+          "hogItem_ps": {
+            "name": "object/cats/object_cat_3_soundCat",
+            "color": "ecc8c8ff",
+            "x": 1306.01,
+            "y": -315.24,
+            "scaleX": 0.7325173668541184,
+            "scaleY": 0.7359576579556733,
+            "width": 113,
+            "height": 80
+          }
+        },
+        "hogItem12": {
+          "hogItem_ps": {
+            "name": "object/cats/object_cat_4_soundCat",
+            "x": 1177.77,
+            "y": -747.11,
+            "scaleX": 0.7964835164835165,
+            "scaleY": 0.8,
+            "width": 170,
+            "height": 126
+          }
+        }
+      }
+    },
+    {
+      "name": "mode1/skin_mode1_v2",
+      "attachments": {
+        "decorItem1": {
+          "additional_item_ps": {
+            "name": "env/chairs/env_chair_38",
+            "x": 2124.47,
+            "y": -791.89,
+            "scaleX": 0.8,
+            "scaleY": 0.7992831541218638,
+            "width": 424,
+            "height": 443
+          }
+        },
+        "decorItem2": {
+          "additional_item_ps": {
+            "name": "env/sofa/env_sofa_9",
+            "x": 1330.23,
+            "y": -796.27,
+            "scaleX": 0.7665056360708534,
+            "scaleY": 0.768438003220612,
+            "width": 1218,
+            "height": 401
+          }
+        },
+        "decorItem3": {
+          "additional_item_ps": {
+            "name": "env/tables/env_table_22",
+            "x": 577.57,
+            "y": -822.52,
+            "scaleX": 0.7993138936535165,
+            "scaleY": 0.8,
+            "width": 557,
+            "height": 421
+          }
+        },
+        "decorItem4": {
+          "additional_item_ps": {
+            "name": "object/decorations/object_deer_1_animFeatherDuster",
+            "x": 1814.3,
+            "y": -324.33,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 120,
+            "height": 205
+          }
+        },
+        "decorItem5": {
+          "additional_item_ps": {
+            "name": "object/party/object_party_120_animFeatherDuster",
+            "x": 1426.16,
+            "y": -188.65,
+            "scaleX": 0.5740798572384564,
+            "scaleY": 0.5740798572384564,
+            "width": 39,
+            "height": 54
+          }
+        },
+        "decorItem6": {
+          "additional_item_ps": {
+            "name": "object/party/object_party_100_animFeatherDuster",
+            "x": 2148.5,
+            "y": -792.08,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 57,
+            "height": 40
+          }
+        },
+        "decorItem7": {
+          "additional_item_ps": {
+            "name": "object/party/object_party_99_animFeatherDuster",
+            "color": "ffffffac",
+            "x": 277.81,
+            "y": -397.68,
+            "scaleX": 0.3280919540229885,
+            "scaleY": 0.4906666666666667,
+            "width": 57,
+            "height": 137
+          }
+        },
+        "decorItem9": {
+          "additional_item_ps": {
+            "name": "object/party/object_party_42_animFeatherDuster",
+            "x": 1826.48,
+            "y": -441.91,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 315,
+            "height": 51
+          }
+        },
+        "decorItem10": {
+          "additional_item_ps": {
+            "name": "object/party/object_party_32_animFeatherDuster",
+            "x": 512.06,
+            "y": -815.24,
+            "scaleX": 0.48302726766833615,
+            "scaleY": 0.48302726766833615,
+            "width": 15,
+            "height": 95
+          }
+        },
+        "decorItem11": {
+          "additional_item_ps": {
+            "name": "object/party/object_party_25_animFeatherDuster",
+            "color": "b05252ff",
+            "x": 2353.13,
+            "y": -335.76,
+            "scaleX": 0.554254982600443,
+            "scaleY": 0.8000000000000002,
+            "width": 55,
+            "height": 75
+          }
+        },
+        "decorItem12": {
+          "additional_item_ps": {
+            "name": "object/party/object_party_23_animFeatherDuster",
+            "x": 1419.46,
+            "y": -642.23,
+            "scaleX": 0.5448094612352169,
+            "scaleY": 0.5448094612352169,
+            "width": 64,
+            "height": 24
+          }
+        },
+        "decorItem13": {
+          "additional_item_ps": {
+            "name": "object/party/object_party_16_animFeatherDuster",
+            "x": 1251.43,
+            "y": -144.71,
+            "scaleX": 0.7120824742268042,
+            "scaleY": 0.7120824742268042,
+            "rotation": 62.1,
+            "width": 42,
+            "height": 93
+          }
+        },
+        "decorItem14": {
+          "additional_item_ps": {
+            "name": "object/party/object_party_9_animFeatherDuster",
+            "x": 1103.38,
+            "y": -756.78,
+            "scaleX": 0.6336510751496344,
+            "scaleY": 0.6336510751496344,
+            "rotation": -5.59,
+            "width": 118,
+            "height": 113
+          }
+        },
+        "decorItem15": {
+          "additional_item_ps": {
+            "name": "object/party/object_party_5_animFeatherDuster",
+            "x": 1040.84,
+            "y": -646.55,
+            "scaleX": 0.6730963005613936,
+            "scaleY": 0.6730963005613936,
+            "width": 60,
+            "height": 50
+          }
+        },
+        "hogItem1": {
+          "hogItem_ps": {
+            "name": "object/cleaning/object_cleaning_79_animFoam",
+            "x": 1775.13,
+            "y": -904.64,
+            "scaleX": 0.5564649975175545,
+            "scaleY": 0.5564649975175545,
+            "rotation": 28.71,
+            "width": 140,
+            "height": 72
+          }
+        },
+        "hogItem2": {
+          "hogItem_ps": {
+            "name": "object/cleaning/object_cleaning_54_animFoam",
+            "x": 1801.13,
+            "y": -395.94,
+            "scaleX": 0.7877228100276429,
+            "scaleY": 0.44243637403488717,
+            "rotation": 2.65,
+            "width": 262,
+            "height": 81
+          }
+        },
+        "hogItem3": {
+          "hogItem_ps": {
+            "name": "object/cleaning/object_cleaning_46_animFoam",
+            "x": 1963.84,
+            "y": -894.33,
+            "scaleX": 0.6985422740524782,
+            "scaleY": 0.6985422740524782,
+            "width": 47,
+            "height": 112
+          }
+        },
+        "hogItem4": {
+          "hogItem_ps": {
+            "name": "object/cleaning/object_cleaning_2_soundVshuh",
+            "x": 797.67,
+            "y": -750.58,
+            "scaleX": 0.612634634481705,
+            "scaleY": 0.612634634481705,
+            "width": 245,
+            "height": 559
+          }
+        },
+        "hogItem5": {
+          "hogItem_ps": {
+            "name": "object/cleaning/object_cleaning_6_soundVshuh",
+            "x": 1631.39,
+            "y": -873.27,
+            "scaleX": 0.5582458888018794,
+            "scaleY": 0.6602975724353956,
+            "width": 239,
+            "height": 285
+          }
+        },
+        "hogItem6": {
+          "hogItem_ps": {
+            "name": "object/cleaning/object_cleaning_9_animFoam",
+            "x": 1308.64,
+            "y": -686.58,
+            "scaleX": 0.7184976160358082,
+            "scaleY": 0.7184976160358082,
+            "rotation": 55.04,
+            "width": 89,
+            "height": 109
+          }
+        },
+        "hogItem7": {
+          "hogItem_ps": {
+            "name": "object/cleaning/object_cleaning_15_animFoam",
+            "x": 2046.9,
+            "y": -936.52,
+            "scaleX": 0.7952168082253017,
+            "scaleY": 0.4004023245417971,
+            "width": 156,
+            "height": 107
+          }
+        },
+        "hogItem8": {
+          "hogItem_ps": {
+            "name": "object/cleaning/object_cleaning_17_animFoam",
+            "x": 623.86,
+            "y": -820.75,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 89,
+            "height": 41
+          }
+        },
+        "hogItem9": {
+          "hogItem_ps": {
+            "name": "object/cleaning/object_cleaning_19_animFoam",
+            "x": 1531.68,
+            "y": -646.19,
+            "scaleX": 0.7075818144860763,
+            "scaleY": 0.7075818144860763,
+            "rotation": -174.15,
+            "width": 92,
+            "height": 33
+          }
+        },
+        "hogItem10": {
+          "hogItem_ps": {
+            "name": "object/cleaning/object_cleaning_23_animFoam",
+            "x": 317.02,
+            "y": -933.81,
+            "scaleX": 0.6361582925744775,
+            "scaleY": 0.6361582925744775,
+            "width": 112,
+            "height": 96
+          }
+        },
+        "hogItem11": {
+          "hogItem_ps": {
+            "name": "object/cleaning/object_cleaning_25_animFoam",
+            "x": 1374.25,
+            "y": -787.23,
+            "scaleX": 0.638755980861244,
+            "scaleY": 0.45933014354066987,
+            "width": 73,
+            "height": 46
+          }
+        },
+        "hogItem12": {
+          "hogItem_ps": {
+            "name": "object/cleaning/object_cleaning_27_animFoam",
+            "x": 1507.63,
+            "y": -766.57,
+            "scaleX": 0.6169499816558641,
+            "scaleY": 0.6169499816558641,
+            "rotation": 9.98,
+            "width": 102,
+            "height": 102
+          }
+        }
+      }
+    },
+    {
+      "name": "mode1/skin_mode1_v3",
+      "attachments": {
+        "decorItem1": {
+          "additional_item_ps": {
+            "name": "env/chairs/env_chair_38",
+            "x": 2124.47,
+            "y": -791.89,
+            "scaleX": 0.8,
+            "scaleY": 0.7992831541218638,
+            "width": 424,
+            "height": 443
+          }
+        },
+        "decorItem2": {
+          "additional_item_ps": {
+            "name": "env/sofa/env_sofa_9",
+            "x": 1326.66,
+            "y": -798.65,
+            "scaleX": 0.7723027375201289,
+            "scaleY": 0.7742351046698873,
+            "width": 1218,
+            "height": 401
+          }
+        },
+        "decorItem3": {
+          "additional_item_ps": {
+            "name": "env/tables/env_table_22",
+            "x": 577.57,
+            "y": -822.52,
+            "scaleX": 0.7993138936535165,
+            "scaleY": 0.8,
+            "width": 557,
+            "height": 421
+          }
+        },
+        "decorItem4": {
+          "additional_item_ps": {
+            "name": "object/decorations/object_deer_1_animFeatherDuster",
+            "x": 1814.3,
+            "y": -324.33,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 120,
+            "height": 205
+          }
+        },
+        "decorItem5": {
+          "additional_item_ps": {
+            "name": "object/ancientvases/object_ancientvases_28_soundVases",
+            "x": 1558.73,
+            "y": -638.07,
+            "scaleX": 0.3988357588357589,
+            "scaleY": 0.40216216216216216,
+            "width": 105,
+            "height": 68
+          }
+        },
+        "decorItem6": {
+          "additional_item_ps": {
+            "name": "object/ancientvases/object_ancientvases_25_soundVases",
+            "x": 2229.44,
+            "y": -744.68,
+            "scaleX": 0.7511011235955057,
+            "scaleY": 0.75361797752809,
+            "rotation": -59.58,
+            "width": 97,
+            "height": 155
+          }
+        },
+        "decorItem7": {
+          "additional_item_ps": {
+            "name": "object/ancientvases/object_ancientvases_24_soundVases",
+            "x": 508.15,
+            "y": -794.84,
+            "scaleX": 0.5693656523981435,
+            "scaleY": 0.5706034038164003,
+            "width": 84,
+            "height": 154
+          }
+        },
+        "decorItem8": {
+          "additional_item_ps": {
+            "name": "object/cats/object_cat_73_soundCat",
+            "x": 660.02,
+            "y": -783.81,
+            "scaleX": 0.54842982268746,
+            "scaleY": 0.5468916898098697,
+            "width": 175,
+            "height": 207
+          }
+        },
+        "decorItem9": {
+          "additional_item_ps": {
+            "name": "object/cats/object_cat_70_soundCat",
+            "color": "ffffffdc",
+            "x": 1299.59,
+            "y": -632.09,
+            "scaleX": 0.7944104803493449,
+            "scaleY": 0.8,
+            "width": 128,
+            "height": 61
+          }
+        },
+        "decorItem10": {
+          "additional_item_ps": {
+            "name": "object/cats/object_cat_60_soundCat",
+            "x": 878.43,
+            "y": -870.79,
+            "scaleX": 0.8,
+            "scaleY": 0.7974734424346828,
+            "width": 130,
+            "height": 137
+          }
+        },
+        "decorItem11": {
+          "additional_item_ps": {
+            "name": "object/cats/object_cat_35_soundCat",
+            "color": "ffffffa3",
+            "x": 277.39,
+            "y": -383.81,
+            "scaleX": 0.4735235567352356,
+            "scaleY": 0.5982747179827472,
+            "width": 113,
+            "height": 146
+          }
+        },
+        "decorItem12": {
+          "additional_item_ps": {
+            "name": "object/cats/object_cat_30_soundCat",
+            "x": 1342.03,
+            "y": -911.06,
+            "scaleX": 0.7560245398773007,
+            "scaleY": 0.7589693251533743,
+            "width": 152,
+            "height": 129
+          }
+        },
+        "decorItem13": {
+          "additional_item_ps": {
+            "name": "object/cats/object_cat_21_soundCat",
+            "x": 1858.37,
+            "y": -852.28,
+            "scaleX": 0.8,
+            "scaleY": 0.7987692307692308,
+            "width": 97,
+            "height": 196
+          }
+        },
+        "decorItem14": {
+          "additional_item_ps": {
+            "name": "object/cats/object_cat_29_soundCat",
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0.21716,
+              1,
+              0.19718,
+              0.93759,
+              1e-05,
+              0.72528,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              2,
+              3,
+              4,
+              5,
+              2,
+              4,
+              1,
+              2,
+              5,
+              1,
+              5,
+              0
+            ],
+            "vertices": [
+              1654.64,
+              -165.67,
+              1532.01,
+              -165.67,
+              1528.88,
+              -161.96,
+              1497.99,
+              -149.31,
+              1497.99,
+              -106.14,
+              1654.64,
+              -106.14
+            ],
+            "hull": 6,
+            "edges": [
+              0,
+              10,
+              0,
+              2,
+              2,
+              4,
+              4,
+              6,
+              6,
+              8,
+              8,
+              10
+            ],
+            "width": 375,
+            "height": 142,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem15": {
+          "additional_item_ps": {
+            "name": "object/cats/object_cat_45_soundCat",
+            "x": 1523.05,
+            "y": -726.62,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 182,
+            "height": 116
+          }
+        },
+        "decorItem16": {
+          "additional_item_ps": {
+            "name": "object/cats/object_cat_6_soundCat",
+            "x": 2105.51,
+            "y": -767.64,
+            "scaleX": 0.7747420553033431,
+            "scaleY": 0.7747420553033431,
+            "width": 181,
+            "height": 71
+          }
+        },
+        "decorItem17": {
+          "additional_item_ps": {
+            "name": "object/cats/object_cat_5_soundCat",
+            "x": 2245.15,
+            "y": -880.58,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 189,
+            "height": 141
+          }
+        },
+        "decorItem18": {
+          "additional_item_ps": {
+            "name": "object/cats/object_cat_3_soundCat",
+            "x": 1306.26,
+            "y": -318.1,
+            "scaleX": 0.7962950711214025,
+            "scaleY": 0.8,
+            "width": 113,
+            "height": 80
+          }
+        },
+        "decorItem19": {
+          "additional_item_ps": {
+            "name": "object/cats/object_cat_4_soundCat",
+            "x": 1143.96,
+            "y": -729.97,
+            "scaleX": 0.7611428571428571,
+            "scaleY": 0.7644835164835165,
+            "width": 170,
+            "height": 126
+          }
+        },
+        "hogItem1": {
+          "hogItem_ps": {
+            "name": "object/ancientvases/object_ancientvases_23_soundVases",
+            "x": 1759.56,
+            "y": -912.63,
+            "scaleX": 0.6610088070456365,
+            "scaleY": 0.6610088070456365,
+            "rotation": -57.77,
+            "width": 109,
+            "height": 133
+          }
+        },
+        "hogItem2": {
+          "hogItem_ps": {
+            "name": "object/ancientvases/object_ancientvases_22_soundVases",
+            "x": 1904.12,
+            "y": -371.37,
+            "scaleX": 0.4006436041834272,
+            "scaleY": 0.4022526146419952,
+            "width": 108,
+            "height": 176
+          }
+        },
+        "hogItem3": {
+          "hogItem_ps": {
+            "name": "object/ancientvases/object_ancientvases_21_soundVases",
+            "x": 1279.81,
+            "y": -872.73,
+            "scaleX": 0.6622417031934879,
+            "scaleY": 0.6622417031934879,
+            "width": 69,
+            "height": 248
+          }
+        },
+        "hogItem4": {
+          "hogItem_ps": {
+            "name": "object/ancientvases/object_ancientvases_15_soundVases",
+            "x": 2133.45,
+            "y": -918.34,
+            "scaleX": 0.6319136854060193,
+            "scaleY": 0.6319136854060193,
+            "width": 77,
+            "height": 87
+          }
+        },
+        "hogItem5": {
+          "hogItem_ps": {
+            "name": "object/ancientvases/object_ancientvases_14_soundVases",
+            "color": "efc5c5ff",
+            "x": 691.91,
+            "y": -399.83,
+            "scaleX": 0.7027624309392264,
+            "scaleY": 0.6503551696921862,
+            "width": 55,
+            "height": 81
+          }
+        },
+        "hogItem6": {
+          "hogItem_ps": {
+            "name": "object/ancientvases/object_ancientvases_13_soundVases",
+            "x": 1099.9,
+            "y": -644.02,
+            "scaleX": 0.4022437531871494,
+            "scaleY": 0.4022437531871494,
+            "rotation": 92.99,
+            "width": 85,
+            "height": 156
+          }
+        },
+        "hogItem7": {
+          "hogItem_ps": {
+            "name": "object/ancientvases/object_ancientvases_12_soundVases",
+            "x": 903.26,
+            "y": -927.55,
+            "scaleX": 0.493213828425096,
+            "scaleY": 0.493213828425096,
+            "rotation": -64.62,
+            "width": 136,
+            "height": 207
+          }
+        },
+        "hogItem8": {
+          "hogItem_ps": {
+            "name": "object/ancientvases/object_ancientvases_11_soundVases",
+            "color": "ffffffab",
+            "x": 2356.72,
+            "y": -333.61,
+            "scaleX": 0.2509895227008149,
+            "scaleY": 0.4023282887077998,
+            "width": 150,
+            "height": 203
+          }
+        },
+        "hogItem9": {
+          "hogItem_ps": {
+            "name": "object/ancientvases/object_ancientvases_6_soundVases",
+            "x": 581.36,
+            "y": -805.31,
+            "scaleX": 0.4010699273977838,
+            "scaleY": 0.40229270156667946,
+            "width": 114,
+            "height": 163
+          }
+        },
+        "hogItem10": {
+          "hogItem_ps": {
+            "name": "object/ancientvases/object_ancientvases_4_soundVases",
+            "x": 1967.42,
+            "y": -887.84,
+            "scaleX": -0.7105506515342581,
+            "scaleY": 0.8,
+            "width": 104,
+            "height": 109
+          }
+        },
+        "hogItem11": {
+          "hogItem_ps": {
+            "name": "object/ancientvases/object_ancientvases_1_soundVases",
+            "x": 313.34,
+            "y": -915.76,
+            "scaleX": 0.49209003215434083,
+            "scaleY": 0.554855305466238,
+            "rotation": 92.79,
+            "width": 136,
+            "height": 167
+          }
+        },
+        "hogItem12": {
+          "hogItem_ps": {
+            "name": "object/ancientvases/object_ancientvases_3_soundVases",
+            "x": 1720.63,
+            "y": -382.01,
+            "scaleX": 0.4016597510373444,
+            "scaleY": 0.40239741816505303,
+            "width": 94,
+            "height": 124
+          }
+        }
+      }
+    },
+    {
+      "name": "mode1/skin_mode1_v4",
+      "attachments": {
+        "decorItem1": {
+          "additional_item_ps": {
+            "name": "env/chairs/env_chair_38",
+            "x": 2124.47,
+            "y": -791.89,
+            "scaleX": 0.8,
+            "scaleY": 0.7992831541218638,
+            "width": 424,
+            "height": 443
+          }
+        },
+        "decorItem2": {
+          "additional_item_ps": {
+            "name": "env/sofa/env_sofa_9",
+            "x": 1330.23,
+            "y": -796.27,
+            "scaleX": 0.7987117552334944,
+            "scaleY": 0.8,
+            "width": 1218,
+            "height": 401
+          }
+        },
+        "decorItem3": {
+          "additional_item_ps": {
+            "name": "env/tables/env_table_22",
+            "x": 577.57,
+            "y": -822.52,
+            "scaleX": 0.7993138936535165,
+            "scaleY": 0.8,
+            "width": 557,
+            "height": 421
+          }
+        },
+        "decorItem4": {
+          "additional_item_ps": {
+            "name": "object/decorations/object_deer_1_animFeatherDuster",
+            "x": 1815.15,
+            "y": -323.06,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 120,
+            "height": 205
+          }
+        },
+        "decorItem5": {
+          "additional_item_ps": {
+            "name": "object/party/object_party_120_animFeatherDuster",
+            "x": 1426.16,
+            "y": -188.65,
+            "scaleX": 0.5740798572384564,
+            "scaleY": 0.5740798572384564,
+            "width": 39,
+            "height": 54
+          }
+        },
+        "decorItem6": {
+          "additional_item_ps": {
+            "name": "object/party/object_party_100_animFeatherDuster",
+            "x": 2153.36,
+            "y": -786.74,
+            "scaleX": 0.6794867924528303,
+            "scaleY": 0.6794867924528303,
+            "width": 57,
+            "height": 40
+          }
+        },
+        "decorItem7": {
+          "additional_item_ps": {
+            "name": "object/party/object_party_99_animFeatherDuster",
+            "color": "ffffffac",
+            "x": 277.81,
+            "y": -397.68,
+            "scaleX": 0.3280919540229885,
+            "scaleY": 0.4906666666666667,
+            "width": 57,
+            "height": 137
+          }
+        },
+        "decorItem9": {
+          "additional_item_ps": {
+            "name": "object/party/object_party_42_animFeatherDuster",
+            "x": 1826.48,
+            "y": -441.91,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 315,
+            "height": 51
+          }
+        },
+        "decorItem10": {
+          "additional_item_ps": {
+            "name": "object/cleaning/object_cleaning_9_animFoam",
+            "x": 1313.14,
+            "y": -739.59,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 89,
+            "height": 109
+          }
+        },
+        "decorItem11": {
+          "additional_item_ps": {
+            "name": "object/cleaning/object_cleaning_15_animFoam",
+            "x": 2051.35,
+            "y": -928.44,
+            "scaleX": 0.7181940098345999,
+            "scaleY": 0.3616003576218149,
+            "rotation": 4.01,
+            "width": 156,
+            "height": 107
+          }
+        },
+        "decorItem12": {
+          "additional_item_ps": {
+            "name": "object/cleaning/object_cleaning_17_animFoam",
+            "x": 611.22,
+            "y": -824.49,
+            "scaleX": 0.5889814490724536,
+            "scaleY": 0.5889814490724536,
+            "width": 89,
+            "height": 41
+          }
+        },
+        "decorItem13": {
+          "additional_item_ps": {
+            "name": "object/cleaning/object_cleaning_19_animFoam",
+            "x": 1531.68,
+            "y": -639,
+            "scaleX": 0.7218375228674031,
+            "scaleY": 0.7218375228674031,
+            "rotation": -174.15,
+            "width": 92,
+            "height": 33
+          }
+        },
+        "decorItem14": {
+          "additional_item_ps": {
+            "name": "object/cleaning/object_cleaning_23_animFoam",
+            "x": 310.98,
+            "y": -916.23,
+            "scaleX": 0.6537305469097376,
+            "scaleY": 0.6537305469097376,
+            "width": 112,
+            "height": 96
+          }
+        },
+        "decorItem15": {
+          "additional_item_ps": {
+            "name": "object/cleaning/object_cleaning_25_animFoam",
+            "x": 1366.74,
+            "y": -786.23,
+            "scaleX": 0.8,
+            "scaleY": 0.6045796308954203,
+            "width": 73,
+            "height": 46
+          }
+        },
+        "decorItem16": {
+          "additional_item_ps": {
+            "name": "object/cleaning/object_cleaning_27_animFoam",
+            "x": 1503.64,
+            "y": -758.11,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": 10.92,
+            "width": 102,
+            "height": 102
+          }
+        },
+        "hogItem1": {
+          "hogItem_ps": {
+            "name": "object/cleaning/object_cleaning_79_animFoam",
+            "x": 1846.34,
+            "y": -917.5,
+            "scaleX": 0.5672459039648202,
+            "scaleY": 0.5672459039648202,
+            "rotation": 28.71,
+            "width": 140,
+            "height": 72
+          }
+        },
+        "hogItem2": {
+          "hogItem_ps": {
+            "name": "object/cleaning/object_cleaning_54_animFoam",
+            "x": 1779.33,
+            "y": -396.14,
+            "scaleX": 0.7773520160137263,
+            "scaleY": 0.4366409303212278,
+            "rotation": 6.45,
+            "width": 262,
+            "height": 81
+          }
+        },
+        "hogItem3": {
+          "hogItem_ps": {
+            "name": "object/cleaning/object_cleaning_46_animFoam",
+            "x": 1963.62,
+            "y": -894.77,
+            "scaleX": 0.7801749271137025,
+            "scaleY": 0.7801749271137025,
+            "width": 47,
+            "height": 112
+          }
+        },
+        "hogItem4": {
+          "hogItem_ps": {
+            "name": "object/cleaning/object_cleaning_2_soundVshuh",
+            "x": 784.16,
+            "y": -762.73,
+            "width": 245,
+            "height": 559,
+            "scaleX": 0.6111068673134215,
+            "scaleY": 0.6111068673134215
+          }
+        },
+        "hogItem5": {
+          "hogItem_ps": {
+            "name": "object/cleaning/object_cleaning_6_soundVshuh",
+            "x": 1652.2,
+            "y": -863.69,
+            "scaleY": 0.7999999999999999,
+            "width": 239,
+            "height": 285,
+            "scaleX": 0.6264682850430697
+          }
+        },
+        "hogItem6": {
+          "hogItem_ps": {
+            "name": "object/party/object_party_32_animFeatherDuster",
+            "x": 512.06,
+            "y": -816.84,
+            "scaleX": 0.48302726766833615,
+            "scaleY": 0.48302726766833615,
+            "width": 15,
+            "height": 95
+          }
+        },
+        "hogItem7": {
+          "hogItem_ps": {
+            "name": "object/party/object_party_25_animFeatherDuster",
+            "color": "b05252ff",
+            "x": 2353.13,
+            "y": -335.76,
+            "scaleX": 0.554254982600443,
+            "scaleY": 0.8000000000000002,
+            "width": 55,
+            "height": 75
+          }
+        },
+        "hogItem8": {
+          "hogItem_ps": {
+            "name": "object/party/object_party_23_animFeatherDuster",
+            "x": 1450.12,
+            "y": -638.01,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 64,
+            "height": 24
+          }
+        },
+        "hogItem9": {
+          "hogItem_ps": {
+            "name": "object/party/object_party_16_animFeatherDuster",
+            "x": 1251.43,
+            "y": -140.91,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": 62.1,
+            "width": 42,
+            "height": 93
+          }
+        },
+        "hogItem10": {
+          "hogItem_ps": {
+            "name": "object/party/object_party_9_animFeatherDuster",
+            "x": 1117.21,
+            "y": -746.29,
+            "scaleX": 0.8000000000000002,
+            "scaleY": 0.8000000000000002,
+            "rotation": -5.59,
+            "width": 118,
+            "height": 113
+          }
+        },
+        "hogItem11": {
+          "hogItem_ps": {
+            "name": "object/party/object_party_5_animFeatherDuster",
+            "x": 1039.69,
+            "y": -642.22,
+            "scaleX": 0.4884986325032389,
+            "scaleY": 0.4884986325032389,
+            "width": 60,
+            "height": 50
+          }
+        },
+        "hogItem12": {
+          "hogItem_ps": {
+            "name": "object/party/object_party_3_animFeatherDuster",
+            "type": "mesh",
+            "uvs": [
+              1,
+              0.91948,
+              0,
+              0.91948,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              1,
+              2,
+              3,
+              1,
+              3,
+              0
+            ],
+            "vertices": [
+              702.92,
+              -834.26,
+              647.27,
+              -834.26,
+              647.27,
+              -725.61,
+              702.92,
+              -725.61
+            ],
+            "hull": 4,
+            "edges": [
+              0,
+              6,
+              0,
+              2,
+              2,
+              4,
+              4,
+              6
+            ],
+            "width": 87,
+            "height": 186,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        }
+      }
+    },
+    {
+      "name": "mode1/skin_mode1_v5",
+      "attachments": {
+        "decorItem1": {
+          "additional_item_ps": {
+            "name": "env/chairs/env_chair_38",
+            "x": 2124.47,
+            "y": -791.89,
+            "scaleX": 0.8,
+            "scaleY": 0.7992831541218638,
+            "width": 424,
+            "height": 443
+          }
+        },
+        "decorItem2": {
+          "additional_item_ps": {
+            "name": "env/sofa/env_sofa_9",
+            "x": 1330.23,
+            "y": -796.27,
+            "scaleX": 0.7864734299516909,
+            "scaleY": 0.7884057971014493,
+            "width": 1218,
+            "height": 401
+          }
+        },
+        "decorItem3": {
+          "additional_item_ps": {
+            "name": "env/tables/env_table_22",
+            "x": 577.57,
+            "y": -822.52,
+            "scaleX": 0.7993138936535165,
+            "scaleY": 0.8,
+            "width": 557,
+            "height": 421
+          }
+        },
+        "decorItem4": {
+          "additional_item_ps": {
+            "name": "object/decorations/object_deer_1_animFeatherDuster",
+            "x": 1814.3,
+            "y": -324.33,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 120,
+            "height": 205
+          }
+        },
+        "decorItem5": {
+          "additional_item_ps": {
+            "name": "object/cleaning/object_cleaning_79_animFoam",
+            "x": 1873.66,
+            "y": -916.27,
+            "scaleX": 0.7131285906801901,
+            "scaleY": 0.8,
+            "rotation": 28.71,
+            "width": 140,
+            "height": 72
+          }
+        },
+        "decorItem6": {
+          "additional_item_ps": {
+            "name": "object/cleaning/object_cleaning_54_animFoam",
+            "x": 951.74,
+            "y": -981.98,
+            "scaleX": 0.8,
+            "scaleY": 0.44937565532361085,
+            "width": 262,
+            "height": 81
+          }
+        },
+        "decorItem7": {
+          "additional_item_ps": {
+            "name": "object/cleaning/object_cleaning_46_animFoam",
+            "x": 1968.03,
+            "y": -906.58,
+            "scaleX": 0.7999999999999999,
+            "scaleY": 0.7999999999999999,
+            "width": 47,
+            "height": 112
+          }
+        },
+        "decorItem8": {
+          "additional_item_ps": {
+            "name": "object/cleaning/object_cleaning_2_soundVshuh",
+            "x": 243.22,
+            "y": -762.77,
+            "scaleX": 0.7999999999999999,
+            "scaleY": 0.7999999999999999,
+            "width": 245,
+            "height": 559
+          }
+        },
+        "decorItem9": {
+          "additional_item_ps": {
+            "name": "object/cleaning/object_cleaning_6_soundVshuh",
+            "x": 1651.61,
+            "y": -864.75,
+            "scaleX": 0.5437744714173846,
+            "scaleY": 0.7415505090054816,
+            "width": 239,
+            "height": 285
+          }
+        },
+        "decorItem10": {
+          "additional_item_ps": {
+            "name": "object/cleaning/object_cleaning_9_animFoam",
+            "x": 1222.14,
+            "y": -776.23,
+            "scaleX": 0.7673834776685804,
+            "scaleY": 0.7673834776685804,
+            "rotation": -117.93,
+            "width": 89,
+            "height": 109
+          }
+        },
+        "decorItem11": {
+          "additional_item_ps": {
+            "name": "object/cleaning/object_cleaning_15_animFoam",
+            "x": 2052.96,
+            "y": -935.38,
+            "scaleX": 0.8,
+            "scaleY": 0.4028162717925794,
+            "width": 156,
+            "height": 107
+          }
+        },
+        "decorItem12": {
+          "additional_item_ps": {
+            "name": "object/cleaning/object_cleaning_17_animFoam",
+            "x": 623.86,
+            "y": -955.43,
+            "scaleX": 0.7182359117955898,
+            "scaleY": 0.7182359117955898,
+            "width": 89,
+            "height": 41
+          }
+        },
+        "decorItem13": {
+          "additional_item_ps": {
+            "name": "object/cleaning/object_cleaning_19_animFoam",
+            "x": 1531.68,
+            "y": -639,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": -174.15,
+            "width": 92,
+            "height": 33
+          }
+        },
+        "decorItem15": {
+          "additional_item_ps": {
+            "name": "object/cleaning/object_cleaning_25_animFoam",
+            "x": 1395.2,
+            "y": -787.74,
+            "scaleX": 0.6851674641148325,
+            "scaleY": 0.5793574846206425,
+            "width": 73,
+            "height": 46
+          }
+        },
+        "decorItem16": {
+          "additional_item_ps": {
+            "name": "object/cleaning/object_cleaning_27_animFoam",
+            "x": 1507.8,
+            "y": -768.26,
+            "scaleX": 0.6920875626757981,
+            "scaleY": 0.6920875626757981,
+            "rotation": 9.98,
+            "width": 102,
+            "height": 102
+          }
+        },
+        "hogItem1": {
+          "hogItem_ps": {
+            "name": "object/party/object_party_120_animFeatherDuster",
+            "x": 1426.84,
+            "y": -157.42,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 39,
+            "height": 54
+          }
+        },
+        "hogItem2": {
+          "hogItem_ps": {
+            "name": "object/party/object_party_100_animFeatherDuster",
+            "x": 1713.92,
+            "y": -398.48,
+            "scaleX": 0.6093283018867925,
+            "scaleY": 0.6093283018867925,
+            "rotation": -21.75,
+            "width": 57,
+            "height": 40
+          }
+        },
+        "hogItem3": {
+          "hogItem_ps": {
+            "name": "object/party/object_party_99_animFeatherDuster",
+            "color": "ffffffac",
+            "x": 277.81,
+            "y": -397.68,
+            "scaleX": 0.5349272030651342,
+            "scaleY": 0.8,
+            "width": 57,
+            "height": 137
+          }
+        },
+        "hogItem4": {
+          "hogItem_ps": {
+            "name": "object/party/object_party_76_animFeatherDuster",
+            "type": "mesh",
+            "uvs": [
+              1,
+              0.95479,
+              0,
+              0.95479,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              2,
+              3,
+              0,
+              1,
+              2,
+              0
+            ],
+            "vertices": [
+              1894.34,
+              -406.4,
+              1851.68,
+              -406.4,
+              1851.68,
+              -360.88,
+              1894.34,
+              -360.88
+            ],
+            "hull": 4,
+            "edges": [
+              0,
+              6,
+              0,
+              2,
+              2,
+              4,
+              4,
+              6
+            ],
+            "width": 87,
+            "height": 97,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem5": {
+          "hogItem_ps": {
+            "name": "object/cleaning/object_cleaning_23_animFoam",
+            "x": 872.11,
+            "y": -888.12,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 112,
+            "height": 96
+          }
+        },
+        "hogItem6": {
+          "hogItem_ps": {
+            "name": "object/party/object_party_32_animFeatherDuster",
+            "x": 517.17,
+            "y": -801.97,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 15,
+            "height": 95
+          }
+        },
+        "hogItem7": {
+          "hogItem_ps": {
+            "name": "object/party/object_party_25_animFeatherDuster",
+            "color": "b05252ff",
+            "x": 2353.13,
+            "y": -335.76,
+            "scaleX": 0.554254982600443,
+            "scaleY": 0.8000000000000002,
+            "width": 55,
+            "height": 75
+          }
+        },
+        "hogItem8": {
+          "hogItem_ps": {
+            "name": "object/party/object_party_23_animFeatherDuster",
+            "x": 1417.59,
+            "y": -639.15,
+            "scaleX": 0.7802890932982917,
+            "scaleY": 0.7802890932982917,
+            "width": 64,
+            "height": 24
+          }
+        },
+        "hogItem9": {
+          "hogItem_ps": {
+            "name": "object/party/object_party_16_animFeatherDuster",
+            "x": 1250.75,
+            "y": -144.33,
+            "scaleX": 0.7317113402061857,
+            "scaleY": 0.7317113402061857,
+            "rotation": 62.1,
+            "width": 42,
+            "height": 93
+          }
+        },
+        "hogItem10": {
+          "hogItem_ps": {
+            "name": "object/party/object_party_9_animFeatherDuster",
+            "x": 1117.21,
+            "y": -750.95,
+            "scaleX": 0.7094953077662012,
+            "scaleY": 0.7094953077662012,
+            "rotation": -5.59,
+            "width": 118,
+            "height": 113
+          }
+        },
+        "hogItem11": {
+          "hogItem_ps": {
+            "name": "object/party/object_party_5_animFeatherDuster",
+            "x": 1037.06,
+            "y": -638.62,
+            "scaleX": 0.8000000000000002,
+            "scaleY": 0.8000000000000002,
+            "width": 60,
+            "height": 50
+          }
+        },
+        "hogItem12": {
+          "hogItem_ps": {
+            "name": "object/party/object_party_3_animFeatherDuster",
+            "type": "linkedmesh",
+            "skin": "mode1/skin_mode1_v4",
+            "parent": "hogItem_ps",
+            "width": 70,
+            "height": 149
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "idle": {
+      "slots": {
+        "env/shadows/radioanim_6": {
+          "rgba": [
+            {
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 1.3,
+              "color": "ffffff00"
+            },
+            {
+              "time": 1.5,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 2.5333,
+              "color": "fffffffe"
+            },
+            {
+              "time": 2.7667,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "env/shadows/radioanim_8": {
+          "rgba": [
+            {
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.7,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.9333,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 1.9,
+              "color": "ffffffff"
+            },
+            {
+              "time": 2.1,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "env/shadows/radioanim_9": {
+          "rgba": [
+            {
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.1667,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.5667,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.8333,
+              "color": "ffffff00"
+            }
+          ]
+        }
+      },
+      "bones": {
+        "idle3": {
+          "translate": [
+            {
+              "y": -104.33,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.3,
+              "y": -104.33
+            },
+            {
+              "time": 2.7667,
+              "x": 24.84,
+              "y": 9.94
+            }
+          ],
+          "scale": [
+            {
+              "time": 2.5333,
+              "x": 1.788,
+              "y": 1.788
+            }
+          ]
+        },
+        "idle4": {
+          "translate": [
+            {
+              "x": -48.85,
+              "y": -68.72,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.7,
+              "x": -48.85,
+              "y": -68.72
+            },
+            {
+              "time": 2.1,
+              "x": 33.12,
+              "y": 10.76
+            }
+          ]
+        },
+        "idle2": {
+          "translate": [
+            {
+              "x": 50.51,
+              "y": -63.75
+            },
+            {
+              "time": 0.8333,
+              "x": -24.01,
+              "y": 22.36
+            }
+          ]
+        },
+        "idle6": {
+          "rotate": [
+            {},
+            {
+              "time": 1.3,
+              "value": 27.11
+            },
+            {
+              "time": 2.7667
+            }
+          ]
+        },
+        "idle5": {
+          "translate": [
+            {},
+            {
+              "time": 0.6667,
+              "x": 34.19
+            },
+            {
+              "time": 1.3667,
+              "x": 22.45
+            },
+            {
+              "time": 2.7667
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,2501 @@
+{
+  "skeleton": {
+    "hash": "27bG/pxPkS0",
+    "spine": "4.1.24",
+    "y": -1080,
+    "width": 2560,
+    "height": 1080.83,
+    "images": "./images/",
+    "audio": ""
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "backgrounds",
+      "parent": "root"
+    },
+    {
+      "name": "decorItems",
+      "parent": "root"
+    },
+    {
+      "name": "hogItems",
+      "parent": "root"
+    }
+  ],
+  "slots": [
+    {
+      "name": "background_lv30",
+      "bone": "backgrounds"
+    },
+    {
+      "name": "hogItem1",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem2",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem3",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "decorItem1",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem2",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem3",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem4",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "hogItem4",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem5",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem6",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem7",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem8",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem9",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem10",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "decorItem5",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem6",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem7",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem8",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem9",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem10",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem11",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem12",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem13",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem14",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem15",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "hogItem11",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem12",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem13",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem14",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem15",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem16",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem17",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem18",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem19",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem20",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "decorItem16",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem17",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem18",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem19",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem20",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    }
+  ],
+  "skins": [
+    {
+      "name": "mode1/skin_mode1_v1",
+      "attachments": {
+        "decorItem1": {
+          "additional_item_ps": {
+            "name": "env/mirrors/env_mirror_3",
+            "x": 1409.47,
+            "y": -587.17,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 714,
+            "height": 684
+          }
+        },
+        "decorItem2": {
+          "additional_item_ps": {
+            "name": "env/beds/env_bed_14",
+            "x": 973.92,
+            "y": -483.33,
+            "scaleX": 0.7999999999999999,
+            "scaleY": 0.7999999999999999,
+            "width": 1448,
+            "height": 1094
+          }
+        },
+        "decorItem3": {
+          "additional_item_ps": {
+            "name": "env/curtains/env_curtain_3",
+            "x": 2095.82,
+            "y": -521.81,
+            "scaleX": 0.8,
+            "scaleY": 0.7294117647058824,
+            "width": 948,
+            "height": 950
+          }
+        },
+        "decorItem4": {
+          "additional_item_ps": {
+            "name": "env/chairs/env_chair_24",
+            "x": 1903.29,
+            "y": -841.35,
+            "scaleX": 0.8,
+            "scaleY": 0.7985890652557319,
+            "width": 375,
+            "height": 123
+          }
+        },
+        "decorItem5": {
+          "additional_item_ps": {
+            "name": "env/chairs/env_chair_23",
+            "x": 2267.13,
+            "y": -732.48,
+            "scaleX": 0.7991165102153507,
+            "scaleY": 0.8,
+            "width": 312,
+            "height": 435
+          }
+        },
+        "decorItem6": {
+          "additional_item_ps": {
+            "name": "env/shelves/env_shelf_31",
+            "x": 218.19,
+            "y": -728.5,
+            "scaleX": 0.8,
+            "scaleY": 0.7986856516976999,
+            "width": 312,
+            "height": 483
+          }
+        },
+        "decorItem7": {
+          "additional_item_ps": {
+            "name": "object/light/object_light_26_animFlash",
+            "x": 1628.69,
+            "y": -561.21,
+            "width": 125,
+            "height": 220,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem8": {
+          "additional_item_ps": {
+            "name": "object/light/object_light_21_animFlash",
+            "x": 394.14,
+            "y": -396.79,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 198,
+            "height": 159
+          }
+        },
+        "decorItem9": {
+          "additional_item_ps": {
+            "name": "object/candles/object_candle_4_animFlash",
+            "x": 2451.38,
+            "y": -672.7,
+            "scaleX": 0.8,
+            "scaleY": 0.7994927076727965,
+            "width": 187,
+            "height": 550
+          }
+        },
+        "decorItem10": {
+          "additional_item_ps": {
+            "name": "object/candles/object_candle_1_animFlash",
+            "x": 1555.8,
+            "y": -553.69,
+            "width": 62,
+            "height": 251,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem11": {
+          "additional_item_ps": {
+            "name": "object/candles/object_candle_2_animFlash",
+            "x": 178.23,
+            "y": -631.05,
+            "width": 23,
+            "height": 250,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem12": {
+          "additional_item_ps": {
+            "name": "object/frames/object_frame_17",
+            "x": 1578.58,
+            "y": -635.28,
+            "width": 106,
+            "height": 71,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem13": {
+          "additional_item_ps": {
+            "name": "object/frames/object_frame_10",
+            "x": 222.21,
+            "y": -298.42,
+            "scaleX": -0.8765417565888431,
+            "scaleY": 0.7999999999999999,
+            "width": 191,
+            "height": 294
+          }
+        },
+        "decorItem14": {
+          "additional_item_ps": {
+            "name": "object/object_magicball_1_animFlash",
+            "x": 1191.31,
+            "y": -634.51,
+            "scaleX": 0.7902439024390243,
+            "scaleY": 0.8,
+            "width": 75,
+            "height": 77
+          }
+        },
+        "decorItem15": {
+          "additional_item_ps": {
+            "name": "object/flowers/object_flower_8_animLeaves",
+            "x": 396.4,
+            "y": -739.69,
+            "scaleX": 0.8,
+            "scaleY": 0.6595585738539899,
+            "width": 120,
+            "height": 409
+          }
+        },
+        "decorItem16": {
+          "additional_item_ps": {
+            "name": "object/flowers/object_flower_22_animLeaves",
+            "color": "f8a8a8ff",
+            "x": 2444.84,
+            "y": -850.02,
+            "width": 187,
+            "height": 210,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem17": {
+          "additional_item_ps": {
+            "name": "object/office/object_office_11_animFlash",
+            "x": 187.7,
+            "y": -694.77,
+            "scaleX": 0.7999999999999999,
+            "scaleY": 0.7999999999999999,
+            "width": 80,
+            "height": 84
+          }
+        },
+        "decorItem18": {
+          "additional_item_ps": {
+            "name": "object/textile/object_textile_6_animFlash",
+            "x": 1264.87,
+            "y": -775.82,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": 6.73,
+            "width": 197,
+            "height": 240
+          }
+        },
+        "decorItem19": {
+          "additional_item_ps": {
+            "name": "object/food/object_jug_1_animFlash",
+            "x": 1269.05,
+            "y": -616.54,
+            "scaleX": 0.7913513513513514,
+            "scaleY": 0.8,
+            "width": 121,
+            "height": 123
+          }
+        },
+        "decorItem20": {
+          "additional_item_ps": {
+            "name": "object/food/object_jar_1_animFlash",
+            "x": 303.04,
+            "y": -696.2,
+            "scaleX": 0.8,
+            "scaleY": 0.7964969896004379,
+            "width": 56,
+            "height": 76
+          }
+        },
+        "hogItem1": {
+          "hogItem_ps": {
+            "name": "object/light/object_light_6_animFlash",
+            "x": 1564.37,
+            "y": -74.15,
+            "scaleX": 0.8,
+            "scaleY": 0.7983402489626557,
+            "width": 37,
+            "height": 187
+          }
+        },
+        "hogItem2": {
+          "hogItem_ps": {
+            "name": "object/frames/object_frame_9",
+            "x": 1671.19,
+            "y": -406.44,
+            "scaleX": -0.7461409708015623,
+            "scaleY": 0.8,
+            "width": 100,
+            "height": 101
+          }
+        },
+        "hogItem3": {
+          "hogItem_ps": {
+            "name": "object/dirt/object_mark_3_animFeatherDuster",
+            "x": 2147.44,
+            "y": -460.25,
+            "scaleX": 0.536685623066946,
+            "scaleY": 0.565100269380425,
+            "width": 37,
+            "height": 106
+          }
+        },
+        "hogItem4": {
+          "hogItem_ps": {
+            "name": "object/flowers/object_flower_9_animLeaves",
+            "color": "ffffff42",
+            "x": 1412.3,
+            "y": -651.02,
+            "scaleX": 0.8,
+            "scaleY": 0.7911462450592884,
+            "width": 69,
+            "height": 141
+          }
+        },
+        "hogItem5": {
+          "hogItem_ps": {
+            "name": "object/suitcases/object_suitcase_4",
+            "x": 826.29,
+            "y": -889.22,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 176,
+            "height": 72
+          }
+        },
+        "hogItem6": {
+          "hogItem_ps": {
+            "name": "object/cloth/object_wristwatch_1_animFeatherDuster",
+            "x": 228.27,
+            "y": -905.26,
+            "scaleX": 0.6507374631268437,
+            "scaleY": 0.6501474926253689,
+            "rotation": 88.2,
+            "width": 39,
+            "height": 67
+          }
+        },
+        "hogItem7": {
+          "hogItem_ps": {
+            "name": "object/cloth/object_hat_5_animFlash",
+            "x": 1106.27,
+            "y": -716.17,
+            "scaleX": 0.7972881355932204,
+            "scaleY": 0.8,
+            "width": 112,
+            "height": 41
+          }
+        },
+        "hogItem8": {
+          "hogItem_ps": {
+            "name": "object/cloth/object_gloves_1_animFlash",
+            "color": "fedec8ff",
+            "x": 1134.61,
+            "y": -918.69,
+            "scaleX": 0.7119266055045871,
+            "scaleY": 0.7318479685452162,
+            "width": 123,
+            "height": 59
+          }
+        },
+        "hogItem9": {
+          "hogItem_ps": {
+            "name": "object/books/object_book_4_soundPaper",
+            "x": 1808.17,
+            "y": -788.55,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 78,
+            "height": 22
+          }
+        },
+        "hogItem10": {
+          "hogItem_ps": {
+            "name": "object/office/object_office_6_animFlash",
+            "x": 1413.18,
+            "y": -921.08,
+            "scaleX": 0.8000000000000002,
+            "scaleY": 0.8000000000000002,
+            "width": 108,
+            "height": 37
+          }
+        },
+        "hogItem11": {
+          "hogItem_ps": {
+            "name": "object/office/object_office_32_animFlash",
+            "x": 2347.86,
+            "y": -887.53,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 104,
+            "height": 100
+          }
+        },
+        "hogItem12": {
+          "hogItem_ps": {
+            "name": "object/stickers/object_sticker_3",
+            "color": "e4a782ff",
+            "x": 1380.34,
+            "y": -367.39,
+            "scaleX": 0.8,
+            "scaleY": 0.6581509602501118,
+            "width": 37,
+            "height": 47
+          }
+        },
+        "hogItem13": {
+          "hogItem_ps": {
+            "name": "object/dirt/object_spiderweb_2_animFeatherDuster",
+            "color": "ffffff8d",
+            "x": 1543.98,
+            "y": -593.48,
+            "width": 148,
+            "height": 178,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem14": {
+          "hogItem_ps": {
+            "name": "object/light/object_light_25_animFlash",
+            "x": 2103.04,
+            "y": -831.86,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 101,
+            "height": 126
+          }
+        },
+        "hogItem15": {
+          "hogItem_ps": {
+            "name": "object/pillows/object_pillow_2_animFeathers",
+            "x": 1783.44,
+            "y": -863.69,
+            "scaleX": 0.7994993742177723,
+            "scaleY": 0.8,
+            "width": 127,
+            "height": 66
+          }
+        },
+        "hogItem16": {
+          "hogItem_ps": {
+            "name": "object/office/object_office_15_animFlash",
+            "x": 1694.09,
+            "y": -828.08,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 126,
+            "height": 157
+          }
+        },
+        "hogItem17": {
+          "hogItem_ps": {
+            "name": "object/office/object_office_34_animFlash",
+            "x": 1924.41,
+            "y": -776.8,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 53,
+            "height": 53
+          }
+        },
+        "hogItem18": {
+          "hogItem_ps": {
+            "name": "object/pillows/object_pillow_4_animFeathers",
+            "x": 814.47,
+            "y": -724.01,
+            "scaleX": -0.7606978879706153,
+            "scaleY": 0.8,
+            "width": 110,
+            "height": 73
+          }
+        },
+        "hogItem19": {
+          "hogItem_ps": {
+            "name": "object/office/object_office_31_animFlash",
+            "x": 2216.96,
+            "y": -773.55,
+            "scaleX": 0.8,
+            "scaleY": 0.5472693032015067,
+            "width": 106,
+            "height": 33
+          }
+        },
+        "hogItem20": {
+          "hogItem_ps": {
+            "name": "object/books/object_books_4_soundPaper",
+            "x": 1975.65,
+            "y": -865.01,
+            "scaleX": 0.8,
+            "scaleY": 0.7981524249422633,
+            "width": 98,
+            "height": 79
+          }
+        }
+      }
+    },
+    {
+      "name": "mode1/skin_mode1_v2",
+      "attachments": {
+        "decorItem1": {
+          "additional_item_ps": {
+            "name": "env/mirrors/env_mirror_3",
+            "x": 1409.47,
+            "y": -587.17,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 714,
+            "height": 684
+          }
+        },
+        "decorItem2": {
+          "additional_item_ps": {
+            "name": "env/beds/env_bed_14",
+            "x": 973.92,
+            "y": -483.33,
+            "scaleX": 0.7999999999999999,
+            "scaleY": 0.7999999999999999,
+            "width": 1448,
+            "height": 1094
+          }
+        },
+        "decorItem3": {
+          "additional_item_ps": {
+            "name": "env/curtains/env_curtain_3",
+            "x": 2095.82,
+            "y": -521.81,
+            "scaleX": 0.8,
+            "scaleY": 0.7294117647058824,
+            "width": 948,
+            "height": 950
+          }
+        },
+        "decorItem4": {
+          "additional_item_ps": {
+            "name": "env/chairs/env_chair_24",
+            "x": 1903.29,
+            "y": -841.35,
+            "scaleX": 0.8,
+            "scaleY": 0.7985890652557319,
+            "width": 375,
+            "height": 123
+          }
+        },
+        "decorItem5": {
+          "additional_item_ps": {
+            "name": "env/chairs/env_chair_23",
+            "x": 2267.13,
+            "y": -732.48,
+            "scaleX": 0.7991165102153507,
+            "scaleY": 0.8,
+            "width": 312,
+            "height": 435
+          }
+        },
+        "decorItem6": {
+          "additional_item_ps": {
+            "name": "env/shelves/env_shelf_31",
+            "x": 218.19,
+            "y": -728.5,
+            "scaleX": 0.8,
+            "scaleY": 0.7986856516976999,
+            "width": 312,
+            "height": 483
+          }
+        },
+        "decorItem7": {
+          "additional_item_ps": {
+            "name": "object/light/object_light_26_animFlash",
+            "x": 1645.64,
+            "y": -576.89,
+            "width": 125,
+            "height": 220,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem8": {
+          "additional_item_ps": {
+            "name": "object/light/object_light_21_animFlash",
+            "x": 394.14,
+            "y": -396.79,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 198,
+            "height": 159
+          }
+        },
+        "decorItem9": {
+          "additional_item_ps": {
+            "name": "object/candles/object_candle_4_animFlash",
+            "x": 2451.38,
+            "y": -672.7,
+            "scaleX": 0.8,
+            "scaleY": 0.7994927076727965,
+            "width": 187,
+            "height": 550
+          }
+        },
+        "decorItem10": {
+          "additional_item_ps": {
+            "name": "object/candles/object_candle_1_animFlash",
+            "x": 1553.66,
+            "y": -563.31,
+            "width": 62,
+            "height": 251,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem11": {
+          "additional_item_ps": {
+            "name": "object/candles/object_candle_2_animFlash",
+            "x": 178.23,
+            "y": -631.05,
+            "width": 23,
+            "height": 250,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem12": {
+          "additional_item_ps": {
+            "name": "object/frames/object_frame_17",
+            "x": 1715.68,
+            "y": -834.66,
+            "width": 106,
+            "height": 71,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem13": {
+          "additional_item_ps": {
+            "name": "object/frames/object_frame_10",
+            "x": 222.21,
+            "y": -298.42,
+            "scaleX": -0.8765417565888431,
+            "scaleY": 0.7999999999999999,
+            "width": 191,
+            "height": 294
+          }
+        },
+        "decorItem14": {
+          "additional_item_ps": {
+            "name": "object/object_magicball_1_animFlash",
+            "x": 1152.34,
+            "y": -715.46,
+            "scaleX": 0.7902439024390243,
+            "scaleY": 0.8,
+            "width": 75,
+            "height": 77
+          }
+        },
+        "decorItem15": {
+          "additional_item_ps": {
+            "name": "object/flowers/object_flower_8_animLeaves",
+            "x": 396.4,
+            "y": -739.69,
+            "scaleX": 0.8,
+            "scaleY": 0.6595585738539899,
+            "width": 120,
+            "height": 409
+          }
+        },
+        "decorItem16": {
+          "additional_item_ps": {
+            "name": "object/flowers/object_flower_22_animLeaves",
+            "color": "f8a8a8ff",
+            "x": 2444.84,
+            "y": -850.02,
+            "width": 187,
+            "height": 210,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem17": {
+          "additional_item_ps": {
+            "name": "object/office/object_office_11_animFlash",
+            "x": 352.42,
+            "y": -897.86,
+            "scaleX": 0.7999999999999999,
+            "scaleY": 0.7999999999999999,
+            "width": 80,
+            "height": 84
+          }
+        },
+        "decorItem18": {
+          "additional_item_ps": {
+            "name": "object/textile/object_textile_6_animFlash",
+            "x": 1264.87,
+            "y": -775.82,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": 6.73,
+            "width": 197,
+            "height": 240
+          }
+        },
+        "decorItem19": {
+          "additional_item_ps": {
+            "name": "object/food/object_jug_1_animFlash",
+            "x": 1273.98,
+            "y": -616.54,
+            "scaleX": 0.7913513513513514,
+            "scaleY": 0.8,
+            "width": 121,
+            "height": 123
+          }
+        },
+        "decorItem20": {
+          "additional_item_ps": {
+            "name": "object/food/object_jar_1_animFlash",
+            "x": 1872.22,
+            "y": -764.72,
+            "scaleX": 0.8,
+            "scaleY": 0.7964969896004379,
+            "width": 56,
+            "height": 76
+          }
+        },
+        "hogItem1": {
+          "hogItem_ps": {
+            "name": "object/light/object_light_6_animFlash",
+            "x": 1564.37,
+            "y": -74.15,
+            "scaleX": 0.8,
+            "scaleY": 0.7983402489626557,
+            "width": 37,
+            "height": 187
+          }
+        },
+        "hogItem2": {
+          "hogItem_ps": {
+            "name": "object/frames/object_frame_9",
+            "x": 1671.19,
+            "y": -406.44,
+            "scaleX": -0.7461409708015623,
+            "scaleY": 0.8,
+            "width": 100,
+            "height": 101
+          }
+        },
+        "hogItem3": {
+          "hogItem_ps": {
+            "name": "object/dirt/object_mark_3_animFeatherDuster",
+            "color": "ffffff46",
+            "x": 1730.26,
+            "y": -603.62,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 37,
+            "height": 106
+          }
+        },
+        "hogItem4": {
+          "hogItem_ps": {
+            "name": "object/flowers/object_flower_9_animLeaves",
+            "color": "ffffff42",
+            "x": 2074.84,
+            "y": -687.18,
+            "scaleX": 0.8,
+            "scaleY": 0.7911462450592884,
+            "width": 69,
+            "height": 141
+          }
+        },
+        "hogItem5": {
+          "hogItem_ps": {
+            "name": "object/suitcases/object_suitcase_4",
+            "x": 826.29,
+            "y": -889.22,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 176,
+            "height": 72
+          }
+        },
+        "hogItem6": {
+          "hogItem_ps": {
+            "name": "object/cloth/object_wristwatch_1_animFeatherDuster",
+            "x": 191.71,
+            "y": -710.99,
+            "scaleX": 0.7002949852507375,
+            "scaleY": 0.6991150442477877,
+            "rotation": 88.2,
+            "width": 39,
+            "height": 67
+          }
+        },
+        "hogItem7": {
+          "hogItem_ps": {
+            "name": "object/cloth/object_hat_5_animFlash",
+            "x": 1163.78,
+            "y": -646.96,
+            "scaleX": 0.736271186440678,
+            "scaleY": 0.7403389830508476,
+            "width": 112,
+            "height": 41
+          }
+        },
+        "hogItem8": {
+          "hogItem_ps": {
+            "name": "object/cloth/object_gloves_1_animFlash",
+            "color": "fedec8ff",
+            "x": 864.28,
+            "y": -728.8,
+            "scaleX": 0.5399737876802096,
+            "scaleY": 0.5551769331585844,
+            "width": 123,
+            "height": 59
+          }
+        },
+        "hogItem9": {
+          "hogItem_ps": {
+            "name": "object/books/object_book_4_soundPaper",
+            "x": 2221.66,
+            "y": -890.81,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 78,
+            "height": 22
+          }
+        },
+        "hogItem10": {
+          "hogItem_ps": {
+            "name": "object/office/object_office_6_animFlash",
+            "x": 1347.31,
+            "y": -698.35,
+            "scaleX": 0.48116142412720364,
+            "scaleY": 0.48116142412720364,
+            "width": 108,
+            "height": 37
+          }
+        },
+        "hogItem11": {
+          "hogItem_ps": {
+            "name": "object/office/object_office_32_animFlash",
+            "x": 1602.41,
+            "y": -641.02,
+            "scaleX": 0.4925507090288997,
+            "scaleY": 0.4925507090288997,
+            "width": 104,
+            "height": 100
+          }
+        },
+        "hogItem12": {
+          "hogItem_ps": {
+            "name": "object/stickers/object_sticker_3",
+            "color": "e4a782ff",
+            "x": 1380.34,
+            "y": -367.39,
+            "scaleX": 0.8,
+            "scaleY": 0.6581509602501118,
+            "width": 37,
+            "height": 47
+          }
+        },
+        "hogItem13": {
+          "hogItem_ps": {
+            "name": "object/dirt/object_spiderweb_2_animFeatherDuster",
+            "color": "ffffff8d",
+            "x": 1043.63,
+            "y": -450.66,
+            "width": 148,
+            "height": 178,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem14": {
+          "hogItem_ps": {
+            "name": "object/light/object_light_25_animFlash",
+            "x": 309.63,
+            "y": -676.18,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 101,
+            "height": 126
+          }
+        },
+        "hogItem15": {
+          "hogItem_ps": {
+            "name": "object/pillows/object_pillow_2_animFeathers",
+            "x": 2102.02,
+            "y": -878.34,
+            "scaleX": 0.7994993742177723,
+            "scaleY": 0.8,
+            "width": 127,
+            "height": 66
+          }
+        },
+        "hogItem16": {
+          "hogItem_ps": {
+            "name": "object/office/object_office_15_animFlash",
+            "x": 1458.41,
+            "y": -646.55,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 126,
+            "height": 157
+          }
+        },
+        "hogItem17": {
+          "hogItem_ps": {
+            "name": "object/office/object_office_34_animFlash",
+            "x": 1805.63,
+            "y": -779.25,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 53,
+            "height": 53
+          }
+        },
+        "hogItem18": {
+          "hogItem_ps": {
+            "name": "object/pillows/object_pillow_4_animFeathers",
+            "x": 581.12,
+            "y": -877.53,
+            "scaleX": -0.7606978879706153,
+            "scaleY": 0.8,
+            "width": 110,
+            "height": 73
+          }
+        },
+        "hogItem19": {
+          "hogItem_ps": {
+            "name": "object/office/object_office_31_animFlash",
+            "x": 1969.67,
+            "y": -795.73,
+            "scaleX": 0.8,
+            "scaleY": 0.5472693032015067,
+            "width": 106,
+            "height": 33
+          }
+        },
+        "hogItem20": {
+          "hogItem_ps": {
+            "name": "object/books/object_books_4_soundPaper",
+            "x": 689.7,
+            "y": -734.82,
+            "scaleX": 0.8,
+            "scaleY": 0.7981524249422633,
+            "width": 98,
+            "height": 79
+          }
+        }
+      }
+    },
+    {
+      "name": "mode1/skin_mode1_v3",
+      "attachments": {
+        "decorItem1": {
+          "additional_item_ps": {
+            "name": "env/mirrors/env_mirror_3",
+            "x": 1409.47,
+            "y": -587.17,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 714,
+            "height": 684
+          }
+        },
+        "decorItem2": {
+          "additional_item_ps": {
+            "name": "env/beds/env_bed_14",
+            "x": 973.92,
+            "y": -483.33,
+            "scaleX": 0.7999999999999999,
+            "scaleY": 0.7999999999999999,
+            "width": 1448,
+            "height": 1094
+          }
+        },
+        "decorItem3": {
+          "additional_item_ps": {
+            "name": "env/curtains/env_curtain_3",
+            "x": 2095.82,
+            "y": -521.81,
+            "scaleX": 0.8,
+            "scaleY": 0.7294117647058824,
+            "width": 948,
+            "height": 950
+          }
+        },
+        "decorItem4": {
+          "additional_item_ps": {
+            "name": "env/chairs/env_chair_24",
+            "x": 1903.29,
+            "y": -841.35,
+            "scaleX": 0.8,
+            "scaleY": 0.7985890652557319,
+            "width": 375,
+            "height": 123
+          }
+        },
+        "decorItem5": {
+          "additional_item_ps": {
+            "name": "env/chairs/env_chair_23",
+            "x": 2267.13,
+            "y": -732.48,
+            "scaleX": 0.7991165102153507,
+            "scaleY": 0.8,
+            "width": 312,
+            "height": 435
+          }
+        },
+        "decorItem6": {
+          "additional_item_ps": {
+            "name": "env/shelves/env_shelf_31",
+            "x": 218.19,
+            "y": -728.5,
+            "scaleX": 0.8,
+            "scaleY": 0.7986856516976999,
+            "width": 312,
+            "height": 483
+          }
+        },
+        "decorItem7": {
+          "additional_item_ps": {
+            "name": "object/light/object_light_26_animFlash",
+            "x": 1628.69,
+            "y": -561.21,
+            "width": 125,
+            "height": 220,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem8": {
+          "additional_item_ps": {
+            "name": "object/light/object_light_21_animFlash",
+            "x": 394.14,
+            "y": -396.79,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 198,
+            "height": 159
+          }
+        },
+        "decorItem9": {
+          "additional_item_ps": {
+            "name": "object/candles/object_candle_4_animFlash",
+            "x": 2451.38,
+            "y": -672.7,
+            "scaleX": 0.8,
+            "scaleY": 0.7994927076727965,
+            "width": 187,
+            "height": 550
+          }
+        },
+        "decorItem10": {
+          "additional_item_ps": {
+            "name": "object/candles/object_candle_1_animFlash",
+            "x": 1555.8,
+            "y": -553.69,
+            "width": 62,
+            "height": 251,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem11": {
+          "additional_item_ps": {
+            "name": "object/candles/object_candle_2_animFlash",
+            "x": 178.23,
+            "y": -631.05,
+            "width": 23,
+            "height": 250,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem12": {
+          "additional_item_ps": {
+            "name": "object/frames/object_frame_17",
+            "x": 1578.58,
+            "y": -635.28,
+            "width": 106,
+            "height": 71,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem13": {
+          "additional_item_ps": {
+            "name": "object/frames/object_frame_10",
+            "x": 222.21,
+            "y": -298.42,
+            "scaleX": -0.8765417565888431,
+            "scaleY": 0.7999999999999999,
+            "width": 191,
+            "height": 294
+          }
+        },
+        "decorItem14": {
+          "additional_item_ps": {
+            "name": "object/object_magicball_1_animFlash",
+            "x": 1191.31,
+            "y": -634.51,
+            "scaleX": 0.7902439024390243,
+            "scaleY": 0.8,
+            "width": 75,
+            "height": 77
+          }
+        },
+        "decorItem15": {
+          "additional_item_ps": {
+            "name": "object/flowers/object_flower_8_animLeaves",
+            "x": 396.4,
+            "y": -739.69,
+            "scaleX": 0.8,
+            "scaleY": 0.6595585738539899,
+            "width": 120,
+            "height": 409
+          }
+        },
+        "decorItem16": {
+          "additional_item_ps": {
+            "name": "object/flowers/object_flower_22_animLeaves",
+            "color": "f8a8a8ff",
+            "x": 2444.84,
+            "y": -850.02,
+            "width": 187,
+            "height": 210,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem17": {
+          "additional_item_ps": {
+            "name": "object/office/object_office_11_animFlash",
+            "x": 187.7,
+            "y": -694.77,
+            "scaleX": 0.7999999999999999,
+            "scaleY": 0.7999999999999999,
+            "width": 80,
+            "height": 84
+          }
+        },
+        "decorItem18": {
+          "additional_item_ps": {
+            "name": "object/textile/object_textile_6_animFlash",
+            "x": 1264.87,
+            "y": -775.82,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": 6.73,
+            "width": 197,
+            "height": 240
+          }
+        },
+        "decorItem19": {
+          "additional_item_ps": {
+            "name": "object/food/object_jug_1_animFlash",
+            "x": 1269.05,
+            "y": -616.54,
+            "scaleX": 0.7913513513513514,
+            "scaleY": 0.8,
+            "width": 121,
+            "height": 123
+          }
+        },
+        "decorItem20": {
+          "additional_item_ps": {
+            "name": "object/food/object_jar_1_animFlash",
+            "x": 303.04,
+            "y": -696.2,
+            "scaleX": 0.8,
+            "scaleY": 0.7964969896004379,
+            "width": 56,
+            "height": 76
+          }
+        },
+        "hogItem1": {
+          "hogItem_ps": {
+            "name": "object/light/object_light_6_animFlash",
+            "x": 1572.6,
+            "y": -66.46,
+            "scaleX": 0.7059474412171507,
+            "scaleY": 0.7048409405255879,
+            "width": 37,
+            "height": 187
+          }
+        },
+        "hogItem2": {
+          "hogItem_ps": {
+            "name": "object/frames/object_frame_9",
+            "x": 1671.19,
+            "y": -406.44,
+            "scaleX": -0.7461409708015623,
+            "scaleY": 0.8,
+            "width": 100,
+            "height": 101
+          }
+        },
+        "hogItem3": {
+          "hogItem_ps": {
+            "name": "object/dirt/object_mark_3_animFeatherDuster",
+            "x": 2145.51,
+            "y": -460.25,
+            "scaleX": 0.6655093285443481,
+            "scaleY": 0.6655093285443481,
+            "width": 37,
+            "height": 106
+          }
+        },
+        "hogItem4": {
+          "hogItem_ps": {
+            "name": "object/flowers/object_flower_9_animLeaves",
+            "color": "ffffff42",
+            "x": 1412.3,
+            "y": -651.02,
+            "scaleX": 0.8,
+            "scaleY": 0.7911462450592884,
+            "width": 69,
+            "height": 141
+          }
+        },
+        "hogItem5": {
+          "hogItem_ps": {
+            "name": "object/suitcases/object_suitcase_4",
+            "x": 826.29,
+            "y": -889.22,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 176,
+            "height": 72
+          }
+        },
+        "hogItem6": {
+          "hogItem_ps": {
+            "name": "object/cloth/object_wristwatch_1_animFeatherDuster",
+            "x": 228.27,
+            "y": -905.26,
+            "scaleX": 0.8,
+            "scaleY": 0.7994100294985252,
+            "rotation": 88.2,
+            "width": 39,
+            "height": 67
+          }
+        },
+        "hogItem7": {
+          "hogItem_ps": {
+            "name": "object/cloth/object_hat_5_animFlash",
+            "x": 1106.27,
+            "y": -715.1,
+            "scaleX": 0.7972881355932204,
+            "scaleY": 0.8,
+            "width": 112,
+            "height": 41
+          }
+        },
+        "hogItem8": {
+          "hogItem_ps": {
+            "name": "object/cloth/object_gloves_1_animFlash",
+            "color": "fedec8ff",
+            "x": 1134.61,
+            "y": -918.69,
+            "scaleX": 0.7785058977719527,
+            "scaleY": 0.8,
+            "width": 123,
+            "height": 59
+          }
+        },
+        "hogItem9": {
+          "hogItem_ps": {
+            "name": "object/books/object_book_4_soundPaper",
+            "x": 1808.17,
+            "y": -788.55,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 78,
+            "height": 22
+          }
+        },
+        "hogItem10": {
+          "hogItem_ps": {
+            "name": "object/office/object_office_6_animFlash",
+            "x": 1413.18,
+            "y": -921.08,
+            "scaleX": 0.8000000000000002,
+            "scaleY": 0.8000000000000002,
+            "width": 108,
+            "height": 37
+          }
+        },
+        "hogItem11": {
+          "hogItem_ps": {
+            "name": "object/office/object_office_32_animFlash",
+            "x": 2347.86,
+            "y": -887.53,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 104,
+            "height": 100
+          }
+        },
+        "hogItem12": {
+          "hogItem_ps": {
+            "name": "object/stickers/object_sticker_3",
+            "color": "e4a782ff",
+            "x": 1380.34,
+            "y": -367.39,
+            "scaleX": 0.8,
+            "scaleY": 0.6581509602501118,
+            "width": 37,
+            "height": 47
+          }
+        },
+        "hogItem13": {
+          "hogItem_ps": {
+            "name": "object/dirt/object_spiderweb_2_animFeatherDuster",
+            "color": "ffffff8d",
+            "x": 1543.98,
+            "y": -593.48,
+            "width": 148,
+            "height": 178,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem14": {
+          "hogItem_ps": {
+            "name": "object/light/object_light_25_animFlash",
+            "x": 2103.04,
+            "y": -831.86,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 101,
+            "height": 126
+          }
+        },
+        "hogItem15": {
+          "hogItem_ps": {
+            "name": "object/pillows/object_pillow_2_animFeathers",
+            "x": 1783.44,
+            "y": -863.69,
+            "scaleX": 0.7994993742177723,
+            "scaleY": 0.8,
+            "width": 127,
+            "height": 66
+          }
+        },
+        "hogItem16": {
+          "hogItem_ps": {
+            "name": "object/office/object_office_15_animFlash",
+            "x": 1694.09,
+            "y": -828.08,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 126,
+            "height": 157
+          }
+        },
+        "hogItem17": {
+          "hogItem_ps": {
+            "name": "object/office/object_office_34_animFlash",
+            "x": 1924.41,
+            "y": -776.8,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 53,
+            "height": 53
+          }
+        },
+        "hogItem18": {
+          "hogItem_ps": {
+            "name": "object/pillows/object_pillow_4_animFeathers",
+            "x": 814.47,
+            "y": -724.01,
+            "scaleX": -0.7606978879706153,
+            "scaleY": 0.8,
+            "width": 110,
+            "height": 73
+          }
+        },
+        "hogItem19": {
+          "hogItem_ps": {
+            "name": "object/office/object_office_31_animFlash",
+            "x": 2216.96,
+            "y": -773.55,
+            "scaleX": 0.8,
+            "scaleY": 0.5472693032015067,
+            "width": 106,
+            "height": 33
+          }
+        },
+        "hogItem20": {
+          "hogItem_ps": {
+            "name": "object/books/object_books_4_soundPaper",
+            "x": 1975.65,
+            "y": -865.01,
+            "scaleX": 0.8,
+            "scaleY": 0.7981524249422633,
+            "width": 98,
+            "height": 79
+          }
+        }
+      }
+    },
+    {
+      "name": "mode1/skin_mode1_v4",
+      "attachments": {
+        "decorItem1": {
+          "additional_item_ps": {
+            "name": "env/mirrors/env_mirror_3",
+            "x": 1409.47,
+            "y": -587.17,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 714,
+            "height": 684
+          }
+        },
+        "decorItem2": {
+          "additional_item_ps": {
+            "name": "env/beds/env_bed_14",
+            "x": 973.92,
+            "y": -483.33,
+            "scaleX": 0.7999999999999999,
+            "scaleY": 0.7999999999999999,
+            "width": 1448,
+            "height": 1094
+          }
+        },
+        "decorItem3": {
+          "additional_item_ps": {
+            "name": "env/curtains/env_curtain_3",
+            "x": 2095.82,
+            "y": -521.81,
+            "scaleX": 0.8,
+            "scaleY": 0.7294117647058824,
+            "width": 948,
+            "height": 950
+          }
+        },
+        "decorItem4": {
+          "additional_item_ps": {
+            "name": "env/chairs/env_chair_24",
+            "x": 1903.29,
+            "y": -841.35,
+            "scaleX": 0.8,
+            "scaleY": 0.7985890652557319,
+            "width": 375,
+            "height": 123
+          }
+        },
+        "decorItem5": {
+          "additional_item_ps": {
+            "name": "env/chairs/env_chair_23",
+            "x": 2267.13,
+            "y": -732.48,
+            "scaleX": 0.7991165102153507,
+            "scaleY": 0.8,
+            "width": 312,
+            "height": 435
+          }
+        },
+        "decorItem6": {
+          "additional_item_ps": {
+            "name": "env/shelves/env_shelf_31",
+            "x": 218.19,
+            "y": -728.5,
+            "scaleX": 0.8,
+            "scaleY": 0.7986856516976999,
+            "width": 312,
+            "height": 483
+          }
+        },
+        "decorItem7": {
+          "additional_item_ps": {
+            "name": "object/light/object_light_26_animFlash",
+            "x": 1645.64,
+            "y": -576.89,
+            "width": 125,
+            "height": 220,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem8": {
+          "additional_item_ps": {
+            "name": "object/light/object_light_21_animFlash",
+            "x": 394.14,
+            "y": -396.79,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 198,
+            "height": 159
+          }
+        },
+        "decorItem9": {
+          "additional_item_ps": {
+            "name": "object/candles/object_candle_4_animFlash",
+            "x": 2451.38,
+            "y": -672.7,
+            "scaleX": 0.8,
+            "scaleY": 0.7994927076727965,
+            "width": 187,
+            "height": 550
+          }
+        },
+        "decorItem10": {
+          "additional_item_ps": {
+            "name": "object/candles/object_candle_1_animFlash",
+            "x": 1553.66,
+            "y": -563.31,
+            "width": 62,
+            "height": 251,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem11": {
+          "additional_item_ps": {
+            "name": "object/candles/object_candle_2_animFlash",
+            "x": 178.23,
+            "y": -631.05,
+            "width": 23,
+            "height": 250,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem12": {
+          "additional_item_ps": {
+            "name": "object/frames/object_frame_17",
+            "x": 1715.68,
+            "y": -834.66,
+            "width": 106,
+            "height": 71,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem13": {
+          "additional_item_ps": {
+            "name": "object/frames/object_frame_10",
+            "x": 222.21,
+            "y": -298.42,
+            "scaleX": -0.8765417565888431,
+            "scaleY": 0.7999999999999999,
+            "width": 191,
+            "height": 294
+          }
+        },
+        "decorItem14": {
+          "additional_item_ps": {
+            "name": "object/object_magicball_1_animFlash",
+            "x": 1152.34,
+            "y": -715.46,
+            "scaleX": 0.7902439024390243,
+            "scaleY": 0.8,
+            "width": 75,
+            "height": 77
+          }
+        },
+        "decorItem15": {
+          "additional_item_ps": {
+            "name": "object/flowers/object_flower_8_animLeaves",
+            "x": 396.4,
+            "y": -739.69,
+            "scaleX": 0.8,
+            "scaleY": 0.6595585738539899,
+            "width": 120,
+            "height": 409
+          }
+        },
+        "decorItem16": {
+          "additional_item_ps": {
+            "name": "object/flowers/object_flower_22_animLeaves",
+            "color": "f8a8a8ff",
+            "x": 2444.84,
+            "y": -850.02,
+            "width": 187,
+            "height": 210,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem17": {
+          "additional_item_ps": {
+            "name": "object/office/object_office_11_animFlash",
+            "x": 352.42,
+            "y": -897.86,
+            "scaleX": 0.7999999999999999,
+            "scaleY": 0.7999999999999999,
+            "width": 80,
+            "height": 84
+          }
+        },
+        "decorItem18": {
+          "additional_item_ps": {
+            "name": "object/textile/object_textile_6_animFlash",
+            "x": 1264.87,
+            "y": -775.82,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": 6.73,
+            "width": 197,
+            "height": 240
+          }
+        },
+        "decorItem19": {
+          "additional_item_ps": {
+            "name": "object/food/object_jug_1_animFlash",
+            "x": 1273.98,
+            "y": -616.54,
+            "scaleX": 0.7913513513513514,
+            "scaleY": 0.8,
+            "width": 121,
+            "height": 123
+          }
+        },
+        "decorItem20": {
+          "additional_item_ps": {
+            "name": "object/food/object_jar_1_animFlash",
+            "x": 1872.22,
+            "y": -764.72,
+            "scaleX": 0.8,
+            "scaleY": 0.7964969896004379,
+            "width": 56,
+            "height": 76
+          }
+        },
+        "hogItem1": {
+          "hogItem_ps": {
+            "name": "object/light/object_light_6_animFlash",
+            "x": 1564.37,
+            "y": -74.15,
+            "scaleX": 0.8,
+            "scaleY": 0.7983402489626557,
+            "width": 37,
+            "height": 187
+          }
+        },
+        "hogItem2": {
+          "hogItem_ps": {
+            "name": "object/frames/object_frame_9",
+            "x": 1671.19,
+            "y": -406.44,
+            "scaleX": -0.7461409708015623,
+            "scaleY": 0.8,
+            "width": 100,
+            "height": 101
+          }
+        },
+        "hogItem3": {
+          "hogItem_ps": {
+            "name": "object/dirt/object_mark_3_animFeatherDuster",
+            "color": "ffffff46",
+            "x": 1730.26,
+            "y": -603.62,
+            "scaleX": 0.7765339718647112,
+            "scaleY": 0.7765339718647112,
+            "width": 37,
+            "height": 106
+          }
+        },
+        "hogItem4": {
+          "hogItem_ps": {
+            "name": "object/flowers/object_flower_9_animLeaves",
+            "color": "ffffff42",
+            "x": 2074.84,
+            "y": -687.18,
+            "scaleX": 0.8,
+            "scaleY": 0.7911462450592884,
+            "width": 69,
+            "height": 141
+          }
+        },
+        "hogItem5": {
+          "hogItem_ps": {
+            "name": "object/suitcases/object_suitcase_4",
+            "x": 826.29,
+            "y": -889.22,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 176,
+            "height": 72
+          }
+        },
+        "hogItem6": {
+          "hogItem_ps": {
+            "name": "object/cloth/object_wristwatch_1_animFeatherDuster",
+            "x": 191.71,
+            "y": -710.99,
+            "scaleX": 0.7162241887905605,
+            "scaleY": 0.7156342182890857,
+            "rotation": 88.2,
+            "width": 39,
+            "height": 67
+          }
+        },
+        "hogItem7": {
+          "hogItem_ps": {
+            "name": "object/cloth/object_hat_5_animFlash",
+            "x": 1163.78,
+            "y": -646.96,
+            "scaleX": 0.7322033898305085,
+            "scaleY": 0.7349152542372882,
+            "width": 112,
+            "height": 41
+          }
+        },
+        "hogItem8": {
+          "hogItem_ps": {
+            "name": "object/cloth/object_gloves_1_animFlash",
+            "color": "fedec8ff",
+            "x": 864.28,
+            "y": -728.8,
+            "scaleX": 0.5992136304062909,
+            "scaleY": 0.6159895150720838,
+            "width": 123,
+            "height": 59
+          }
+        },
+        "hogItem9": {
+          "hogItem_ps": {
+            "name": "object/books/object_book_4_soundPaper",
+            "x": 2221.66,
+            "y": -890.81,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 78,
+            "height": 22
+          }
+        },
+        "hogItem10": {
+          "hogItem_ps": {
+            "name": "object/office/object_office_6_animFlash",
+            "x": 1347.31,
+            "y": -698.35,
+            "scaleX": 0.8000000000000002,
+            "scaleY": 0.8000000000000002,
+            "width": 108,
+            "height": 37
+          }
+        },
+        "hogItem11": {
+          "hogItem_ps": {
+            "name": "object/office/object_office_32_animFlash",
+            "x": 1602.41,
+            "y": -627.24,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 104,
+            "height": 100
+          }
+        },
+        "hogItem12": {
+          "hogItem_ps": {
+            "name": "object/stickers/object_sticker_3",
+            "color": "e4a782ff",
+            "x": 1380.34,
+            "y": -367.39,
+            "scaleX": 0.8,
+            "scaleY": 0.6581509602501118,
+            "width": 37,
+            "height": 47
+          }
+        },
+        "hogItem13": {
+          "hogItem_ps": {
+            "name": "object/dirt/object_spiderweb_2_animFeatherDuster",
+            "color": "ffffff8d",
+            "x": 1043.63,
+            "y": -450.66,
+            "width": 148,
+            "height": 178,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem14": {
+          "hogItem_ps": {
+            "name": "object/light/object_light_25_animFlash",
+            "x": 309.63,
+            "y": -676.18,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 101,
+            "height": 126
+          }
+        },
+        "hogItem15": {
+          "hogItem_ps": {
+            "name": "object/pillows/object_pillow_2_animFeathers",
+            "x": 2102.02,
+            "y": -878.34,
+            "scaleX": 0.7994993742177723,
+            "scaleY": 0.8,
+            "width": 127,
+            "height": 66
+          }
+        },
+        "hogItem16": {
+          "hogItem_ps": {
+            "name": "object/office/object_office_15_animFlash",
+            "x": 1458.41,
+            "y": -646.55,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 126,
+            "height": 157
+          }
+        },
+        "hogItem17": {
+          "hogItem_ps": {
+            "name": "object/office/object_office_34_animFlash",
+            "x": 1805.63,
+            "y": -779.25,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 53,
+            "height": 53
+          }
+        },
+        "hogItem18": {
+          "hogItem_ps": {
+            "name": "object/pillows/object_pillow_4_animFeathers",
+            "x": 581.12,
+            "y": -877.53,
+            "scaleX": -0.7606978879706153,
+            "scaleY": 0.8,
+            "width": 110,
+            "height": 73
+          }
+        },
+        "hogItem19": {
+          "hogItem_ps": {
+            "name": "object/office/object_office_31_animFlash",
+            "x": 1969.67,
+            "y": -795.73,
+            "scaleX": 0.8,
+            "scaleY": 0.5472693032015067,
+            "width": 106,
+            "height": 33
+          }
+        },
+        "hogItem20": {
+          "hogItem_ps": {
+            "name": "object/books/object_books_4_soundPaper",
+            "x": 689.7,
+            "y": -734.82,
+            "scaleX": 0.8,
+            "scaleY": 0.7981524249422633,
+            "width": 98,
+            "height": 79
+          }
+        }
+      }
+    },
+    {
+      "name": "mode1/skin_mode1_v5",
+      "attachments": {
+        "decorItem1": {
+          "additional_item_ps": {
+            "name": "env/mirrors/env_mirror_3",
+            "x": 1409.47,
+            "y": -587.17,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 714,
+            "height": 684
+          }
+        },
+        "decorItem2": {
+          "additional_item_ps": {
+            "name": "env/beds/env_bed_14",
+            "x": 973.92,
+            "y": -483.33,
+            "scaleX": 0.7999999999999999,
+            "scaleY": 0.7999999999999999,
+            "width": 1448,
+            "height": 1094
+          }
+        },
+        "decorItem3": {
+          "additional_item_ps": {
+            "name": "env/curtains/env_curtain_3",
+            "x": 2095.82,
+            "y": -521.81,
+            "scaleX": 0.8,
+            "scaleY": 0.7294117647058824,
+            "width": 948,
+            "height": 950
+          }
+        },
+        "decorItem4": {
+          "additional_item_ps": {
+            "name": "env/chairs/env_chair_24",
+            "x": 1903.29,
+            "y": -841.35,
+            "scaleX": 0.8,
+            "scaleY": 0.7985890652557319,
+            "width": 375,
+            "height": 123
+          }
+        },
+        "decorItem5": {
+          "additional_item_ps": {
+            "name": "env/chairs/env_chair_23",
+            "x": 2267.13,
+            "y": -732.48,
+            "scaleX": 0.7991165102153507,
+            "scaleY": 0.8,
+            "width": 312,
+            "height": 435
+          }
+        },
+        "decorItem6": {
+          "additional_item_ps": {
+            "name": "env/shelves/env_shelf_31",
+            "x": 218.19,
+            "y": -728.5,
+            "scaleX": 0.8,
+            "scaleY": 0.7986856516976999,
+            "width": 312,
+            "height": 483
+          }
+        },
+        "decorItem7": {
+          "additional_item_ps": {
+            "name": "object/light/object_light_26_animFlash",
+            "x": 1628.69,
+            "y": -561.21,
+            "width": 125,
+            "height": 220,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem8": {
+          "additional_item_ps": {
+            "name": "object/light/object_light_21_animFlash",
+            "x": 394.14,
+            "y": -396.79,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 198,
+            "height": 159
+          }
+        },
+        "decorItem9": {
+          "additional_item_ps": {
+            "name": "object/candles/object_candle_4_animFlash",
+            "x": 2451.38,
+            "y": -672.7,
+            "scaleX": 0.8,
+            "scaleY": 0.7994927076727965,
+            "width": 187,
+            "height": 550
+          }
+        },
+        "decorItem10": {
+          "additional_item_ps": {
+            "name": "object/candles/object_candle_1_animFlash",
+            "x": 1555.8,
+            "y": -553.69,
+            "width": 62,
+            "height": 251,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem11": {
+          "additional_item_ps": {
+            "name": "object/candles/object_candle_2_animFlash",
+            "x": 178.23,
+            "y": -631.05,
+            "width": 23,
+            "height": 250,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem12": {
+          "additional_item_ps": {
+            "name": "object/frames/object_frame_17",
+            "x": 1578.58,
+            "y": -635.28,
+            "width": 106,
+            "height": 71,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem13": {
+          "additional_item_ps": {
+            "name": "object/frames/object_frame_10",
+            "x": 222.21,
+            "y": -298.42,
+            "scaleX": -0.8765417565888431,
+            "scaleY": 0.7999999999999999,
+            "width": 191,
+            "height": 294
+          }
+        },
+        "decorItem14": {
+          "additional_item_ps": {
+            "name": "object/object_magicball_1_animFlash",
+            "x": 1191.31,
+            "y": -634.51,
+            "scaleX": 0.7902439024390243,
+            "scaleY": 0.8,
+            "width": 75,
+            "height": 77
+          }
+        },
+        "decorItem15": {
+          "additional_item_ps": {
+            "name": "object/flowers/object_flower_8_animLeaves",
+            "x": 396.4,
+            "y": -739.69,
+            "scaleX": 0.8,
+            "scaleY": 0.6595585738539899,
+            "width": 120,
+            "height": 409
+          }
+        },
+        "decorItem16": {
+          "additional_item_ps": {
+            "name": "object/flowers/object_flower_22_animLeaves",
+            "color": "f8a8a8ff",
+            "x": 2444.84,
+            "y": -850.02,
+            "width": 187,
+            "height": 210,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem17": {
+          "additional_item_ps": {
+            "name": "object/office/object_office_11_animFlash",
+            "x": 187.7,
+            "y": -694.77,
+            "scaleX": 0.7999999999999999,
+            "scaleY": 0.7999999999999999,
+            "width": 80,
+            "height": 84
+          }
+        },
+        "decorItem18": {
+          "additional_item_ps": {
+            "name": "object/textile/object_textile_6_animFlash",
+            "x": 1264.87,
+            "y": -775.82,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": 6.73,
+            "width": 197,
+            "height": 240
+          }
+        },
+        "decorItem19": {
+          "additional_item_ps": {
+            "name": "object/food/object_jug_1_animFlash",
+            "x": 1269.05,
+            "y": -616.54,
+            "scaleX": 0.7913513513513514,
+            "scaleY": 0.8,
+            "width": 121,
+            "height": 123
+          }
+        },
+        "decorItem20": {
+          "additional_item_ps": {
+            "name": "object/food/object_jar_1_animFlash",
+            "x": 303.04,
+            "y": -696.2,
+            "scaleX": 0.8,
+            "scaleY": 0.7964969896004379,
+            "width": 56,
+            "height": 76
+          }
+        },
+        "hogItem1": {
+          "hogItem_ps": {
+            "name": "object/light/object_light_6_animFlash",
+            "x": 1572.6,
+            "y": -68.08,
+            "scaleX": 0.7291839557399723,
+            "scaleY": 0.7275242047026279,
+            "width": 37,
+            "height": 187
+          }
+        },
+        "hogItem2": {
+          "hogItem_ps": {
+            "name": "object/frames/object_frame_9",
+            "x": 1671.19,
+            "y": -406.44,
+            "scaleX": -0.7461409708015623,
+            "scaleY": 0.8,
+            "width": 100,
+            "height": 101
+          }
+        },
+        "hogItem3": {
+          "hogItem_ps": {
+            "name": "object/dirt/object_mark_3_animFeatherDuster",
+            "x": 2145.51,
+            "y": -460.25,
+            "scaleX": 0.786191758954405,
+            "scaleY": 0.786191758954405,
+            "width": 37,
+            "height": 106
+          }
+        },
+        "hogItem4": {
+          "hogItem_ps": {
+            "name": "object/flowers/object_flower_9_animLeaves",
+            "color": "ffffff42",
+            "x": 1412.3,
+            "y": -651.02,
+            "scaleX": 0.8,
+            "scaleY": 0.7911462450592884,
+            "width": 69,
+            "height": 141
+          }
+        },
+        "hogItem5": {
+          "hogItem_ps": {
+            "name": "object/suitcases/object_suitcase_4",
+            "x": 826.29,
+            "y": -889.22,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 176,
+            "height": 72
+          }
+        },
+        "hogItem6": {
+          "hogItem_ps": {
+            "name": "object/cloth/object_wristwatch_1_animFeatherDuster",
+            "x": 228.27,
+            "y": -905.26,
+            "scaleX": 0.7781710914454277,
+            "scaleY": 0.776991150442478,
+            "rotation": 88.2,
+            "width": 39,
+            "height": 67
+          }
+        },
+        "hogItem7": {
+          "hogItem_ps": {
+            "name": "object/cloth/object_hat_5_animFlash",
+            "x": 1106.27,
+            "y": -719.72,
+            "scaleX": 0.7972881355932204,
+            "scaleY": 0.8,
+            "width": 112,
+            "height": 41
+          }
+        },
+        "hogItem8": {
+          "hogItem_ps": {
+            "name": "object/cloth/object_gloves_1_animFlash",
+            "color": "fedec8ff",
+            "x": 1134.61,
+            "y": -918.69,
+            "scaleX": 0.7318479685452162,
+            "scaleY": 0.7522935779816512,
+            "width": 123,
+            "height": 59
+          }
+        },
+        "hogItem9": {
+          "hogItem_ps": {
+            "name": "object/books/object_book_4_soundPaper",
+            "x": 1808.17,
+            "y": -788.55,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 78,
+            "height": 22
+          }
+        },
+        "hogItem10": {
+          "hogItem_ps": {
+            "name": "object/office/object_office_6_animFlash",
+            "x": 1413.18,
+            "y": -913.9,
+            "scaleX": 0.8000000000000002,
+            "scaleY": 0.8000000000000002,
+            "width": 108,
+            "height": 37
+          }
+        },
+        "hogItem11": {
+          "hogItem_ps": {
+            "name": "object/office/object_office_32_animFlash",
+            "x": 2347.86,
+            "y": -887.53,
+            "scaleX": 0.5739723568479627,
+            "scaleY": 0.5739723568479627,
+            "width": 104,
+            "height": 100
+          }
+        },
+        "hogItem12": {
+          "hogItem_ps": {
+            "name": "object/stickers/object_sticker_3",
+            "color": "e4a782ff",
+            "x": 1380.34,
+            "y": -367.39,
+            "scaleX": 0.8,
+            "scaleY": 0.6581509602501118,
+            "width": 37,
+            "height": 47
+          }
+        },
+        "hogItem13": {
+          "hogItem_ps": {
+            "name": "object/dirt/object_spiderweb_2_animFeatherDuster",
+            "color": "ffffff8d",
+            "x": 1543.98,
+            "y": -593.48,
+            "width": 148,
+            "height": 178,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem14": {
+          "hogItem_ps": {
+            "name": "object/light/object_light_25_animFlash",
+            "x": 2103.04,
+            "y": -831.86,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 101,
+            "height": 126
+          }
+        },
+        "hogItem15": {
+          "hogItem_ps": {
+            "name": "object/pillows/object_pillow_2_animFeathers",
+            "x": 1783.44,
+            "y": -863.69,
+            "scaleX": 0.7994993742177723,
+            "scaleY": 0.8,
+            "width": 127,
+            "height": 66
+          }
+        },
+        "hogItem16": {
+          "hogItem_ps": {
+            "name": "object/office/object_office_15_animFlash",
+            "x": 1694.09,
+            "y": -828.08,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 126,
+            "height": 157
+          }
+        },
+        "hogItem17": {
+          "hogItem_ps": {
+            "name": "object/office/object_office_34_animFlash",
+            "x": 1924.41,
+            "y": -776.8,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 53,
+            "height": 53
+          }
+        },
+        "hogItem18": {
+          "hogItem_ps": {
+            "name": "object/pillows/object_pillow_4_animFeathers",
+            "x": 814.47,
+            "y": -724.01,
+            "scaleX": -0.7606978879706153,
+            "scaleY": 0.8,
+            "width": 110,
+            "height": 73
+          }
+        },
+        "hogItem19": {
+          "hogItem_ps": {
+            "name": "object/office/object_office_31_animFlash",
+            "x": 2216.96,
+            "y": -773.55,
+            "scaleX": 0.8,
+            "scaleY": 0.5472693032015067,
+            "width": 106,
+            "height": 33
+          }
+        },
+        "hogItem20": {
+          "hogItem_ps": {
+            "name": "object/books/object_books_4_soundPaper",
+            "x": 1975.65,
+            "y": -865.01,
+            "scaleX": 0.8,
+            "scaleY": 0.7981524249422633,
+            "width": 98,
+            "height": 79
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "idle": {}
+  }
+}

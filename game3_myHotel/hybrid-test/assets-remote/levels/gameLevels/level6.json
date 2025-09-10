@@ -1,0 +1,2280 @@
+{
+  "skeleton": {
+    "hash": "Gs2RB4b3Tig",
+    "spine": "4.1.24",
+    "y": -1080,
+    "width": 2574.48,
+    "height": 1080,
+    "images": "./images/",
+    "audio": ""
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "backgrounds",
+      "parent": "root"
+    },
+    {
+      "name": "decorItems",
+      "parent": "root"
+    },
+    {
+      "name": "hogItems",
+      "parent": "root"
+    },
+    {
+      "name": "idle",
+      "parent": "root"
+    }
+  ],
+  "slots": [
+    {
+      "name": "background_lv6",
+      "bone": "backgrounds"
+    },
+    {
+      "name": "hogItem1",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem2",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "decorItem1",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem2",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem3",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem4",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem5",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem6",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem7",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem8",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem9",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem10",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem11",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem12",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem13",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem14",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem15",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem16",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem17",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem18",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem19",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem20",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem21",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "hogItem3",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem4",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem5",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem6",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem7",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem8",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem9",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem10",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem11",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem12",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "env/shadows/env_shadow_4",
+      "bone": "idle",
+      "attachment": "env/shadows/env_shadow_4"
+    },
+    {
+      "name": "env/shadows/env_shadow_5",
+      "bone": "idle",
+      "attachment": "env/shadows/env_shadow_5"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "env/shadows/env_shadow_4": {
+          "env/shadows/env_shadow_4": {
+            "type": "mesh",
+            "color": "ffffff9f",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              0,
+              2,
+              3,
+              0,
+              1,
+              2
+            ],
+            "vertices": [
+              2547.26,
+              -957.47,
+              30.14,
+              -981.85,
+              1896.52,
+              -74.98,
+              2254.71,
+              -66.85
+            ],
+            "hull": 4,
+            "edges": [
+              0,
+              6,
+              0,
+              2,
+              2,
+              4,
+              4,
+              6
+            ],
+            "width": 25,
+            "height": 487
+          }
+        },
+        "env/shadows/env_shadow_5": {
+          "env/shadows/env_shadow_5": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              0,
+              2,
+              3,
+              0,
+              1,
+              2
+            ],
+            "vertices": [
+              1154.66,
+              -615.85,
+              1139.56,
+              -615.85,
+              1139.56,
+              -523.07,
+              1154.66,
+              -523.07
+            ],
+            "hull": 4,
+            "edges": [
+              0,
+              6,
+              0,
+              2,
+              2,
+              4,
+              4,
+              6
+            ],
+            "width": 50,
+            "height": 379
+          }
+        }
+      }
+    },
+    {
+      "name": "mode1/skin_mode1_v1",
+      "attachments": {
+        "decorItem1": {
+          "additional_item_ps": {
+            "name": "env/bathroom/env_bath_2_animFoam",
+            "x": 1276.74,
+            "y": -656.21,
+            "scaleX": 0.7984819734345352,
+            "scaleY": 0.8,
+            "width": 784,
+            "height": 435
+          }
+        },
+        "decorItem2": {
+          "additional_item_ps": {
+            "name": "env/bathroom/env_ambry_8_animFoam",
+            "x": 693.82,
+            "y": -728.53,
+            "scaleX": 0.8,
+            "scaleY": 0.7991744066047471,
+            "width": 668,
+            "height": 276
+          }
+        },
+        "decorItem3": {
+          "additional_item_ps": {
+            "name": "env/bathroom/env_toilet_5_animFoam",
+            "x": 250.3,
+            "y": -701.21,
+            "scaleX": 0.8,
+            "scaleY": 0.7985494106980962,
+            "width": 459,
+            "height": 406
+          }
+        },
+        "decorItem4": {
+          "additional_item_ps": {
+            "name": "env/mirrors/env_mirror_6",
+            "x": 677.75,
+            "y": -352.5,
+            "scaleX": 0.8,
+            "scaleY": 0.7979013641133264,
+            "width": 464,
+            "height": 355
+          }
+        },
+        "decorItem5": {
+          "additional_item_ps": {
+            "name": "env/bathroom/env_ambry_6_animFoam",
+            "x": 345.91,
+            "y": -428.43,
+            "scaleX": 0.7974068071312805,
+            "scaleY": 0.8,
+            "width": 376,
+            "height": 233
+          }
+        },
+        "decorItem6": {
+          "additional_item_ps": {
+            "name": "object/beauty/object_beauty_16_animFoam",
+            "x": 387.11,
+            "y": -300.27,
+            "scaleX": 0.4939203354297694,
+            "scaleY": 0.4939203354297694,
+            "width": 53,
+            "height": 145
+          }
+        },
+        "decorItem7": {
+          "additional_item_ps": {
+            "name": "object/beauty/object_beauty_13_animFoam",
+            "x": 340.04,
+            "y": -312.27,
+            "scaleX": 0.4812944983818771,
+            "scaleY": 0.4812944983818771,
+            "width": 77,
+            "height": 105
+          }
+        },
+        "decorItem8": {
+          "additional_item_ps": {
+            "name": "object/beauty/object_beauty_18_animFoam",
+            "x": 288.02,
+            "y": -424.79,
+            "scaleX": 0.7523809523809524,
+            "scaleY": 0.7523809523809524,
+            "width": 50,
+            "height": 50
+          }
+        },
+        "decorItem9": {
+          "additional_item_ps": {
+            "name": "env/bathroom/env_ambry_11_animFoam",
+            "x": 2398.79,
+            "y": -526.85,
+            "scaleX": 0.8,
+            "scaleY": 0.7988377723970945,
+            "width": 439,
+            "height": 756
+          }
+        },
+        "decorItem10": {
+          "additional_item_ps": {
+            "name": "object/towels/object_towel_5_animFeatherDuster",
+            "x": 2273.23,
+            "y": -212.32,
+            "scaleX": 0.8,
+            "scaleY": 0.6838235294117647,
+            "width": 102,
+            "height": 39
+          }
+        },
+        "decorItem11": {
+          "additional_item_ps": {
+            "name": "object/beauty/object_beauty_8_animFoam",
+            "x": 2337.1,
+            "y": -195.65,
+            "scaleX": 0.5695220243673853,
+            "scaleY": 0.5695220243673853,
+            "width": 53,
+            "height": 111
+          }
+        },
+        "decorItem12": {
+          "additional_item_ps": {
+            "name": "object/beauty/object_glass_1_animFoam",
+            "x": 882.21,
+            "y": -581.85,
+            "scaleX": 0.5148514851485149,
+            "scaleY": 0.5148514851485149,
+            "width": 60,
+            "height": 144
+          }
+        },
+        "decorItem13": {
+          "additional_item_ps": {
+            "name": "env/bathroom/env_showercurtain_1_animFoam",
+            "x": 1335.79,
+            "y": -470.61,
+            "scaleX": 0.7996133397776705,
+            "scaleY": 0.8,
+            "width": 941,
+            "height": 907
+          }
+        },
+        "decorItem14": {
+          "additional_item_ps": {
+            "name": "env/bathroom/env_washbasin_3_animFoam",
+            "x": 700.24,
+            "y": -581.44,
+            "width": 375,
+            "height": 118,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem15": {
+          "additional_item_ps": {
+            "name": "object/beauty/object_bag_1_animFoam",
+            "x": 1627.22,
+            "y": -799.57,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 91,
+            "height": 96
+          }
+        },
+        "decorItem16": {
+          "additional_item_ps": {
+            "name": "object/beauty/object_beauty_15_animFoam",
+            "x": 544.56,
+            "y": -580.95,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 38,
+            "height": 102
+          }
+        },
+        "decorItem17": {
+          "additional_item_ps": {
+            "name": "object/beauty/object_shelf_1_animFoam",
+            "x": 1761.73,
+            "y": -429.82,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 191,
+            "height": 211
+          }
+        },
+        "decorItem18": {
+          "additional_item_ps": {
+            "name": "object/towels/object_towel_17_animFeatherDuster",
+            "x": 1336.22,
+            "y": -812.47,
+            "scaleX": 0.7999999999999999,
+            "scaleY": 0.7999999999999999,
+            "width": 120,
+            "height": 40
+          }
+        },
+        "decorItem19": {
+          "additional_item_ps": {
+            "name": "object/towels/object_towel_28_animFeatherDuster",
+            "color": "d1d3f1ff",
+            "x": 735.9,
+            "y": -860.37,
+            "scaleX": 0.7636458605379994,
+            "scaleY": 0.7636458605379994,
+            "width": 213,
+            "height": 55
+          }
+        },
+        "decorItem20": {
+          "additional_item_ps": {
+            "name": "object/flowers/object_flower_31_animLeaves",
+            "x": 1985.19,
+            "y": -488.64,
+            "width": 62,
+            "height": 426,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem21": {
+          "additional_item_ps": {
+            "name": "object/flowers/object_flower_33_animLeaves",
+            "x": 2142.46,
+            "y": -527.49,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 133,
+            "height": 331
+          }
+        },
+        "hogItem1": {
+          "hogItem_ps": {
+            "name": "object/cloth/object_cloth_6_animFlash",
+            "x": 1710.83,
+            "y": -194.81,
+            "width": 125,
+            "height": 160,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem2": {
+          "hogItem_ps": {
+            "name": "object/towels/object_towel_22_animFeatherDuster",
+            "color": "c1bdbdff",
+            "x": 2212.66,
+            "y": -803.24,
+            "scaleX": 0.7963913948646774,
+            "scaleY": 0.7963913948646774,
+            "width": 72,
+            "height": 65
+          }
+        },
+        "hogItem3": {
+          "hogItem_ps": {
+            "name": "object/towels/object_towel_14_animFeatherDuster",
+            "x": 154.56,
+            "y": -859.27,
+            "scaleX": -0.7897220275636534,
+            "scaleY": 0.7390796542863818,
+            "width": 126,
+            "height": 74
+          }
+        },
+        "hogItem4": {
+          "hogItem_ps": {
+            "name": "object/beauty/object_beauty_10_animFoam",
+            "x": 505.08,
+            "y": -586.35,
+            "scaleX": 0.5324526134405514,
+            "scaleY": 0.5324526134405514,
+            "width": 43,
+            "height": 137
+          }
+        },
+        "hogItem5": {
+          "hogItem_ps": {
+            "name": "object/beauty/object_beauty_7_animFoam",
+            "x": 2414.71,
+            "y": -203.91,
+            "scaleX": 0.4641675109760217,
+            "scaleY": 0.4641675109760217,
+            "width": 74,
+            "height": 107
+          }
+        },
+        "hogItem6": {
+          "hogItem_ps": {
+            "name": "object/towels/object_towel_24_animFeatherDuster",
+            "color": "f9ceceff",
+            "x": 1751.26,
+            "y": -620.59,
+            "scaleX": -0.63982924226254,
+            "scaleY": 0.8,
+            "width": 144,
+            "height": 181
+          }
+        },
+        "hogItem7": {
+          "hogItem_ps": {
+            "name": "object/towels/object_towel_9_animFeatherDuster",
+            "x": 1324.15,
+            "y": -626.57,
+            "scaleX": 0.7419595141700405,
+            "scaleY": 0.7419595141700405,
+            "width": 115,
+            "height": 58
+          }
+        },
+        "hogItem8": {
+          "hogItem_ps": {
+            "name": "object/beauty/object_beauty_2_animFoam",
+            "x": 1182,
+            "y": -769.05,
+            "scaleX": 0.727511737089202,
+            "scaleY": 0.727511737089202,
+            "width": 36,
+            "height": 76
+          }
+        },
+        "hogItem9": {
+          "hogItem_ps": {
+            "name": "object/beauty/object_sponge_1_animFoam",
+            "x": 1308.97,
+            "y": -443.65,
+            "scaleX": 0.7999999999999999,
+            "scaleY": 0.7999999999999999,
+            "width": 83,
+            "height": 123
+          }
+        },
+        "hogItem10": {
+          "hogItem_ps": {
+            "name": "object/beauty/object_beauty_12_animFoam",
+            "x": 433.31,
+            "y": -309.09,
+            "scaleX": 0.5164792001428316,
+            "scaleY": 0.5164792001428316,
+            "width": 58,
+            "height": 100
+          }
+        },
+        "hogItem11": {
+          "hogItem_ps": {
+            "name": "object/beauty/object_beauty_20_animFoam",
+            "x": 429.43,
+            "y": -493.05,
+            "scaleX": 0.5917600000000001,
+            "scaleY": 0.5917600000000001,
+            "width": 63,
+            "height": 57
+          }
+        },
+        "hogItem12": {
+          "hogItem_ps": {
+            "name": "object/beauty/object_beauty_5_animFoam",
+            "x": 1749.49,
+            "y": -467.45,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 28,
+            "height": 85
+          }
+        }
+      }
+    },
+    {
+      "name": "mode1/skin_mode1_v2",
+      "attachments": {
+        "decorItem1": {
+          "additional_item_ps": {
+            "name": "env/bathroom/env_bath_2_animFoam",
+            "x": 1276.74,
+            "y": -656.21,
+            "scaleX": 0.7984819734345352,
+            "scaleY": 0.8,
+            "width": 784,
+            "height": 435
+          }
+        },
+        "decorItem2": {
+          "additional_item_ps": {
+            "name": "env/bathroom/env_ambry_8_animFoam",
+            "x": 693.82,
+            "y": -728.53,
+            "scaleX": 0.8,
+            "scaleY": 0.7991744066047471,
+            "width": 668,
+            "height": 276
+          }
+        },
+        "decorItem3": {
+          "additional_item_ps": {
+            "name": "env/bathroom/env_toilet_5_animFoam",
+            "x": 250.3,
+            "y": -701.21,
+            "scaleX": 0.8,
+            "scaleY": 0.7985494106980962,
+            "width": 459,
+            "height": 406
+          }
+        },
+        "decorItem4": {
+          "additional_item_ps": {
+            "name": "env/mirrors/env_mirror_6",
+            "x": 677.75,
+            "y": -352.5,
+            "scaleX": 0.8,
+            "scaleY": 0.7979013641133264,
+            "width": 464,
+            "height": 355
+          }
+        },
+        "decorItem5": {
+          "additional_item_ps": {
+            "name": "env/bathroom/env_ambry_6_animFoam",
+            "x": 345.91,
+            "y": -428.43,
+            "scaleX": 0.7974068071312805,
+            "scaleY": 0.8,
+            "width": 376,
+            "height": 233
+          }
+        },
+        "decorItem6": {
+          "additional_item_ps": {
+            "name": "object/beauty/object_beauty_16_animFoam",
+            "x": 331.59,
+            "y": -280.29,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 53,
+            "height": 145
+          }
+        },
+        "decorItem7": {
+          "additional_item_ps": {
+            "name": "object/beauty/object_beauty_13_animFoam",
+            "x": 295.8,
+            "y": -402.26,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 77,
+            "height": 105
+          }
+        },
+        "decorItem8": {
+          "additional_item_ps": {
+            "name": "object/beauty/object_beauty_18_animFoam",
+            "x": 528.78,
+            "y": -602.5,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 50,
+            "height": 50
+          }
+        },
+        "decorItem9": {
+          "additional_item_ps": {
+            "name": "env/bathroom/env_ambry_11_animFoam",
+            "x": 2398.79,
+            "y": -526.85,
+            "scaleX": 0.8,
+            "scaleY": 0.7988377723970945,
+            "width": 439,
+            "height": 756
+          }
+        },
+        "decorItem10": {
+          "additional_item_ps": {
+            "name": "object/towels/object_towel_5_animFeatherDuster",
+            "x": 2089.01,
+            "y": -642.48,
+            "scaleX": 0.7747058823529411,
+            "scaleY": 0.7747058823529411,
+            "width": 102,
+            "height": 39
+          }
+        },
+        "decorItem11": {
+          "additional_item_ps": {
+            "name": "object/beauty/object_beauty_8_animFoam",
+            "x": 1821.49,
+            "y": -460.5,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 53,
+            "height": 111
+          }
+        },
+        "decorItem12": {
+          "additional_item_ps": {
+            "name": "object/beauty/object_glass_1_animFoam",
+            "x": 2203.62,
+            "y": -601.52,
+            "scaleX": 0.8000000000000002,
+            "scaleY": 0.8000000000000002,
+            "width": 60,
+            "height": 144
+          }
+        },
+        "decorItem13": {
+          "additional_item_ps": {
+            "name": "env/bathroom/env_showercurtain_1_animFoam",
+            "x": 1335.79,
+            "y": -470.61,
+            "scaleX": 0.7996133397776705,
+            "scaleY": 0.8,
+            "width": 941,
+            "height": 907
+          }
+        },
+        "decorItem14": {
+          "additional_item_ps": {
+            "name": "env/bathroom/env_washbasin_3_animFoam",
+            "x": 700.24,
+            "y": -581.44,
+            "width": 375,
+            "height": 118,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem15": {
+          "additional_item_ps": {
+            "name": "object/beauty/object_bag_1_animFoam",
+            "x": 901.38,
+            "y": -579.82,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 91,
+            "height": 96
+          }
+        },
+        "decorItem16": {
+          "additional_item_ps": {
+            "name": "object/beauty/object_beauty_15_animFoam",
+            "x": 860.56,
+            "y": -578.56,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 38,
+            "height": 102
+          }
+        },
+        "decorItem17": {
+          "additional_item_ps": {
+            "name": "object/beauty/object_shelf_1_animFoam",
+            "x": 1761.73,
+            "y": -429.82,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 191,
+            "height": 211
+          }
+        },
+        "decorItem18": {
+          "additional_item_ps": {
+            "name": "object/towels/object_towel_17_animFeatherDuster",
+            "x": 2293.71,
+            "y": -214.77,
+            "scaleX": 0.7313761467889908,
+            "scaleY": 0.7313761467889908,
+            "width": 120,
+            "height": 40
+          }
+        },
+        "decorItem19": {
+          "additional_item_ps": {
+            "name": "object/towels/object_towel_28_animFeatherDuster",
+            "color": "d1d3f1ff",
+            "x": 1983.21,
+            "y": -837.8,
+            "scaleX": 0.7862104988247585,
+            "scaleY": 0.7862104988247585,
+            "width": 213,
+            "height": 55
+          }
+        },
+        "decorItem20": {
+          "additional_item_ps": {
+            "name": "object/flowers/object_flower_31_animLeaves",
+            "x": 2154.8,
+            "y": -488.64,
+            "width": 62,
+            "height": 426,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem21": {
+          "additional_item_ps": {
+            "name": "object/flowers/object_flower_33_animLeaves",
+            "x": 986.48,
+            "y": -767.05,
+            "scaleX": 0.5235130628126737,
+            "scaleY": 0.5235130628126737,
+            "width": 133,
+            "height": 331
+          }
+        },
+        "hogItem1": {
+          "hogItem_ps": {
+            "name": "object/cloth/object_cloth_6_animFlash",
+            "x": 1707,
+            "y": -192.88,
+            "width": 125,
+            "height": 160,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem2": {
+          "hogItem_ps": {
+            "name": "object/towels/object_towel_22_animFeatherDuster",
+            "color": "c1bdbdff",
+            "x": 1708.18,
+            "y": -808.41,
+            "scaleX": 0.6947952810548231,
+            "scaleY": 0.6947952810548231,
+            "width": 72,
+            "height": 65
+          }
+        },
+        "hogItem3": {
+          "hogItem_ps": {
+            "name": "object/towels/object_towel_14_animFeatherDuster",
+            "x": 1954.05,
+            "y": -637.24,
+            "scaleX": -0.7134781593085728,
+            "scaleY": 0.6678813361364168,
+            "width": 126,
+            "height": 74
+          }
+        },
+        "hogItem4": {
+          "hogItem_ps": {
+            "name": "object/beauty/object_beauty_10_animFoam",
+            "x": 435.14,
+            "y": -281.73,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 43,
+            "height": 137
+          }
+        },
+        "hogItem5": {
+          "hogItem_ps": {
+            "name": "object/beauty/object_beauty_7_animFoam",
+            "x": 242.04,
+            "y": -294.39,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 74,
+            "height": 107
+          }
+        },
+        "hogItem6": {
+          "hogItem_ps": {
+            "name": "object/towels/object_towel_24_animFeatherDuster",
+            "color": "f9ceceff",
+            "x": 463.57,
+            "y": -572.95,
+            "scaleX": 0.4122091782283885,
+            "scaleY": 0.527982924226254,
+            "width": 144,
+            "height": 181
+          }
+        },
+        "hogItem7": {
+          "hogItem_ps": {
+            "name": "object/towels/object_towel_9_animFeatherDuster",
+            "x": 1324.15,
+            "y": -626.57,
+            "scaleX": 0.6396113360323887,
+            "scaleY": 0.6396113360323887,
+            "width": 115,
+            "height": 58
+          }
+        },
+        "hogItem8": {
+          "hogItem_ps": {
+            "name": "object/beauty/object_beauty_2_animFoam",
+            "x": 601.89,
+            "y": -556.52,
+            "scaleX": -0.8871361502347419,
+            "scaleY": 0.8,
+            "width": 36,
+            "height": 76
+          }
+        },
+        "hogItem9": {
+          "hogItem_ps": {
+            "name": "object/beauty/object_sponge_1_animFoam",
+            "x": 1717.66,
+            "y": -586.81,
+            "scaleX": 0.7999999999999999,
+            "scaleY": 0.7999999999999999,
+            "width": 83,
+            "height": 123
+          }
+        },
+        "hogItem10": {
+          "hogItem_ps": {
+            "name": "object/beauty/object_beauty_12_animFoam",
+            "x": 2400.07,
+            "y": -188.1,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 58,
+            "height": 100
+          }
+        },
+        "hogItem11": {
+          "hogItem_ps": {
+            "name": "object/beauty/object_beauty_20_animFoam",
+            "x": 428.04,
+            "y": -486.8,
+            "width": 63,
+            "height": 57,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem12": {
+          "hogItem_ps": {
+            "name": "object/beauty/object_beauty_5_animFoam",
+            "x": 1749.49,
+            "y": -467.45,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 28,
+            "height": 85
+          }
+        }
+      }
+    },
+    {
+      "name": "mode1/skin_mode1_v3",
+      "attachments": {
+        "decorItem1": {
+          "additional_item_ps": {
+            "name": "env/bathroom/env_bath_2_animFoam",
+            "x": 1276.74,
+            "y": -656.21,
+            "scaleX": 0.7984819734345352,
+            "scaleY": 0.8,
+            "width": 784,
+            "height": 435
+          }
+        },
+        "decorItem2": {
+          "additional_item_ps": {
+            "name": "env/bathroom/env_ambry_8_animFoam",
+            "x": 693.82,
+            "y": -728.53,
+            "scaleX": 0.8,
+            "scaleY": 0.7991744066047471,
+            "width": 668,
+            "height": 276
+          }
+        },
+        "decorItem3": {
+          "additional_item_ps": {
+            "name": "env/bathroom/env_toilet_5_animFoam",
+            "x": 250.3,
+            "y": -701.21,
+            "scaleX": 0.8,
+            "scaleY": 0.7985494106980962,
+            "width": 459,
+            "height": 406
+          }
+        },
+        "decorItem4": {
+          "additional_item_ps": {
+            "name": "env/mirrors/env_mirror_6",
+            "x": 677.75,
+            "y": -352.5,
+            "scaleX": 0.8,
+            "scaleY": 0.7979013641133264,
+            "width": 464,
+            "height": 355
+          }
+        },
+        "decorItem5": {
+          "additional_item_ps": {
+            "name": "env/bathroom/env_ambry_6_animFoam",
+            "x": 345.91,
+            "y": -428.43,
+            "scaleX": 0.7974068071312805,
+            "scaleY": 0.8,
+            "width": 376,
+            "height": 233
+          }
+        },
+        "decorItem6": {
+          "additional_item_ps": {
+            "name": "object/beauty/object_beauty_16_animFoam",
+            "x": 331.59,
+            "y": -280.29,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 53,
+            "height": 145
+          }
+        },
+        "decorItem7": {
+          "additional_item_ps": {
+            "name": "object/beauty/object_beauty_13_animFoam",
+            "x": 295.8,
+            "y": -402.26,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 77,
+            "height": 105
+          }
+        },
+        "decorItem8": {
+          "additional_item_ps": {
+            "name": "object/beauty/object_beauty_18_animFoam",
+            "x": 528.64,
+            "y": -604.26,
+            "scaleX": 0.6869236583522299,
+            "scaleY": 0.6869236583522299,
+            "width": 50,
+            "height": 50
+          }
+        },
+        "decorItem9": {
+          "additional_item_ps": {
+            "name": "env/bathroom/env_ambry_11_animFoam",
+            "x": 2398.79,
+            "y": -526.85,
+            "scaleX": 0.8,
+            "scaleY": 0.7988377723970945,
+            "width": 439,
+            "height": 756
+          }
+        },
+        "decorItem10": {
+          "additional_item_ps": {
+            "name": "object/towels/object_towel_5_animFeatherDuster",
+            "x": 2077.85,
+            "y": -647.82,
+            "scaleX": 0.6498529411764705,
+            "scaleY": 0.6498529411764705,
+            "width": 102,
+            "height": 39
+          }
+        },
+        "decorItem11": {
+          "additional_item_ps": {
+            "name": "object/beauty/object_beauty_8_animFoam",
+            "x": 2227.19,
+            "y": -785.77,
+            "scaleX": 0.43276476101218375,
+            "scaleY": 0.43276476101218375,
+            "width": 53,
+            "height": 111
+          }
+        },
+        "decorItem12": {
+          "additional_item_ps": {
+            "name": "object/beauty/object_glass_1_animFoam",
+            "x": 2212.08,
+            "y": -630.28,
+            "scaleX": 0.4585396039603961,
+            "scaleY": 0.4585396039603961,
+            "width": 60,
+            "height": 144
+          }
+        },
+        "decorItem13": {
+          "additional_item_ps": {
+            "name": "env/bathroom/env_showercurtain_1_animFoam",
+            "x": 1335.79,
+            "y": -470.61,
+            "scaleX": 0.7996133397776705,
+            "scaleY": 0.8,
+            "width": 941,
+            "height": 907
+          }
+        },
+        "decorItem14": {
+          "additional_item_ps": {
+            "name": "env/bathroom/env_washbasin_3_animFoam",
+            "x": 700.24,
+            "y": -581.44,
+            "width": 375,
+            "height": 118,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem15": {
+          "additional_item_ps": {
+            "name": "object/beauty/object_bag_1_animFoam",
+            "x": 1058.42,
+            "y": -771.93,
+            "scaleX": 0.6159408381265408,
+            "scaleY": 0.6159408381265408,
+            "width": 91,
+            "height": 96
+          }
+        },
+        "decorItem16": {
+          "additional_item_ps": {
+            "name": "object/beauty/object_beauty_15_animFoam",
+            "x": 860.56,
+            "y": -578.56,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 38,
+            "height": 102
+          }
+        },
+        "decorItem17": {
+          "additional_item_ps": {
+            "name": "object/beauty/object_shelf_1_animFoam",
+            "x": 1750.53,
+            "y": -418.1,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 191,
+            "height": 211
+          }
+        },
+        "decorItem18": {
+          "additional_item_ps": {
+            "name": "object/towels/object_towel_17_animFeatherDuster",
+            "x": 1947.36,
+            "y": -648.94,
+            "scaleX": 0.6183486238532109,
+            "scaleY": 0.6183486238532109,
+            "width": 120,
+            "height": 40
+          }
+        },
+        "decorItem19": {
+          "additional_item_ps": {
+            "name": "object/towels/object_towel_28_animFeatherDuster",
+            "color": "d1d3f1ff",
+            "x": 1983.21,
+            "y": -837.8,
+            "scaleX": 0.6646121702794463,
+            "scaleY": 0.6646121702794463,
+            "width": 213,
+            "height": 55
+          }
+        },
+        "decorItem20": {
+          "additional_item_ps": {
+            "name": "object/flowers/object_flower_31_animLeaves",
+            "x": 2144.66,
+            "y": -532.62,
+            "scaleX": 0.6135200000000001,
+            "scaleY": 0.6135200000000001,
+            "width": 62,
+            "height": 426
+          }
+        },
+        "decorItem21": {
+          "additional_item_ps": {
+            "name": "object/flowers/object_flower_33_animLeaves",
+            "x": 942.24,
+            "y": -781.6,
+            "scaleX": 0.42001111728738194,
+            "scaleY": 0.42001111728738194,
+            "width": 133,
+            "height": 331
+          }
+        },
+        "hogItem1": {
+          "hogItem_ps": {
+            "name": "object/cloth/object_cloth_6_animFlash",
+            "x": 1703.51,
+            "y": -192.48,
+            "width": 125,
+            "height": 160,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem2": {
+          "hogItem_ps": {
+            "name": "object/towels/object_towel_22_animFeatherDuster",
+            "color": "c1bdbdff",
+            "x": 1691.89,
+            "y": -806.09,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 72,
+            "height": 65
+          }
+        },
+        "hogItem3": {
+          "hogItem_ps": {
+            "name": "object/towels/object_towel_14_animFeatherDuster",
+            "x": 2310.07,
+            "y": -198.26,
+            "scaleX": -0.8547535622518104,
+            "scaleY": 0.8,
+            "width": 126,
+            "height": 74
+          }
+        },
+        "hogItem4": {
+          "hogItem_ps": {
+            "name": "object/beauty/object_beauty_10_animFoam",
+            "x": 435.14,
+            "y": -281.73,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 43,
+            "height": 137
+          }
+        },
+        "hogItem5": {
+          "hogItem_ps": {
+            "name": "object/beauty/object_beauty_7_animFoam",
+            "x": 242.04,
+            "y": -294.39,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 74,
+            "height": 107
+          }
+        },
+        "hogItem6": {
+          "hogItem_ps": {
+            "name": "object/towels/object_towel_24_animFeatherDuster",
+            "color": "f9ceceff",
+            "x": 463.57,
+            "y": -572.95,
+            "scaleX": 0.4122091782283885,
+            "scaleY": 0.527982924226254,
+            "width": 144,
+            "height": 181
+          }
+        },
+        "hogItem7": {
+          "hogItem_ps": {
+            "name": "object/towels/object_towel_9_animFeatherDuster",
+            "x": 1324.15,
+            "y": -626.57,
+            "scaleX": 0.7337975708502025,
+            "scaleY": 0.7337975708502025,
+            "width": 115,
+            "height": 58
+          }
+        },
+        "hogItem8": {
+          "hogItem_ps": {
+            "name": "object/beauty/object_beauty_2_animFoam",
+            "x": 601.89,
+            "y": -556.52,
+            "scaleX": -0.8871361502347419,
+            "scaleY": 0.8,
+            "width": 36,
+            "height": 76
+          }
+        },
+        "hogItem9": {
+          "hogItem_ps": {
+            "name": "object/beauty/object_sponge_1_animFoam",
+            "x": 1717.66,
+            "y": -586.81,
+            "scaleX": 0.5427587239778344,
+            "scaleY": 0.5427587239778344,
+            "width": 83,
+            "height": 123
+          }
+        },
+        "hogItem10": {
+          "hogItem_ps": {
+            "name": "object/beauty/object_beauty_12_animFoam",
+            "x": 2429.52,
+            "y": -188.1,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 58,
+            "height": 100
+          }
+        },
+        "hogItem11": {
+          "hogItem_ps": {
+            "name": "object/beauty/object_beauty_20_animFoam",
+            "x": 428.04,
+            "y": -486.8,
+            "width": 63,
+            "height": 57,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem12": {
+          "hogItem_ps": {
+            "name": "object/beauty/object_beauty_5_animFoam",
+            "x": 885.08,
+            "y": -584.99,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 28,
+            "height": 85
+          }
+        }
+      }
+    },
+    {
+      "name": "mode1/skin_mode1_v4",
+      "attachments": {
+        "decorItem1": {
+          "additional_item_ps": {
+            "name": "env/bathroom/env_bath_2_animFoam",
+            "x": 1276.74,
+            "y": -656.21,
+            "scaleX": 0.7984819734345352,
+            "scaleY": 0.8,
+            "width": 784,
+            "height": 435
+          }
+        },
+        "decorItem2": {
+          "additional_item_ps": {
+            "name": "env/bathroom/env_ambry_8_animFoam",
+            "x": 693.82,
+            "y": -728.53,
+            "scaleX": 0.8,
+            "scaleY": 0.7991744066047471,
+            "width": 668,
+            "height": 276
+          }
+        },
+        "decorItem3": {
+          "additional_item_ps": {
+            "name": "env/bathroom/env_toilet_5_animFoam",
+            "x": 250.3,
+            "y": -701.21,
+            "scaleX": 0.8,
+            "scaleY": 0.7985494106980962,
+            "width": 459,
+            "height": 406
+          }
+        },
+        "decorItem4": {
+          "additional_item_ps": {
+            "name": "env/mirrors/env_mirror_6",
+            "x": 677.75,
+            "y": -352.5,
+            "scaleX": 0.8,
+            "scaleY": 0.7979013641133264,
+            "width": 464,
+            "height": 355
+          }
+        },
+        "decorItem5": {
+          "additional_item_ps": {
+            "name": "env/bathroom/env_ambry_6_animFoam",
+            "x": 345.91,
+            "y": -428.43,
+            "scaleX": 0.7974068071312805,
+            "scaleY": 0.8,
+            "width": 376,
+            "height": 233
+          }
+        },
+        "decorItem6": {
+          "additional_item_ps": {
+            "name": "object/beauty/object_beauty_16_animFoam",
+            "x": 331.59,
+            "y": -280.29,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 53,
+            "height": 145
+          }
+        },
+        "decorItem7": {
+          "additional_item_ps": {
+            "name": "object/beauty/object_beauty_13_animFoam",
+            "x": 295.8,
+            "y": -419.31,
+            "scaleX": 0.4216181229773463,
+            "scaleY": 0.4216181229773463,
+            "width": 77,
+            "height": 105
+          }
+        },
+        "decorItem8": {
+          "additional_item_ps": {
+            "name": "object/beauty/object_beauty_18_animFoam",
+            "x": 519.62,
+            "y": -606.01,
+            "scaleX": 0.65427059712774,
+            "scaleY": 0.65427059712774,
+            "width": 50,
+            "height": 50
+          }
+        },
+        "decorItem9": {
+          "additional_item_ps": {
+            "name": "env/bathroom/env_ambry_11_animFoam",
+            "x": 2398.79,
+            "y": -526.85,
+            "scaleX": 0.8,
+            "scaleY": 0.7988377723970945,
+            "width": 439,
+            "height": 756
+          }
+        },
+        "decorItem10": {
+          "additional_item_ps": {
+            "name": "object/beauty/object_beauty_5_animFoam",
+            "x": 885.08,
+            "y": -584.99,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 28,
+            "height": 85
+          }
+        },
+        "decorItem11": {
+          "additional_item_ps": {
+            "name": "object/beauty/object_beauty_8_animFoam",
+            "x": 2214.79,
+            "y": -780,
+            "scaleX": 0.46245548266166825,
+            "scaleY": 0.46245548266166825,
+            "width": 53,
+            "height": 111
+          }
+        },
+        "decorItem12": {
+          "additional_item_ps": {
+            "name": "object/beauty/object_glass_1_animFoam",
+            "x": 2221.96,
+            "y": -630.4,
+            "scaleX": 0.4699257425742575,
+            "scaleY": 0.4699257425742575,
+            "width": 60,
+            "height": 144
+          }
+        },
+        "decorItem13": {
+          "additional_item_ps": {
+            "name": "env/bathroom/env_showercurtain_1_animFoam",
+            "x": 1335.79,
+            "y": -470.61,
+            "scaleX": 0.7996133397776705,
+            "scaleY": 0.8,
+            "width": 941,
+            "height": 907
+          }
+        },
+        "decorItem14": {
+          "additional_item_ps": {
+            "name": "env/bathroom/env_washbasin_3_animFoam",
+            "x": 700.24,
+            "y": -581.44,
+            "width": 375,
+            "height": 118,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem15": {
+          "additional_item_ps": {
+            "name": "object/towels/object_towel_24_animFeatherDuster",
+            "color": "f9ceceff",
+            "x": 463.57,
+            "y": -572.95,
+            "scaleX": 0.4122091782283885,
+            "scaleY": 0.527982924226254,
+            "width": 144,
+            "height": 181
+          }
+        },
+        "decorItem16": {
+          "additional_item_ps": {
+            "name": "object/beauty/object_beauty_15_animFoam",
+            "x": 860.56,
+            "y": -578.56,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 38,
+            "height": 102
+          }
+        },
+        "decorItem17": {
+          "additional_item_ps": {
+            "name": "object/beauty/object_shelf_1_animFoam",
+            "x": 1750.53,
+            "y": -418.1,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 191,
+            "height": 211
+          }
+        },
+        "decorItem18": {
+          "additional_item_ps": {
+            "name": "object/towels/object_towel_17_animFeatherDuster",
+            "x": 2112.76,
+            "y": -651.27,
+            "scaleX": 0.5679510703363914,
+            "scaleY": 0.5679510703363914,
+            "width": 120,
+            "height": 40
+          }
+        },
+        "decorItem19": {
+          "additional_item_ps": {
+            "name": "object/towels/object_towel_28_animFeatherDuster",
+            "color": "d1d3f1ff",
+            "x": 1845.71,
+            "y": -839.43,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 213,
+            "height": 55
+          }
+        },
+        "decorItem20": {
+          "additional_item_ps": {
+            "name": "object/flowers/object_flower_31_animLeaves",
+            "x": 2176.35,
+            "y": -572.53,
+            "scaleX": 0.42808,
+            "scaleY": 0.42808,
+            "width": 62,
+            "height": 426
+          }
+        },
+        "decorItem21": {
+          "additional_item_ps": {
+            "name": "object/beauty/object_beauty_10_animFoam",
+            "x": 435.14,
+            "y": -281.73,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 43,
+            "height": 137
+          }
+        },
+        "hogItem1": {
+          "hogItem_ps": {
+            "name": "object/cloth/object_cloth_6_animFlash",
+            "x": 1700.57,
+            "y": -189.39,
+            "width": 125,
+            "height": 160,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem2": {
+          "hogItem_ps": {
+            "name": "object/towels/object_towel_22_animFeatherDuster",
+            "color": "c1bdbdff",
+            "x": 2122.79,
+            "y": -808.8,
+            "scaleX": 0.6678695350451076,
+            "scaleY": 0.6678695350451076,
+            "width": 72,
+            "height": 65
+          }
+        },
+        "hogItem3": {
+          "hogItem_ps": {
+            "name": "object/towels/object_towel_14_animFeatherDuster",
+            "x": 1312.88,
+            "y": -610.51,
+            "scaleX": -0.5996729736042982,
+            "scaleY": 0.5344545666900257,
+            "width": 126,
+            "height": 74
+          }
+        },
+        "hogItem4": {
+          "hogItem_ps": {
+            "name": "object/flowers/object_flower_33_animLeaves",
+            "x": 1639.97,
+            "y": -772.67,
+            "scaleX": 0.3784324624791551,
+            "scaleY": 0.3784324624791551,
+            "width": 133,
+            "height": 331
+          }
+        },
+        "hogItem5": {
+          "hogItem_ps": {
+            "name": "object/beauty/object_beauty_7_animFoam",
+            "x": 157.25,
+            "y": -843.41,
+            "scaleX": 0.37338736913205,
+            "scaleY": 0.37338736913205,
+            "width": 74,
+            "height": 107
+          }
+        },
+        "hogItem6": {
+          "hogItem_ps": {
+            "name": "object/beauty/object_bag_1_animFoam",
+            "x": 1062.37,
+            "y": -762.9,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 91,
+            "height": 96
+          }
+        },
+        "hogItem7": {
+          "hogItem_ps": {
+            "name": "object/towels/object_towel_9_animFeatherDuster",
+            "x": 2451.18,
+            "y": -226.43,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 115,
+            "height": 58
+          }
+        },
+        "hogItem8": {
+          "hogItem_ps": {
+            "name": "object/beauty/object_beauty_2_animFoam",
+            "x": 601.89,
+            "y": -556.52,
+            "scaleX": -0.8871361502347419,
+            "scaleY": 0.8,
+            "width": 36,
+            "height": 76
+          }
+        },
+        "hogItem9": {
+          "hogItem_ps": {
+            "name": "object/beauty/object_sponge_1_animFoam",
+            "x": 1717.66,
+            "y": -586.81,
+            "scaleX": 0.7999999999999999,
+            "scaleY": 0.7999999999999999,
+            "width": 83,
+            "height": 123
+          }
+        },
+        "hogItem10": {
+          "hogItem_ps": {
+            "name": "object/beauty/object_beauty_12_animFoam",
+            "x": 2276.6,
+            "y": -799.8,
+            "scaleX": 0.5326191751472952,
+            "scaleY": 0.5326191751472952,
+            "width": 58,
+            "height": 100
+          }
+        },
+        "hogItem11": {
+          "hogItem_ps": {
+            "name": "object/beauty/object_beauty_20_animFoam",
+            "x": 384.01,
+            "y": -313.62,
+            "width": 63,
+            "height": 57,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem12": {
+          "hogItem_ps": {
+            "name": "object/towels/object_towel_5_animFeatherDuster",
+            "x": 1992.02,
+            "y": -647.92,
+            "scaleX": 0.7254411764705883,
+            "scaleY": 0.7254411764705883,
+            "width": 102,
+            "height": 39
+          }
+        }
+      }
+    },
+    {
+      "name": "mode1/skin_mode1_v5",
+      "attachments": {
+        "decorItem1": {
+          "additional_item_ps": {
+            "name": "env/bathroom/env_bath_2_animFoam",
+            "x": 1276.74,
+            "y": -656.21,
+            "scaleX": 0.7984819734345352,
+            "scaleY": 0.8,
+            "width": 784,
+            "height": 435
+          }
+        },
+        "decorItem2": {
+          "additional_item_ps": {
+            "name": "env/bathroom/env_ambry_8_animFoam",
+            "x": 693.82,
+            "y": -728.53,
+            "scaleX": 0.8,
+            "scaleY": 0.7991744066047471,
+            "width": 668,
+            "height": 276
+          }
+        },
+        "decorItem3": {
+          "additional_item_ps": {
+            "name": "env/bathroom/env_toilet_5_animFoam",
+            "x": 250.3,
+            "y": -701.21,
+            "scaleX": 0.8,
+            "scaleY": 0.7985494106980962,
+            "width": 459,
+            "height": 406
+          }
+        },
+        "decorItem4": {
+          "additional_item_ps": {
+            "name": "env/mirrors/env_mirror_6",
+            "x": 677.75,
+            "y": -352.5,
+            "scaleX": 0.8,
+            "scaleY": 0.7979013641133264,
+            "width": 464,
+            "height": 355
+          }
+        },
+        "decorItem5": {
+          "additional_item_ps": {
+            "name": "env/bathroom/env_ambry_6_animFoam",
+            "x": 345.91,
+            "y": -428.43,
+            "scaleX": 0.7974068071312805,
+            "scaleY": 0.8,
+            "width": 376,
+            "height": 233
+          }
+        },
+        "decorItem6": {
+          "additional_item_ps": {
+            "name": "object/beauty/object_beauty_16_animFoam",
+            "x": 331.59,
+            "y": -280.29,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 53,
+            "height": 145
+          }
+        },
+        "decorItem7": {
+          "additional_item_ps": {
+            "name": "object/beauty/object_beauty_13_animFoam",
+            "x": 290.31,
+            "y": -416.38,
+            "scaleX": 0.4957928802588997,
+            "scaleY": 0.4957928802588997,
+            "width": 77,
+            "height": 105
+          }
+        },
+        "decorItem8": {
+          "additional_item_ps": {
+            "name": "object/beauty/object_beauty_2_animFoam",
+            "x": 601.89,
+            "y": -556.52,
+            "scaleX": -0.8871361502347419,
+            "scaleY": 0.8,
+            "width": 36,
+            "height": 76
+          }
+        },
+        "decorItem9": {
+          "additional_item_ps": {
+            "name": "env/bathroom/env_ambry_11_animFoam",
+            "x": 2398.79,
+            "y": -526.85,
+            "scaleX": 0.8,
+            "scaleY": 0.7988377723970945,
+            "width": 439,
+            "height": 756
+          }
+        },
+        "decorItem10": {
+          "additional_item_ps": {
+            "name": "object/beauty/object_beauty_5_animFoam",
+            "x": 297.83,
+            "y": -304.64,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 28,
+            "height": 85
+          }
+        },
+        "decorItem11": {
+          "additional_item_ps": {
+            "name": "object/beauty/object_beauty_8_animFoam",
+            "x": 2222.06,
+            "y": -785.63,
+            "scaleX": 0.4555576382380507,
+            "scaleY": 0.4555576382380507,
+            "width": 53,
+            "height": 111
+          }
+        },
+        "decorItem12": {
+          "additional_item_ps": {
+            "name": "object/beauty/object_sponge_1_animFoam",
+            "x": 1717.66,
+            "y": -586.81,
+            "scaleX": 0.655623783136139,
+            "scaleY": 0.655623783136139,
+            "width": 83,
+            "height": 123
+          }
+        },
+        "decorItem13": {
+          "additional_item_ps": {
+            "name": "env/bathroom/env_showercurtain_1_animFoam",
+            "x": 1335.79,
+            "y": -470.61,
+            "scaleX": 0.7996133397776705,
+            "scaleY": 0.8,
+            "width": 941,
+            "height": 907
+          }
+        },
+        "decorItem14": {
+          "additional_item_ps": {
+            "name": "env/bathroom/env_washbasin_3_animFoam",
+            "x": 700.24,
+            "y": -581.44,
+            "width": 375,
+            "height": 118,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem15": {
+          "additional_item_ps": {
+            "name": "object/towels/object_towel_24_animFeatherDuster",
+            "color": "f9ceceff",
+            "x": 463.57,
+            "y": -572.95,
+            "scaleX": 0.4122091782283885,
+            "scaleY": 0.527982924226254,
+            "width": 144,
+            "height": 181
+          }
+        },
+        "decorItem16": {
+          "additional_item_ps": {
+            "name": "object/beauty/object_beauty_15_animFoam",
+            "x": 557.37,
+            "y": -579.84,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 38,
+            "height": 102
+          }
+        },
+        "decorItem17": {
+          "additional_item_ps": {
+            "name": "object/beauty/object_shelf_1_animFoam",
+            "x": 1750.53,
+            "y": -418.1,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 191,
+            "height": 211
+          }
+        },
+        "decorItem18": {
+          "additional_item_ps": {
+            "name": "object/towels/object_towel_17_animFeatherDuster",
+            "x": 2073.29,
+            "y": -649.78,
+            "scaleX": 0.6298470948012233,
+            "scaleY": 0.6298470948012233,
+            "width": 120,
+            "height": 40
+          }
+        },
+        "decorItem19": {
+          "additional_item_ps": {
+            "name": "object/towels/object_towel_28_animFeatherDuster",
+            "color": "d1d3f1ff",
+            "x": 1845.71,
+            "y": -839.43,
+            "scaleX": 0.7346043353355968,
+            "scaleY": 0.7346043353355968,
+            "width": 213,
+            "height": 55
+          }
+        },
+        "decorItem20": {
+          "additional_item_ps": {
+            "name": "object/flowers/object_flower_31_animLeaves",
+            "x": 2198.46,
+            "y": -557.48,
+            "scaleX": 0.49960000000000004,
+            "scaleY": 0.49960000000000004,
+            "width": 62,
+            "height": 426
+          }
+        },
+        "decorItem21": {
+          "additional_item_ps": {
+            "name": "object/beauty/object_beauty_10_animFoam",
+            "x": 435.14,
+            "y": -281.73,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 43,
+            "height": 137
+          }
+        },
+        "hogItem1": {
+          "hogItem_ps": {
+            "name": "object/cloth/object_cloth_6_animFlash",
+            "x": 1707,
+            "y": -192.87,
+            "width": 125,
+            "height": 160,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem2": {
+          "hogItem_ps": {
+            "name": "object/towels/object_towel_22_animFeatherDuster",
+            "color": "c1bdbdff",
+            "x": 2122.79,
+            "y": -808.8,
+            "scaleX": 0.7267175572519083,
+            "scaleY": 0.7267175572519083,
+            "width": 72,
+            "height": 65
+          }
+        },
+        "hogItem3": {
+          "hogItem_ps": {
+            "name": "object/towels/object_towel_14_animFeatherDuster",
+            "x": 1314.87,
+            "y": -606.48,
+            "scaleX": -0.6155571128241066,
+            "scaleY": 0.5761270731137585,
+            "width": 126,
+            "height": 74
+          }
+        },
+        "hogItem4": {
+          "hogItem_ps": {
+            "name": "object/flowers/object_flower_33_animLeaves",
+            "x": 1643.22,
+            "y": -759.76,
+            "scaleX": 0.4672595886603669,
+            "scaleY": 0.4672595886603669,
+            "width": 133,
+            "height": 331
+          }
+        },
+        "hogItem5": {
+          "hogItem_ps": {
+            "name": "object/beauty/object_beauty_7_animFoam",
+            "x": 143.72,
+            "y": -833.09,
+            "scaleX": 0.5365754812563324,
+            "scaleY": 0.5365754812563324,
+            "width": 74,
+            "height": 107
+          }
+        },
+        "hogItem6": {
+          "hogItem_ps": {
+            "name": "object/beauty/object_bag_1_animFoam",
+            "x": 1062.37,
+            "y": -762.9,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 91,
+            "height": 96
+          }
+        },
+        "hogItem7": {
+          "hogItem_ps": {
+            "name": "object/towels/object_towel_9_animFeatherDuster",
+            "x": 2447.22,
+            "y": -227.06,
+            "scaleX": 0.7078866396761133,
+            "scaleY": 0.7078866396761133,
+            "width": 115,
+            "height": 58
+          }
+        },
+        "hogItem8": {
+          "hogItem_ps": {
+            "name": "object/beauty/object_beauty_18_animFoam",
+            "x": 521.61,
+            "y": -604.38,
+            "scaleX": 0.7375661375661376,
+            "scaleY": 0.7375661375661376,
+            "width": 50,
+            "height": 50
+          }
+        },
+        "hogItem9": {
+          "hogItem_ps": {
+            "name": "object/beauty/object_glass_1_animFoam",
+            "x": 1928.72,
+            "y": -625.03,
+            "scaleX": 0.4928217821782179,
+            "scaleY": 0.4928217821782179,
+            "width": 60,
+            "height": 144
+          }
+        },
+        "hogItem10": {
+          "hogItem_ps": {
+            "name": "object/beauty/object_beauty_12_animFoam",
+            "x": 2274.45,
+            "y": -804.32,
+            "scaleX": 0.4412069273344046,
+            "scaleY": 0.4412069273344046,
+            "width": 58,
+            "height": 100
+          }
+        },
+        "hogItem11": {
+          "hogItem_ps": {
+            "name": "object/beauty/object_beauty_20_animFoam",
+            "x": 384.01,
+            "y": -313.62,
+            "width": 63,
+            "height": 57,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem12": {
+          "hogItem_ps": {
+            "name": "object/towels/object_towel_5_animFeatherDuster",
+            "x": 895.83,
+            "y": -607.08,
+            "scaleX": 0.648235294117647,
+            "scaleY": 0.648235294117647,
+            "width": 102,
+            "height": 39
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "idle": {
+      "slots": {
+        "env/shadows/env_shadow_4": {
+          "rgba": [
+            {
+              "color": "ffffffff"
+            },
+            {
+              "time": 1.8667,
+              "color": "ffffff40"
+            },
+            {
+              "time": 3.9667,
+              "color": "ffffffff"
+            }
+          ]
+        },
+        "env/shadows/env_shadow_5": {
+          "rgba": [
+            {
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.2,
+              "color": "ffffff9a"
+            },
+            {
+              "time": 0.4333,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.6333,
+              "color": "ffffff9a"
+            },
+            {
+              "time": 0.8333,
+              "color": "ffffffff"
+            },
+            {
+              "time": 1.0333,
+              "color": "ffffff9a"
+            },
+            {
+              "time": 1.1333,
+              "color": "ffffffff"
+            },
+            {
+              "time": 1.3333,
+              "color": "ffffff9a"
+            },
+            {
+              "time": 1.4,
+              "color": "ffffffff"
+            },
+            {
+              "time": 1.6,
+              "color": "ffffff9a"
+            },
+            {
+              "time": 2.0667,
+              "color": "ffffffff"
+            },
+            {
+              "time": 2.2667,
+              "color": "ffffff9a"
+            },
+            {
+              "time": 2.4333,
+              "color": "ffffffff"
+            },
+            {
+              "time": 2.6333,
+              "color": "ffffff9a"
+            },
+            {
+              "time": 2.7667,
+              "color": "ffffffff"
+            },
+            {
+              "time": 2.9667,
+              "color": "ffffff9a"
+            },
+            {
+              "time": 3.1,
+              "color": "ffffffff"
+            },
+            {
+              "time": 3.3,
+              "color": "ffffff9a"
+            },
+            {
+              "time": 3.4,
+              "color": "ffffffff"
+            },
+            {
+              "time": 3.6,
+              "color": "ffffff9a"
+            },
+            {
+              "time": 3.7333,
+              "color": "ffffffff"
+            },
+            {
+              "time": 3.9333,
+              "color": "ffffff9a"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

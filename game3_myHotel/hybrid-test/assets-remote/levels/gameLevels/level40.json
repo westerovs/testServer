@@ -1,0 +1,2486 @@
+{
+  "skeleton": {
+    "hash": "ik1kVQORLhA",
+    "spine": "4.1.24",
+    "y": -1080,
+    "width": 2560,
+    "height": 1080,
+    "images": "./images/",
+    "audio": ""
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "backgrounds",
+      "parent": "root"
+    },
+    {
+      "name": "decorItems",
+      "parent": "root"
+    },
+    {
+      "name": "hogItems",
+      "parent": "root"
+    },
+    {
+      "name": "idle",
+      "parent": "root"
+    },
+    {
+      "name": "object/birds/object_bird_1",
+      "parent": "idle",
+      "x": 2136.21,
+      "y": -388.69
+    },
+    {
+      "name": "object/birds/object_bird_17",
+      "parent": "idle",
+      "x": 1511.94,
+      "y": -204.06
+    },
+    {
+      "name": "object/birds/object_bird_48",
+      "parent": "idle",
+      "x": 949.97,
+      "y": -416.22
+    }
+  ],
+  "slots": [
+    {
+      "name": "background_lv40",
+      "bone": "backgrounds"
+    },
+    {
+      "name": "hogItem1",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem2",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "decorItem1",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem2",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "hogItem3",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem4",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "decorItem3",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem4",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem5",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem6",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem7",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem8",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem9",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem10",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem11",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem12",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem13",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem14",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem15",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "hogItem5",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem6",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem7",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem8",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem9",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem10",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem11",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem12",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem13",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem14",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem15",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem16",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem17",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem18",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem19",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem20",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "object/birds/object_bird_1",
+      "bone": "object/birds/object_bird_1",
+      "attachment": "object/birds/object_bird_1"
+    },
+    {
+      "name": "object/birds/object_bird_17",
+      "bone": "object/birds/object_bird_17",
+      "attachment": "object/birds/object_bird_17"
+    },
+    {
+      "name": "object/birds/object_bird_48",
+      "bone": "object/birds/object_bird_48",
+      "attachment": "object/birds/object_bird_48"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "object/birds/object_bird_1": {
+          "object/birds/object_bird_1": {
+            "y": 59.41,
+            "scaleX": 0.5423,
+            "scaleY": 0.5423,
+            "width": 100,
+            "height": 84
+          }
+        },
+        "object/birds/object_bird_17": {
+          "object/birds/object_bird_17": {
+            "y": 59.41,
+            "scaleX": 0.5358,
+            "scaleY": 0.5358,
+            "width": 100,
+            "height": 83
+          }
+        },
+        "object/birds/object_bird_48": {
+          "object/birds/object_bird_48": {
+            "y": 59.41,
+            "scaleX": -0.9837,
+            "width": 80,
+            "height": 69
+          }
+        }
+      }
+    },
+    {
+      "name": "mode1/skin_mode1_v1",
+      "attachments": {
+        "decorItem1": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhousefurniture_4_animLeaves",
+            "x": 1052.26,
+            "y": -684.3,
+            "scaleX": -0.7157571772956389,
+            "scaleY": 0.719000657462196,
+            "width": 456,
+            "height": 344
+          }
+        },
+        "decorItem2": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhousefurniture_2_animLeaves",
+            "x": 1950.93,
+            "y": -676.99,
+            "width": 596,
+            "height": 436,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem3": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhousefurniture_3_animLeaves",
+            "x": 2347.86,
+            "y": -544.35,
+            "scaleX": -0.6514598218223517,
+            "scaleY": 0.8,
+            "width": 589,
+            "height": 753
+          }
+        },
+        "decorItem4": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhousefurniture_5_animLeaves",
+            "x": 506.1,
+            "y": -765.07,
+            "scaleX": 0.788153448618565,
+            "scaleY": 0.788153448618565,
+            "width": 1257,
+            "height": 295
+          }
+        },
+        "decorItem5": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhousefurniture_1_animLeaves",
+            "x": 1415.46,
+            "y": -843.98,
+            "width": 698,
+            "height": 260,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem6": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhouse_23_animLeaves",
+            "x": 1405.97,
+            "y": -575.3,
+            "width": 391,
+            "height": 423,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem7": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhouse_28_animLeaves",
+            "type": "mesh",
+            "uvs": [
+              1,
+              0.85851,
+              0,
+              0.85851,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              1,
+              2,
+              3,
+              1,
+              3,
+              0
+            ],
+            "vertices": [
+              1707.85,
+              -840.52,
+              1543.85,
+              -840.52,
+              1543.85,
+              -631.04,
+              1707.85,
+              -631.04
+            ],
+            "hull": 4,
+            "edges": [
+              0,
+              6,
+              0,
+              2,
+              2,
+              4,
+              4,
+              6
+            ],
+            "width": 205,
+            "height": 305,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem8": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhouse_26_animLeaves",
+            "x": 271.09,
+            "y": -851.94,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 202,
+            "height": 122
+          }
+        },
+        "decorItem9": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhouse_20_animLeaves",
+            "x": 1314.77,
+            "y": -205.82,
+            "width": 200,
+            "height": 496,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem10": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhouse_19_animLeaves",
+            "x": 949.58,
+            "y": -813.45,
+            "scaleX": 0.8000000000000002,
+            "scaleY": 0.8000000000000002,
+            "width": 239,
+            "height": 198
+          }
+        },
+        "decorItem11": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhouse_14_animLeaves",
+            "type": "mesh",
+            "uvs": [
+              0.95977,
+              0.9125,
+              0,
+              1,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              0,
+              2,
+              3,
+              1,
+              2,
+              0
+            ],
+            "vertices": [
+              2404.32,
+              -339.07,
+              2304.54,
+              -349.53,
+              2304.54,
+              -230.04,
+              2408.51,
+              -230.04
+            ],
+            "hull": 4,
+            "edges": [
+              0,
+              6,
+              0,
+              2,
+              2,
+              4,
+              4,
+              6
+            ],
+            "width": 251,
+            "height": 288,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem12": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhouse_12_animLeaves",
+            "x": 2371.13,
+            "y": -444.23,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 107,
+            "height": 192
+          }
+        },
+        "decorItem13": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhouse_10_animLeaves",
+            "x": 2292.57,
+            "y": -459.84,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 92,
+            "height": 165
+          }
+        },
+        "decorItem14": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhouse_7_animLeaves",
+            "x": 642.01,
+            "y": -820.43,
+            "scaleX": 0.8000000000000002,
+            "scaleY": 0.8000000000000002,
+            "width": 72,
+            "height": 130
+          }
+        },
+        "decorItem15": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhouse_4_animLeaves",
+            "x": 195.32,
+            "y": -467.39,
+            "scaleX": -0.8166456494325346,
+            "scaleY": 0.7999999999999999,
+            "width": 475,
+            "height": 481
+          }
+        },
+        "hogItem1": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_11_animLeaves",
+            "x": 2460.41,
+            "y": -799.91,
+            "width": 123,
+            "height": 123,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem2": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_29_animLeaves",
+            "x": 831.12,
+            "y": -592.77,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 101,
+            "height": 182
+          }
+        },
+        "hogItem3": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_27_animLeaves",
+            "x": 462.31,
+            "y": -564.07,
+            "scaleX": 0.6496980745129315,
+            "scaleY": 0.6496980745129315,
+            "width": 219,
+            "height": 290
+          }
+        },
+        "hogItem4": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_25_animLeaves",
+            "x": 907.89,
+            "y": -498.79,
+            "scaleX": 0.5199662067023374,
+            "scaleY": 0.5199662067023374,
+            "width": 133,
+            "height": 234
+          }
+        },
+        "hogItem5": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_24_animLeaves",
+            "x": 1029.48,
+            "y": -544.17,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 176,
+            "height": 55
+          }
+        },
+        "hogItem6": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_22_animLeaves",
+            "x": 512.04,
+            "y": -860.07,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 108,
+            "height": 91
+          }
+        },
+        "hogItem7": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_18_animLeaves",
+            "x": 691.06,
+            "y": -560.21,
+            "width": 243,
+            "height": 258,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem8": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_17_animLeaves",
+            "x": 1603.14,
+            "y": -888.38,
+            "width": 117,
+            "height": 123,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem9": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_16_animLeaves",
+            "type": "mesh",
+            "uvs": [
+              0.99999,
+              0.89591,
+              0,
+              1,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              0,
+              2,
+              3,
+              1,
+              2,
+              0
+            ],
+            "vertices": [
+              2472.06,
+              -325.33,
+              2349.15,
+              -339.97,
+              2349.15,
+              -199.33,
+              2472.06,
+              -199.33
+            ],
+            "hull": 4,
+            "edges": [
+              0,
+              6,
+              0,
+              2,
+              2,
+              4,
+              4,
+              6
+            ],
+            "width": 260,
+            "height": 297,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem10": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_15_animLeaves",
+            "x": 2320.64,
+            "y": -678.5,
+            "scaleX": -0.6374546469439017,
+            "scaleY": 0.6475020932179738,
+            "width": 89,
+            "height": 69
+          }
+        },
+        "hogItem11": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_13_animLeaves",
+            "x": 1162.05,
+            "y": -460.09,
+            "scaleX": 0.79151797258857,
+            "scaleY": 0.79151797258857,
+            "width": 145,
+            "height": 263
+          }
+        },
+        "hogItem12": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_30_animLeaves",
+            "type": "mesh",
+            "uvs": [
+              0.90893,
+              0.77548,
+              0.04462,
+              0.70785,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              1,
+              2,
+              3,
+              0,
+              1,
+              3
+            ],
+            "vertices": [
+              1288,
+              -851.95,
+              1144.18,
+              -852.31,
+              1111.23,
+              -660.32,
+              1274.79,
+              -638.58
+            ],
+            "hull": 4,
+            "edges": [
+              0,
+              6,
+              0,
+              2,
+              2,
+              4,
+              4,
+              6
+            ],
+            "width": 206,
+            "height": 343,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem13": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_8_animLeaves",
+            "x": 1685.35,
+            "y": -779.58,
+            "scaleX": 0.7999999999999999,
+            "scaleY": 0.7999999999999999,
+            "width": 73,
+            "height": 133
+          }
+        },
+        "hogItem14": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_5_animLeaves",
+            "x": 1947.21,
+            "y": -600.04,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 63,
+            "height": 47
+          }
+        },
+        "hogItem15": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_2_animLeaves",
+            "x": 1730.81,
+            "y": -330.45,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 106,
+            "height": 130
+          }
+        },
+        "hogItem16": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_6_animLeaves",
+            "x": 543.71,
+            "y": -599.58,
+            "scaleX": 0.7921959679167571,
+            "scaleY": 0.7921959679167571,
+            "width": 115,
+            "height": 150
+          }
+        },
+        "hogItem17": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_3_animLeaves",
+            "x": 1133.3,
+            "y": -910.06,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 75,
+            "height": 83
+          }
+        },
+        "hogItem18": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_21_animLeaves",
+            "x": 1983.02,
+            "y": -787.65,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 148,
+            "height": 154
+          }
+        },
+        "hogItem19": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_9_animLeaves",
+            "x": 1448.14,
+            "y": -784.43,
+            "width": 268,
+            "height": 370,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem20": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_1_animLeaves",
+            "x": 2238.97,
+            "y": -795.53,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 108,
+            "height": 106
+          }
+        }
+      }
+    },
+    {
+      "name": "mode1/skin_mode1_v2",
+      "attachments": {
+        "decorItem1": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhousefurniture_4_animLeaves",
+            "x": 1052.26,
+            "y": -695.01,
+            "scaleX": -0.7785229015998247,
+            "scaleY": 0.7821170282708745,
+            "width": 456,
+            "height": 344
+          }
+        },
+        "decorItem2": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhousefurniture_2_animLeaves",
+            "x": 1950.93,
+            "y": -677.29,
+            "width": 596,
+            "height": 436,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem3": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhousefurniture_3_animLeaves",
+            "x": 2347.86,
+            "y": -544.65,
+            "scaleX": -0.6514598218223517,
+            "scaleY": 0.8,
+            "width": 589,
+            "height": 753
+          }
+        },
+        "decorItem4": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhousefurniture_5_animLeaves",
+            "x": 506.1,
+            "y": -765.37,
+            "scaleX": 0.7638242894056848,
+            "scaleY": 0.7638242894056848,
+            "width": 1257,
+            "height": 295
+          }
+        },
+        "decorItem5": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhousefurniture_1_animLeaves",
+            "x": 1415.46,
+            "y": -844.28,
+            "width": 698,
+            "height": 260,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem6": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhouse_23_animLeaves",
+            "x": 1405.97,
+            "y": -575.6,
+            "width": 391,
+            "height": 423,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem7": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhouse_28_animLeaves",
+            "type": "linkedmesh",
+            "skin": "mode1/skin_mode1_v1",
+            "parent": "additional_item_ps",
+            "width": 164,
+            "height": 244
+          }
+        },
+        "decorItem8": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhouse_26_animLeaves",
+            "x": 271.09,
+            "y": -855.62,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 202,
+            "height": 122
+          }
+        },
+        "decorItem9": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhouse_20_animLeaves",
+            "x": 1314.77,
+            "y": -206.12,
+            "width": 200,
+            "height": 496,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem10": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhouse_19_animLeaves",
+            "x": 949.58,
+            "y": -813.75,
+            "scaleX": 0.8000000000000002,
+            "scaleY": 0.8000000000000002,
+            "width": 239,
+            "height": 198
+          }
+        },
+        "decorItem11": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhouse_14_animLeaves",
+            "type": "linkedmesh",
+            "skin": "mode1/skin_mode1_v1",
+            "parent": "additional_item_ps",
+            "width": 201,
+            "height": 231
+          }
+        },
+        "decorItem12": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhouse_12_animLeaves",
+            "x": 2371.13,
+            "y": -444.52,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 107,
+            "height": 192
+          }
+        },
+        "decorItem13": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhouse_10_animLeaves",
+            "x": 2292.57,
+            "y": -460.14,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 92,
+            "height": 165
+          }
+        },
+        "decorItem14": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhouse_7_animLeaves",
+            "x": 321.12,
+            "y": -602.79,
+            "scaleX": 0.8000000000000002,
+            "scaleY": 0.8000000000000002,
+            "width": 72,
+            "height": 130
+          }
+        },
+        "decorItem15": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhouse_4_animLeaves",
+            "x": 584.18,
+            "y": -511.1,
+            "scaleX": -0.6817150063051702,
+            "scaleY": 0.667843631778058,
+            "width": 475,
+            "height": 481
+          }
+        },
+        "hogItem1": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_11_animLeaves",
+            "x": 957.18,
+            "y": -513.16,
+            "width": 123,
+            "height": 123,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem2": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_29_animLeaves",
+            "x": 2478.06,
+            "y": -779.1,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 101,
+            "height": 182
+          }
+        },
+        "hogItem3": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_27_animLeaves",
+            "x": 214.49,
+            "y": -565.3,
+            "scaleX": 0.6229007633587786,
+            "scaleY": 0.6229007633587786,
+            "width": 219,
+            "height": 290
+          }
+        },
+        "hogItem4": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_25_animLeaves",
+            "x": 1912.11,
+            "y": -554.2,
+            "scaleX": 0.5512813292030414,
+            "scaleY": 0.5512813292030414,
+            "width": 133,
+            "height": 234
+          }
+        },
+        "hogItem5": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_24_animLeaves",
+            "x": 1040.29,
+            "y": -890.01,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 176,
+            "height": 55
+          }
+        },
+        "hogItem6": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_22_animLeaves",
+            "x": 605.77,
+            "y": -633.02,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 108,
+            "height": 91
+          }
+        },
+        "hogItem7": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_18_animLeaves",
+            "x": 1388.65,
+            "y": -815.9,
+            "width": 243,
+            "height": 258,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem8": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_17_animLeaves",
+            "x": 1510.72,
+            "y": -687.52,
+            "width": 117,
+            "height": 123,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem9": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_16_animLeaves",
+            "type": "linkedmesh",
+            "skin": "mode1/skin_mode1_v1",
+            "parent": "hogItem_ps",
+            "width": 208,
+            "height": 238
+          }
+        },
+        "hogItem10": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_15_animLeaves",
+            "x": 466.17,
+            "y": -637.75,
+            "scaleX": -0.7263187273234719,
+            "scaleY": 0.7377058331007537,
+            "width": 89,
+            "height": 69
+          }
+        },
+        "hogItem11": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_13_animLeaves",
+            "x": 500.69,
+            "y": -781.85,
+            "scaleX": 0.7169381949831912,
+            "scaleY": 0.7169381949831912,
+            "width": 145,
+            "height": 263
+          }
+        },
+        "hogItem12": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_30_animLeaves",
+            "type": "linkedmesh",
+            "skin": "mode1/skin_mode1_v1",
+            "parent": "hogItem_ps",
+            "width": 165,
+            "height": 275
+          }
+        },
+        "hogItem13": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_8_animLeaves",
+            "x": 2325.74,
+            "y": -650.07,
+            "scaleX": 0.7999999999999999,
+            "scaleY": 0.7999999999999999,
+            "width": 73,
+            "height": 133
+          }
+        },
+        "hogItem14": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_5_animLeaves",
+            "x": 1668.89,
+            "y": -900.74,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 63,
+            "height": 47
+          }
+        },
+        "hogItem15": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_2_animLeaves",
+            "x": 1985.48,
+            "y": -806.72,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 106,
+            "height": 130
+          }
+        },
+        "hogItem16": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_6_animLeaves",
+            "x": 1140.42,
+            "y": -503.89,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 115,
+            "height": 150
+          }
+        },
+        "hogItem17": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_3_animLeaves",
+            "x": 801.13,
+            "y": -840.68,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 75,
+            "height": 83
+          }
+        },
+        "hogItem18": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_21_animLeaves",
+            "x": 2237.85,
+            "y": -635.9,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 148,
+            "height": 154
+          }
+        },
+        "hogItem19": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_9_animLeaves",
+            "x": 811.13,
+            "y": -527.07,
+            "width": 268,
+            "height": 370,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem20": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_1_animLeaves",
+            "x": 674.98,
+            "y": -850.33,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 108,
+            "height": 106
+          }
+        }
+      }
+    },
+    {
+      "name": "mode1/skin_mode1_v3",
+      "attachments": {
+        "decorItem1": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhousefurniture_4_animLeaves",
+            "x": 1052.26,
+            "y": -696.81,
+            "scaleX": -0.7950909489371029,
+            "scaleY": 0.7987727372342758,
+            "width": 456,
+            "height": 344
+          }
+        },
+        "decorItem2": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhousefurniture_2_animLeaves",
+            "x": 1950.93,
+            "y": -676.25,
+            "width": 596,
+            "height": 436,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem3": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhousefurniture_3_animLeaves",
+            "x": 2347.86,
+            "y": -543.62,
+            "scaleX": -0.6514598218223517,
+            "scaleY": 0.8,
+            "width": 589,
+            "height": 753
+          }
+        },
+        "decorItem4": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhousefurniture_5_animLeaves",
+            "x": 506.1,
+            "y": -764.34,
+            "scaleX": 0.7893460544623336,
+            "scaleY": 0.7893460544623336,
+            "width": 1257,
+            "height": 295
+          }
+        },
+        "decorItem5": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhousefurniture_1_animLeaves",
+            "x": 1415.46,
+            "y": -843.25,
+            "width": 698,
+            "height": 260,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem6": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhouse_23_animLeaves",
+            "x": 1405.97,
+            "y": -574.56,
+            "width": 391,
+            "height": 423,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem7": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhouse_28_animLeaves",
+            "type": "linkedmesh",
+            "skin": "mode1/skin_mode1_v1",
+            "parent": "additional_item_ps",
+            "width": 164,
+            "height": 244
+          }
+        },
+        "decorItem8": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhouse_26_animLeaves",
+            "x": 271.09,
+            "y": -853.74,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 202,
+            "height": 122
+          }
+        },
+        "decorItem9": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhouse_20_animLeaves",
+            "x": 1314.77,
+            "y": -205.08,
+            "width": 200,
+            "height": 496,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem10": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhouse_19_animLeaves",
+            "x": 949.58,
+            "y": -812.71,
+            "scaleX": 0.8000000000000002,
+            "scaleY": 0.8000000000000002,
+            "width": 239,
+            "height": 198
+          }
+        },
+        "decorItem11": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhouse_14_animLeaves",
+            "type": "linkedmesh",
+            "skin": "mode1/skin_mode1_v1",
+            "parent": "additional_item_ps",
+            "width": 201,
+            "height": 231
+          }
+        },
+        "decorItem12": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhouse_12_animLeaves",
+            "x": 2371.13,
+            "y": -443.49,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 107,
+            "height": 192
+          }
+        },
+        "decorItem13": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhouse_10_animLeaves",
+            "x": 2292.57,
+            "y": -459.1,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 92,
+            "height": 165
+          }
+        },
+        "decorItem14": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhouse_7_animLeaves",
+            "x": 642.01,
+            "y": -819.7,
+            "scaleX": 0.8000000000000002,
+            "scaleY": 0.8000000000000002,
+            "width": 72,
+            "height": 130
+          }
+        },
+        "decorItem15": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhouse_4_animLeaves",
+            "x": 243.03,
+            "y": -478.34,
+            "scaleX": -0.7687263556116015,
+            "scaleY": 0.7530895334174023,
+            "width": 475,
+            "height": 481
+          }
+        },
+        "hogItem1": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_11_animLeaves",
+            "x": 2476.14,
+            "y": -799.17,
+            "width": 123,
+            "height": 123,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem2": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_29_animLeaves",
+            "x": 809.46,
+            "y": -592.03,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 101,
+            "height": 182
+          }
+        },
+        "hogItem3": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_27_animLeaves",
+            "x": 463.15,
+            "y": -552.53,
+            "scaleX": 0.7115871026546656,
+            "scaleY": 0.7115871026546656,
+            "width": 219,
+            "height": 290
+          }
+        },
+        "hogItem4": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_25_animLeaves",
+            "x": 907.89,
+            "y": -465.59,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 133,
+            "height": 234
+          }
+        },
+        "hogItem5": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_24_animLeaves",
+            "x": 1029.48,
+            "y": -543.44,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 176,
+            "height": 55
+          }
+        },
+        "hogItem6": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_22_animLeaves",
+            "x": 512.04,
+            "y": -859.34,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 108,
+            "height": 91
+          }
+        },
+        "hogItem7": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_18_animLeaves",
+            "x": 655.03,
+            "y": -559.47,
+            "width": 243,
+            "height": 258,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem8": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_17_animLeaves",
+            "x": 1868.3,
+            "y": -866.8,
+            "width": 117,
+            "height": 123,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem9": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_16_animLeaves",
+            "type": "linkedmesh",
+            "skin": "mode1/skin_mode1_v1",
+            "parent": "hogItem_ps",
+            "width": 208,
+            "height": 238
+          }
+        },
+        "hogItem10": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_15_animLeaves",
+            "x": 2320.64,
+            "y": -669.85,
+            "scaleX": -0.7839240859614849,
+            "scaleY": 0.7962042980742394,
+            "width": 89,
+            "height": 69
+          }
+        },
+        "hogItem11": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_13_animLeaves",
+            "x": 1162.05,
+            "y": -474.54,
+            "scaleX": 0.6716317558831136,
+            "scaleY": 0.6716317558831136,
+            "width": 145,
+            "height": 263
+          }
+        },
+        "hogItem12": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_30_animLeaves",
+            "type": "linkedmesh",
+            "skin": "mode1/skin_mode1_v1",
+            "parent": "hogItem_ps",
+            "width": 165,
+            "height": 275
+          }
+        },
+        "hogItem13": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_8_animLeaves",
+            "x": 1685.35,
+            "y": -778.85,
+            "scaleX": 0.7999999999999999,
+            "scaleY": 0.7999999999999999,
+            "width": 73,
+            "height": 133
+          }
+        },
+        "hogItem14": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_5_animLeaves",
+            "x": 1947.21,
+            "y": -599.31,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 63,
+            "height": 47
+          }
+        },
+        "hogItem15": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_2_animLeaves",
+            "x": 1730.81,
+            "y": -329.71,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 106,
+            "height": 130
+          }
+        },
+        "hogItem16": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_6_animLeaves",
+            "x": 722.68,
+            "y": -815.16,
+            "scaleX": 0.7091263819640148,
+            "scaleY": 0.7091263819640148,
+            "width": 115,
+            "height": 150
+          }
+        },
+        "hogItem17": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_3_animLeaves",
+            "x": 1015.95,
+            "y": -883.24,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 75,
+            "height": 83
+          }
+        },
+        "hogItem18": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_21_animLeaves",
+            "x": 1983.02,
+            "y": -786.92,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 148,
+            "height": 154
+          }
+        },
+        "hogItem19": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_9_animLeaves",
+            "x": 1448.14,
+            "y": -783.69,
+            "width": 268,
+            "height": 370,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem20": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_1_animLeaves",
+            "x": 2238.97,
+            "y": -794.79,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 108,
+            "height": 106
+          }
+        }
+      }
+    },
+    {
+      "name": "mode1/skin_mode1_v4",
+      "attachments": {
+        "decorItem1": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhousefurniture_4_animLeaves",
+            "x": 1052.26,
+            "y": -697.47,
+            "scaleX": -0.7963182117028271,
+            "scaleY": 0.8,
+            "width": 456,
+            "height": 344
+          }
+        },
+        "decorItem2": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhousefurniture_2_animLeaves",
+            "x": 1950.93,
+            "y": -676.91,
+            "width": 596,
+            "height": 436,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem3": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhousefurniture_3_animLeaves",
+            "x": 2347.86,
+            "y": -544.28,
+            "scaleX": -0.6514598218223517,
+            "scaleY": 0.8,
+            "width": 589,
+            "height": 753
+          }
+        },
+        "decorItem4": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhousefurniture_5_animLeaves",
+            "x": 506.1,
+            "y": -765,
+            "scaleX": 0.7812363347247069,
+            "scaleY": 0.7812363347247069,
+            "width": 1257,
+            "height": 295
+          }
+        },
+        "decorItem5": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhousefurniture_1_animLeaves",
+            "x": 1415.46,
+            "y": -843.91,
+            "width": 698,
+            "height": 260,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem6": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhouse_23_animLeaves",
+            "x": 1405.97,
+            "y": -575.22,
+            "width": 391,
+            "height": 423,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem7": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhouse_28_animLeaves",
+            "type": "linkedmesh",
+            "skin": "mode1/skin_mode1_v1",
+            "parent": "additional_item_ps",
+            "width": 164,
+            "height": 244
+          }
+        },
+        "decorItem8": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhouse_26_animLeaves",
+            "x": 271.09,
+            "y": -848.47,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 202,
+            "height": 122
+          }
+        },
+        "decorItem9": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhouse_20_animLeaves",
+            "x": 1314.77,
+            "y": -205.74,
+            "width": 200,
+            "height": 496,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem10": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhouse_19_animLeaves",
+            "x": 949.58,
+            "y": -813.37,
+            "scaleX": 0.8000000000000002,
+            "scaleY": 0.8000000000000002,
+            "width": 239,
+            "height": 198
+          }
+        },
+        "decorItem11": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhouse_14_animLeaves",
+            "type": "linkedmesh",
+            "skin": "mode1/skin_mode1_v1",
+            "parent": "additional_item_ps",
+            "width": 201,
+            "height": 231
+          }
+        },
+        "decorItem12": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhouse_12_animLeaves",
+            "x": 2371.13,
+            "y": -444.15,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 107,
+            "height": 192
+          }
+        },
+        "decorItem13": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhouse_10_animLeaves",
+            "x": 2292.57,
+            "y": -459.76,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 92,
+            "height": 165
+          }
+        },
+        "decorItem14": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhouse_7_animLeaves",
+            "x": 321.12,
+            "y": -602.42,
+            "scaleX": 0.8000000000000002,
+            "scaleY": 0.8000000000000002,
+            "width": 72,
+            "height": 130
+          }
+        },
+        "decorItem15": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhouse_4_animLeaves",
+            "x": 592.86,
+            "y": -510.73,
+            "scaleX": -0.6698612862547288,
+            "scaleY": 0.6561160151324086,
+            "width": 475,
+            "height": 481
+          }
+        },
+        "hogItem1": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_11_animLeaves",
+            "x": 965.82,
+            "y": -512.78,
+            "width": 123,
+            "height": 123,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem2": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_29_animLeaves",
+            "x": 2478.06,
+            "y": -778.73,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 101,
+            "height": 182
+          }
+        },
+        "hogItem3": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_27_animLeaves",
+            "x": 196,
+            "y": -552.32,
+            "scaleX": 0.6960920587900195,
+            "scaleY": 0.6960920587900195,
+            "width": 219,
+            "height": 290
+          }
+        },
+        "hogItem4": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_25_animLeaves",
+            "x": 1912.11,
+            "y": -524.93,
+            "scaleX": 0.7903125880033793,
+            "scaleY": 0.7903125880033793,
+            "width": 133,
+            "height": 234
+          }
+        },
+        "hogItem5": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_24_animLeaves",
+            "x": 1041.78,
+            "y": -884.43,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 176,
+            "height": 55
+          }
+        },
+        "hogItem6": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_22_animLeaves",
+            "x": 605.77,
+            "y": -627.09,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 108,
+            "height": 91
+          }
+        },
+        "hogItem7": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_18_animLeaves",
+            "x": 1388.65,
+            "y": -815.52,
+            "width": 243,
+            "height": 258,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem8": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_17_animLeaves",
+            "x": 1515.9,
+            "y": -711.55,
+            "scaleX": 0.49584000000000006,
+            "scaleY": 0.49584000000000006,
+            "width": 117,
+            "height": 123
+          }
+        },
+        "hogItem9": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_16_animLeaves",
+            "type": "linkedmesh",
+            "skin": "mode1/skin_mode1_v1",
+            "parent": "hogItem_ps",
+            "width": 208,
+            "height": 238
+          }
+        },
+        "hogItem10": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_15_animLeaves",
+            "x": 465.6,
+            "y": -638.55,
+            "scaleX": -0.7164945576332683,
+            "scaleY": 0.7278816634105499,
+            "width": 89,
+            "height": 69
+          }
+        },
+        "hogItem11": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_13_animLeaves",
+            "x": 500.69,
+            "y": -782.97,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 145,
+            "height": 263
+          }
+        },
+        "hogItem12": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_30_animLeaves",
+            "type": "linkedmesh",
+            "skin": "mode1/skin_mode1_v1",
+            "parent": "hogItem_ps",
+            "width": 165,
+            "height": 275
+          }
+        },
+        "hogItem13": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_8_animLeaves",
+            "x": 2325.74,
+            "y": -649.7,
+            "scaleX": 0.7999999999999999,
+            "scaleY": 0.7999999999999999,
+            "width": 73,
+            "height": 133
+          }
+        },
+        "hogItem14": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_5_animLeaves",
+            "x": 1668.89,
+            "y": -900.37,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 63,
+            "height": 47
+          }
+        },
+        "hogItem15": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_2_animLeaves",
+            "x": 1985.48,
+            "y": -806.35,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 106,
+            "height": 130
+          }
+        },
+        "hogItem16": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_6_animLeaves",
+            "x": 1140.42,
+            "y": -509.41,
+            "scaleX": 0.7256015608064167,
+            "scaleY": 0.7256015608064167,
+            "width": 115,
+            "height": 150
+          }
+        },
+        "hogItem17": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_3_animLeaves",
+            "x": 801.13,
+            "y": -840.3,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 75,
+            "height": 83
+          }
+        },
+        "hogItem18": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_21_animLeaves",
+            "x": 2237.85,
+            "y": -635.53,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 148,
+            "height": 154
+          }
+        },
+        "hogItem19": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_9_animLeaves",
+            "x": 811.13,
+            "y": -526.7,
+            "width": 268,
+            "height": 370,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem20": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_1_animLeaves",
+            "x": 674.98,
+            "y": -849.96,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 108,
+            "height": 106
+          }
+        }
+      }
+    },
+    {
+      "name": "mode1/skin_mode1_v5",
+      "attachments": {
+        "decorItem1": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhousefurniture_4_animLeaves",
+            "x": 1052.26,
+            "y": -693.69,
+            "scaleX": -0.7781722550953322,
+            "scaleY": 0.7817663817663819,
+            "width": 456,
+            "height": 344
+          }
+        },
+        "decorItem2": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhousefurniture_2_animLeaves",
+            "x": 1950.93,
+            "y": -676.91,
+            "width": 596,
+            "height": 436,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem3": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhousefurniture_3_animLeaves",
+            "x": 2347.86,
+            "y": -544.28,
+            "scaleX": -0.6514598218223517,
+            "scaleY": 0.8,
+            "width": 589,
+            "height": 753
+          }
+        },
+        "decorItem4": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhousefurniture_5_animLeaves",
+            "x": 506.1,
+            "y": -765,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 1257,
+            "height": 295
+          }
+        },
+        "decorItem5": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhousefurniture_1_animLeaves",
+            "x": 1415.46,
+            "y": -843.91,
+            "width": 698,
+            "height": 260,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem6": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhouse_23_animLeaves",
+            "x": 1405.97,
+            "y": -575.22,
+            "width": 391,
+            "height": 423,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem7": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhouse_28_animLeaves",
+            "type": "linkedmesh",
+            "skin": "mode1/skin_mode1_v1",
+            "parent": "additional_item_ps",
+            "width": 164,
+            "height": 244
+          }
+        },
+        "decorItem8": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhouse_26_animLeaves",
+            "x": 271.09,
+            "y": -853.55,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 202,
+            "height": 122
+          }
+        },
+        "decorItem9": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhouse_20_animLeaves",
+            "x": 1314.77,
+            "y": -205.74,
+            "width": 200,
+            "height": 496,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem10": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhouse_19_animLeaves",
+            "x": 949.58,
+            "y": -813.37,
+            "scaleX": 0.8000000000000002,
+            "scaleY": 0.8000000000000002,
+            "width": 239,
+            "height": 198
+          }
+        },
+        "decorItem11": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhouse_14_animLeaves",
+            "type": "linkedmesh",
+            "skin": "mode1/skin_mode1_v1",
+            "parent": "additional_item_ps",
+            "width": 201,
+            "height": 231
+          }
+        },
+        "decorItem12": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhouse_12_animLeaves",
+            "x": 2371.13,
+            "y": -444.15,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 107,
+            "height": 192
+          }
+        },
+        "decorItem13": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhouse_10_animLeaves",
+            "x": 2292.57,
+            "y": -459.76,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 92,
+            "height": 165
+          }
+        },
+        "decorItem14": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhouse_7_animLeaves",
+            "x": 642.01,
+            "y": -820.36,
+            "scaleX": 0.8000000000000002,
+            "scaleY": 0.8000000000000002,
+            "width": 72,
+            "height": 130
+          }
+        },
+        "decorItem15": {
+          "additional_item_ps": {
+            "name": "object/greenhouse/object_greenhouse_4_animLeaves",
+            "x": 231.1,
+            "y": -513.7,
+            "scaleX": -0.5964691046658259,
+            "scaleY": 0.5843631778058007,
+            "width": 475,
+            "height": 481
+          }
+        },
+        "hogItem1": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_11_animLeaves",
+            "x": 2467.21,
+            "y": -799.84,
+            "width": 123,
+            "height": 123,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem2": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_29_animLeaves",
+            "x": 796.53,
+            "y": -592.69,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 101,
+            "height": 182
+          }
+        },
+        "hogItem3": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_27_animLeaves",
+            "x": 437.09,
+            "y": -538.9,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 219,
+            "height": 290
+          }
+        },
+        "hogItem4": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_25_animLeaves",
+            "x": 912.06,
+            "y": -492.11,
+            "scaleX": 0.5724584624049563,
+            "scaleY": 0.5724584624049563,
+            "width": 133,
+            "height": 234
+          }
+        },
+        "hogItem5": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_24_animLeaves",
+            "x": 1029.48,
+            "y": -544.1,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 176,
+            "height": 55
+          }
+        },
+        "hogItem6": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_22_animLeaves",
+            "x": 512.04,
+            "y": -860,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 108,
+            "height": 91
+          }
+        },
+        "hogItem7": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_18_animLeaves",
+            "x": 655.03,
+            "y": -560.13,
+            "width": 243,
+            "height": 258,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem8": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_17_animLeaves",
+            "x": 1875.19,
+            "y": -882.4,
+            "width": 117,
+            "height": 123,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem9": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_16_animLeaves",
+            "type": "linkedmesh",
+            "skin": "mode1/skin_mode1_v1",
+            "parent": "hogItem_ps",
+            "width": 208,
+            "height": 238
+          }
+        },
+        "hogItem10": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_15_animLeaves",
+            "x": 2320.64,
+            "y": -672.54,
+            "scaleX": -0.7874965113033772,
+            "scaleY": 0.8,
+            "width": 89,
+            "height": 69
+          }
+        },
+        "hogItem11": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_13_animLeaves",
+            "x": 1160.35,
+            "y": -490.21,
+            "scaleX": 0.5517455391776571,
+            "scaleY": 0.5517455391776571,
+            "width": 145,
+            "height": 263
+          }
+        },
+        "hogItem12": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_30_animLeaves",
+            "type": "linkedmesh",
+            "skin": "mode1/skin_mode1_v1",
+            "parent": "hogItem_ps",
+            "width": 165,
+            "height": 275
+          }
+        },
+        "hogItem13": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_8_animLeaves",
+            "x": 1685.35,
+            "y": -779.51,
+            "scaleX": 0.7999999999999999,
+            "scaleY": 0.7999999999999999,
+            "width": 73,
+            "height": 133
+          }
+        },
+        "hogItem14": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_5_animLeaves",
+            "x": 1947.21,
+            "y": -599.97,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 63,
+            "height": 47
+          }
+        },
+        "hogItem15": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_2_animLeaves",
+            "x": 1730.81,
+            "y": -330.37,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 106,
+            "height": 130
+          }
+        },
+        "hogItem16": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_6_animLeaves",
+            "x": 756.37,
+            "y": -814.98,
+            "scaleX": 0.6612616518534576,
+            "scaleY": 0.6612616518534576,
+            "width": 115,
+            "height": 150
+          }
+        },
+        "hogItem17": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_3_animLeaves",
+            "x": 1028.3,
+            "y": -860.15,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 75,
+            "height": 83
+          }
+        },
+        "hogItem18": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_21_animLeaves",
+            "x": 1983.02,
+            "y": -787.58,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 148,
+            "height": 154
+          }
+        },
+        "hogItem19": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_9_animLeaves",
+            "x": 1448.14,
+            "y": -784.35,
+            "width": 268,
+            "height": 370,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem20": {
+          "hogItem_ps": {
+            "name": "object/greenhouse/object_greenhouse_1_animLeaves",
+            "x": 2238.97,
+            "y": -795.45,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 108,
+            "height": 106
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "idle": {
+      "bones": {
+        "object/birds/object_bird_1": {
+          "scale": [
+            {
+              "x": 0.99
+            },
+            {
+              "time": 0.5333,
+              "x": 0.888
+            },
+            {
+              "time": 1,
+              "x": 0.99
+            },
+            {
+              "time": 1.5333,
+              "x": 0.888
+            },
+            {
+              "time": 2,
+              "x": 0.99
+            },
+            {
+              "time": 2.5333,
+              "x": 0.888
+            },
+            {
+              "time": 3,
+              "x": 0.99
+            }
+          ]
+        },
+        "object/birds/object_bird_17": {
+          "rotate": [
+            {},
+            {
+              "time": 0.1,
+              "value": 36.14
+            },
+            {
+              "time": 0.2,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.5
+            },
+            {
+              "time": 0.6,
+              "value": 3.37
+            },
+            {
+              "time": 0.7,
+              "curve": "stepped"
+            },
+            {
+              "time": 2.4
+            },
+            {
+              "time": 2.5,
+              "value": 3.37
+            },
+            {
+              "time": 2.6
+            }
+          ]
+        },
+        "object/birds/object_bird_48": {
+          "translate": [
+            {},
+            {
+              "time": 0.3667,
+              "y": -2.79
+            },
+            {
+              "time": 0.8333
+            },
+            {
+              "time": 1.2,
+              "y": -2.79
+            },
+            {
+              "time": 1.8
+            },
+            {
+              "time": 2.4,
+              "y": -2.79
+            },
+            {
+              "time": 3
+            }
+          ],
+          "scale": [
+            {},
+            {
+              "time": 0.3667,
+              "y": 0.912
+            },
+            {
+              "time": 0.8333
+            },
+            {
+              "time": 1.2,
+              "y": 0.912
+            },
+            {
+              "time": 1.8
+            },
+            {
+              "time": 2.4,
+              "y": 0.912
+            },
+            {
+              "time": 3
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,1348 @@
+{
+  "skeleton": {
+    "hash": "gOR+2XDf8zQ",
+    "spine": "4.1.24",
+    "y": -1080,
+    "width": 2560,
+    "height": 1080,
+    "images": "./images/",
+    "audio": ""
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "backgrounds",
+      "parent": "root"
+    },
+    {
+      "name": "decorItems",
+      "parent": "root"
+    },
+    {
+      "name": "hogItems",
+      "parent": "root"
+    }
+  ],
+  "slots": [
+    {
+      "name": "background_lv39",
+      "bone": "backgrounds"
+    },
+    {
+      "name": "hogItem1",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem2",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "decorItem1",
+      "bone": "decorItems"
+    },
+    {
+      "name": "decorItem2",
+      "bone": "decorItems"
+    },
+    {
+      "name": "hogItem3",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem4",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "decorItem3",
+      "bone": "decorItems"
+    },
+    {
+      "name": "decorItem4",
+      "bone": "decorItems"
+    },
+    {
+      "name": "decorItem5",
+      "bone": "decorItems"
+    },
+    {
+      "name": "decorItem6",
+      "bone": "decorItems"
+    },
+    {
+      "name": "decorItem7",
+      "bone": "decorItems"
+    },
+    {
+      "name": "decorItem8",
+      "bone": "decorItems"
+    },
+    {
+      "name": "hogItem5",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem6",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem7",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem8",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem9",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem10",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem11",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem12",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem13",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem14",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem15",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem16",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem17",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem18",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem19",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem20",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    }
+  ],
+  "skins": [
+    {
+      "name": "mode1/skin_mode1_v1",
+      "attachments": {
+        "hogItem1": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_20",
+            "x": 798.17,
+            "y": -554.59,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": -90,
+            "width": 119,
+            "height": 34
+          }
+        },
+        "hogItem2": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_19",
+            "x": 1839.25,
+            "y": -551.63,
+            "scaleX": 0.722049405306496,
+            "scaleY": 0.722049405306496,
+            "rotation": -90,
+            "width": 143,
+            "height": 41
+          }
+        },
+        "hogItem3": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_18",
+            "x": 1531.91,
+            "y": -800.91,
+            "scaleX": 0.5767820773930754,
+            "scaleY": 0.5767820773930754,
+            "width": 161,
+            "height": 46
+          }
+        },
+        "hogItem4": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_17",
+            "x": 1354.06,
+            "y": -286.37,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 161,
+            "height": 46
+          }
+        },
+        "hogItem5": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_16",
+            "x": 2050.26,
+            "y": -522.16,
+            "scaleX": 0.5573280159521437,
+            "scaleY": 0.5573280159521437,
+            "width": 118,
+            "height": 25
+          }
+        },
+        "hogItem6": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_15",
+            "x": 648.11,
+            "y": -657.76,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 146,
+            "height": 31
+          }
+        },
+        "hogItem7": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_14",
+            "x": 603.18,
+            "y": -278.47,
+            "scaleX": 0.7681992337164751,
+            "scaleY": 0.7681992337164751,
+            "rotation": -90,
+            "width": 123,
+            "height": 28
+          }
+        },
+        "hogItem8": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_13",
+            "x": 695.39,
+            "y": -532.98,
+            "scaleX": 0.7787315377932233,
+            "scaleY": 0.7787315377932233,
+            "width": 133,
+            "height": 25
+          }
+        },
+        "hogItem9": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_12",
+            "x": 1346.69,
+            "y": -701.11,
+            "scaleX": 0.5420174741858619,
+            "scaleY": 0.5420174741858619,
+            "rotation": -90,
+            "width": 145,
+            "height": 27
+          }
+        },
+        "hogItem10": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_11",
+            "x": 848.67,
+            "y": -808.19,
+            "scaleX": 0.6220810166799048,
+            "scaleY": 0.6220810166799048,
+            "rotation": -90,
+            "width": 145,
+            "height": 27
+          }
+        },
+        "hogItem11": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_10",
+            "x": 2078.47,
+            "y": -267.75,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": -90,
+            "width": 145,
+            "height": 27
+          }
+        },
+        "hogItem12": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_9",
+            "x": 2205.4,
+            "y": -360.16,
+            "scaleX": 0.4880434782608696,
+            "scaleY": 0.4880434782608696,
+            "width": 187,
+            "height": 35
+          }
+        },
+        "hogItem13": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_8",
+            "x": 2135.53,
+            "y": -676.39,
+            "scaleX": 0.8000000000000002,
+            "scaleY": 0.8000000000000002,
+            "width": 149,
+            "height": 48
+          }
+        },
+        "hogItem14": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_7",
+            "x": 1388.5,
+            "y": -121.61,
+            "scaleX": 0.8000000000000002,
+            "scaleY": 0.8000000000000002,
+            "rotation": -90,
+            "width": 149,
+            "height": 48
+          }
+        },
+        "hogItem15": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_6",
+            "x": 1033.53,
+            "y": -838.48,
+            "scaleX": 0.6340794061410415,
+            "scaleY": 0.6340794061410415,
+            "width": 168,
+            "height": 54
+          }
+        },
+        "hogItem16": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_5",
+            "x": 1050.6,
+            "y": -79.34,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 182,
+            "height": 42
+          }
+        },
+        "hogItem17": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_4",
+            "x": 1655.86,
+            "y": -266.39,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": -90,
+            "width": 150,
+            "height": 35
+          }
+        },
+        "hogItem18": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_3",
+            "x": 304.58,
+            "y": -412.52,
+            "scaleX": 0.7152113280411929,
+            "scaleY": 0.7152113280411929,
+            "rotation": -90,
+            "width": 145,
+            "height": 33
+          }
+        },
+        "hogItem19": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_2",
+            "x": 742.14,
+            "y": -689.7,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": -90,
+            "width": 125,
+            "height": 31
+          }
+        },
+        "hogItem20": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_1",
+            "x": 1711.15,
+            "y": -529.38,
+            "scaleX": 0.671244635193133,
+            "scaleY": 0.671244635193133,
+            "width": 152,
+            "height": 38
+          }
+        }
+      }
+    },
+    {
+      "name": "mode1/skin_mode1_v2",
+      "attachments": {
+        "hogItem1": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_20",
+            "x": 1453.78,
+            "y": -421.33,
+            "scaleX": 0.7124312431243124,
+            "scaleY": 0.7124312431243124,
+            "rotation": -90,
+            "width": 119,
+            "height": 34
+          }
+        },
+        "hogItem2": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_19",
+            "x": 1350.9,
+            "y": -121.12,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": -90,
+            "width": 143,
+            "height": 41
+          }
+        },
+        "hogItem3": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_18",
+            "x": 684.49,
+            "y": -543.89,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 161,
+            "height": 46
+          }
+        },
+        "hogItem4": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_17",
+            "x": 1938.68,
+            "y": -787.16,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 161,
+            "height": 46
+          }
+        },
+        "hogItem5": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_16",
+            "x": 1881.65,
+            "y": -279.54,
+            "scaleX": 0.7577268195413759,
+            "scaleY": 0.7577268195413759,
+            "width": 118,
+            "height": 25
+          }
+        },
+        "hogItem6": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_15",
+            "x": 1350.24,
+            "y": -258.57,
+            "scaleX": 0.7938709677419356,
+            "scaleY": 0.7938709677419356,
+            "width": 146,
+            "height": 31
+          }
+        },
+        "hogItem7": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_14",
+            "x": 1863.66,
+            "y": -558.02,
+            "scaleX": 0.7218390804597702,
+            "scaleY": 0.7218390804597702,
+            "rotation": -90,
+            "width": 123,
+            "height": 28
+          }
+        },
+        "hogItem8": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_13",
+            "x": 1524.12,
+            "y": -806.05,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 133,
+            "height": 25
+          }
+        },
+        "hogItem9": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_12",
+            "x": 954.85,
+            "y": -545.59,
+            "scaleX": 0.479491660047657,
+            "scaleY": 0.479491660047657,
+            "width": 145,
+            "height": 27
+          }
+        },
+        "hogItem10": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_11",
+            "x": 281.92,
+            "y": -412.25,
+            "scaleX": 0.7186656076250995,
+            "scaleY": 0.7186656076250995,
+            "rotation": -90,
+            "width": 145,
+            "height": 27
+          }
+        },
+        "hogItem11": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_10",
+            "x": 1347.06,
+            "y": -700.49,
+            "scaleX": 0.5557426528991264,
+            "scaleY": 0.5557426528991264,
+            "rotation": -90,
+            "width": 145,
+            "height": 27
+          }
+        },
+        "hogItem12": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_9",
+            "x": 1904.24,
+            "y": -406.53,
+            "scaleX": 0.6220355731225297,
+            "scaleY": 0.6220355731225297,
+            "rotation": -90,
+            "width": 187,
+            "height": 35
+          }
+        },
+        "hogItem13": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_8",
+            "x": 850.72,
+            "y": -556.33,
+            "scaleX": 0.6202647657841142,
+            "scaleY": 0.6202647657841142,
+            "rotation": -90,
+            "width": 149,
+            "height": 48
+          }
+        },
+        "hogItem14": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_7",
+            "x": 1721.68,
+            "y": -528.42,
+            "scaleX": 0.5137689466310025,
+            "scaleY": 0.5137689466310025,
+            "width": 149,
+            "height": 48
+          }
+        },
+        "hogItem15": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_6",
+            "x": 679.24,
+            "y": -305,
+            "scaleX": 0.8,
+            "scaleY": 0.7719266674164885,
+            "width": 168,
+            "height": 54
+          }
+        },
+        "hogItem16": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_5",
+            "x": 920.05,
+            "y": -842.26,
+            "scaleX": 0.5290918419702412,
+            "scaleY": 0.5290918419702412,
+            "width": 182,
+            "height": 42
+          }
+        },
+        "hogItem17": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_4",
+            "x": 2216.55,
+            "y": -702.89,
+            "scaleX": 0.4980944490472245,
+            "scaleY": 0.4980944490472245,
+            "rotation": -90,
+            "width": 150,
+            "height": 35
+          }
+        },
+        "hogItem18": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_3",
+            "x": 389.14,
+            "y": -268.45,
+            "scaleX": 0.8,
+            "scaleY": 0.7715082600300365,
+            "rotation": -90,
+            "width": 145,
+            "height": 33
+          }
+        },
+        "hogItem19": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_2",
+            "x": 1670.7,
+            "y": -824.04,
+            "scaleX": 0.461811505507956,
+            "scaleY": 0.461811505507956,
+            "rotation": -90,
+            "width": 125,
+            "height": 31
+          }
+        },
+        "hogItem20": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_1",
+            "x": 647.94,
+            "y": -656.19,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 152,
+            "height": 38
+          }
+        }
+      }
+    },
+    {
+      "name": "mode1/skin_mode1_v3",
+      "attachments": {
+        "hogItem1": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_20",
+            "x": 1665.44,
+            "y": -811.01,
+            "scaleX": 0.7163916391639165,
+            "scaleY": 0.7163916391639165,
+            "rotation": -90,
+            "width": 119,
+            "height": 34
+          }
+        },
+        "hogItem2": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_19",
+            "x": 1034.08,
+            "y": -838.18,
+            "scaleX": 0.6975297346752058,
+            "scaleY": 0.6975297346752058,
+            "width": 143,
+            "height": 41
+          }
+        },
+        "hogItem3": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_18",
+            "x": 894.72,
+            "y": -249.19,
+            "scaleX": 0.6015478615071284,
+            "scaleY": 0.6650916496945011,
+            "width": 161,
+            "height": 46
+          }
+        },
+        "hogItem4": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_17",
+            "x": 797.07,
+            "y": -812.85,
+            "scaleX": 0.504765784114053,
+            "scaleY": 0.504765784114053,
+            "rotation": -90,
+            "width": 161,
+            "height": 46
+          }
+        },
+        "hogItem5": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_16",
+            "x": 2081.38,
+            "y": -519.23,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": 0.64,
+            "width": 118,
+            "height": 25
+          }
+        },
+        "hogItem6": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_15",
+            "x": 926.68,
+            "y": -827.45,
+            "scaleX": 0.45096774193548395,
+            "scaleY": 0.5238709677419355,
+            "width": 146,
+            "height": 31
+          }
+        },
+        "hogItem7": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_14",
+            "x": 2145.87,
+            "y": -281.52,
+            "scaleX": 0.717816091954023,
+            "scaleY": 0.8,
+            "rotation": -71.98,
+            "width": 123,
+            "height": 28
+          }
+        },
+        "hogItem8": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_13",
+            "x": 950.51,
+            "y": -546.02,
+            "scaleX": 0.6226238053866203,
+            "scaleY": 0.6226238053866203,
+            "width": 133,
+            "height": 25
+          }
+        },
+        "hogItem9": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_12",
+            "x": 2295.38,
+            "y": -407.55,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": -90,
+            "width": 145,
+            "height": 27
+          }
+        },
+        "hogItem10": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_11",
+            "x": 2281.77,
+            "y": -681.97,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": -90,
+            "width": 145,
+            "height": 27
+          }
+        },
+        "hogItem11": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_10",
+            "x": 566.03,
+            "y": -812.81,
+            "scaleX": 0.5615885623510724,
+            "scaleY": 0.5615885623510724,
+            "rotation": -90,
+            "width": 145,
+            "height": 27
+          }
+        },
+        "hogItem12": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_9",
+            "x": 1051.19,
+            "y": -82.08,
+            "scaleX": 0.7796442687747036,
+            "scaleY": 0.8,
+            "width": 187,
+            "height": 35
+          }
+        },
+        "hogItem13": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_8",
+            "x": 1400.26,
+            "y": -813.51,
+            "scaleX": 0.6020366598778004,
+            "scaleY": 0.6020366598778004,
+            "width": 149,
+            "height": 48
+          }
+        },
+        "hogItem14": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_7",
+            "x": 1992.24,
+            "y": -418.89,
+            "scaleX": 0.5916189020506942,
+            "scaleY": 0.5916189020506942,
+            "rotation": -106.54,
+            "width": 149,
+            "height": 48
+          }
+        },
+        "hogItem15": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_6",
+            "x": 387.21,
+            "y": -688.99,
+            "scaleX": 0.5968282532898437,
+            "scaleY": 0.6764593409065347,
+            "rotation": -90,
+            "width": 168,
+            "height": 54
+          }
+        },
+        "hogItem16": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_5",
+            "x": 1265.21,
+            "y": -685.78,
+            "scaleX": 0.5174619462972465,
+            "scaleY": 0.5174619462972465,
+            "width": 182,
+            "height": 42
+          }
+        },
+        "hogItem17": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_4",
+            "x": 652.39,
+            "y": -421.91,
+            "scaleX": 0.5766362883181442,
+            "scaleY": 0.5766362883181442,
+            "width": 150,
+            "height": 35
+          }
+        },
+        "hogItem18": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_3",
+            "x": 748.72,
+            "y": -699.09,
+            "scaleX": 0.5748122720446256,
+            "scaleY": 0.5748122720446256,
+            "rotation": -90,
+            "width": 145,
+            "height": 33
+          }
+        },
+        "hogItem19": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_2",
+            "x": 1120.98,
+            "y": -697.08,
+            "scaleX": 0.6794369645042841,
+            "scaleY": 0.6794369645042841,
+            "rotation": -90,
+            "width": 125,
+            "height": 31
+          }
+        },
+        "hogItem20": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_1",
+            "x": 1333.36,
+            "y": -392.99,
+            "scaleX": 0.5051249684423126,
+            "scaleY": 0.6363039636455441,
+            "width": 152,
+            "height": 38
+          }
+        }
+      }
+    },
+    {
+      "name": "mode1/skin_mode1_v4",
+      "attachments": {
+        "hogItem1": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_20",
+            "x": 1453.78,
+            "y": -421.33,
+            "scaleX": 0.7124312431243124,
+            "scaleY": 0.7124312431243124,
+            "rotation": -90,
+            "width": 119,
+            "height": 34
+          }
+        },
+        "hogItem2": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_19",
+            "x": 1350.9,
+            "y": -121.12,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": -90,
+            "width": 143,
+            "height": 41
+          }
+        },
+        "hogItem3": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_18",
+            "x": 684.49,
+            "y": -543.89,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 161,
+            "height": 46
+          }
+        },
+        "hogItem4": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_17",
+            "x": 1938.68,
+            "y": -787.16,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 161,
+            "height": 46
+          }
+        },
+        "hogItem5": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_16",
+            "x": 1881.65,
+            "y": -279.54,
+            "scaleX": 0.7577268195413759,
+            "scaleY": 0.7577268195413759,
+            "width": 118,
+            "height": 25
+          }
+        },
+        "hogItem6": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_15",
+            "x": 1350.24,
+            "y": -258.57,
+            "scaleX": 0.7938709677419356,
+            "scaleY": 0.7938709677419356,
+            "width": 146,
+            "height": 31
+          }
+        },
+        "hogItem7": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_14",
+            "x": 1863.66,
+            "y": -558.02,
+            "scaleX": 0.7218390804597702,
+            "scaleY": 0.7218390804597702,
+            "rotation": -90,
+            "width": 123,
+            "height": 28
+          }
+        },
+        "hogItem8": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_13",
+            "x": 1524.12,
+            "y": -806.05,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 133,
+            "height": 25
+          }
+        },
+        "hogItem9": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_12",
+            "x": 954.85,
+            "y": -545.59,
+            "scaleX": 0.479491660047657,
+            "scaleY": 0.479491660047657,
+            "width": 145,
+            "height": 27
+          }
+        },
+        "hogItem10": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_11",
+            "x": 281.92,
+            "y": -412.25,
+            "scaleX": 0.7186656076250995,
+            "scaleY": 0.7186656076250995,
+            "rotation": -90,
+            "width": 145,
+            "height": 27
+          }
+        },
+        "hogItem11": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_10",
+            "x": 1347.06,
+            "y": -700.49,
+            "scaleX": 0.5557426528991264,
+            "scaleY": 0.5557426528991264,
+            "rotation": -90,
+            "width": 145,
+            "height": 27
+          }
+        },
+        "hogItem12": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_9",
+            "x": 1904.24,
+            "y": -406.53,
+            "scaleX": 0.6220355731225297,
+            "scaleY": 0.6220355731225297,
+            "rotation": -90,
+            "width": 187,
+            "height": 35
+          }
+        },
+        "hogItem13": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_8",
+            "x": 850.72,
+            "y": -556.33,
+            "scaleX": 0.6202647657841142,
+            "scaleY": 0.6202647657841142,
+            "rotation": -90,
+            "width": 149,
+            "height": 48
+          }
+        },
+        "hogItem14": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_7",
+            "x": 1721.68,
+            "y": -528.42,
+            "scaleX": 0.5137689466310025,
+            "scaleY": 0.5137689466310025,
+            "width": 149,
+            "height": 48
+          }
+        },
+        "hogItem15": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_6",
+            "x": 679.24,
+            "y": -305,
+            "scaleX": 0.8,
+            "scaleY": 0.7719266674164885,
+            "width": 168,
+            "height": 54
+          }
+        },
+        "hogItem16": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_5",
+            "x": 920.05,
+            "y": -842.26,
+            "scaleX": 0.5290918419702412,
+            "scaleY": 0.5290918419702412,
+            "width": 182,
+            "height": 42
+          }
+        },
+        "hogItem17": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_4",
+            "x": 2216.55,
+            "y": -702.89,
+            "scaleX": 0.4980944490472245,
+            "scaleY": 0.4980944490472245,
+            "rotation": -90,
+            "width": 150,
+            "height": 35
+          }
+        },
+        "hogItem18": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_3",
+            "x": 389.14,
+            "y": -268.45,
+            "scaleX": 0.8,
+            "scaleY": 0.7715082600300365,
+            "rotation": -90,
+            "width": 145,
+            "height": 33
+          }
+        },
+        "hogItem19": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_2",
+            "x": 1670.7,
+            "y": -824.04,
+            "scaleX": 0.461811505507956,
+            "scaleY": 0.461811505507956,
+            "rotation": -90,
+            "width": 125,
+            "height": 31
+          }
+        },
+        "hogItem20": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_1",
+            "x": 647.94,
+            "y": -656.19,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 152,
+            "height": 38
+          }
+        }
+      }
+    },
+    {
+      "name": "mode1/skin_mode1_v5",
+      "attachments": {
+        "hogItem1": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_20",
+            "x": 1665.44,
+            "y": -811.01,
+            "scaleX": 0.7163916391639165,
+            "scaleY": 0.7163916391639165,
+            "rotation": -90,
+            "width": 119,
+            "height": 34
+          }
+        },
+        "hogItem2": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_19",
+            "x": 1034.08,
+            "y": -838.18,
+            "scaleX": 0.6975297346752058,
+            "scaleY": 0.6975297346752058,
+            "width": 143,
+            "height": 41
+          }
+        },
+        "hogItem3": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_18",
+            "x": 894.72,
+            "y": -249.19,
+            "scaleX": 0.6015478615071284,
+            "scaleY": 0.6650916496945011,
+            "width": 161,
+            "height": 46
+          }
+        },
+        "hogItem4": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_17",
+            "x": 797.07,
+            "y": -812.85,
+            "scaleX": 0.504765784114053,
+            "scaleY": 0.504765784114053,
+            "rotation": -90,
+            "width": 161,
+            "height": 46
+          }
+        },
+        "hogItem5": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_16",
+            "x": 2081.38,
+            "y": -519.23,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": 0.64,
+            "width": 118,
+            "height": 25
+          }
+        },
+        "hogItem6": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_15",
+            "x": 926.68,
+            "y": -827.45,
+            "scaleX": 0.45096774193548395,
+            "scaleY": 0.5238709677419355,
+            "width": 146,
+            "height": 31
+          }
+        },
+        "hogItem7": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_14",
+            "x": 2145.87,
+            "y": -281.52,
+            "scaleX": 0.717816091954023,
+            "scaleY": 0.8,
+            "rotation": -71.98,
+            "width": 123,
+            "height": 28
+          }
+        },
+        "hogItem8": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_13",
+            "x": 950.51,
+            "y": -546.02,
+            "scaleX": 0.6226238053866203,
+            "scaleY": 0.6226238053866203,
+            "width": 133,
+            "height": 25
+          }
+        },
+        "hogItem9": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_12",
+            "x": 2295.38,
+            "y": -407.55,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": -90,
+            "width": 145,
+            "height": 27
+          }
+        },
+        "hogItem10": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_11",
+            "x": 2281.77,
+            "y": -681.97,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": -90,
+            "width": 145,
+            "height": 27
+          }
+        },
+        "hogItem11": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_10",
+            "x": 566.03,
+            "y": -812.81,
+            "scaleX": 0.5615885623510724,
+            "scaleY": 0.5615885623510724,
+            "rotation": -90,
+            "width": 145,
+            "height": 27
+          }
+        },
+        "hogItem12": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_9",
+            "x": 1051.19,
+            "y": -82.08,
+            "scaleX": 0.7796442687747036,
+            "scaleY": 0.8,
+            "width": 187,
+            "height": 35
+          }
+        },
+        "hogItem13": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_8",
+            "x": 1400.26,
+            "y": -813.51,
+            "scaleX": 0.6020366598778004,
+            "scaleY": 0.6020366598778004,
+            "width": 149,
+            "height": 48
+          }
+        },
+        "hogItem14": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_7",
+            "x": 1992.24,
+            "y": -418.89,
+            "scaleX": 0.5916189020506942,
+            "scaleY": 0.5916189020506942,
+            "rotation": -106.54,
+            "width": 149,
+            "height": 48
+          }
+        },
+        "hogItem15": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_6",
+            "x": 387.21,
+            "y": -688.99,
+            "scaleX": 0.5968282532898437,
+            "scaleY": 0.6764593409065347,
+            "rotation": -90,
+            "width": 168,
+            "height": 54
+          }
+        },
+        "hogItem16": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_5",
+            "x": 1265.21,
+            "y": -685.78,
+            "scaleX": 0.5174619462972465,
+            "scaleY": 0.5174619462972465,
+            "width": 182,
+            "height": 42
+          }
+        },
+        "hogItem17": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_4",
+            "x": 652.39,
+            "y": -421.91,
+            "scaleX": 0.5766362883181442,
+            "scaleY": 0.5766362883181442,
+            "width": 150,
+            "height": 35
+          }
+        },
+        "hogItem18": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_3",
+            "x": 748.72,
+            "y": -699.09,
+            "scaleX": 0.5748122720446256,
+            "scaleY": 0.5748122720446256,
+            "rotation": -90,
+            "width": 145,
+            "height": 33
+          }
+        },
+        "hogItem19": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_2",
+            "x": 1120.98,
+            "y": -697.08,
+            "scaleX": 0.6794369645042841,
+            "scaleY": 0.6794369645042841,
+            "rotation": -90,
+            "width": 125,
+            "height": 31
+          }
+        },
+        "hogItem20": {
+          "hogItem_ps": {
+            "name": "object/genbooks/object_genbook_1",
+            "x": 1333.36,
+            "y": -392.99,
+            "scaleX": 0.5051249684423126,
+            "scaleY": 0.6363039636455441,
+            "width": 152,
+            "height": 38
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "idle": {}
+  }
+}

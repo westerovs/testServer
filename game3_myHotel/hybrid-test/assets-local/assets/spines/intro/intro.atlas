@@ -1,0 +1,11 @@
+intro.webp
+size:354,1128
+filter:Linear,Linear
+pma:true
+scale:0.7
+h1
+bounds:2,2,350,377
+h2
+bounds:2,381,350,295
+l0
+bounds:2,677,350,449
