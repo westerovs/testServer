@@ -1,3 +1,4 @@
+// Fisher–Yates перемешивание слова или фразы
 export const fisherYatesShuffleWord = word => {
   if (!word || word.length <= 2) return word
   
@@ -23,19 +24,38 @@ export const fisherYatesShuffleWord = word => {
       result = chars[0] + shuffled + chars[chars.length - 1]
     }
     
-    // если получилось то же самое → меняем слово пополам
+    // если результат совпал с исходным → разрезаем пополам и меняем части
     if (result === w) {
       const mid = Math.floor(w.length / 2)
       result = w.slice(mid) + w.slice(0, mid)
     }
     
-    return result.charAt(0).toUpperCase() + result.slice(1)
+    return result
   }
   
+  // вспомогательная функция: делает заглавной первую букву в строке
+  const capitalizeFirstAlpha = s => {
+    const i = s.search(/[A-Za-zА-Яа-яЁё]/)
+    return i === -1 ? s : s.slice(0, i) + s[i].toUpperCase() + s.slice(i + 1)
+  }
+  
+  let firstWordDone = false
+  
   return word
-    .split(/([ -])/g)
-    .map(chunk =>
-      /[a-zA-Zа-яА-ЯёЁ]/.test(chunk) ? shuffleSingleWord(chunk) : chunk
-    )
+    .split(/([ -])/g) // разбиваем по пробелам и дефисам (сохраняя их)
+    .map(chunk => {
+      if (!/[A-Za-zА-Яа-яЁё]/.test(chunk)) return chunk
+      
+      const shuffled = shuffleSingleWord(chunk)
+      
+      // 👉 первая буква только у первого слова делается заглавной
+      if (!firstWordDone) {
+        firstWordDone = true
+        return capitalizeFirstAlpha(shuffled)
+      }
+      
+      // 👉 все остальные слова без заглавной буквы
+      return shuffled
+    })
     .join('')
 }
