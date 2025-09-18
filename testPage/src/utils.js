@@ -1,3 +1,8 @@
+export const ANAGRAM_EXCLUSIONS = {
+  dog: 'odg', // вместо God
+  top: 'otp'  // вместо Pot
+}
+
 // Fisher–Yates перемешивание слова или фразы
 export const fisherYatesShuffleWord = word => {
   if (!word || word.length <= 2) return word
@@ -13,8 +18,13 @@ export const fisherYatesShuffleWord = word => {
   const shuffleSingleWord = w => {
     if (w.length <= 2) return w
     
-    let result
+    // 🛡️ Проверяем ручные исключения
+    const lower = w.toLowerCase()
+    if (ANAGRAM_EXCLUSIONS[lower]) {
+      return ANAGRAM_EXCLUSIONS[lower]
+    }
     
+    let result
     if (w.length === 3) {
       result = shuffleArray([...w]).join('')
     } else {
