@@ -1,6 +1,7 @@
 export const ANAGRAM_EXCLUSIONS = {
-  dog: 'odg', // вместо God
-  top: 'otp'  // вместо Pot
+  'dog': 'odg', // вместо God
+  'top': 'otp',  // вместо Pot
+  'лак': 'лка'
 }
 
 // Fisher–Yates перемешивание слова или фразы
