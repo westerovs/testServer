@@ -1,6 +1,4 @@
-// import {fisherYatesShuffleWord} from './utils.js'
-
-import {WordShuffler} from './utils.js'
+import {WordShuffler} from './WordShuffler.js'
 
 export default class View {
   #container
