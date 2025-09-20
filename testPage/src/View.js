@@ -1,4 +1,4 @@
-import {WordShuffler} from './WordShuffler.js'
+import {AnagramGenerator} from './AnagramGenerator.js'
 
 export default class View {
   #container
@@ -42,8 +42,8 @@ export default class View {
   #renderRows(data) {
     data.forEach(([key, {en, ru}]) => {
       const tr = document.createElement('tr')
-      const enAnagram = WordShuffler.shuffleText(en)
-      const ruAnagram = WordShuffler.shuffleText(ru)
+      const enAnagram = AnagramGenerator.create(en)
+      const ruAnagram = AnagramGenerator.create(ru)
 
       ;[key, en, enAnagram, ru, ruAnagram].forEach(value => {
         const td = document.createElement('td')

@@ -52,7 +52,7 @@ export const EXCLUSIONS = {
   'ёб': 'бё',
 }
 
-export class WordShuffler {
+export class AnagramGenerator {
   static #lettersRegex = /[A-Za-zА-Яа-яЁё]/
   static #firstWordHandled = false
   
@@ -120,7 +120,7 @@ export class WordShuffler {
     return shuffledChunk
   }
   
-  static shuffleText(text) {
+  static create(text) {
     if (!text || text.length <= 2) return text
     
     this.#firstWordHandled = false
