@@ -1,4 +1,4 @@
-export const ANAGRAM_EXCLUSIONS = {
+export const EXCLUSIONS = {
   'dog': 'odg', // вместо God
   'top': 'otp',  // вместо Pot
   'лак': 'лка',
@@ -52,83 +52,83 @@ export const ANAGRAM_EXCLUSIONS = {
   'ёб': 'бё',
 }
 
-const shuffleArray = (arr) => {
-  for (let i = arr.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1))
-    ;[arr[i], arr[j]] = [arr[j], arr[i]]
-  }
-  return arr
-}
-
-const shuffleSingleWord = (w) => {
-  if (w.length <= 2) return w
+export class WordShuffler {
+  static #lettersRegex = /[A-Za-zА-Яа-яЁё]/
+  static #firstWordHandled = false
   
-  // 🛡️ Проверяем ручные исключения
-  const lower = w.toLowerCase()
-  // 🛡️ Сначала точное совпадение
-  if (ANAGRAM_EXCLUSIONS[lower]) {
-    return ANAGRAM_EXCLUSIONS[lower]
-  }
-  
-  // 🛡️ Затем поиск подстрочных совпадений
-  for (const [bad, safe] of Object.entries(ANAGRAM_EXCLUSIONS)) {
-    if (lower.includes(bad)) {
-      return lower.replace(bad, safe)
+  static shuffleArray(array) {
+    for (let currentIndex = array.length - 1; currentIndex > 0; currentIndex--) {
+      const randomIndex = Math.floor(Math.random() * (currentIndex + 1))
+      ;[array[currentIndex], array[randomIndex]] = [array[randomIndex], array[currentIndex]]
     }
+    return array
   }
   
-  let result
-  if (w.length === 3) {
-    result = shuffleArray([...w]).join('')
-  } else {
-    const chars = w.split('')
-    const middle = chars.slice(1, -1)
-    const shuffled = shuffleArray([...middle]).join('')
-    result = chars[0] + shuffled + chars[chars.length - 1]
-  }
-  
-  // если результат совпал с исходным → разрезаем пополам и меняем части
-  if (result === w) {
-    const mid = Math.floor(w.length / 2)
-    result = w.slice(mid) + w.slice(0, mid)
-  }
-  
-  return result
-}
-
-const capitalizeFirstLetter = (original, shuffled) => {
-  const first = [...original].find(ch => /[A-Za-zА-Яа-яЁё]/.test(ch))
-  if (!first) return shuffled
-  
-  const target = first.toLocaleLowerCase()
-  const chars = [...shuffled]
-  const idx = chars.findIndex(ch => ch.toLocaleLowerCase() === target)
-  if (idx === -1) return shuffled
-  
-  chars[idx] = chars[idx].toLocaleUpperCase()
-  return chars.join('')
-}
-
-
-// Fisher–Yates перемешивание слова или фразы
-export const fisherYatesShuffleWord = word => {
-  if (!word || word.length <= 2) return word
-  
-  let firstWordDone = false
-  
-  return word
-    .split(/([ -])/g) // разбиваем по пробелам и дефисам (сохраняя их)
-    .map(chunk => {
-      if (!/[A-Za-zА-Яа-яЁё]/.test(chunk)) return chunk
-      
-      const shuffled = shuffleSingleWord(chunk)
-      
-      if (!firstWordDone) {
-        firstWordDone = true
-        return capitalizeFirstLetter(chunk, shuffled)
+  static shuffleSingleWord(word) {
+    if (word.length <= 2) return word
+    
+    const lowerCaseWord = word.toLowerCase()
+    if (EXCLUSIONS[lowerCaseWord]) return EXCLUSIONS[lowerCaseWord]
+    
+    for (const [excluded, replacement] of Object.entries(EXCLUSIONS)) {
+      if (lowerCaseWord.includes(excluded)) {
+        return lowerCaseWord.replace(excluded, replacement)
       }
-      
-      return shuffled
-    })
-    .join('')
+    }
+    
+    let shuffledWord
+    if (word.length === 3) {
+      shuffledWord = this.shuffleArray([...word]).join('')
+    } else {
+      const characters = word.split('')
+      const middleCharacters = characters.slice(1, -1)
+      const shuffledMiddle = this.shuffleArray([...middleCharacters]).join('')
+      shuffledWord = characters[0] + shuffledMiddle + characters[characters.length - 1]
+    }
+    
+    if (shuffledWord === word) {
+      const halfIndex = Math.floor(word.length / 2)
+      shuffledWord = word.slice(halfIndex) + word.slice(0, halfIndex)
+    }
+    
+    return shuffledWord
+  }
+  
+  static capitalizeFirstLetter(originalWord, shuffledWord) {
+    const firstLetter = [...originalWord].find(ch => this.#lettersRegex.test(ch))
+    if (!firstLetter) return shuffledWord
+    
+    const targetLetter = firstLetter.toLocaleLowerCase()
+    const characters = [...shuffledWord]
+    const targetIndex = characters.findIndex(ch => ch.toLocaleLowerCase() === targetLetter)
+    if (targetIndex === -1) return shuffledWord
+    
+    characters[targetIndex] = characters[targetIndex].toLocaleUpperCase()
+    return characters.join('')
+  }
+  
+  static transformChunk(chunk) {
+    if (!this.#lettersRegex.test(chunk)) return chunk
+    
+    const shuffledChunk = this.shuffleSingleWord(chunk)
+    
+    if (!this.#firstWordHandled) {
+      this.#firstWordHandled = true
+      return this.capitalizeFirstLetter(chunk, shuffledChunk)
+    }
+    
+    return shuffledChunk
+  }
+  
+  static shuffleText(text) {
+    if (!text || text.length <= 2) return text
+    
+    this.#firstWordHandled = false
+    
+    return text
+      .split(/([ -])/g)
+      .map(chunk => this.transformChunk(chunk))
+      .join('')
+  }
 }
+

@@ -1,4 +1,6 @@
-import {fisherYatesShuffleWord} from './utils.js'
+// import {fisherYatesShuffleWord} from './utils.js'
+
+import {WordShuffler} from './utils.js'
 
 export default class View {
   #container
@@ -42,8 +44,8 @@ export default class View {
   #renderRows(data) {
     data.forEach(([key, {en, ru}]) => {
       const tr = document.createElement('tr')
-      const enAnagram = fisherYatesShuffleWord(en)
-      const ruAnagram = fisherYatesShuffleWord(ru)
+      const enAnagram = WordShuffler.shuffleText(en)
+      const ruAnagram = WordShuffler.shuffleText(ru)
 
       ;[key, en, enAnagram, ru, ruAnagram].forEach(value => {
         const td = document.createElement('td')
