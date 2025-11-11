@@ -18,6 +18,8 @@ export default class View {
     this.#table = document.createElement('table')
     this.#table.classList.add('translations-table')
     this.#container.appendChild(this.#table)
+    
+    document.getElementById('download-json')?.addEventListener('click', () => this.#downloadJSON())
   }
 
   render(data) {
@@ -138,4 +140,34 @@ export default class View {
     
     return found
   }
+  
+  #downloadJSON() {
+    const rows = this.#table.querySelectorAll('tr')
+    const data = {}
+    
+    // Пропускаем первую строку (заголовок)
+    rows.forEach((row, i) => {
+      if (i === 0) return
+      const cells = row.querySelectorAll('td')
+      if (cells.length >= 5) {
+        const key = cells[0].innerText.trim()
+        const en = cells[1].innerText.trim()
+        const ru = cells[3].innerText.trim()
+        
+        data[key] = { en, ru }
+      }
+    })
+    
+    const jsonStr = JSON.stringify(data, null, 4)
+    const blob = new Blob([jsonStr], { type: 'application/json' })
+    const url = URL.createObjectURL(blob)
+    
+    const a = document.createElement('a')
+    a.href = url
+    a.download = 'localesHud.json'
+    a.click()
+    
+    URL.revokeObjectURL(url)
+  }
+  
 }
