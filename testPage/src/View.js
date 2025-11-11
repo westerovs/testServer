@@ -77,9 +77,10 @@ export default class View {
       card.classList.add('image-card')
       
       const img = document.createElement('img')
-      img.src = src
+      img.dataset.src = src // 👈 вместо прямого src
+      img.width = 120
+      img.height = 120
       img.loading = 'lazy'
-      img.decoding = 'async'
       
       const caption = document.createElement('span')
       caption.innerText = fileName
@@ -91,7 +92,33 @@ export default class View {
     
     cell.appendChild(container)
     row.appendChild(cell)
+    
+    // 👇 Ленивая загрузка с IntersectionObserver
+    this.#observeImages(container.querySelectorAll('img'))
+    
     return row
+  }
+  
+  #observeImages(images) {
+    if (!('IntersectionObserver' in window)) {
+      images.forEach(img => img.src = img.dataset.src)
+      return
+    }
+    
+    const observer = new IntersectionObserver(entries => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          const img = entry.target
+          img.src = img.dataset.src
+          observer.unobserve(img)
+        }
+      })
+    }, {
+      rootMargin: '200px 0px', // заранее загружает при приближении
+      threshold: 0.1
+    })
+    
+    images.forEach(img => observer.observe(img))
   }
   
   async #findImagesByKey(key) {
