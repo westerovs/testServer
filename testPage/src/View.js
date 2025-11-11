@@ -3,7 +3,8 @@ import {AnagramGenerator} from './AnagramGenerator.js'
 export default class View {
   #container
   #table
-
+  #manifest
+  
   constructor(containerId) {
     this.#container = document.getElementById(containerId)
     if (!this.#container) {
@@ -122,20 +123,17 @@ export default class View {
   }
   
   async #findImagesByKey(key) {
-    const start = 5
-    const end = 104
-    const step = 10
+    if (!this.#manifest) {
+      const res = await fetch('testPage/src/imges/manifest.json')
+      this.#manifest = await res.json()
+    }
     
     const found = []
-    
-    for (let lvl = start; lvl <= end; lvl += step) {
-      const folder = `obj-lvl-${lvl}`
-      const path = `testPage/src/imges/${folder}/lvl_${lvl}_${key}.png`
-      
-      try {
-        const response = await fetch(path)
-        if (response.ok) found.push(path)
-      } catch (_) {}
+    for (let lvl = 5; lvl <= 104; lvl += 10) {
+      const file = `lvl_${lvl}_${key}`
+      if (this.#manifest[file]) {
+        found.push(`testPage/src/imges/obj-lvl-${lvl}/${file}.png`)
+      }
     }
     
     return found
