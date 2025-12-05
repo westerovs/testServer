@@ -46,10 +46,10 @@ bounds:803,664,172,143
 offsets:1,3,176,149
 rotate:90
 obj-lvl-67/lvl_67_object_19
-bounds:913,126,117,151
+bounds:915,126,117,151
 offsets:1,1,119,153
 obj-lvl-67/lvl_67_object_2
-bounds:1032,242,122,96
+bounds:1034,242,122,96
 offsets:1,1,124,98
 rotate:90
 obj-lvl-67/lvl_67_object_20
@@ -80,7 +80,7 @@ obj-lvl-67/lvl_67_object_27
 bounds:2,737,28,60
 offsets:3,4,34,68
 obj-lvl-67/lvl_67_object_28
-bounds:1034,122,118,96
+bounds:1036,122,118,96
 offsets:0,1,120,97
 rotate:90
 obj-lvl-67/lvl_67_object_29
@@ -107,7 +107,7 @@ obj-lvl-67/lvl_67_object_34
 bounds:974,493,118,103
 rotate:90
 obj-lvl-67/lvl_67_object_35
-bounds:913,4,120,119
+bounds:915,4,120,119
 rotate:90
 obj-lvl-67/lvl_67_object_36
 bounds:715,771,82,65
@@ -120,7 +120,7 @@ bounds:163,36,117,77
 offsets:1,1,119,79
 rotate:90
 obj-lvl-67/lvl_67_object_6
-bounds:1034,2,118,87
+bounds:1036,2,118,87
 offsets:1,1,120,89
 rotate:90
 obj-lvl-67/lvl_67_object_7
@@ -128,8 +128,8 @@ bounds:474,804,213,239
 offsets:2,2,217,243
 rotate:90
 obj-lvl-67/lvl_67_object_8
-bounds:786,29,125,198
+bounds:788,29,125,198
 offsets:1,1,127,200
 obj-lvl-67/lvl_67_object_9
-bounds:562,28,222,148
-offsets:2,2,225,151
+bounds:562,25,224,151
+offsets:0,0,225,151

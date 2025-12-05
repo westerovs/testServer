@@ -27,7 +27,7 @@ obj-lvl-98/lvl_98_object_14
 bounds:430,77,182,149
 offsets:2,1,187,151
 obj-lvl-98/lvl_98_object_15
-bounds:995,6,186,66
+bounds:997,6,186,66
 offsets:1,1,188,68
 obj-lvl-98/lvl_98_object_16
 bounds:1561,77,93,104
@@ -46,8 +46,7 @@ obj-lvl-98/lvl_98_object_2
 bounds:1656,33,57,148
 offsets:25,1,106,150
 obj-lvl-98/lvl_98_object_20
-bounds:835,27,103,158
-offsets:1,1,105,160
+bounds:835,25,105,160
 rotate:90
 obj-lvl-98/lvl_98_object_21
 bounds:1117,74,210,101
@@ -121,7 +120,7 @@ bounds:1720,40,144,125
 offsets:1,1,146,127
 rotate:90
 obj-lvl-98/lvl_98_object_8
-bounds:1183,13,112,59
+bounds:1185,13,112,59
 offsets:1,1,114,61
 obj-lvl-98/lvl_98_object_9
 bounds:348,88,74,101

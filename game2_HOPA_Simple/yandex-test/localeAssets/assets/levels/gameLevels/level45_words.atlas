@@ -70,11 +70,11 @@ rotate:90
 obj-lvl-45/lvl_45_ducttape
 bounds:1794,149,221,161
 offsets:5,5,231,171
-obj-lvl-45/lvl_45_figurine-girl
+obj-lvl-45/lvl_45_figurineGirl
 bounds:239,355,183,280
 offsets:5,4,194,289
 rotate:90
-obj-lvl-45/lvl_45_figurine-lion
+obj-lvl-45/lvl_45_figurineLion
 bounds:244,150,194,226
 offsets:6,5,205,237
 rotate:90
@@ -146,7 +146,7 @@ offsets:5,5,244,239
 obj-lvl-45/lvl_45_roses
 bounds:631,1528,277,419
 offsets:6,6,288,430
-obj-lvl-45/lvl_45_saltshaker-cat
+obj-lvl-45/lvl_45_saltshakerCat
 bounds:1067,1382,123,144
 offsets:6,6,134,155
 obj-lvl-45/lvl_45_shell
